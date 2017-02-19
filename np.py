@@ -58,7 +58,7 @@ def traverse(t):
                 traverse(child)
 
 
-#List of files that needs to be processed
+#List of files from which files needed to be extracted
 fileList = ["Comments_on_semiannual.txt"]
 for entry in fileList:
     text = open(entry).read() 
