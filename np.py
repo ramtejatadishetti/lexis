@@ -35,9 +35,9 @@ def traverse(t):
                 gdict[st] += 1
                 if len(t) == 1:
                     gdict1[st] += 1
-                if len(t) == 2:
+                elif len(t) == 2:
                     gdict2[st] += 1
-                if len(t) == 3:
+                elif len(t) == 3:
                     gdict3[st] += 1
                 else:
                     gdict_arbit[st] += 1
@@ -45,9 +45,9 @@ def traverse(t):
                 gdict[st] = 1
                 if len(t) == 1:
                     gdict1[st] = 1
-                if len(t) == 2:
+                elif len(t) == 2:
                     gdict2[st] = 1
-                if len(t) == 3:
+                elif len(t) == 3:
                     gdict3[st] = 1
                 else:
                     gdict_arbit[st] = 1
