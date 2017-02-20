@@ -75,7 +75,7 @@ for entry in fileList:
         traverse(result)
 
 
-    outfile = "result_Comments_on_semiannual.txt"
+    outfile = path + "result_Comments_on_semiannual.txt"
     outfilep = open(outfile,"w")
 
     outfilep.write("\n Bigram NP \n")
