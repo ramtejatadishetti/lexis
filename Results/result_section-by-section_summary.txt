@@ -1,0 +1,526 @@
+
+ Bigram NP 
+new trading 17
+total amount 14
+nox sip 12
+affected unit 10
+new sulfur 10
+oxides trading 7
+new nitrogen 7
+particulate matter 6
+sulfur dioxide 6
+integrated gasification 6
+title iv 6
+first year 5
+part c 5
+part b 5
+new source 5
+fifteen percent 4
+facility-wide basis 4
+u.s. treasury 4
+covered year 4
+timely basis 4
+individual unit 4
+standard emission 4
+one-time basis 4
+emission scorecard 4
+applicability section 4
+their primary 3
+financial penalty 3
+third year 3
+back-stop trading 3
+subsequent year 3
+part a 3
+secondary fuel 3
+residual oil 3
+title v 3
+8-hour ozone 3
+national ambient 2
+standard factor 2
+facility-level compliance 2
+alternative monitoring 2
+first default 2
+eastern u.s. 2
+their state 2
+second default 2
+nationwide program 2
+phase ii 2
+eighty percent 2
+coal-derived fuel 2
+new mercury 2
+one-half percent 2
+relevant trading 2
+nitrogen oxide 2
+total sulfur 2
+same system 2
+environmental monitoring 2
+federal land 1
+total mercury 1
+same monitoring 1
+title viii 1
+excess nitrogen 1
+unit's baseline 1
+adjusted baseline 1
+applicable amount 1
+same electricity 1
+available control 1
+same emission 1
+adverse impact 1
+hazardous air 1
+fixed price 1
+enforcement section 1
+minimum price 1
+equal amount 1
+maximum capacity 1
+electric utility 1
+their ability 1
+new deadline 1
+new cogeneration 1
+erroneous crossreference 1
+common stack 1
+transitional area 1
+their sip 1
+political subdivision 1
+hazardous waste 1
+such statement 1
+coal-fired combustion 1
+same precision 1
+total nitrogen 1
+available information 1
+new mexico 1
+case-by-case review 1
+affected electricity 1
+general compliance 1
+particular trading 1
+final action 1
+only circumstance 1
+annual auction 1
+baseline emission 1
+their bid 1
+excess ounce 1
+detailed default 1
+sky act 1
+appropriate control 1
+fourth year 1
+opt-in unit 1
+same allowance 1
+appropriate vendor 1
+separate violation 1
+annual cap 1
+requested finding 1
+solid waste 1
+specified period 1
+good neighbor 1
+statutory performance 1
+heat input 1
+modified baseline 1
+separate set 1
+judicial review 1
+system section 1
+mercury emission 1
+lbs/mmbtu section 1
+nameplate capacity 1
+applicable allowance 1
+applicable attainment 1
+small diesel 1
+residual risk 1
+appropriate revise 1
+late year 1
+relevant auction 1
+ninety-five percent 1
+unit-level compliance 1
+gas-fired combustion 1
+non-governmental agency 1
+clearing price 1
+such adjustment 1
+single stack 1
+all unit 1
+new unit 1
+corresponding increase 1
+other fuel 1
+annual sulfur 1
+call area 1
+appendix b 1
+excess ton 1
+total baseline 1
+technical research 1
+federal emission 1
+applicable total 1
+such review 1
+direct sale 1
+available retrofit 1
+sufficient information 1
+general account 1
+same enforcement 1
+respective zone 1
+such coal 1
+it state 1
+transport provision 1
+recent auction 1
+assessment section 1
+same permit 1
+wrap state 1
+achievable emission 1
+emission penalty 1
+their sulfur 1
+volumetric flow 1
+it baseline 1
+reserve section 1
+
+ Trigram NP 
+acid rain program 31
+clear sky act 12
+clean air act 12
+allowance tracking system 11
+new nationwide sulfur 7
+egu allocation section 4
+their primary fuel 3
+regional air partnership 2
+general provision section 2
+it annual sulfur 1
+national emission standard 1
+full financial penalty 1
+relative marginal cost 1
+other principal category 1
+non-mercury hazardous air 1
+allowance allocation section 1
+fossil fuel-fired electricity 1
+current scientific information 1
+so2 allowance allocated 1
+coal technology program 1
+applicable total amount 1
+total nameplate capacity 1
+administrator's emission scorecard 1
+certain local planning 1
+implementation plan section 1
+approved alternative monitoring 1
+maximum achievable control 1
+nox trading program 1
+renewable energy reserve 1
+affected unit section 1
+environmental accountability section 1
+banked pre-2009 sulfur 1
+appropriate peer-reviewed methodology 1
+additional unit section 1
+additional source section 1
+
+ Unigram NP 
+section 129
+dioxide 63
+administrator 60
+program 55
+year 45
+sulfur 38
+trading 37
+mercury 37
+nitrogen 32
+egus 28
+emission 28
+allocation 28
+unit 25
+january 17
+facility 15
+auction 14
+compliance 14
+december 14
+wrap 13
+requirement 12
+owner 12
+operator 12
+heat 12
+input 12
+percent 12
+% 12
+allowance 11
+subpart 10
+limit 10
+addition 10
+call 10
+lb/mwh 10
+deadline 9
+zone 8
+performance 8
+state 8
+coal 8
+area 8
+part 8
+egu 8
+d 7
+rate 7
+enactment 7
+time 7
+default 7
+air 7
+monitoring 7
+reporting 7
+title 6
+penalty 6
+review 6
+term 6
+definition 6
+study 6
+implementation 6
+epa 6
+technology 6
+cycle 6
+nox 5
+ozone 5
+amount 5
+period 5
+system 5
+cems 5
+naaqs 5
+baseline 5
+finding 5
+petition 4
+level 4
+regulation 4
+event 4
+standard 4
+reason 4
+quality 4
+forth 4
+transfer 4
+reduction 4
+twenty 4
+application 4
+class 4
+electricity 3
+eastern 3
+authority 3
+operation 3
+combustion 3
+research 3
+construction 3
+method 3
+exemption 3
+use 3
+ton 3
+accordance 3
+information 3
+congress 3
+price 3
+effect 3
+plan 3
+termination 3
+sale 3
+reserve 3
+violation 2
+c 2
+treatment 2
+fuel 2
+holding 2
+provision 2
+set 2
+bart 2
+energy 2
+budget 2
+election 2
+subject 2
+rulemaking 2
+new 2
+increase 2
+u.s. 2
+beginning 2
+change 2
+limitation 2
+ounce 2
+permit 2
+operating 2
+history 2
+issuance 2
+offset 2
+date 2
+nsr 2
+efficacy 2
+advance 2
+determination 2
+july 2
+commence 2
+account 2
+value 2
+mw 2
+conformity 2
+example 2
+procedure 2
+control 2
+nonattainment 2
+process 2
+certain 2
+petitioner 2
+carbon 2
+sip 2
+transport 2
+eighty 2
+pollutant 2
+bact 2
+phase 2
+data 2
+payment 2
+purchase 2
+lb/mmbtu 2
+promulgation 2
+clearing 2
+starting 2
+fact 2
+maintenance 1
+storage 1
+manager 1
+planning 1
+facility's 1
+nevada 1
+colorado 1
+completion 1
+content 1
+group 1
+protection 1
+wyoming 1
+proportion 1
+removal 1
+transformation 1
+carryforward 1
+combination 1
+government 1
+conduct 1
+utah 1
+number 1
+modification 1
+refinery 1
+inflation 1
+lignite 1
+timing 1
+unique 1
+submission 1
+cogeneration 1
+incineration 1
+summary 1
+steam 1
+mact 1
+secretary 1
+modeling 1
+km 1
+designation 1
+delegation 1
+frequency 1
+lb/gwh 1
+substitute 1
+lesser 1
+imposition 1
+timeliness 1
+public 1
+reconstruction 1
+evaluation 1
+contrast 1
+impact 1
+arizona 1
+f 1
+degree 1
+circumstance 1
+attainment 1
+deposition 1
+california 1
+opportunity 1
+extent 1
+excess 1
+peer 1
+approval 1
+obligation 1
+providing 1
+contract 1
+implement 1
+disposition 1
+duct 1
+signature 1
+laer 1
+applicability 1
+epa-performed 1
+size 1
+boiler 1
+stack 1
+start 1
+consultation 1
+statement 1
+assessment 1
+nickel 1
+option 1
+season 1
+concerning 1
+regard 1
+award 1
+production 1
+feasibility 1
+b 1
+type 1
+past 1
+cap 1
+recording 1
+matter 1
+growth 1
+oregon 1
+install 1
+sum 1
+disposal 1
+property 1
+b1 1
+correction 1
+accessibility 1
+ii 1
+pollution 1
+reliability 1
+rule 1
+need 1
+regime 1
+development 1
+mmbtu 1
+conservation 1
+provide 1
+monoxide 1
+make 1
+agency 1
+methodology 1
+satisfactory 1
+department 1
+party 1
+effectiveness 1
+parameter 1
+recordkeeping 1
+idaho 1
+opacity 1
+transferring 1
+transitional 1
+co2 1
+a 1
+tracking 1
+e 1
+i 1
+light 1
+person 1
+so2 1
+organization 1
+order 1
+
+ Arbitary length NP 
+clean air act amendment 3
+acid rain sulfur dioxide program section 1
+sulfur dioxide emission control technology section 1
+phase ii sulfur dioxide requirement section 1
+nitrogen oxide emission reduction program section 1
+season nox budget program section 1
+maximum achievable control technology 1
+nitrogen oxide emission rate reduction program 1
+d. mercury emission reduction part d 1
+clear sky unit section 1
+pre-2008 nitrogen oxide allowance section 1
+the clear sky act 1
+part b. sulfur dioxide emission reduction subpart 1
+new fossil fuel-fired electricity 1
+clean air act section 1
+sulfur dioxide allowance program section 1
+major source reconstruction review requirement 1
+industrial so2 emission section 1
+part c. nitrogen oxide allowance program subpart 1
+nitrogen oxide allowance program section 1
+coal technology regulatory incentive section 1
+part e. national emission standard 1
+best available retrofit control technology requirement section 1
+sulfur dioxide requirement section 1

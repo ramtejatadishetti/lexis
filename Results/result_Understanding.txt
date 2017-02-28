@@ -1,0 +1,166 @@
+
+ Bigram NP 
+orange county 3
+her family 2
+vietnamese population 2
+north vietnam 2
+chinese population 2
+los angeles 2
+free hotline 1
+stewart kwoh 1
+social worker 1
+pacific islander 1
+their fluent 1
+other project 1
+their pain 1
+next year 1
+your help 1
+repressive regime 1
+toll-free hotline 1
+it debut 1
+underserved community 1
+bob cohen 1
+two-month pilot 1
+vietnamese radio 1
+leaky fishing 1
+kim luu 1
+their language 1
+juliet stone 1
+distraught woman 1
+her sister 1
+full operation 1
+their immigration 1
+their advice 1
+last week 1
+70-year-old woman 1
+center staff 1
+her father 1
+executive director 1
+hotline staff 1
+bolsa radio 1
+new way 1
+basic information 1
+from hotline 1
+neighborhood legal 1
+hong kong 1
+his family 1
+her apartment 1
+legal service 1
+anita le 1
+grant money 1
+medical assistance 1
+tranh tran 1
+ms. kim 1
+personal information 1
+
+ Trigram NP 
+legal aid society 2
+erin chan sunday 1
+his own ration 1
+ho chi minh 1
+her right forearm 1
+terrified 70-year-old woman 1
+open society institute 1
+main cambodian language 1
+los angeles county 1
+her sister heard 1
+legal aid foundation 1
+community technology foundation 1
+
+ Unigram NP 
+luu 13
+tran 6
+hotline 5
+% 4
+program 3
+woman 3
+assistance 3
+mandarin 3
+place 3
+community 3
+information 3
+staff 2
+medi-cal 2
+day 2
+attorney 2
+census 2
+family 2
+boat 2
+project 2
+westminster 2
+advice 2
+infant 1
+gold 1
+vietnamese-language 1
+kwoh 1
+decade 1
+forehead 1
+death 1
+resourcefulness 1
+wedding 1
+location 1
+orange 1
+rice 1
+khmer 1
+government 1
+food 1
+vacuum 1
+term 1
+name 1
+celebrity 1
+employee 1
+idea 1
+home 1
+saigon 1
+eligibility 1
+alhambra 1
+water 1
+le 1
+california 1
+faith 1
+sister 1
+anything 1
+residence 1
+callers' 1
+resonance 1
+influx 1
+facility 1
+elder-abuse 1
+ring 1
+city 1
+service 1
+basis 1
+medi-cal's 1
+lot 1
+luu's 1
+phone 1
+part 1
+july 1
+effort 1
+television 1
+hour 1
+caller 1
+country 1
+aid 1
+problem 1
+tattoo 1
+united 1
+louisville 1
+income 1
+korean 1
+status 1
+pain 1
+ky. 1
+english 1
+president 1
+fm 1
+age 1
+vietnam 1
+time 1
+fact 1
+
+ Arbitary length NP 
+pacific american legal center 1
+language legal intake project 1
+le quang thai ha 1
+asian pacific american legal center 1

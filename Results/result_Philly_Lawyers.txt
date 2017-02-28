@@ -1,0 +1,115 @@
+
+ Bigram NP 
+professional conduct 2
+central home 1
+financial support 1
+seymour kurland 1
+their service 1
+possible action 1
+measurable standard 1
+hard work 1
+direct representation 1
+our commitment 1
+mid-size law 1
+legal community 1
+model rule 1
+philadelphia volunteer 1
+extraordinary service 1
+indigent program 1
+chancellor gordon 1
+innovative thought 1
+comprehensive inventory 1
+aspirational goal 1
+per year 1
+task force 1
+business wire 1
+special committee 1
+reduced fee 1
+one-time award 1
+association's board 1
+sustained consideration 1
+impressive document 1
+positive factor 1
+new area 1
+
+ Trigram NP 
+pennsylvania supreme court 2
+continuing legal education 1
+their ethical commitment 1
+philadelphia bar association 1
+sweeping 78-page report 1
+task force report 1
+outstanding pro-bono service 1
+historic financial commitment 1
+their hard work 1
+philadelphia bar foundation 1
+various public interest 1
+
+ Unigram NP 
+commitment 4
+report 4
+need 3
+association 3
+philadelphia 2
+governor 2
+board 2
+today 2
+gordon 2
+sound 2
+chancellor 2
+june 2
+delivery 2
+part 2
+path 2
+region 2
+participation 2
+firm 1
+lawyer 1
+money 1
+pro 1
+profession 1
+reporting 1
+feasibility 1
+culture 1
+vip 1
+committee 1
+year 1
+publico 1
+sprint 1
+technology 1
+marathon 1
+confidentiality 1
+information 1
+practice 1
+fee 1
+fabric 1
+area 1
+justice 1
+system 1
+research 1
+employee 1
+type 1
+leader 1
+blueprint 1
+good 1
+business 1
+friday 1
+reason 1
+law 1
+case 1
+january 1
+work 1
+rule 1
+public 1
+credit 1
+future 1
+study 1
+journey 1
+result 1
+
+ Arbitary length NP 
+pro bono task force report 1
+wire philly lawyer lead 1
+task force co-chairs aretha delight davis 1
+chancellor-elect audrey c. talley 1
+association chancellor allan h. gordon 1

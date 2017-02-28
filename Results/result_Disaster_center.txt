@@ -1,0 +1,103 @@
+
+ Bigram NP 
+red cross 4
+low interest 1
+various assistance 1
+basic advice 1
+bill lindsay 1
+detailed advice 1
+mindy wendele 1
+un-employment assistance 1
+gerard maccrossan 1
+hill country 1
+temporary housing 1
+state bar 1
+further notice 1
+legal representation 1
+great opportunity 1
+their recovery 1
+last week 1
+local chapter 1
+kerr county 1
+our interview 1
+south texas 1
+legal aid 1
+kerrville friday 1
+daletta andreas 1
+federal disaster 1
+
+ Trigram NP 
+earl garrett st. 1
+free legal assistance 1
+disaster relief center 1
+free legal advice 1
+appropriate referral information 1
+trinity baptist church 1
+small business administration 1
+disaster recovery center 1
+
+ Unigram NP 
+fema 7
+disaster 5
+p.m. 4
+a.m. 4
+process 3
+number 3
+assistance 3
+texas 3
+friday 3
+center 3
+kerrville 3
+relief 3
+information 2
+andreas 2
+flood 2
+volunteer 2
+chapter 2
+wednesday 2
+aid 2
+lindsay 2
+monday 1
+621-3362 1
+family 1
+tuesday 1
+executive 1
+spanish 1
+registration 1
+counseling 1
+total 1
+crisis 1
+recovery 1
+service 1
+application 1
+probate 1
+thursday 1
+state 1
+cleanup 1
+identification 1
+longview 1
+interview 1
+coordination 1
+officer 1
+week 1
+business 1
+city 1
+hand 1
+director 1
+hotline 1
+weekend 1
+english 1
+area 1
+emergency 1
+spokeswoman 1
+504-7030 1
+form 1
+time 1
+inspection 1
+housing 1
+
+ Arbitary length NP 
+federal emergency management agency 1
+texas rural legal aid 1
+kerrville daily time published july 1
+state bar president guy harrison 1

@@ -1,0 +1,42 @@
+
+ Bigram NP 
+utah bar 2
+domestic abuse 1
+annual one 1
+large organization 1
+old age 1
+big challenge 1
+legal help 1
+legal care 1
+financial assistance 1
+
+ Trigram NP 
+disability law center 1
+utah legal service 1
+it fourth year 1
+competent legal representation 1
+legal aid society 1
+
+ Unigram NP 
+all 3
+campaign 3
+justice 3
+utah 3
+need 3
+money 2
+sept. 1
+grant 1
+unemployment 1
+one-third 1
+nation 1
+responsibility 1
+purpose 1
+none 1
+year 1
+obligation 1
+bankruptcy 1
+quality 1
+economy 1
+
+ Arbitary length NP 
+all may have justice editorial 1

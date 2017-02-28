@@ -1,0 +1,117 @@
+
+ Bigram NP 
+arizona bar 1
+it cause 1
+much time 1
+john grisham 1
+catholic social 1
+financial support 1
+mark rubin 1
+pre-2000 level 1
+it budget 1
+our story 1
+their luck 1
+community legal 1
+altered funding 1
+former foundation 1
+his term 1
+john lescroart 1
+william lashner 1
+my purpose 1
+our justice 1
+legal aid 1
+fabulous job 1
+sole practitioner 1
+our mission 1
+bar foundation 1
+law center 1
+it message 1
+tremendous job 1
+foundation president 1
+it board 1
+
+ Trigram NP 
+my two-hour pledge 1
+his one-year term 1
+southern arizona people 1
+his legal career 1
+arizona bar foundation 1
+president david gaona 1
+
+ Unigram NP 
+rubin 12
+foundation 8
+trust 4
+state 3
+interest 3
+law 3
+money 2
+funding 2
+tucson 2
+program 1
+drop 1
+help 1
+office 1
+commitment 1
+community 1
+society 1
+homeless 1
+pricing 1
+lawyer 1
+year 1
+sidebar 1
+landscape 1
+lawyerbriefs.com 1
+phoenix 1
+democracy 1
+decision 1
+get 1
+knowing 1
+system 1
+legal 1
+board 1
+income 1
+new 1
+founder 1
+today 1
+economy 1
+profile 1
+campaign 1
+arizona 1
+lot 1
+business 1
+government 1
+one-third 1
+equivalent 1
+online 1
+driver 1
+account 1
+difference 1
+asu 1
+fund 1
+treasurer 1
+dna-people 1
+bookstore 1
+hobby 1
+president 1
+case 1
+flagstaff 1
+school 1
+license 1
+bosnia 1
+january 1
+instruction 1
+deal 1
+david 1
+part 1
+place 1
+site 1
+position 1
+example 1
+road 1
+secretary 1
+
+ Arbitary length NP 
+arizona equal justice campaign 1
+southern arizona legal aid 1
+mike fimea arizona business gazette jan. 1

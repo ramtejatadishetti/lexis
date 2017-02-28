@@ -1,0 +1,58 @@
+
+ Bigram NP 
+legal aid 2
+our community 2
+capital region 2
+law day 1
+equal access 1
+legal help 1
+their ability 1
+nonprofit organization 1
+much lasting 1
+noncriminal assistance 1
+private support 1
+time union 1
+our justice 1
+ny tuesday 1
+equal justice 1
+last year 1
+domestic violence 1
+
+ Trigram NP 
+legal aid society 3
+time union albany 1
+northeastern new york 1
+civil legal aid 1
+arthur j. siegel 1
+
+ Unigram NP 
+lasnny 5
+justice 3
+harm 1
+tax 1
+community 1
+promise 1
+result 1
+need 1
+ssi/ssd 1
+albany 1
+united 1
+needy 1
+system 1
+shelter 1
+state 1
+staff 1
+may 1
+mention 1
+protection 1
+coverage 1
+world 1
+cycle 1
+dignity 1
+disruption 1
+freedom 1
+violence 1
+example 1
+
+ Arbitary length NP 
+chief judge judith s. kaye 1

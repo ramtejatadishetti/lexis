@@ -1,0 +1,467 @@
+
+ Bigram NP 
+internal control 28
+integral part 4
+specific control 4
+annual performance 3
+result act 3
+government performance 3
+human capital 3
+general control 2
+ongoing basis 2
+financial management 2
+reasonable assurance 2
+private sector 2
+performance-based management 2
+control activity 2
+unauthorized use 2
+positive control 1
+electronic commerce 1
+strategic planning 1
+activity specific 1
+montinor performance 1
+wide range 1
+computerized information 1
+external use 1
+continuous recording 1
+final factor 1
+significant part 1
+key role 1
+absolute assurance 1
+organization's success 1
+following definition 1
+major performance 1
+significant role 1
+first copy 1
+separate system 1
+effective reward 1
+it compliance 1
+operation internal 1
+effective management 1
+important part 1
+dial-back access 1
+public accounting 1
+• compliance 1
+financial community 1
+treadway commission 1
+additional information 1
+inspector general 1
+broad sense 1
+inappropriate access 1
+quantitative ranking 1
+following address 1
+financial information 1
+their relevance 1
+circular a-123 1
+organizational structure 1
+significant impact 1
+valuable assistance 1
+particular control 1
+g sts 1
+modern computer 1
+it infrastructure 1
+external auditor 1
+their performance 1
+day-to-day basis 1
+consistent agency 1
+appropriate knowledge 1
+minimum level 1
+other review 1
+unauthorized acquisition 1
+data-based management 1
+proper amount 1
+constructive counseling 1
+it occurrence 1
+efficient use 1
+commercial software 1
+broad range 1
+pertinent information 1
+daily list 1
+managerial judgment 1
+unauthorized alteration 1
+unethical behavior 1
+it application 1
+helps government 1
+related cost 1
+fiscal year 1
+needed training 1
+operational success 1
+financial reporting 1
+general framework 1
+e-mail message 1
+physical control 1
+first line 1
+individual performance 1
+timely recording 1
+following material 1
+central oversight 1
+key factor 1
+direct testing 1
+fax number 1
+regular management 1
+their progress 1
+limited access 1
+their custody 1
+specific time 1
+introduction definition 1
+right training 1
+major part 1
+effective stewardship 1
+single address 1
+entire process 1
+prompt detection 1
+ethical tone 1
+accurate information 1
+profound effect 1
+recorded accountability 1
+private use 1
+sponsoring organization 1
+actual performance 1
+electronic form 1
+operational environment 1
+federal manager 1
+continuous supervision 1
+proper behavior 1
+performance measure 1
+effective information 1
+appropriate documentation 1
+overall framework 1
+st. nw 1
+concise statement 1
+critical government 1
+information system 1
+major agency 1
+dc order 1
+warrant management 1
+management accountability 1
+further guidance 1
+their authority 1
+underlying framework 1
+entitywide security 1
+
+ Trigram NP 
+good internal control 3
+it internal control 2
+assessment inspector general 1
+continuous built-in component 1
+activity level management 1
+effective internal control 1
+record appropriate documentation 1
+periodic external reporting 1
+their possible effect 1
+good human capital 1
+internal senior management 1
+omb circular a-123 1
+updated internal control 1
+actual performance review 1
+internal control is 1
+control environment a 1
+control activity specific 1
+event access restriction 1
+it human capital 1
+it final classification 1
+their eventual succession 1
+agency's organizational structure 1
+other discretionary policy-making 1
+absolute assurance management 1
+duty proper execution 1
+good overall control 1
+top level review 1
+appropriate internal control 1
+official business penalty 1
+general accounting office 1
+financial integrity act 1
+critical environmental factor 1
+
+ Unigram NP 
+control 50
+management 35
+agency 25
+information 19
+risk 13
+gao/aimd-00-21.3.1 12
+system 11
+application 10
+environment 9
+organization 9
+entity 8
+processing 8
+internal 8
+access 7
+software 7
+page 6
+use 6
+maintenance 6
+performance 6
+development 6
+planning 5
+guidance 5
+program 5
+government 5
+security 5
+operating 5
+accountability 5
+gao 5
+technology 5
+monitoring 5
+transaction 5
+responsibility 5
+factor 4
+authority 4
+event 4
+fraud 4
+documentation 4
+execution 3
+effectiveness 3
+level 3
+analysis 3
+addition 3
+authorization 3
+general 3
+assessment 3
+budget 3
+example 3
+philosophy 3
+structure 3
+individual 3
+center 3
+skill 2
+integrity 2
+discipline 2
+framework 2
+report 2
+term 2
+list 2
+form 2
+operation 2
+recognition 2
+category 2
+network 2
+review 2
+identification 2
+internet 2
+foundation 2
+importance 2
+omb 2
+standard 2
+job 2
+visit 2
+compliance 2
+place 2
+testimony 2
+action 2
+communication 2
+quality 2
+basis 2
+scope 2
+meeting 2
+training 2
+part 2
+info 2
+value 2
+acquisition 2
+process 2
+reliability 2
+united 2
+variety 2
+document 2
+establishment 2
+competence 2
+accuracy 2
+congress 2
+completeness 2
+time 2
+precondition 1
+concept 1
+feedback 1
+office 1
+money 1
+accurate 1
+focus 1
+area 1
+attitude 1
+frequency 1
+committee 1
+stewardship 1
+availability 1
+staff 1
+style 1
+number 1
+implementation 1
+menu 1
+fmfia 1
+governmental 1
+board 1
+policy 1
+mail 1
+workforce 1
+in-house 1
+continuity 1
+end 1
+dc 1
+functional 1
+hiring 1
+day 1
+loss 1
+minicomputer 1
+identifying 1
+edit 1
+collusion 1
+specific 1
+safeguarding 1
+paper 1
+mastercard 1
+activity 1
+nw 1
+subset 1
+g100 1
+programmatic 1
+superintendent 1
+disaster 1
+entitywide 1
+people 1
+coso 1
+series 1
+sensitivity 1
+creation 1
+directing 1
+deactivation 1
+cash 1
+delegation 1
+www.gao.gov 1
+defense 1
+design 1
+year 1
+touchtone 1
+functioning 1
+call 1
+systems-mainframe 1
+utility 1
+evaluation 1
+assurance 1
+body 1
+reporting 1
+ability 1
+degree 1
+efficiency 1
+• 1
+disposition 1
+consideration 1
+november 1
+tdd 1
+likelihood 1
+change 1
+box 1
+comparison 1
+climate 1
+difficulty 1
+misuse 1
+industry 1
+credit 1
+connection 1
+leadership 1
+commit 1
+contingency 1
+backup 1
+plan 1
+forecasting 1
+relevant 1
+periodic 1
+format 1
+commitment 1
+appropriate 1
+determine 1
+operator 1
+range 1
+size 1
+computer 1
+data 1
+rule-making 1
+legislation 1
+procurement 1
+initiation 1
+asset 1
+entity's 1
+waste 1
+frame 1
+phone 1
+function 1
+life 1
+complete 1
+relationship 1
+validity 1
+employee 1
+corner 1
+segregation 1
+agency's 1
+room 1
+course 1
+work 1
+matter 1
+cost 1
+attention 1
+error 1
+reasonableness 1
+existence 1
+measure 1
+influence 1
+evidence 1
+hardware 1
+manner 1
+file 1
+sense 1
+need 1
+accounting 1
+check 1
+visa 1
+512-2537 1
+recovery 1
+percent 1
+mismanagement 1
+mechanism 1
+equipment 1
+methodology 1
+significance 1
+modification 1
+supervisory 1
+play 1
+http 1
+d.c. 1
+june 1
+update 1
+//www.gao.gov 1
+abuse 1
+issuance 1
+judgment 1
+response 1
+cycle 1
+audit 1
+examination 1
+supervision 1
+propriety 1
+complexity 1
+academia 1
+resolution 1
+order 1
+prevention 1
+
+ Arbitary length NP 
+u.s. general accounting officewashington 1
+chief financial officer act 1
+information system general control • 1
+physical control over vulnerable 1
+government gao/aimd-00-21.3.1 foreword federal 1
+david m. walker comptroller general 1
+internal control standard presentation 1
+federal manager financial integrity act 1
+application control • system 1
+world wide web home page 1
+general accounting office washington 1
+fee paid gao permit no 1
+workforce-its human capital-is essential 1
+federal financial management improvement act 1
+address correction requested bulk rate postage 1
+human capital control over information processing management 1
+u.s. general accounting office p.o 1
+internal control provides reasonable assurance 1
+relevant updated internal control 1

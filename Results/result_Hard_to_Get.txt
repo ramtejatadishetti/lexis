@@ -1,0 +1,118 @@
+
+ Bigram NP 
+legal service 4
+eastern missouri 3
+legal assistance 3
+legal help 2
+holistic approach 1
+full- time 1
+last year 1
+financial assistance 1
+their life 1
+aid project 1
+invaluable expertise 1
+gradual decline 1
+valuable volunteer 1
+legal community 1
+homeless project 1
+domestic violence 1
+voluntary support 1
+legal representation 1
+jefferson county 1
+hard reality 1
+such guidance 1
+executive director 1
+sobering observation 1
+physical assault 1
+legal aid 1
+domestic abuse 1
+legal professional 1
+criminal charge 1
+mc+ project 1
+
+ Trigram NP 
+lasting solution project 1
+medicaid managed care 1
+temporary protective status 1
+hot new movie 1
+our entire community 1
+our not-for-profit organization 1
+immigration law project 1
+
+ Unigram NP 
+attorney 2
+family 2
+way 2
+warning 2
+number 2
+justice 2
+percent 2
+increase 2
+life 2
+miranda 2
+assistance 2
+right 1
+homeless 1
+unemployment 1
+guidance 1
+reunification 1
+hard 1
+intake 1
+walk 1
+course 1
+volunteer 1
+lawyer 1
+year 1
+nation 1
+employment 1
+bankruptcy 1
+deportation 1
+access 1
+acquaintance 1
+aid 1
+district 1
+border 1
+housing 1
+exclusion 1
+liberty 1
+client 1
+state 1
+program 1
+health 1
+statement 1
+income 1
+staff 1
+contrast 1
+economy 1
+doctrine 1
+iowa 1
+maintenance 1
+hiv 1
+government 1
+afford 1
+outreach 1
+counsel 1
+questioning 1
+qualify 1
+protection 1
+alone 1
+bit 1
+america 1
+frightening 1
+present 1
+care 1
+case 1
+school 1
+naturalization 1
+trial 1
+eviction 1
+victory 1
+neighbor 1
+missouri 1
+organization 1
+expense 1
+consumer 1
+
+ Arbitary length NP 
+u.s. supreme court justice ruth bader ginsburg 1
+lawyer f. dianne taylor commentary f. dianne taylor 1

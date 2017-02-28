@@ -1,0 +1,175 @@
+
+ Bigram NP 
+legal service 10
+last year 2
+good news 2
+executive director 2
+federal poverty 2
+eric kleiman 1
+local business 1
+alabama school 1
+private sector 1
+mary france 1
+fiscal year 1
+her husband 1
+main problem 1
+it budget 1
+our population 1
+statewide task 1
+metro birmingham 1
+big change 1
+legal system 1
+active license 1
+national office 1
+our country 1
+congressional appropriation 1
+regular use 1
+recent example 1
+good work 1
+west alabama 1
+elderly couple 1
+their attorney 1
+legal representation 1
+national nonprofit 1
+her lawyer 1
+it system 1
+linda lund 1
+her community 1
+non-profit organization 1
+third tier 1
+kathy benitez 1
+national average 1
+private law 1
+eligible person 1
+lawyer trust 1
+treading water 1
+next week 1
+law foundation 1
+tracy daniel 1
+large portion 1
+melinda water 1
+
+ Trigram NP 
+willie may jones 2
+legal service corp. 2
+tuscaloosa county courthouse 1
+legal services' tuscaloosa 1
+stephanie hoop january 1
+mary france mckinney 1
+non-profit public interest 1
+north central alabama 1
+reach stephanie hoop 1
+
+ Unigram NP 
+alabama 14
+legal 12
+state 9
+lsc 7
+tuscaloosa 7
+office 6
+program 6
+money 5
+percent 5
+appropriation 4
+funding 4
+lot 4
+law 4
+lawyer 3
+daniel 3
+mckinney 3
+congress 3
+director 3
+jones 3
+government 2
+access 2
+water 2
+legislature 2
+family 2
+washington 2
+lund 2
+housing 2
+firm 2
+volunteer 2
+tax 2
+time 2
+organization 2
+fact 2
+madison 1
+executive 1
+spokesman 1
+thursday 1
+include 1
+someone 1
+appointment 1
+advantage 1
+kleiman 1
+consolidation 1
+nation 1
+half 1
+day 1
+tuscaloosanews.com 1
+heaven 1
+level 1
+university 1
+they've 1
+benefit 1
+half-million 1
+population 1
+force 1
+house 1
+street 1
+employment 1
+bottom 1
+paralegal 1
+everything 1
+benitez 1
+approach 1
+artis 1
+friday 1
+corporation 1
+qualify 1
+protection 1
+extent 1
+comparison 1
+job 1
+place 1
+afternoon 1
+limestone 1
+fee 1
+system 1
+way 1
+proposal 1
+`i 1
+infusion 1
+kind 1
+october 1
+budget 1
+the/salabama 1
+today 1
+morgan 1
+need 1
+education 1
+option 1
+shelby 1
+pay 1
+cullman 1
+field 1
+jefferson 1
+economy 1
+d.c. 1
+shelter 1
+abuse 1
+jackson 1
+data 1
+filing 1
+client 1
+talk 1
+consumer 1
+order 1
+
+ Arbitary length NP 
+turning point domestic violence sexual assault 1
+atlanta legal aid society 1
+alabama state bar interest 1
+legal service avoids budget cut 1
+alabama state bar volunteer lawyer program 1

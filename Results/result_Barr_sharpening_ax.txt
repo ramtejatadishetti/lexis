@@ -1,0 +1,101 @@
+
+ Bigram NP 
+white house 1
+administrative law 1
+heritage foundation 1
+president bush 1
+new board 1
+it nose 1
+real method 1
+political party 1
+political activism 1
+democratic staffer 1
+legal representation 1
+annual appropriation 1
+their list 1
+cost-effective manner 1
+house judiciary 1
+legal aid 1
+edwin meese 1
+bob barr 1
+it mission 1
+president reagan 1
+civil justice 1
+legal service 1
+senior fellow 1
+todd gaziano 1
+melanie eversley 1
+bipartisan board 1
+
+ Trigram NP 
+legal service corp. 4
+president richard nixon 1
+washington-based non-profit organization 1
+general accounting office 1
+atlanta journal-constitution barr 1
+
+ Unigram NP 
+congress 5
+organization 5
+barr 4
+lsc 4
+system 3
+erlenborn 2
+representation 2
+state 2
+board 2
+georgia 2
+gaziano 2
+congressman 2
+attorney 1
+existence 1
+lobbying 1
+clinton-appointed 1
+probe 1
+washington 1
+competition 1
+past 1
+subcommittee 1
+committee 1
+ax 1
+senate 1
+accounting 1
+america 1
+business 1
+taxpayer 1
+spending 1
+corporation 1
+class-action 1
+legal 1
+majority 1
+way 1
+house 1
+party 1
+oversight 1
+gop 1
+law 1
+week 1
+march 1
+effect 1
+delivery 1
+part 1
+fan 1
+meese 1
+letter 1
+peer 1
+president 1
+trouble 1
+republican 1
+effort 1
+behalf 1
+case 1
+gao 1
+kind 1
+rule 1
+
+ Arbitary length NP 
+cox washington bureau saturday 1
+atlanta legal aid society 1
+georgia legal service program 1
+lsc president john erlenborn 1
+legal service corp. barr 1

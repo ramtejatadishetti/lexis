@@ -1,0 +1,88 @@
+
+ Bigram NP 
+legal aid 8
+metropolitan chicago 2
+social security 2
+executive director 2
+eric kleiman 1
+tasha johnson 1
+congressional funding 1
+her application 1
+trust fund 1
+other money 1
+sheldon roodman 1
+elderly person 1
+free law 1
+illegal eviction 1
+federal money 1
+washington-based agency 1
+upper hand 1
+last census 1
+joseph bartylak 1
+federal funding 1
+29-year-old woman 1
+low income 1
+
+ Trigram NP 
+legal assistance foundation 2
+illinois supreme court 1
+recent one-two punch 1
+prairie state legal 1
+illinois general assembly 1
+lincoln legal service 1
+legal service corp. 1
+ruth ann schmitt 1
+
+ Unigram NP 
+illinois 6
+fund 4
+lsc 3
+year 3
+access 3
+land 3
+money 2
+agency 2
+bartylak 2
+half 2
+lincoln 2
+amount 2
+work 1
+family 1
+statewide 1
+loan 1
+executive 1
+number 1
+budget 1
+somebody 1
+eviction 1
+marion 1
+homeless 1
+home 1
+trust 1
+cancer 1
+cut 1
+network 1
+bite 1
+spokesman 1
+state's 1
+roodman 1
+interest 1
+type 1
+week 1
+pain 1
+august 1
+advantage 1
+kleiman 1
+nation 1
+director 1
+lymphoma 1
+census 1
+drop 1
+wednesday 1
+person 1
+protection 1
+predatory 1
+
+ Arbitary length NP 
+susan skiles luke illinois 1
+lsc president john erlenborn 1

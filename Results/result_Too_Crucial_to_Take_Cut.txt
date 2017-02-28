@@ -1,0 +1,144 @@
+
+ Bigram NP 
+our state 4
+equal justice 2
+our democracy 2
+civil justice 2
+my view 1
+task force 1
+life-and-death story 1
+only solution 1
+annual state 1
+democratic society 1
+current budget 1
+seasonal farm 1
+last year 1
+irreversible damage 1
+forthcoming budget 1
+gary locke 1
+denied access 1
+human service 1
+last resort 1
+health service 1
+domestic violence 1
+american ideal 1
+small piece 1
+stagnant funding 1
+regulatory maze 1
+improper denial 1
+their place 1
+our help 1
+right thing 1
+irreparable harm 1
+legal aid 1
+chief justice 1
+domestic abuse 1
+walla walla 1
+our duty 1
+sick system 1
+port angeles 1
+poor person 1
+wrongful eviction 1
+thurston county 1
+different today 1
+weak economy 1
+essential promise 1
+
+ Trigram NP 
+free legal assistance 1
+legal service too 1
+civil equal justice 1
+u.s. supreme court 1
+gerry l. alexander 1
+essential governmental assistance 1
+direct legal assistance 1
+
+ Unigram NP 
+justice 8
+state 7
+budget 6
+cut 5
+system 4
+department 4
+man 4
+legislature 3
+place 3
+force 2
+help 2
+lawyer 2
+crisis 2
+pledge 2
+spokane 2
+governor 2
+population 1
+office 1
+point 1
+money 1
+washington 1
+idea 1
+volunteer 1
+exist 1
+result 1
+corner 1
+clarkston 1
+seattle 1
+feb. 1
+impact 1
+anyone 1
+sheer 1
+funding 1
+chehalis 1
+service 1
+fight 1
+breaking 1
+percent 1
+legal 1
+longview 1
+access 1
+chief 1
+compelling 1
+responsibility 1
+time 1
+smile 1
+gov 1
+survival 1
+picture 1
+formed 1
+colville 1
+refusal 1
+self-sufficiency 1
+allegiance 1
+delivery 1
+protection 1
+poverty 1
+key 1
+termination 1
+judge 1
+court 1
+november 1
+law 1
+lawsuit 1
+day 1
+counsel 1
+task 1
+toothless 1
+world 1
+die 1
+compassionate 1
+depth 1
+liberty 1
+dependency 1
+amount 1
+affirmation 1
+social 1
+action 1
+situation 1
+problem 1
+building 1
+order 1
+judiciary 1
+
+ Arbitary length NP 
+washington state supreme court 2
+civil equal justice funding 1
+cut gerry l. alexander 1

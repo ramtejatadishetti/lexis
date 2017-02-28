@@ -1,0 +1,95 @@
+
+ Bigram NP 
+domestic violence 7
+legal assistance 2
+last year 2
+northwest safeline 2
+good thing 2
+jackson sun 1
+her organization 1
+madison county 1
+west tennessee 1
+great need 1
+legal representation 1
+their response 1
+next year 1
+tennessee bureau 1
+nonprofit organization 1
+steven xanthopoulos 1
+u.s. department 1
+margaret cole 1
+two-year grant 1
+executive director 1
+spanish-speaking paralegal 1
+domestic abuse 1
+legal group 1
+awareness month 1
+grant money 1
+federal grant 1
+
+ Trigram NP 
+a west tennessee 1
+rape assistance program 1
+rachel myer tuesday 1
+
+ Unigram NP 
+grant 5
+jackson 4
+organization 3
+money 2
+group 2
+xanthopoulos 2
+poverty 2
+increase 2
+attorney 1
+violence 1
+family 1
+september 1
+executive 1
+focus 1
+oct. 1
+decrease 1
+something 1
+year 1
+need 1
+custody 1
+staff 1
+tn 1
+justice 1
+divorce 1
+assistance 1
+lake 1
+member 1
+start 1
+investigation 1
+statement 1
+intervention 1
+march 1
+monday 1
+court 1
+crockett 1
+award 1
+director 1
+job 1
+abuse 1
+child 1
+news 1
+police 1
+population 1
+obion 1
+census 1
+resource 1
+tanner 1
+drop 1
+advocacy 1
+project 1
+dyersburg 1
+wo/men 1
+abuser 1
+dyer 1
+
+ Arbitary length NP 
+jackson police chief rick staple 1
+madison county sheriff david woolfork 1
+west tennessee legal service 1
+u.s. rep. john tanner 1

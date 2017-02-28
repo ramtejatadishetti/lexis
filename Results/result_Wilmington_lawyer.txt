@@ -1,0 +1,61 @@
+
+ Bigram NP 
+national award 2
+professional service 1
+public interest 1
+her award 1
+delaware bar 1
+adjunct professor 1
+high honor 1
+legal profession 1
+her work 1
+legal assistance 1
+entire law 1
+public service 1
+
+ Trigram NP 
+dana harrington conner 2
+sean o'sullivan october 1
+her outstanding work 1
+national legal association 1
+u.s. supreme court 1
+group's national president 1
+free legal service 1
+her public service 1
+widener university school 1
+
+ Unigram NP 
+award 6
+conner 5
+attorney 3
+lot 3
+law 3
+community 2
+inn 2
+court 2
+service 2
+volunteer 2
+work 2
+wilmington 2
+organization 2
+help 1
+washington 1
+oct. 1
+lawyer 1
+recognition 1
+ceremony 1
+delaware 1
+state 1
+tribute 1
+practice 1
+news 1
+behalf 1
+school 1
+excellence 1
+
+ Arbitary length NP 
+delaware volunteer legal service 2
+sandra day o'connor award 1
+widener dean douglas e. ray 1
+supreme court justice o'connor 1
+delaware supreme court justice randy j. holland 1

@@ -1,0 +1,502 @@
+
+ Bigram NP 
+u. s. 18
+first amendment 9
+title x 7
+legal assistance 4
+district court 4
+statutory validity 4
+private speech 3
+limited forum 3
+current welfare 3
+it program 2
+statutory provision 2
+impermissible viewpoint 2
+lsc act 2
+legal representation 2
+[ w 2
+federal statute 2
+oral argument 2
+arkansas ed 2
+specific relief 2
+federal program 2
+governmental message 2
+particular idea 2
+velazquez opinion 2
+governmental speech 2
+wis. system 2
+second circuit 2
+independent bar 2
+explicit reliance 1
+our observation 1
+available representation 1
+challenged limitation 1
+appropriation act 1
+truncated representation 1
+his exercise 1
+severe impairment 1
+alternative source 1
+legal system 1
+other way 1
+stark contrast 1
+unconventional way 1
+such relief 1
+it use 1
+public radio 1
+questionable validity 1
+judicial department 1
+fair manner 1
+constitutional challenge 1
+indigent client 1
+supremacy clause 1
+congressional funding 1
+it holding 1
+disturbing example 1
+secondary school 1
+proper performance 1
+it rationale 1
+his view 1
+insufficient basis 1
+federal law 1
+viewpoint-based funding 1
+judicial inquiry 1
+little doubt 1
+professional responsibility 1
+it family 1
+other counsel 1
+[ government 1
+proper functioning 1
+f. supp 1
+it source 1
+whole range 1
+same way 1
+perry ed 1
+fundamental restriction 1
+proper exercise 1
+complete analysis 1
+political process 1
+programmatic message 1
+private nature 1
+explicit premise 1
+government-funded program 1
+independent judgment 1
+it purpose 1
+vital respect 1
+relevant portion 1
+private expression 1
+further detail 1
+proper presentation 1
+own interest 1
+velazquez lsc 1
+ordinary course 1
+their right 1
+constitutional question 1
+it application 1
+supreme court 1
+judicial function 1
+editorial judgment 1
+military desertion 1
+instant suit 1
+independent judiciary 1
+it end 1
+full advice 1
+salient point 1
+lsc-funded attorney 1
+our discretion 1
+possible portion 1
+new york 1
+own message 1
+various state 1
+vital information 1
+southern district 1
+joint representation 1
+reasoned conclusion 1
+it authority 1
+woman voter 1
+constitutional issue 1
+local grantee 1
+private client 1
+nongovernmental speech 1
+oral arg 1
+congressional intent 1
+impermissible restriction 1
+viewpoint-based proviso 1
+primary mission 1
+it message 1
+particular restriction 1
+attempted restriction 1
+certain speech 1
+unconstitutional condition 1
+financial support 1
+constitutional scrutiny 1
+alternative channel 1
+important foundation 1
+non-lsc attorney 1
+their nature 1
+independent organization 1
+specific context 1
+political campaign 1
+our decision 1
+it understanding 1
+legal profession 1
+contrary position 1
+proper resolution 1
+political party 1
+speech inherent 1
+judicial power 1
+constitutional authority 1
+public defender 1
+constitutional concern 1
+strict sense 1
+judge jacob 1
+entire exception 1
+traditional role 1
+legal advice 1
+preliminary injunction 1
+judicial challenge 1
+typical case 1
+generous understanding 1
+mere definition 1
+nonprofit corporation 1
+congressional concern 1
+unfettered interchange 1
+particular medium 1
+substantial restriction 1
+it advocacy 1
+prudential judgment 1
+selective service 1
+
+ Trigram NP 
+legal service corporation 8
+individual eligible client 2
+impermissible viewpoint-based discrimination 2
+erroneous factual determination 1
+it own program 1
+free legal assistance 1
+it usual functioning 1
+perry local educator 1
+[ ed ] 1
+fcc v. league 1
+rosenberger v. rector 1
+it accepted usage 1
+simple semantic exercise 1
+legitimate judicial challenge 1
+] justice kennedy 1
+omnibus consolidated rescission 1
+
+ Unigram NP 
+lsc 50
+government 28
+court 28
+congress 20
+welfare 19
+program 16
+restriction 15
+statute 15
+law 13
+representation 13
+speech 12
+id. 12
+v. 12
+attorney 11
+§504 11
+litigation 11
+rust 11
+united 10
+part 9
+constitution 8
+state 8
+act 8
+rosenberger 7
+abortion 7
+effort 6
+effect 6
+agency 6
+client 6
+grantee 5
+interpretation 5
+planning 5
+family 5
+issue 5
+opinion 5
+expression 5
+use 5
+system 5
+suit 5
+case 5
+condition 5
+advice 5
+velazquez 4
+d 4
+funding 4
+appeal 4
+petitioner 4
+subsidy 4
+scope 4
+behalf 4
+challenge 4
+advocacy 4
+supra 4
+provision 3
+activity 3
+message 3
+instance 3
+federal 3
+ibid 3
+sullivan 3
+univ 3
+] 3
+certiorari 3
+validity 3
+broadcast 3
+stat 3
+judiciary 3
+date 3
+decision 3
+comm'n 2
+patient 2
+§2996e 2
+position 2
+regent 2
+board 2
+controversy 2
+chapel 2
+benefit 2
+view 2
+province 2
+lawyer 2
+section 2
+brief 2
+proviso 2
+student 2
+television 2
+counsel 2
+question 2
+southworth 2
+publication 2
+discrimination 2
+support 2
+initiation 2
+structure 2
+diversity 2
+determination 2
+latitude 2
+nature 2
+result 2
+lobbying 2
+sphere 2
+medium 2
+counseling 2
+f. 2
+broadcasting 2
+speaker 2
+lamb 2
+necessity 2
+purpose 2
+suppression 2
+judgment 2
+madison 1
+claimant 1
+violation 1
+visitor 1
+mission 1
+electorate 1
+judge 1
+misread 1
+§2996b 1
+attack 1
+recipient 1
+tr 1
+exclusion 1
+ineligibility 1
+policy 1
+presentation 1
+fairness 1
+petition 1
+contention 1
+combination 1
+fragment 1
+speiser 1
+express 1
+exception 1
+forth 1
+assn 1
+wash. 1
+legitimate 1
+supervise 1
+inception 1
+va. 1
+color 1
+term 1
+approach 1
+success 1
+§§1002 1
+cranch 1
+public 1
+lscfunded 1
+proposition 1
+affiliate 1
+t 1
+disability 1
+side 1
+set 1
+seq 1
+reference 1
+ed 1
+station 1
+injunction 1
+account 1
+ashwander 1
+dissenting 1
+j. 1
+individual 1
+college 1
+variety 1
+year 1
+assumption 1
+functioning 1
+cfr 1
+indigent 1
+constitutionality 1
+withdraws 1
+rulemaking 1
+circumstance 1
+legal 1
+review 1
+method 1
+exercise 1
+tva 1
+desegregation 1
+cal. 1
+exchange 1
+eligibility 1
+doubt 1
+understanding 1
+extent 1
+approval 1
+[ 1
+lawsuit 1
+quo 1
+§1639.4 1
+limitation 1
+balance 1
+pt 1
+forum 1
+proabortion 1
+768-769 1
+affirmed 1
+forbes 1
+place 1
+qualification 1
+argue 1
+duty 1
+relevant 1
+rationale 1
+probability 1
+point 1
+enactment 1
+grantees' 1
+cf 1
+insulate 1
+involvement 1
+randall 1
+respect 1
+§§504 1
+gomez 1
+kind 1
+argumentation 1
+roth 1
+district 1
+pro-gram 1
+payment 1
+regulation 1
+773-778 1
+way 1
+compromise 1
+scheme 1
+type 1
+govern-ment 1
+function 1
+enforcement 1
+769-770 1
+receipt 1
+taxation 1
+fund 1
+citizenry 1
+attempt 1
+midst 1
+iii 1
+regan 1
+majority 1
+hire 1
+b 1
+advocating 1
+language 1
+supp 1
+sentation 1
+instruction 1
+§§2996f 1
+project 1
+record 1
+paragraph 1
+none 1
+repre 1
+example 1
+control 1
+claim 1
+govern-ment-funded 1
+ii 1
+paramount 1
+right 1
+manner 1
+severability 1
+regime 1
+concept 1
+information 1
+viewpoint 1
+no 1
+brandeis 1
+ballot 1
+class-action 1
+contour 1
+equipment 1
+antecedent 1
+answer 1
+party 1
+marbury 1
+conclusion 1
+status 1
+columbia 1
+context 1
+multiple 1
+perry 1
+organization 1
+end 1
+class 1
+assn. 1
+network 1
+adequacy 1
+i 1
+industry 1
+reform 1
+analysis 1
+order 1
+principle 1
+corporation 1
+§300a-6 1
+fact 1
+antiabortion 1
+
+ Arbitary length NP 
+carmen velazquez et al 2
+u. s. c. §2996 2
+on writ of certiorari to the united state court of appeal for the second circuit [ february 1
+the united state no 1
+new york time co. 1
+u. s. c. §2996e 1
+new york city lsc 1
+polk county v. dodson 1
+legal service corporation act 1
+public health service act 1
+center moriches union free school dist. 1
+u. s. c. §§1508 1

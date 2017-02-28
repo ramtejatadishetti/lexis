@@ -1,0 +1,141 @@
+
+ Bigram NP 
+legal aid 5
+head start 2
+unlawful discrimination 1
+southeast portland 1
+sick economy 1
+wrongful discharge 1
+legal help 1
+percent interest 1
+mechanic friend 1
+urgent thrust 1
+legal surf 1
+inexpensive access 1
+ordinary life 1
+required muscle 1
+detailed information 1
+part-time work 1
+todd trierweiler 1
+domestic violence 1
+finance-contract hook 1
+residential landlord 1
+child custody 1
+full restitution 1
+other help 1
+mother sonja 1
+low- income 1
+equal justice 1
+qualified care 1
+legal expertise 1
+monthly bankruptcy 1
+robert hamrick 1
+full flood 1
+seth jackson-mack 1
+previous owner 1
+schwabe williamson 1
+eva cortes-espino 1
+multnomah county 1
+leslie kay 1
+
+ Trigram NP 
+oregon state bar 1
+supplemental security income 1
+his kindergarten class 1
+vicious economic undertow 1
+el programa hispano 1
+
+ Unigram NP 
+car 8
+eva 5
+seth 4
+oxygen 3
+case 3
+attorney 2
+lawyer 2
+study 2
+family 2
+firm 2
+percent 2
+help 1
+money 1
+sonja 1
+buyer 1
+staff 1
+campaign 1
+title 1
+can't 1
+treatment 1
+rescue 1
+nation 1
+liability 1
+ssi 1
+family-law 1
+school 1
+bar 1
+disorder 1
+rate 1
+year 1
+portland 1
+state 1
+appeal 1
+associate 1
+possibility 1
+pressure 1
+struggle 1
+tenant 1
+care 1
+reflect 1
+drowning 1
+accident 1
+contract 1
+april 1
+act 1
+housing 1
+block 1
+load 1
+gresham 1
+seizure 1
+hearing 1
+quality 1
+bankruptcy 1
+service 1
+discrimination 1
+support 1
+avail 1
+percentage 1
+memo 1
+oregon 1
+volunteer 1
+october 1
+advocacy 1
+wyatt 1
+aaw 1
+mechanic 1
+balance 1
+pack 1
+engine 1
+private-sector 1
+aug. 1
+dealer 1
+record-gathering 1
+graduate 1
+application 1
+speech 1
+collection 1
+translator 1
+law 1
+cortes-espino 1
+request 1
+face 1
+deposit 1
+english 1
+tutoring 1
+quantity 1
+
+ Arbitary length NP 
+east county legal clinic 1
+oregon poor vitally need legal boost robert landauer tuesday 1
+average statewide jobless rate 1
+affordable automobile wholesale inc. 1
+st. henry catholic community hispanic center 1

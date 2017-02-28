@@ -1,0 +1,160 @@
+
+ Bigram NP 
+real courtroom 2
+poor performance 2
+five p 1
+your preparation 1
+only part 1
+basic advice 1
+it office 1
+his method 1
+simple rule 1
+county board 1
+positive evidence 1
+general advice 1
+your mouth 1
+cherry st 1
+simple storytelling 1
+your side 1
+jared cook 1
+professional attorney 1
+judge judy 1
+limited assistance 1
+great service 1
+elaine fridlund-horne 1
+other party 1
+general bearing 1
+many offer 1
+careful planning 1
+your request 1
+own case 1
+objective evidence 1
+second time 1
+much leniency 1
+his testimony 1
+alternative dispute 1
+right attorney 1
+your credibility 1
+general idea 1
+her story 1
+fellow panelist 1
+hard evidence 1
+accurate depiction 1
+legal service 1
+actual presentation 1
+their case 1
+entire demeanor 1
+mean way 1
+judge-conducted settlement 1
+good decision 1
+your complaint 1
+his office 1
+
+ Trigram NP 
+his upcoming court 1
+specific legal issue 1
+honorable charles adam 1
+e. birch avenue 1
+attendee robert gooch 1
+
+ Unigram NP 
+judge 9
+adam 7
+attorney 6
+court 6
+courtroom 5
+law 5
+thursday 3
+respect 3
+evidence 3
+library 2
+opposition 2
+panel 2
+service 2
+way 2
+dna-people 2
+case 2
+flagstaff 2
+fridlund-horne 2
+procedure 2
+seminar 2
+person 2
+atmosphere 1
+help 1
+focus 1
+yellow 1
+month 1
+course 1
+yes 1
+p.m. 1
+knowledge 1
+speech 1
+presentation 1
+fool 1
+someone 1
+advantage 1
+practice 1
+choice 1
+diverge 1
+public 1
+right 1
+art 1
+solo 1
+proper 1
+constitution 1
+familiarity 1
+legal 1
+research 1
+favor 1
+issue 1
+consisting 1
+core 1
+arizona 1
+jury 1
+mechanic 1
+power 1
+opening 1
+understanding 1
+lawsuit 1
+anything 1
+testimony 1
+family 1
+mediator 1
+community 1
+nothing 1
+arbitration 1
+story 1
+area 1
+system 1
+consultation 1
+meeting 1
+layperson 1
+television 1
+word 1
+room 1
+car 1
+advocacy 1
+behavior 1
+closing 1
+person's 1
+supervisor 1
+mind 1
+self-representation 1
+dress 1
+information 1
+credibility 1
+stake 1
+client 1
+role 1
+mouth 1
+date 1
+opportunity 1
+resolution 1
+part 1
+subpoena 1
+organization 1
+model 1
+painting 1
+
+ Arbitary length NP 
+coconino county superior court 2

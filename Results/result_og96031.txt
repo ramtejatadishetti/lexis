@@ -1,0 +1,228 @@
+
+ Bigram NP 
+final rule 8
+food safety 6
+inspection service 5
+cost-benefit analysis 3
+hazard analysis 3
+executive order 3
+annual burden 2
+federal register 2
+unfunded mandate 2
+foodborne illness 2
+substantial number 1
+specific laboratory 1
+private sector 1
+extensive discussion 1
+current system 1
+regulatory affair 1
+our assessment 1
+new framework 1
+same time 1
+subject matter 1
+other statute 1
+20-year industry 1
+it approval 1
+statutory authorization 1
+humane method 1
+burdensome alternative 1
+slaughter act 1
+20-year cost 1
+et seq 1
+senior attorney 1
+2-day page 1
+agriculture issue 1
+their compliance 1
+potential health 1
+major rule 1
+forestry united 1
+proposed rulemaking 1
+order no 1
+accurate burden 1
+it information 1
+preemptive effect 1
+public health 1
+6,318,582-hour reduction 1
+federal-state-relations conference 1
+agriculture house 1
+our report 1
+pathogen reduction 1
+initial comment 1
+necessary restructuring 1
+similar requirement 1
+regulatory relief 1
+our review 1
+specific processing 1
+mr. robinson 1
+current uncertainty 1
+several state 1
+inspection act 1
+continuous record 1
+inspection system 1
+omb no 1
+honorable e 1
+
+ Trigram NP 
+critical control point 3
+regulatory impact analysis 2
+final regulatory flexibility 2
+executive order no 2
+civil justice reform 2
+james w. vickers 1
+gao/ogc-96-31 public hearing 1
+other relevant information 1
+microbial monitoring needed 1
+paperwork reduction act 1
+food safety forum 1
+robert a. robinson 1
+initial regulatory flexibility 1
+administrative procedure act 1
+inspection service page 1
+significant economic impact 1
+minimal additional cost 1
+regulatory flexibility act 1
+small business administration 1
+
+ Unigram NP 
+rule 22
+fsis 15
+u.s.c 11
+office 6
+section 6
+information 6
+inspection 5
+notice 5
+haccp 5
+poultry 5
+analysis 5
+meat 4
+state 4
+collection 4
+executive 3
+reg 3
+omb 3
+fed 3
+addition 3
+reduction 3
+b 3
+agriculture 3
+agency 3
+order 3
+title 2
+government 2
+food 2
+february 2
+cost 2
+0583-ab69 2
+subject 2
+federal 2
+fmia 2
+respect 2
+management 2
+system 2
+pathogen 2
+elimination 2
+july 2
+budget 2
+ppia 2
+iv 2
+rin 2
+department 2
+establishment 2
+i 2
+code 1
+pursuant 1
+report 1
+session 1
+death 1
+§ 1
+implementation 1
+modernization 1
+program 1
+input 1
+period 1
+objective 1
+burden 1
+sequencing 1
+kika 1
+512-8210 1
+0583-0103 1
+flexibility 1
+quality-uniform 1
+view 1
+requirement 1
+work 1
+occurrence 1
+senate 1
+result 1
+attributable 1
+matching 1
+imposition 1
+rulemaking 1
+evaluation 1
+manufacturing 1
+stage 1
+c 1
+industry 1
+compliance 1
+connection 1
+act 1
+comment 1
+supply 1
+cc 1
+number 1
+ii 1
+scoping 1
+size 1
+conference 1
+temperature 1
+consumption 1
+nutrition 1
+gao/ogc-96-31 1
+gao 1
+review 1
+iii 1
+gao/rced-92-152 1
+official 1
+advocacy 1
+preparation 1
+gao/rced-94-110 1
+reevaluation 1
+process 1
+need 1
+federal-state 1
+united 1
+percent 1
+range 1
+equipment 1
+reprogramming 1
+performance 1
+512-5138 1
+development 1
+administrator 1
+may 1
+incidence 1
+director 1
+plan 1
+opportunity 1
+response 1
+time 1
+assistance 1
+
+ Arbitary length NP 
+federal meat inspection act 2
+unfunded mandate reform act 1
+gao/ogc-96-31 enclosure analysis under 1
+a major rule issued by the department of agriculture 1
+honorable patrick j. leahy ranking minority member committee 1
+poultry product inspection act 1
+gao/ogc-96-31 executive order no 1
+garza ranking minority member committee 1
+hazard analysis and critical control point 1
+michael r. taylor administrator food safety 1
+food safety and inspection service entitled 1
+general counsel b-272531.1 july 1
+robert p. murphy general counsel enclosure 1
+honorable pat robert chairman 1
+honorable richard g. lugar chairman 1
+ensure safe food supply 1

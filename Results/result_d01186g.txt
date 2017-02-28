@@ -1,0 +1,492 @@
+
+ Bigram NP 
+electronic signature 8
+reasonable assurance 5
+active duty 5
+overtime pay 3
+authorized official 3
+hard copy 3
+compensatory time 3
+such information 2
+internal control 2
+alternative work 2
+traditional government 2
+related supporting 2
+approving t 2
+flexible work 2
+previous section 2
+a system 2
+financial management 2
+regular overtime 2
+military service 2
+electronic message 2
+occasional overtime 2
+traditional work 2
+flexible workplace 2
+temporary assignment 2
+last day 2
+paperbased system 1
+electronic information 1
+a transaction 1
+same assurance 1
+premium pay 1
+prior authority 1
+planned departure 1
+• web 1
+same degree 1
+roundtheclock basis 1
+further explanation 1
+first copy 1
+single address 1
+particular person 1
+accurate record 1
+daily arrival 1
+next pay 1
+unauthorized change 1
+• e-mail 1
+irregular overtime 1
+normal work 1
+electronic world 1
+alternative workplace 1
+et seq. 1
+selected system 1
+same duty 1
+personnel management 1
+previous guidance 1
+second part 1
+managing director 1
+regular time 1
+biweekly pay 1
+large unit 1
+additional impetus 1
+planned work 1
+supplementary t 1
+individual employee 1
+material variances11 1
+personal observation 1
+basic pay 1
+g sts 1
+primary responsibility 1
+general prohibition 1
+memorandum m0010 1
+material variance 1
+reservist t 1
+remote site 1
+recorded information 1
+high level 1
+necessary support 1
+a information 1
+significant influence 1
+recorded work 1
+dc order 1
+primary objective 1
+electronic signatures.10 1
+daily list 1
+major impetus 1
+her home 1
+sufficient scope 1
+available leave 1
+unscheduled duty 1
+financial reporting 1
+their workday 1
+e-mail message 1
+street nw 1
+primary control 1
+hourly basis 1
+available technology 1
+actual work 1
+et seq 1
+other information 1
+organizational code 1
+and/or developing 1
+automated environment 1
+practical guidance 1
+proper reporting 1
+computed pay 1
+other standard 1
+our evaluation 1
+new t 1
+mutual agreement 1
+social security 1
+leave approval 1
+immediate supervisor 1
+their approval 1
+required supporting 1
+their presence 1
+exceptionbased system 1
+welldefined system 1
+see office 1
+immaterial variation 1
+flex day 1
+aguideforfederalagenciesin november 1
+unique identifying 1
+alternative site 1
+logical access 1
+all t 1
+occasional phone 1
+civilian agency 1
+other hand 1
+federal manager 1
+electronic signatures.9 1
+comparable official 1
+her review 1
+sole control 1
+a report 1
+seriousandwidespreadweaknessespersistat federalagencies 1
+electronic filing 1
+such person 1
+st. nw 1
+report fraud 1
+other time 1
+official agency 1
+timetested method 1
+unauthorized pay 1
+transmitting t 1
+similar approach 1
+
+ Trigram NP 
+other equivalent official 2
+effective internal control 1
+alternative workplace arrangement 1
+their normal work 1
+significant adverse impact 1
+particular electronic signature 1
+are properly authorized 1
+a data agency 1
+earned compensatory time 1
+omb circular a123 1
+a transaction attestation 1
+a period end 1
+related internal control 1
+omb circular a127 1
+their own absence 1
+world wide web 1
+g street nw 1
+good internal control 1
+their daily arrival 1
+welldefined organizational structure 1
+financial integrity act 1
+a information access 1
+
+ Unigram NP 
+t 79
+a 79
+employee 42
+data 35
+system 26
+work 25
+pay 24
+period 22
+supervisor 21
+information 21
+agency 20
+time 19
+management 18
+schedule 15
+approval 15
+document 15
+payroll 11
+gao 10
+record 10
+timekeeper 9
+duty 9
+guidance 8
+example 8
+individual 8
+material 7
+number 7
+day 7
+leave 7
+official 7
+signature 7
+use 7
+service 7
+overtime 7
+part 7
+u.s.c 7
+end 7
+departure 7
+omb 6
+credit 6
+verification 6
+home 6
+accurate 5
+absence 5
+review 5
+change 5
+advance 5
+basis 5
+type 5
+recording 5
+gpea 5
+office 4
+member 4
+environment 4
+nature 4
+assurance 4
+arrival 4
+• 4
+extent 4
+place 4
+attendance 4
+accordance 4
+technology 4
+attestation 4
+processing 4
+presence 3
+paper 3
+integrity 3
+compensatory 3
+combination 3
+name 3
+component 3
+deviation 3
+access 3
+internet 3
+agreement 3
+washington 3
+call 3
+head 3
+phone 3
+hour 3
+report 3
+application 3
+accuracy 3
+status 3
+automation 3
+order 3
+paperless 2
+memorandum 2
+entity 2
+misuse 2
+manager 2
+knowledge 2
+his/her 2
+program 2
+subsection 2
+info 2
+confirmation 2
+risk 2
+government 2
+dc 2
+list 2
+output 2
+page 2
+seq 2
+www.gao.gov 2
+flexiplace 2
+et 2
+method 2
+ability 2
+confidence 2
+authorizing 2
+signer 2
+care 2
+policy 2
+http 2
+workplace 2
+section 2
+flexibility 2
+writing 2
+addition 2
+disapproval 2
+accountability 2
+station 2
+start 2
+absent 2
+room 2
+control 2
+e.g. 2
+evidence 2
+ii 2
+manner 2
+accounting 2
+department 2
+objective 2
+reporting 2
+effect 2
+designee 2
+plan 2
+documentation 2
+appendix 2
+responsibility 2
+visa 1
+cumulative 1
+september 1
+money 1
+testimony 1
+corner 1
+october 1
+abreast 1
+irregular 1
+unique 1
+title 1
+justice 1
+menu 1
+april 1
+fmfia 1
+arrangements,8 1
+mail 1
+employee's 1
+concurrence 1
+fax 1
+advantage 1
+legalconsiderationsindesigningandimplementing 1
+personnel 1
+appropriation 1
+timing 1
+opm 1
+password 1
+leave.4 1
+loss 1
+d 1
+level 1
+reasonably 1
+close 1
+alteration 1
+workweek 1
+benefit 1
+mastercard 1
+activity 1
+security 1
+revision 1
+inspection 1
+superintendent 1
+timekeepers3 1
+trend 1
+commuting 1
+lieu 1
+nw 1
+authority 1
+see 1
+cost 1
+morning 1
+selfapproval 1
+substitute 1
+subject 1
+adjustment 1
+degree 1
+payday 1
+identification 1
+contact 1
+forth 1
+movement 1
+gao/aimd0021.3.1 1
+june 1
+payment 1
+attention 1
+operating 1
+november 1
+tdd 1
+box 1
+c 1
+guidance14 1
+d.c 1
+capable 1
+practical 1
+length 1
+ratification 1
+variance 1
+user 1
+family 1
+point 1
+abuse 1
+charge 1
+intent 1
+one 1
+variety 1
+blank 1
+message 1
+financialmanagementsystems 1
+biweekly 1
+unit 1
+sheet 1
+log 1
+visit 1
+costeffectiveness 1
+compromise 1
+arrangements12 1
+systems' 1
+waste 1
+selection 1
+employees' 1
+option 1
+definition 1
+body 1
+site 1
+july 1
+copy 1
+effort 1
+adequate 1
+case 1
+account 1
+disbursement 1
+assessment 1
+gao.gov 1
+budget 1
+fraudnet 1
+frequency 1
+reviewing 1
+@ 1
+process 1
+choice 1
+discovery 1
+touchtone 1
+reliability 1
+file 1
+need 1
+check 1
+schedules,7 1
+united 1
+internalcontrolsystems 1
+efficient 1
+percent 1
+reliance 1
+workday 1
+setting 1
+criterion 1
+attachment 1
+performance 1
+agencywide 1
+informationsecurity 1
+and/or 1
+may 1
+stop 1
+allocation 1
+strength 1
+necessity 1
+implementation 1
+develop 1
+law 1
+response 1
+source 1
+transaction 1
+observation 1
+telecommuting 1
+amount 1
+gao/aimd00295 1
+flow 1
+person 1
+depth 1
+integrity.15 1
+individual's 1
+
+ Arbitary length NP 
+u.s. general accounting office 2
+a record supplementary t 1
+government paperwork elimination act 1
+a record required t 1
+general accounting office internal control gao exposure draft december 1
+recording and maintaining complete and accurate t 1
+see comptroller general decision b123698 1
+attendance reporting gao01186g abbreviation introduction 1
+reliance on internal control in a t 1
+u.s. general accounting office p.o 1
+review of electronic signature application gao 1
+a data are complete 1
+maintaining effective control over employee time 1
+civilian employee internal control objective in t 1
+alternative workplace arrangement alternative 1
+a information to payroll t 1
+military service member active military personnel active 1
+u.s. general accounting office washington 1

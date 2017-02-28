@@ -1,0 +1,195 @@
+
+ Bigram NP 
+new jersey 5
+legal service 4
+legal system 3
+equal justice 2
+equal access 2
+legal help 2
+melville miller 1
+good case 1
+santa monica 1
+initial direction 1
+legal aide 1
+low income 1
+last year 1
+caroline grant 1
+jon dubin 1
+winnie comfort 1
+referral system 1
+rental property 1
+harold rubenstein 1
+small law 1
+precarious existence 1
+legal matter 1
+legal community 1
+her son 1
+it kind 1
+key part 1
+somerset county 1
+ocean county 1
+annual budget 1
+alisa mariani 1
+bad heart 1
+legal problem 1
+other survey 1
+rental housing 1
+executive director 1
+fair place 1
+neutral ground 1
+their problem 1
+legal aid 1
+social security 1
+administrative office 1
+federal poverty 1
+william hornsby 1
+legal grind 1
+public interest 1
+their assistance 1
+additional demand 1
+unstable situation 1
+annual income 1
+common type 1
+stafford township 1
+
+ Trigram NP 
+kate coscarelli sunday 1
+star-ledger newark survey 1
+american bar association 1
+civil justice network 1
+enormous legal assistance 1
+civil legal problem 1
+free legal clinic 1
+their own case 1
+
+ Unigram NP 
+lawyer 12
+court 8
+percent 6
+year 5
+survey 5
+help 4
+system 4
+problem 4
+society 3
+state 3
+gap 3
+program 2
+landlord 2
+coffee 2
+ticket 2
+bar 2
+aba 2
+chapter 2
+county 2
+bankruptcy 2
+firm 2
+october 2
+challenge 2
+resident 2
+law 2
+person 2
+office 1
+money 1
+month 1
+chair 1
+staff 1
+cup 1
+series 1
+thursday 1
+burlington 1
+maryland 1
+dispute 1
+division 1
+calif. 1
+iowa 1
+worse 1
+food 1
+void 1
+stop 1
+myself 1
+nation 1
+traffic 1
+association 1
+level 1
+university 1
+truth 1
+administration 1
+miller 1
+packet 1
+sign 1
+individual 1
+edison 1
+section 1
+newark 1
+everything 1
+utility 1
+solo 1
+notice 1
+malnutrition 1
+beginning 1
+accident 1
+anything 1
+country 1
+study 1
+beckman 1
+credit 1
+homelessness 1
+baltimore 1
+family 1
+community 1
+spanish- 1
+atrium 1
+trust 1
+area 1
+divorce 1
+housing 1
+consultation 1
+interest 1
+house 1
+speaking 1
+lot 1
+company 1
+hirsch 1
+mariani 1
+phone 1
+part 1
+july 1
+case 1
+counsel 1
+word 1
+work 1
+spokeswoman 1
+mayetta 1
+limit 1
+today 1
+situation 1
+figure 1
+one-third 1
+need 1
+clothing 1
+dubin 1
+information 1
+grant 1
+corporation 1
+agency 1
+consortium 1
+online 1
+picture 1
+living 1
+outreach 1
+director 1
+nothing 1
+president 1
+building 1
+vice 1
+rule 1
+english- 1
+telephone 1
+notion 1
+fact 1
+
+ Arbitary length NP 
+american civil liberty union 1
+rutgers university law school 1
+new jersey state bar association 1

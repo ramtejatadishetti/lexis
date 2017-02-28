@@ -1,0 +1,184 @@
+
+ Bigram NP 
+uncommon good 6
+legal aid 5
+her work 3
+los angeles 3
+economic impossibility 2
+el monte 2
+religious community 1
+major faith 1
+her career 1
+her church 1
+graduate school 1
+her organization 1
+whole generation 1
+life award 1
+oprah winfrey 1
+social conscience 1
+wake-up call 1
+san gabriel 1
+private practice 1
+her law 1
+next year 1
+formidable force 1
+nonfatal malady 1
+nancy mintie 1
+same time 1
+my day 1
+monthly loan 1
+8-year-old son 1
+lisa levsen 1
+secular organization 1
+julius thompson 1
+right time 1
+nonprofit organization 1
+pure form 1
+economic sacrifice 1
+angel network 1
+her role 1
+their law 1
+mancy mintie 1
+middle-class upbringing 1
+high debt 1
+legal problem 1
+22-member board 1
+neal dudovitz 1
+3-a-week stipend 1
+executive director 1
+san fernando 1
+my faith 1
+average debt 1
+slum housing 1
+bite fever 1
+educational debt 1
+medical field 1
+social security 1
+inland valley 1
+our lady 1
+nonprofit operation 1
+william martinez 1
+such misunderstanding 1
+national model 1
+free clinic 1
+
+ Trigram NP 
+los angeles mission 1
+his medical school 1
+neighborhood legal service 1
+inland valley march 1
+joanna corman / 1
+free medical clinic 1
+los angeles county 1
+usc medical school 1
+linda samels ceballos 1
+loyola law school 1
+
+ Unigram NP 
+mintie 12
+money 4
+law 4
+month 3
+school 3
+debt 3
+work 3
+office 2
+skid 2
+row 2
+kind 2
+college 2
+job 2
+poverty 2
+loan 2
+community 2
+lot 2
+physician 2
+field 2
+claremont 2
+ceballos 2
+salary 2
+time 2
+organization 2
+show 1
+mission 1
+wake-up 1
+joanna.corman 1
+justice 1
+program 1
+@ 1
+woman 1
+march 1
+compassion 1
+assistant 1
+practice 1
+recipient 1
+loss 1
+gift 1
+higher-paying 1
+shock 1
+garage 1
+stuff 1
+low-paying 1
+attorney 1
+spring 1
+inland 1
+lawyer 1
+year 1
+oprah 1
+decision 1
+access 1
+state 1
+health 1
+core 1
+pleasant 1
+slum 1
+kitchen 1
+legislature 1
+reason 1
+experience 1
+tv 1
+expression 1
+profession 1
+martinez 1
+eviction 1
+pantyhose 1
+system 1
+payment 1
+assumption 1
+call 1
+way 1
+overhead 1
+care 1
+firm 1
+head 1
+bus 1
+worker 1
+link 1
+case 1
+none 1
+commonality 1
+soup 1
+l.a. 1
+resident 1
+december 1
+dudovitz 1
+something 1
+need 1
+catholic 1
+goal 1
+doctor 1
+graduate 1
+finding 1
+forgiveness 1
+fare 1
+hand 1
+director 1
+tradition 1
+whole 1
+curve 1
+person 1
+mass 1
+nancy 1
+
+ Arbitary length NP 
+inner city law center 3

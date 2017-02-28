@@ -1,0 +1,630 @@
+
+ Bigram NP 
+legal assistance 13
+financial eligibility 4
+lsc act 4
+domestic violence 4
+federal investment 3
+our nation 3
+legal service 3
+required documentation 3
+innovative service 3
+u.s. congress 3
+hispanic origin 2
+non-lsc funding 2
+brief advice 2
+legal information 2
+corrective action 2
+csr handbook 2
+result act 2
+our society 2
+span update 2
+their ability 2
+inspector general 2
+government performance 2
+central role 2
+competitive bidding 2
+citizenship/eligible alien 2
+high quality 2
+other funding 2
+other source 2
+federal funding 2
+our pledge 2
+our commitment 2
+particular grantee 2
+defender association 2
+our government 2
+closed case 2
+old system 1
+brief service 1
+special report 1
+past quarter 1
+intimate partner 1
+address redistricting 1
+on-site compliance 1
+particular state 1
+first methodology 1
+wide range 1
+virgin island 1
+additional guidance 1
+technological revolution 1
+many government 1
+rigorous documentation 1
+it state 1
+individual grantee 1
+initial step 1
+useful insight 1
+denied access 1
+direct delivery 1
+puerto rico 1
+policy priority 1
+current nature 1
+significant change 1
+7-24 percent 1
+public housing 1
+house comm 1
+new provision 1
+total number 1
+reported case 1
+sufficient documentation 1
+agency's performance 1
+protracted negotiation 1
+rough quantitative 1
+new change 1
+their submission 1
+5-9 percent 1
+useful information 1
+potential problem 1
+entire contribution 1
+their mix 1
+top priority 1
+average case 1
+equal access 1
+complete explanation 1
+new reporting 1
+case-by-case basis 1
+title iii 1
+same case 1
+perfect method 1
+overwhelming majority 1
+great deal 1
+20-year-old reporting 1
+cost-per case 1
+actual count 1
+legal work 1
+local bar 1
+child support 1
+redesigned survey 1
+actual counsel 1
+their expectation 1
+particular approach 1
+south carolina 1
+adjusted total 1
+south dakota 1
+new mexico 1
+small percentage 1
+modest increase 1
+monetary impact 1
+our grantees.2 1
+serious situation 1
+maximum income 1
+their attention 1
+domestic violence7 1
+new accountability 1
+stringent reporting 1
+significant borderline 1
+raw cost 1
+additional information 1
+it intake 1
+meaningful access 1
+further definition 1
+necessary information 1
+their grantees' 1
+grantee b 1
+total investment 1
+budget request 1
+integrated statewide 1
+administrative guidance 1
+north carolina 1
+issue lsc 1
+second methodology 1
+corporation september 1
+congressional district 1
+new vision 1
+eligible client 1
+inaccurate reporting 1
+quantifiable data 1
+total caseload 1
+it accuracy 1
+new york 1
+following manner 1
+efficient resolution 1
+special service 1
+comparative value 1
+extensive assessment 1
+their compilation 1
+particular program 1
+complete reporting 1
+prior rule 1
+first performance 1
+unnecessary litigation 1
+ethnicity white 1
+same client 1
+lsc program 1
+considerable relevance 1
+substantial revision 1
+substantial violation 1
+insufficient attention 1
+local program 1
+same year 1
+economic analysis 1
+middle class 1
+national infrastructure 1
+independent research 1
+other error 1
+administrative law 1
+north dakota 1
+income data 1
+severe funding 1
+section v 1
+past case 1
+valid assessment 1
+large number 1
+same amount 1
+new compliance 1
+sufficient information 1
+cost-per-case ratio 1
+annual case 1
+financial stability 1
+other case 1
+private bar 1
+tremendous pressure 1
+legal education 1
+case funded 1
+lowincome population 1
+rep. chabot 1
+alternative funding 1
+intentional misrepresentation 1
+it compliance 1
+inter alia 1
+large segment 1
+l. no 1
+proper documentation 1
+legal problem 1
+artificial increase 1
+strategic plan 1
+large measure 1
+lsc board 1
+untimely closure 1
+low-income individuals.9 1
+nonprofit corporation 1
+different mix 1
+civil justice 1
+national rate 1
+los angeles 1
+west virginia 1
+toll-free telephone 1
+total funding 1
+mr. chabot 1
+it case 1
+
+ Trigram NP 
+other applicable law 4
+american bar association 3
+national legal aid 2
+legal service planning 2
+case service report 2
+general accounting office 2
+their special health 1
+permissible legal assistance 1
+simple cost-per-case analysis 1
+needed legal assistance 1
+legal aid foundation 1
+useful quantitative information 1
+violence against woman 1
+it congressional mandate 1
+it on-site presence 1
+legal assistance foundation 1
+their own reporting 1
+their federal funding 1
+same legal problem 1
+it annual total 1
+for lsc grantee 1
+u.s. census bureau 1
+actual legal assistance 1
+new york city 1
+unmet legal need 1
+strong federal role 1
+new performance measure 1
+american psychological association 1
+csr data lsc 1
+same political party 1
+lsc inspector general 1
+critical legal assistance 1
+other legal assistance 1
+adequate financial eligibility 1
+chairman rep. gekas 1
+legal aid bureau 1
+adequate legal counsel 1
+agency appropriation act 1
+great economic prosperity 1
+
+ Unigram NP 
+lsc 128
+case 44
+system 23
+csr 20
+funding 20
+% 19
+program 17
+client 17
+accuracy 16
+reporting 16
+number 15
+grantee 13
+congress 13
+percent 12
+access 11
+work 11
+assistance 10
+analysis 10
+family 9
+data 9
+service 9
+legal 9
+corporation 9
+documentation 8
+performance 8
+justice 8
+delivery 8
+poverty 7
+information 7
+estimate 7
+guidance 7
+state 7
+health 6
+oversight 6
+eligibility 6
+advice 6
+provision 6
+definition 6
+gao 6
+cost-per-case 6
+self-inspection 6
+lack 5
+level 5
+rate 5
+process 5
+example 5
+law 5
+january 5
+care 5
+year 5
+report 5
+community 5
+addition 5
+problem 5
+measure 5
+time 5
+cost 4
+impact 4
+court 4
+order 4
+hearing 4
+model 4
+management 4
+b 4
+need 4
+average 4
+review 4
+budget 4
+error 4
+unemployment 4
+income 4
+disability 3
+past 3
+compliance 3
+action 3
+total 3
+majority 3
+figure 3
+united 3
+lsc's 3
+status 3
+gpra 3
+issue 3
+u.s. 3
+america 3
+activity 3
+result 3
+extent 3
+custody 3
+grant 3
+source 3
+board 3
+violence 3
+child 3
+bankruptcy 3
+visitation 3
+type 3
+maryland 2
+fy95 2
+lawyer 2
+commercial 2
+november 2
+change 2
+implementation 2
+indiana 2
+assessment 2
+validity 2
+behalf 2
+vawa 2
+sample 2
+internet 2
+quality 2
+population 2
+referral 2
+subcommittee 2
+mind 2
+contact 2
+plan 2
+class 2
+fact 2
+planning 2
+staff 2
+litigation 2
+fy01 2
+awareness 2
+public 2
+requirement 2
+ability 2
+eviction 2
+substance 2
+kentucky 2
+pace 2
+guide 2
+purpose 2
+inc. 2
+web 2
+emergency 2
+government 2
+judiciary 2
+attorney 2
+decision 2
+participation 2
+variety 2
+illinois 2
+age 2
+alien 1
+welfare 1
+anticipation 1
+iii 1
+wyoming 1
+norm 1
+advantage 1
+end 1
+intake 1
+difference 1
+forth 1
+hawaii 1
+program-specific 1
+subcomm 1
+pledge 1
+chicago 1
+brief 1
+method 1
+jury 1
+understanding 1
+path 1
+engage 1
+outgrowth 1
+study 1
+undercount 1
+amount 1
+survey 1
+fy2001 1
+vii 1
+county 1
+decrease 1
+use 1
+breakup 1
+adequacy 1
+duplicate 1
+today 1
+adult 1
+varying 1
+effort 1
+account 1
+abortion 1
+nebraska 1
+congressional 1
+calculation 1
+monitoring 1
+consumer/finance 1
+caution 1
+goal 1
+methodology 1
+idaho 1
+may 1
+fy 1
+president 1
+a 1
+representation 1
+september 1
+consent 1
+stability 1
+chosen 1
+labor 1
+texas 1
+iowa 1
+half 1
+workload 1
+gender 1
+house 1
+system.10 1
+society 1
+measurement 1
+columbia 1
+out 1
+living 1
+oklahoma 1
+safety 1
+arkansas 1
+arizona 1
+wisconsin 1
+pub 1
+training 1
+district 1
+florida 1
+homelessness 1
+guam 1
+strategic 1
+clarity 1
+• 1
+fuller 1
+percentage 1
+tool 1
+cong. 1
+part 1
+vision3 1
+million1 1
+accordance 1
+project 1
+illness 1
+dozen 1
+purchasing 1
+instance 1
+assault 1
+montana 1
+inconsistency 1
+request 1
+consumer 1
+quantity 1
+pursuant 1
+inconsistent 1
+nevada 1
+ratio 1
+ineligibility 1
+black 1
+factor 1
+evolution 1
+resource 1
+corporation's 1
+set 1
+computer 1
+august 1
+reform 1
+federal 1
+bureau 1
+injustice 1
+avoidance 1
+nature 1
+attention 1
+efficiency 1
+c 1
+outcome 1
+admin 1
+drug 1
+april 1
+expense 1
+baltimore 1
+withdraws 1
+period 1
+cy 1
+initiative 1
+sess 1
+basis 1
+acceptance 1
+louisiana 1
+firm 1
+life 1
+determination 1
+demand 1
+pilot 1
+commerce 1
+georgia 1
+situation 1
+procedure 1
+century 1
+vi 1
+program's 1
+iv 1
+ii 1
+administration 1
+development 1
+http 1
+effect 1
+v. 1
+virginia 1
+director 1
+audit 1
+center 1
+consistency 1
+alabama 1
+left 1
+judge 1
+wage 1
+mix 1
+micronesia 1
+improvement 1
+congress�april 1
+input 1
+inflation 1
+reconfiguration 1
+recipient 1
+countervailing 1
+loss 1
+success 1
+submission 1
+output 1
+right 1
+senate 1
+spring 1
+redress 1
+employment 1
+competitor 1
+rulemaking 1
+provider 1
+power 1
+ncj-154348 1
+stem 1
+appropriate 1
+promise 1
+mississippi 1
+housing 1
+legislation 1
+handbook 1
+series 1
+function 1
+count 1
+counsel 1
+fraud 1
+citizenship 1
+corrective 1
+file 1
+education 1
+solicitation 1
+field 1
+branch 1
+test 1
+conclusion 1
+stat 1
+june 1
+outreach 1
+massachusetts 1
+structure 1
+portion 1
+missouri 1
+
+ Arbitary length NP 
+violence against woman act 2
+leveraging federal resource federal 1
+it voluntary strategic planning 1
+federal poverty income guideline 1
+gao/ggd-99-135r lsc case reporting problem 1
+national legal service program legal 1
+american psychological association presidential task force 1
+iv older american act 1
+title xx social security act 1
+legal service corporation serving the civil legal need of low-income american a special report 1
+puerto rico legal service 1

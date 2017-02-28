@@ -1,0 +1,59 @@
+
+ Bigram NP 
+family court 2
+former state 1
+court-mandated session 1
+user-friendly place 1
+tom garrett 1
+court administrator 1
+executive director 1
+low-cost counsel 1
+state-mandated course 1
+same docket 1
+separate court 1
+sally fox 1
+
+ Trigram NP 
+
+ Unigram NP 
+divorce 6
+lawyer 4
+court 3
+attorney 2
+process 2
+percent 2
+system 2
+majority 2
+state 2
+judgment 2
+vermont 2
+fox 2
+place 2
+control 1
+office 1
+legislation 1
+tuesday 1
+montpelier 1
+judge 1
+cost 1
+something 1
+custody 1
+do-it-yourself 1
+lot 1
+family 1
+effect 1
+director 1
+representative 1
+knot 1
+child 1
+front 1
+class 1
+goal 1
+january 1
+vt. 1
+thing 1
+order 1
+juvenile 1
+
+ Arbitary length NP 
+legal service law line 1

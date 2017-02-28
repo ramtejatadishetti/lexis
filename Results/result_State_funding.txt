@@ -1,0 +1,98 @@
+
+ Bigram NP 
+chief justice 1
+lawyer trust 1
+short-term client 1
+good thing 1
+circuit court 1
+real estate 1
+primary provider 1
+local intake 1
+their time 1
+other source 1
+half dozen 1
+courtney mathews 1
+next year 1
+enough money 1
+legal service 1
+
+ Trigram NP 
+free legal aid 4
+indiana legal service 3
+it current location 1
+indiana bar commission 1
+indiana supreme court 1
+pam tharp monday 1
+u.s. supreme court 1
+our present location 1
+pro bono commission 1
+richmond legal service 1
+s. a st. 1
+
+ Unigram NP 
+mathews 8
+interest 6
+office 5
+williams 5
+funding 4
+commission 4
+cut 3
+district 3
+state 3
+program 3
+lot 3
+staff 2
+agency 2
+client 2
+indiana 2
+genesis 2
+case 2
+budget 2
+time 2
+ywca 1
+attorney 1
+work 1
+danger 1
+december 1
+pro 1
+wayne 1
+coordinator 1
+need 1
+support 1
+trust 1
+richmond 1
+source 1
+union 1
+decision 1
+paralegal 1
+reduction 1
+legal 1
+access 1
+money 1
+issue 1
+week 1
+administrator 1
+doubt 1
+out-of-pocket 1
+fayette 1
+gap 1
+constitutionality 1
+percent 1
+court 1
+population 1
+rush 1
+census 1
+attempt 1
+question 1
+iolta 1
+january 1
+drop 1
+future 1
+franklin 1
+order 1
+anyone 1
+
+ Arbitary length NP 
+indiana legal services' indianapolis 1
+violence against woman act 1
+union circuit judge james williams 1

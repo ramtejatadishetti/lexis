@@ -1,0 +1,106 @@
+
+ Bigram NP 
+baltimore county 4
+bar association 1
+individual lawyer 1
+first year 1
+point wagonheim 1
+heavy snowfall 1
+17-year veteran 1
+new york 1
+2-type program 1
+legal profession 1
+public image 1
+new program 1
+billable hour 1
+next time 1
+executive director 1
+financial boost 1
+formal program 1
+professional responsibility 1
+north county 1
+
+ Trigram NP 
+legal aid bureau 2
+much critical need 1
+world trade center 1
+chesapeake blue festival 1
+new york city 1
+
+ Unigram NP 
+wagonheim 11
+take 8
+fund 5
+charity 3
+family 2
+community 2
+lawyer 2
+rehfeld 2
+money 2
+rescue 2
+shock 1
+force 1
+point 1
+www.wtlawfirm.com 1
+december 1
+focus 1
+convalescence 1
+heard 1
+way 1
+initiative 1
+something 1
+year 1
+need 1
+publicity 1
+endeavor 1
+endowment 1
+event 1
+unit 1
+use 1
+towson 1
+area 1
+needy 1
+annapolis 1
+percent 1
+benefit 1
+member 1
+program 1
+trauma 1
+lot 1
+msba 1
+hat 1
+march 1
+emergency 1
+driver 1
+yesterday 1
+donation 1
+nolan 1
+course 1
+line 1
+response 1
+association 1
+professionalism 1
+pennsylvania 1
+joke 1
+work 1
+experience 1
+www.bcba.org 1
+project 1
+amount 1
+truck 1
+shortcoming 1
+contingency 1
+firefighter 1
+baltimore 1
+
+ Arbitary length NP 
+firefighter michael r. rehfeld 1
+wilhelm h. joseph jr. 1
+baltimore county bar foundation 1
+legal aid earl kelly friday 1
+sandy point state park 1
+maryland state bar association 1
+baltimore county bar association 1
+lawyer eliot m. wagonheim 1
+daily record towson attorney design project 1
+baltimore county bar association president stephen j. nolan 1

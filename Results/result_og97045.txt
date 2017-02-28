@@ -1,0 +1,187 @@
+
+ Bigram NP 
+national program 3
+final rule 2
+annual cost 1
+procedure act 1
+cost-benefit analysis 1
+substantial number 1
+public docket 1
+proposed rulemaking 1
+rhode island 1
+regulatory impact 1
+our assessment 1
+peter guerrero 1
+protection agency 1
+state-by-state program 1
+new jersey 1
+voluntary program 1
+104-4 § 1
+statutory authorization 1
+regulatory stability 1
+mr. guerrero 1
+new york 1
+alan zuckerman 1
+federal register 1
+major rule 1
+jr. chairman 1
+it submission 1
+order no 1
+congressional budget 1
+et seq 1
+final agreement 1
+our report 1
+commerce house 1
+covered rule 1
+regulatory flexibility 1
+regulatory management 1
+epa administrator 1
+northern portion 1
+executive order 1
+low emission 1
+new hampshire 1
+light-duty truck 1
+same pollution 1
+our review 1
+public hearing 1
+
+ Trigram NP 
+clean air act 4
+environmental protection agency 2
+new motor vehicle 2
+paperwork reduction act 2
+assistant general counsel 1
+final rule pursuant 1
+federal private sector 1
+ozone transport region 1
+ozone transport commission 1
+enclosure analysis under 1
+national low emission 1
+environmental protection issue 1
+other federal motor 1
+quid pro quo 1
+regional epa administrator 1
+impoundment control act 1
+regulatory flexibility act 1
+federal intergovernmental mandate 1
+main regulatory framework 1
+significant regulatory action 1
+other relevant information 1
+public work united 1
+
+ Unigram NP 
+epa 15
+rule 13
+program 11
+vehicle 11
+u.s.c 7
+otc 6
+analysis 5
+office 4
+california 4
+otr 4
+agency 4
+cost 3
+section 3
+state 3
+omb 3
+designee 3
+i 3
+executive 2
+title 2
+year 2
+reg 2
+notice 2
+act 2
+pollution 2
+motor 2
+fed 2
+ii 2
+b 2
+official 2
+gao/ogc-97-45 2
+control 2
+iv 2
+rin 2
+information 2
+collection 2
+comment 1
+code 1
+maine 1
+group 1
+implementation 1
+environment 1
+maryland 1
+virginia 1
+october 1
+mandate 1
+report 1
+512-4586 1
+l. 1
+public 1
+set 1
+senate 1
+authority 1
+result 1
+columbia 1
+subject 1
+record 1
+federal 1
+delaware 1
+evaluation 1
+participation 1
+august 1
+pub 1
+november 1
+manufacturer 1
+compliance 1
+consequence 1
+duty 1
+cc 1
+respect 1
+district 1
+automobile 1
+reduction 1
+regulation 1
+final 1
+enforcement 1
+gao 1
+connecticut 1
+iii 1
+governor 1
+air 1
+pennsylvania 1
+recommendation 1
+need 1
+work 1
+united 1
+512-6111 1
+may 1
+price 1
+june 1
+director 1
+meaning 1
+massachusetts 1
+response 1
+vermont 1
+request 1
+contact 1
+time 1
+model 1
+review 1
+
+ Arbitary length NP 
+new motor vehicle engine air pollution control 2
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+a major rule issued by the environmental protection agency entitled 1
+honorable john h. chafee chairman 1
+standard for light-duty vehicle 1
+robert p. murphy general counsel enclosure 1
+new motor vehicle and new motor vehicle engine air pollution control 1
+honorable max baucus ranking minority member committee 1
+national low emission vehicle 1
+general counsel b-277027 june 1
+information environmental protection agency 1
+thomas e. kelly director 1
+honorable thomas j. bliley 1

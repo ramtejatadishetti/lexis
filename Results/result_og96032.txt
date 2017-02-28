@@ -1,0 +1,173 @@
+
+ Bigram NP 
+fcc rcd 4
+proposed rulemaking 3
+federal register 3
+cost-benefit analysis 2
+full text 2
+projected reporting 2
+first report 2
+other compliance 2
+statutory authorization 1
+initial analysis 1
+title ii 1
+transitional rule 1
+our assessment 1
+affirmative compliance 1
+last group 1
+gao/ogc-96-32 section 1
+small entity 1
+general manner 1
+communication act 1
+transportation united 1
+second notice 1
+major rule 1
+jr. chairman 1
+it submission 1
+transitional state 1
+final rule 1
+economic impact 1
+et seq 1
+our report 1
+legal basis 1
+supplementary information 1
+direct response 1
+unlimited resale 1
+commerce house 1
+initial notice 1
+john anderson 1
+detailed discussion 1
+full consideration 1
+it proposal 1
+commercial mobile 1
+chief counsel 1
+our review 1
+telecommunication issue 1
+mr. anderson 1
+
+ Trigram NP 
+commercial mobile radio 4
+resale obligation pertaining 3
+regulatory flexibility analysis 3
+cc docket no 2
+it final analysis 1
+two-way switched voice 1
+paperwork reduction act 1
+independent regulatory agency 1
+small business administration 1
+kathleen e. wannisky 1
+initial regulatory flexibility 1
+federal communication commission 1
+certain specialized mobile 1
+§§ 1532-1535 page 1
+other relevant information 1
+regulatory flexibility act 1
+administrative procedure act 1
+interconnection obligation pertaining 1
+associate general counsel 1
+
+ Unigram NP 
+commission 24
+rule 15
+order 12
+report 9
+section 9
+u.s.c 7
+analysis 7
+rulemaking 5
+federal 5
+b 5
+interconnection 5
+resale 5
+reg 4
+notice 4
+fed 4
+i 4
+information 4
+market 3
+july 3
+agency 3
+executive 2
+radio 2
+title 2
+fcc-96-263 2
+participation 2
+universe 2
+compliance 2
+service 2
+gao 2
+r 2
+j 2
+iv 2
+recordkeeping 2
+purpose 2
+code 1
+office 1
+submission 1
+work 1
+senate 1
+512-5207 1
+year 1
+operation 1
+subject 1
+proceeding 1
+access 1
+evaluation 1
+transportation 1
+consideration 1
+estimate 1
+c 1
+april 1
+act 1
+action 1
+comment 1
+cc 1
+number 1
+respect 1
+initial 1
+authorization 1
+regard 1
+gao/ogc-96-32 1
+iii 1
+commerce 1
+exception 1
+512-2834 1
+accordance 1
+science 1
+official 1
+advocacy 1
+preparation 1
+manner 1
+process 1
+spectrum 1
+ii 1
+need 1
+united 1
+variety 1
+discussion 1
+inquiry 1
+description 1
+collection 1
+director 1
+opportunity 1
+response 1
+mobile 1
+contact 1
+mass 1
+
+ Arbitary length NP 
+final regulatory flexibility analysis 2
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+honorable larry pressler chairman 1
+honorable ernest f. hollings ranking minority member committee 1
+other relevant federal rule 1
+general counsel b-272939 august 1
+resale obligation pertaining to commercial mobile radio service 1
+gao/ogc-96-32 enclosure analysis under 1
+robert p. murphy general counsel enclosure 1
+initial regulatory flexibility analysis 1
+a major rule issued by the federal communication commission entitled 1
+mr. andrew s. fishel managing director federal communication commission page 1
+commercial mobile radio service pursuant 1
+honorable thomas j. bliley 1

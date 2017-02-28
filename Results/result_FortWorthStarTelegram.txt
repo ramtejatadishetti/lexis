@@ -1,0 +1,95 @@
+
+ Bigram NP 
+legal aid 5
+legal assistance 2
+last year 2
+circuit court 2
+federal funding 2
+poverty population 1
+san francisco 1
+equal access 1
+kathy duncan 1
+national overhaul 1
+tarrant county 1
+their permission 1
+austin-based foundation 1
+new orleans 1
+our program 1
+north texas 1
+domestic violence 1
+west texas 1
+improper taking 1
+worth-based nonprofit 1
+executive director 1
+waive service 1
+budgetary target 1
+whole lot 1
+federal poverty 1
+fort worth 1
+legal service 1
+vital work 1
+justice foundation 1
+betty torres 1
+
+ Trigram NP 
+west texas legal 3
+legal service corp. 2
+u.s. supreme court 1
+texas equal access 1
+texas supreme court 1
+
+ Unigram NP 
+program 6
+interest 5
+iolta 5
+money 4
+fund 4
+trust 3
+group 3
+state 3
+texas 3
+foundation 3
+statewide 2
+year 2
+staff 2
+naacp 2
+u.s 2
+dec. 2
+court 2
+washington 2
+potter 1
+lawyer 1
+decline 1
+constitutionality 1
+midland 1
+grant 1
+lubbock 1
+support 1
+percent 1
+guideline 1
+branch 1
+assistance 1
+congress 1
+doubt 1
+time 1
+texas' 1
+funding 1
+jeopardy 1
+future 1
+fort 1
+a 1
+attempt 1
+work 1
+arlington 1
+filing 1
+part 1
+dallas 1
+tarrant 1
+chapter 1
+
+ Arbitary length NP 
+west texas legal service 1
+fort worth star-telegram grant 1
+max b. baker november 1
+northwest texas legal aid 1
+fort worth justice project 1

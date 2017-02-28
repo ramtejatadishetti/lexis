@@ -1,0 +1,144 @@
+
+ Bigram NP 
+roy barnes 3
+jimmy carter 2
+equal justice 2
+legal aid 2
+former governor 1
+non-profit group 1
+remarkable decision 1
+wealthy man 1
+seven-figure salary 1
+governor barnes 1
+our courthouse 1
+american democracy 1
+last year 1
+added benefit 1
+skilled lawyer 1
+legal equality 1
+same thing 1
+only way 1
+constitutional government 1
+his solo 1
+his life 1
+federal budget 1
+steven gottlieb 1
+legal community 1
+elective office 1
+average revenue 1
+domestic violence 1
+political office 1
+young lawyer 1
+legal system 1
+successful trial 1
+executive director 1
+sonny perdue 1
+his time 1
+general right 1
+same way 1
+chapel hill 1
+recent affluence 1
+burton craige 1
+legal profession 1
+unc school 1
+past decade 1
+
+ Trigram NP 
+democrat roy barnes 1
+our total expenditure 1
+atlanta legal aid 1
+new ex-georgia governor 1
+unfulfilled rhetorical pledge 1
+gene r. nichol 1
+
+ Unigram NP 
+georgia 5
+barnes 4
+law 4
+office 3
+percent 3
+rest 2
+candidate 2
+program 2
+world 2
+day 2
+lawyer 2
+joke 2
+study 2
+support 2
+work 2
+country 2
+something 2
+money 1
+course 1
+staff 1
+gold 1
+explain 1
+someone 1
+practice 1
+none 1
+confederate 1
+shoulder 1
+whether 1
+c-span 1
+carter 1
+election 1
+year 1
+hammer 1
+misfortune 1
+sentiment 1
+lott 1
+gottlieb 1
+carpet 1
+leader 1
+marietta 1
+november 1
+cornerstone 1
+shine 1
+trial 1
+amount 1
+campaign 1
+number 1
+one 1
+message 1
+sonny 1
+service 1
+it's 1
+lot 1
+perplexing 1
+brand 1
+phone 1
+flag 1
+child 1
+atlanta 1
+barnes-perdue 1
+population 1
+kind 1
+politician 1
+caseload 1
+consultant 1
+cash 1
+governor 1
+aid 1
+powerless 1
+citizenship 1
+figure 1
+december 1
+tide 1
+united 1
+person 1
+peace 1
+american 1
+majority 1
+holding 1
+symbol 1
+moment 1
+president 1
+bleak 1
+refreshing 1
+professor 1
+cascade 1
+
+ Arbitary length NP 
+gene r. nichol sunday 1
+atlanta legal aid society 1

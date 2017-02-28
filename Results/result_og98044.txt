@@ -1,0 +1,159 @@
+
+ Bigram NP 
+final rule 10
+effective date 3
+medicare program 3
+fiscal year 2
+per-beneficiary limitation 2
+major rule 2
+regulatory action 1
+procedure act 1
+cost-benefit analysis 1
+health financing 1
+substantial number 1
+private sector 1
+finance united 1
+our assessment 1
+good cause 1
+statutory authorization 1
+significant impact 1
+william scanlon 1
+mean house 1
+et seq 1
+federal register 1
+mr. scanlon 1
+jr. chairman 1
+order no 1
+james vickers 1
+cost report 1
+system issue 1
+our report 1
+commerce house 1
+unduplicated census 1
+regulatory relief 1
+new schedule 1
+30-day delay 1
+same reason 1
+60-day delay 1
+our review 1
+federal intergovernmental 1
+
+ Trigram NP 
+paperwork reduction act 2
+balanced budget act 2
+aggregate per-beneficiary limitation 2
+cost reporting period 1
+regulatory impact analysis 1
+human service page 1
+assistant general counsel 1
+unfunded mandate act 1
+congressional review act 1
+regulatory flexibility analysis 1
+other relevant information 1
+regulatory flexibility act 1
+social security act 1
+their non-profit status 1
+
+ Unigram NP 
+hcfa 11
+u.s.c 10
+health 8
+rule 7
+section 5
+human 4
+b 4
+office 3
+agency 3
+department 3
+schedule 3
+comment 2
+iv 2
+rin 2
+0938-ai84 2
+title 2
+executive 2
+omb 2
+march 2
+i 2
+l 2
+v 2
+gao/ogc-98-44 2
+april 2
+budget 2
+management 2
+secretary 2
+code 1
+subtitle 1
+senate 1
+l. 1
+official 1
+period 1
+authority 1
+512-7114 1
+cost 1
+respect 1
+home 1
+work 1
+subject 1
+impact 1
+information 1
+fed 1
+united 1
+receipt 1
+percent 1
+pub 1
+note 1
+cc 1
+program 1
+way 1
+size 1
+evaluation 1
+reg 1
+notice 1
+statute 1
+august 1
+form 1
+pursuant 1
+reporting 1
+effect 1
+collection 1
+gao 1
+virtue 1
+burden 1
+mandate 1
+report 1
+entity 1
+iii 1
+ii 1
+care 1
+count 1
+director 1
+exception 1
+october 1
+512-8210 1
+d 1
+accordance 1
+compliance 1
+medicare 1
+order 1
+
+ Arbitary length NP 
+health care financing administration 3
+home health agency cost 2
+honorable john d. dingell ranking minority member committee 1
+a major rule issued by the department of health and human service 1
+honorable daniel patrick moynihan ranking minority member committee 1
+small business regulatory enforcement fairness act 1
+honorable william v. roth chairman 1
+gao/ogc-98-44 enclosure analysis under 1
+cost reporting period pursuant 1
+honorable charles b. rangel ranking minority member committee 1
+health care financing administration entitled 1
+honorable bill archer chairman 1
+general counsel b-279750 april 1
+national claim history standard analytical file 1
+per-beneficiary limitation on home health agency cost for cost reporting period 1
+robert p. murphy general counsel enclosure 1
+honorable donna e. shalala 1
+honorable thomas j. bliley 1
+unfunded mandate reform act 1

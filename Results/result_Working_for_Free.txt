@@ -1,0 +1,139 @@
+
+ Bigram NP 
+his life 2
+recent morning 2
+his career 2
+legal aid 2
+santa monica 1
+senior business 1
+garment district 1
+upper-middle-class enclave 1
+his decision 1
+bruce zucker 1
+single mother 1
+prefabricated building 1
+temporary judge 1
+upscale restaurant 1
+my client 1
+nice-hearted man 1
+landlord-tenant dispute 1
+overwhelming poverty 1
+your life 1
+bleeding heart 1
+hands-on program 1
+huge advocate 1
+haynes sunday 1
+jacqueline green 1
+his volunteer 1
+small table 1
+public assistance 1
+statewide recognition 1
+north hollywood 1
+legal representation 1
+state bar 1
+little man 1
+his wife 1
+justice center 1
+full-time business 1
+right thing 1
+professor zucker 1
+van nuys 1
+dramatic event 1
+their weekend 1
+kiren dosanjh 1
+court-sponsored program 1
+two-room office 1
+nicole blackman 1
+his schooling 1
+my job 1
+athletic man 1
+my childhood 1
+prestigious work 1
+
+ Trigram NP 
+cal state northridge 3
+van nuys courthouse 1
+taft high school 1
+free legal help 1
+at-risk high school 1
+small claim court 1
+legal access center 1
+free pay off 1
+san fernando valley 1
+his life's passion 1
+loyola law school 1
+
+ Unigram NP 
+zucker 17
+law 4
+work 4
+center 3
+attorney 2
+lawyer 2
+job 2
+poverty 2
+day 2
+case 2
+professor 2
+client 2
+impression 1
+counter 1
+burden 1
+gold 1
+resident 1
+merit 1
+course 1
+brush 1
+year 1
+manner 1
+table 1
+california 1
+dozen 1
+conference 1
+court 1
+west 1
+ucla 1
+stack 1
+access 1
+elation 1
+program 1
+passion 1
+karima 1
+answer 1
+green 1
+meeting 1
+challenge 1
+today 1
+firm 1
+someone 1
+northridge 1
+advice 1
+internet 1
+kind 1
+award 1
+a. 1
+lunch 1
+student 1
+nothing 1
+president 1
+shadow 1
+thrill 1
+school 1
+cause 1
+january 1
+credit 1
+week 1
+time 1
+praise 1
+divorce 1
+newspaper 1
+representation 1
+passionate 1
+honor 1
+something 1
+
+ Arbitary length NP 
+ventura county superior court 1
+pro bono service award 1
+van nuys self-help legal access center 1
+caring lawyer bruce zucker 1

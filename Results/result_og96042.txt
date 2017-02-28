@@ -1,0 +1,215 @@
+
+ Bigram NP 
+final rule 9
+federal test 3
+annual cost 2
+procedure act 1
+cost-benefit analysis 1
+substantial number 1
+public docket 1
+similar notice 1
+private sector 1
+regulatory affair 1
+per vehicle 1
+such information 1
+lead time 1
+annual certification 1
+additional time 1
+our assessment 1
+peter guerrero 1
+tailpipe emission 1
+protection agency 1
+other statute 1
+rapid speed 1
+statutory authorization 1
+adequate time 1
+burdensome alternative 1
+mr. guerrero 1
+such action 1
+et seq 1
+senior attorney 1
+quantitative assessment 1
+federal register 1
+actual driving 1
+major rule 1
+jr. chairman 1
+it submission 1
+order no 1
+james vickers 1
+typical manufacturer 1
+high acceleration 1
+new motor 1
+our report 1
+commerce house 1
+regulatory management 1
+director office 1
+high-speed and/or 1
+motor vehicle 1
+public hearing 1
+mechanical integrity 1
+sierra club 1
+new set 1
+budgetary impact 1
+our review 1
+intergovernmental mandate 1
+estimated cost 1
+
+ Trigram NP 
+environmental protection agency 5
+clean air act 4
+regulatory impact analysis 3
+regulatory flexibility act 2
+administrative procedure act 1
+full environmental cell 1
+final regulatory flexibility 1
+other relevant information 1
+thomas e. kelly 1
+reflect real road 1
+public work united 1
+environmental protection issue 1
+paperwork reduction act 1
+planned regulatory action 1
+significant regulatory action 1
+information collection request 1
+significant economic impact 1
+executive order no 1
+motor vehicle pursuant 1
+
+ Unigram NP 
+epa 19
+rule 15
+u.s.c 8
+information 8
+comment 7
+section 6
+cost 5
+period 5
+test 5
+collection 4
+d 4
+omb 4
+use 4
+vehicle 4
+analysis 4
+office 3
+executive 3
+h 3
+reg 3
+motor 3
+approval 3
+fed 3
+b 3
+air 3
+procedure 3
+i 3
+§ 2
+title 2
+burden 2
+mandate 2
+benefit 2
+testing 2
+close 2
+icr 2
+notice 2
+august 2
+preamble 2
+simulation 2
+act 2
+type 2
+behavior 2
+iv 2
+rin 2
+agency 2
+document 2
+scenario 2
+order 2
+code 1
+certification 1
+nitrogen 1
+nonmethane 1
+environment 1
+consideration 1
+october 1
+report 1
+redesign 1
+february 1
+512-8210 1
+requirement 1
+work 1
+durability 1
+senate 1
+startup 1
+§§ 1
+result 1
+year 1
+subject 1
+rulemaking 1
+recalibration 1
+state 1
+evaluation 1
+reason 1
+conditioning 1
+excess 1
+carbon 1
+estimate 1
+k 1
+compliance 1
+april 1
+action 1
+gao/ogc-96-42 1
+facility 1
+cc 1
+ii 1
+respect 1
+management 1
+temperature 1
+addition 1
+automobile 1
+altitude 1
+reduction 1
+emission 1
+gao 1
+july 1
+iii 1
+hardware 1
+assessment 1
+official 1
+budget 1
+record 1
+process 1
+december 1
+costle 1
+need 1
+lifetime 1
+demonstration 1
+f. 1
+acceleration 1
+united 1
+court 1
+monoxide 1
+promulgation 1
+revision 1
+administrator 1
+512-6111 1
+may 1
+v. 1
+director 1
+meaning 1
+response 1
+dynamometer 1
+docket 1
+
+ Arbitary length NP 
+supplemental federal test procedure 2
+honorable john d. dingell ranking minority member committee 1
+general counsel b-274402 november 1
+a major rule issued by the environmental protection agency entitled 1
+honorable john h. chafee chairman 1
+final regulation for revision to the federal test procedure for emission from motor vehicle 1
+gao/ogc-96-42 paperwork reduction act 1
+honorable max baucus ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+information environmental protection agency page 1
+gao/ogc-96-42 enclosure analysis under 1
+honorable thomas j. bliley 1
+unfunded mandate reform act 1

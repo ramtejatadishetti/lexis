@@ -1,0 +1,204 @@
+
+ Bigram NP 
+new york 5
+legal representation 3
+roberta chamber 2
+good guy 2
+fred rooney 2
+bethlehem steel 2
+low bono 2
+village voice 1
+lori mannicci 1
+registered nurse 1
+your start 1
+childish innocence 1
+my life 1
+metropolitan area 1
+big law 1
+lehigh university 1
+his income 1
+diverse law 1
+nat hentoff 1
+human suffering 1
+next year 1
+right person 1
+affluent upbringing 1
+converted storefront 1
+quiet trust 1
+good fortune 1
+his uncle 1
+sue bryant 1
+his brother 1
+deep sense 1
+his face 1
+prestigious award 1
+first class 1
+full fee 1
+''seminal force 1
+his experience 1
+middle class 1
+jimmy stewart-like 1
+her dream 1
+used law 1
+right thing 1
+same path 1
+his time 1
+dorothy zellner 1
+latin america 1
+ford foundation 1
+federal poverty 1
+linda gardner 1
+former law 1
+two-hour drive 1
+social justice 1
+long island 1
+hard work 1
+button-down shirt 1
+green card 1
+city university 1
+perfect fit 1
+chevy nova 1
+medical care 1
+queen village 1
+whole fee 1
+large percentage 1
+
+ Trigram NP 
+priscilla payne hurd 1
+ron devlin november 1
+american bar association 1
+open society institute 1
+250-an-hour legal counselor 1
+haupert humanitarian award 1
+their legal talent 1
+kristin booth glen 1
+rep. t.j. rooney 1
+cuny law school 1
+
+ Unigram NP 
+rooney 18
+law 9
+bethlehem 8
+practice 5
+school 5
+network 5
+work 4
+lawyer 4
+community 3
+moravian 3
+campus 3
+latino 3
+queen 2
+program 2
+working-class 2
+idea 2
+rate 2
+state 2
+service 2
+way 2
+cuny 2
+child 2
+look 2
+tonight 2
+something 2
+''it 2
+client 2
+help 1
+midwestern 1
+front 1
+part 1
+glen 1
+justice 1
+executive 1
+melting 1
+account 1
+nation 1
+judge 1
+shadow 1
+bryan 1
+success 1
+morning 1
+chamber 1
+stuff 1
+bono 1
+malnutrition 1
+vision 1
+jamaica 1
+dean 1
+folk 1
+living 1
+undergraduate 1
+research 1
+solo 1
+hero 1
+ability 1
+power 1
+journal 1
+effect 1
+host 1
+poverty 1
+key 1
+article 1
+motto 1
+legislature 1
+auction 1
+job 1
+storefront 1
+family 1
+point 1
+wall 1
+pot 1
+washington 1
+number 1
+son 1
+everyone 1
+neighborhood 1
+quality 1
+custody 1
+bankruptcy 1
+fee 1
+addition 1
+divorce 1
+system 1
+consultation 1
+privilege 1
+prototype 1
+firm 1
+bus 1
+award 1
+junior 1
+kind 1
+hour 1
+bill 1
+spokeswoman 1
+partner 1
+education 1
+saw 1
+court 1
+allentown 1
+percent 1
+trip 1
+income 1
+party 1
+week 1
+administrator 1
+lanky 1
+d.c. 1
+trace 1
+advice 1
+loyalty 1
+plan 1
+payment 1
+light 1
+fluent 1
+reception 1
+dream 1
+
+ Arbitary length NP 
+community legal resource network 3
+u.s. rep. fred rooney 1
+new york supreme court 1
+new york law school 1
+lehigh valley legal service 1
+moravian college alumnus association 1
+district justice michele varricchio 1

@@ -1,0 +1,253 @@
+
+ Bigram NP 
+final rule 15
+regulation x 9
+controlled business 5
+executive order 4
+it submission 3
+policy statement 3
+our inquiry 3
+open house 3
+substantial number 2
+significant impact 2
+federal register 2
+such certification 2
+economic analysis 2
+urban development 2
+statutory authorization 1
+cost-benefit analysis 1
+it consistency 1
+private sector 1
+secretary ] 1
+family order 1
+ms. england-joseph 1
+environmental justice 1
+our assessment 1
+other statute 1
+explanatory statement 1
+environmental impact 1
+proper submission 1
+general well-being 1
+gao/ogc-96-22 clos 1
+judy england-joseph 1
+senior attorney 1
+major rule 1
+et seq 1
+related mortgage 1
+solicit input 1
+essential information 1
+it action 1
+federalism order 1
+our report 1
+succinct statement 1
+and retaliation 1
+reasonable pricing 1
+interested industry 1
+public comment 1
+their input 1
+real estate 1
+intergovernmental partnership 1
+separate copy 1
+our review 1
+public hearing 1
+chief counsel 1
+
+ Trigram NP 
+significant regulatory action 2
+regulatory flexibility act 2
+significant economic impact 2
+administrative procedure act 1
+informal public hearing 1
+paperwork reduction act 1
+civil justice reform 1
+general counsel department 1
+small real estate 1
+small business administration 1
+final regulatory flexibility 1
+[ respa ] 1
+it ] assessment 1
+certain controlled business 1
+urban development page 1
+significant intergovernmental mandate 1
+other relevant information 1
+community development issue 1
+financial service house 1
+urban affair united 1
+helen t. desaulniers 1
+
+ Unigram NP 
+hud 46
+rule 26
+reg 16
+fed 16
+omb 14
+u.s.c 13
+respa 11
+analysis 10
+clos 9
+section 8
+staff 6
+c 6
+disclosure 6
+executive 5
+policy 5
+origination 5
+computer 5
+connection 5
+loan 5
+respect 5
+addition 5
+housing 5
+b 5
+office 4
+§ 4
+state 4
+employer/employee 4
+sba 4
+response 4
+order 4
+certification 3
+title 3
+government 3
+submission 3
+withdrawal 3
+federal 3
+review 3
+comment 3
+gao/ogc-96-22 3
+july 3
+fr-3638 3
+id 3
+agency 3
+settlement 2
+impact 2
+group 2
+practice 2
+prohibition 2
+issue 2
+retaliation 2
+banking 2
+notice 2
+space 2
+business 2
+approval 2
+exemption 2
+family 2
+period 2
+statement 2
+relationship 2
+official 2
+economic 2
+august 2
+iv 2
+rin 2
+information 2
+promulgation 2
+discussion 2
+department 2
+sham 2
+june 2
+i 2
+hud's 2
+code 1
+surplus 1
+september 1
+512-4740 1
+pursuant 1
+producer 1
+guidance 1
+environment 1
+treatment 1
+37373-4 1
+finding 1
+report 1
+public 1
+enhance 1
+entitled 1
+status 1
+requirement 1
+work 1
+senate 1
+competition 1
+§§ 1
+result 1
+subject 1
+power 1
+esq 1
+diaz 1
+evaluation 1
+512-7631 1
+ability 1
+formation 1
+collection 1
+extent 1
+[ 1
+distribution 1
+certainty 1
+compliance 1
+act 1
+action 1
+federalism 1
+cc 1
+analyzing 1
+trust 1
+management 1
+publication 1
+head 1
+maintenance 1
+gao 1
+determination 1
+authority 1
+elimination 1
+iii 1
+affiliates' 1
+ii 1
+lock-outs 1
+budget 1
+advocacy 1
+preparation 1
+compensation 1
+problem 1
+property 1
+process 1
+correction 1
+united 1
+solicitation 1
+s 1
+instance 1
+potential 1
+development 1
+may 1
+testimony 1
+a. 1
+director 1
+abuse 1
+aggregate 1
+] 1
+statute 1
+individual 1
+elaboration2 1
+rulemaking 1
+nelson 1
+consumer 1
+
+ Arbitary length NP 
+estate settlement procedure act 3
+computer loan origination system exemption 2
+unfunded mandate reform act 2
+the real estate settlement procedure act 1
+regarding computer loan origination system 1
+honorable henry b. gonzalez ranking minority member committee 1
+gao/ogc-96-22 enclosure analysis under 1
+a major rule issued by the department of housing and urban development 1
+gao/ogc-96-22 paperwork reduction act 1
+rental of office space 1
+honorable alfonse m. d'amato chairman 1
+general counsel b-272303.1 june 1
+national environmental policy act 1
+honorable james a. leach chairman 1
+employer/employee and computer loan origination system exemption 1
+regarding sham controlled business arrangement 1
+honorable paul s. sarbanes ranking minority member committee 1
+amendment to regulation x 1
+robert p. murphy general counsel enclosure 1

@@ -1,0 +1,1495 @@
+
+ Bigram NP 
+internal control 120
+audited entity 75
+subject matter 38
+other noncompliance 35
+financial reporting 28
+financial audit 25
+reasonable assurance 21
+illegal act 20
+professional judgment 18
+their work 16
+additional reporting 15
+accepted government 15
+computerized information 14
+financial statement 13
+comptroller general 13
+corrective action 12
+their report 12
+public interest 12
+other compliance 12
+relevant evidence 11
+such information 10
+external peer 10
+material effect 10
+certain information 10
+applicable standard 9
+their audit 9
+additional field 8
+experienced reviewer 8
+legal counsel 8
+audited program 7
+timely manner 7
+separate report 7
+confidential information 7
+american institute 7
+final report 6
+public accountability 6
+their entity 6
+general disclosure 6
+sufficient information 6
+general standard 6
+attestation engagement 6
+reasonable basis 6
+public inspection 5
+internal quality 5
+finding depend 5
+evidential matter 5
+unauthorized acquisition 5
+relevant information 5
+reviewed organization 5
+aicpa statement 5
+possible fraud 5
+advisory council 4
+proper perspective 4
+following paragraph 4
+other information 4
+professional skepticism 4
+such work 4
+related recommendation 4
+specific audit 4
+private sector 4
+auditing standard 4
+financial information 4
+local government 4
+additional standard 4
+subsequent report 4
+their status 4
+sufficient evidence 4
+previous connection 4
+consistent application 4
+engagement letter 4
+common interest 3
+particular act 3
+public accounting 3
+upon request 3
+significant finding 3
+audit documentation 3
+ongoing basis 3
+detailed information 3
+financial management 3
+wide variety 3
+principal support 3
+further distribution 3
+applicable government 3
+sound computer 3
+possible effect 3
+sponsoring organization 3
+legal oversight 3
+sufficient level 3
+effective include 3
+auditor communication 3
+integral part 3
+electronic documentation 3
+available report 3
+other professional 3
+external funding 3
+objective manner 3
+known effect 3
+particular program 3
+provide guidance 3
+time-critical need 3
+safe custody 3
+testimonial evidence 3
+amendment no 3
+final determination 3
+treadway commission 3
+certain fraud 3
+public safety 3
+sufficient understanding 3
+timely access 3
+expeditious way 3
+single audit 3
+timely detection 3
+broad range 3
+applicable law 3
+potential damage 3
+engagement agreement 3
+same report 2
+above statement 2
+significant abuse 2
+unsatisfactory performance 2
+independent assessment 2
+further study 2
+marked version 2
+specific environment 2
+adequate understanding 2
+convincing evidence 2
+material noncompliance 2
+relevant guidance 2
+audited entity's 2
+circular a-133 2
+public trust 2
+their peer 2
+d. evidence 2
+external quality 2
+human capital 2
+general attestation 2
+such fraud 2
+unauthorized access 2
+it work 2
+individual auditor 2
+prospective focus 2
+specific information 2
+following guidance 2
+other report 2
+experienced staff 2
+their reporting 2
+further work 2
+investigative staff 2
+standard report 2
+federal level 2
+general information 2
+it system 2
+formal announcement 2
+subsequent discovery 2
+technical knowledge 2
+evaluation tool 2
+appropriate disclosure 2
+their understanding 2
+contractual requirement 2
+examination-level attestation 2
+internal auditor 2
+it accounting 2
+summary information 2
+competent evidence 2
+external party 2
+previous audit 2
+reasonable cross 2
+overall message 2
+auditors' work 2
+material misstatement 2
+other government 2
+comprehensive basis 2
+entire report 2
+past audit 2
+such communication 2
+other audit 2
+stated program 2
+sufficient knowledge 2
+public administration 2
+correct understanding 2
+possible noncompliance 2
+formal announcement.1 2
+other material 2
+indirect effect 2
+particular audit 2
+statistical sampling 2
+other selection 2
+need-to-know basis 2
+their organization 2
+required report 2
+additional purpose 2
+current audit 2
+specified retention 2
+audited organization 2
+auditors' opinion 2
+useful guidance 2
+assistant director 2
+unqualified opinion 2
+federal inspector 2
+seek evidence 1
+detailed guidance 1
+sufficient staff 1
+underlying cause 1
+single example 1
+t e 1
+legal authority 1
+their awareness 1
+nonfinancial objectives1 1
+many government 1
+a. failure 1
+other engagement 1
+c. reporting 1
+desired state 1
+general format 1
+h. absence 1
+it performance 1
+minimum audit 1
+necessary regardless 1
+particular type 1
+overall opinion 1
+training requirement 1
+available evidence 1
+primary factor 1
+auditing profession 1
+specific nature 1
+audit finding 1
+improved government 1
+actuarial science 1
+following classification 1
+possible audit 1
+include a. 1
+acceptable operating 1
+professional staff 1
+necessary documentation 1
+legislative body 1
+auditor's report 1
+supervisory review 1
+related compliance 1
+broad array 1
+government auditing 1
+related statement 1
+performance-related work 1
+personal use 1
+their testing 1
+10these guidance 1
+material fraud 1
+nongovernment audit 1
+such evidence 1
+their newness 1
+such control 1
+necessary expertise 1
+reviewers' evaluation 1
+professional judgment2 1
+unlawful practice 1
+productive manner 1
+specific authorization 1
+other authority 1
+good faith 1
+aid government 1
+specific work 1
+considerable confusion 1
+third field 1
+large part 1
+final contract 1
+thorough knowledge 1
+useful source 1
+such documentation 1
+sufficient basis 1
+unlimited responsibility 1
+potential fraud 1
+potential finding 1
+specialized audit 1
+latter objective 1
+additional audit 1
+responsible government 1
+ways:6 a. 1
+negative performance 1
+normal course 1
+on-the-job training 1
+persuasive argument 1
+their establishment 1
+reported effect 1
+external environment 1
+sufficient work 1
+f. evidence 1
+potential future 1
+due professional 1
+nonprofit entity 1
+indirect noncompliance 1
+their attention 1
+your rationale 1
+planned testing 1
+current presentation 1
+adequate number 1
+professional advice 1
+top manager 1
+relevant quality 1
+indirect cost 1
+other performance 1
+single chapter 1
+and/or operation 1
+undertaking work 1
+low level 1
+significant inaccuracy 1
+complete knowledge 1
+similar position 1
+statutory basis 1
+knowledgeable person 1
+adequate oversight 1
+human resource 1
+accurate perspective 1
+entire set 1
+their staff 1
+heightened risk 1
+attestation standard 1
+potential impact 1
+their field 1
+particular methodology 1
+important part 1
+responsible party 1
+particular attestation 1
+such failure 1
+b. examination 1
+independent oversight 1
+administrative continuity 1
+report content 1
+certain evidence 1
+other auditors' 1
+legislative history 1
+important user 1
+it field 1
+following address 1
+relative utility 1
+following circumstances:9 1
+2professional judgment 1
+personal gain 1
+appropriate entity 1
+federal government 1
+such knowledge 1
+unique environment 1
+current period 1
+limited official 1
+third-party request 1
+specific agency 1
+key factor 1
+public responsibility 1
+f. performance 1
+internal auditing 1
+audit result 1
+current practice 1
+effective use 1
+appropriate form 1
+meaningful audit 1
+major factor 1
+accurate output 1
+qualitative sense.9 1
+b. newness 1
+stand-alone report 1
+neutral manner 1
+their evidence 1
+private enterprise 1
+third reporting 1
+extensive disclosure 1
+entire document 1
+maximum use 1
+logical organization 1
+other background 1
+our policy 1
+sensible relationship 1
+aicpa sas 1
+required fund 1
+internal control.6 1
+reliable information 1
+other work 1
+necessary step 1
+urban development 1
+identifiable framework 1
+following standard 1
+likely demand 1
+fair presentation 1
+useful report 1
+b. reporting 1
+inadvertent error 1
+appropriate action 1
+same document 1
+individual contracting 1
+2-year period 1
+criminal activity 1
+significant fraud 1
+outside employment 1
+cheryl clark 1
+partial knowledge 1
+appropriate documentation 1
+many audit 1
+second field 1
+fourth field 1
+comparable audit 1
+logical evidence 1
+applicable reporting 1
+reasonable person 1
+yellow book 1
+potential use 1
+reliable performance 1
+reportable condition 1
+governmental accounting 1
+governmental assistance 1
+it responsibility 1
+many state 1
+auditors' consideration 1
+specific paragraph 1
+professional audit 1
+extraneous detail 1
+home page 1
+adequate competence 1
+external use 1
+auditors' report 1
+extensive review 1
+narrow range 1
+grant agreement 1
+performance audit 1
+significant safety 1
+oral agency 1
+it history 1
+audit evidence 1
+documentary evidence 1
+direct reporting 1
+systematic basis 1
+it mission 1
+their assessment 1
+knowledgeable user 1
+b. documentation 1
+compact disk 1
+auditors' attention 1
+complex engineering 1
+additional information 1
+appropriate issuance 1
+broad conclusion 1
+logical link 1
+future response 1
+logical grouping 1
+coso report 1
+needless repetition 1
+certain audit 1
+independent report 1
+standard practice 1
+our nation 1
+introduction purpose 1
+administrative decision 1
+nontechnical language 1
+detailed description 1
+evidence indicative 1
+expected time 1
+their documentation 1
+systematic examination 1
+intentional override 1
+local field 1
+additional response 1
+prior experience 1
+public confidence 1
+planning decision 1
+g. report 1
+it use 1
+report quality 1
+g street 1
+material misappropriation 1
+sound management 1
+auditors' performance 1
+related documentation 1
+stated criterion 1
+required knowledge 1
+international federation 1
+physical evidence 1
+first line 1
+adequate control 1
+separate chapter 1
+advisory council's 1
+maximum level 1
+guiding principle 1
+it staff 1
+selective background 1
+review service 1
+d. reporting 1
+similar experience 1
+other requirements9 1
+other mandate 1
+possible abuse 1
+their profession 1
+their country 1
+assurance enclosure 1
+sufficient guidance 1
+report issuance 1
+receive government 1
+general manner 1
+new version 1
+real message 1
+a. management 1
+internal control7 1
+ssaes aicpa 1
+statistical analysis 1
+program significance 1
+appropriate segregation 1
+it size 1
+6such work 1
+prospective performance 1
+only information 1
+first reporting 1
+attest engagement 1
+their review 1
+prudent program 1
+assignment meet 1
+public accountancy 1
+acceptable level 1
+auditors' responsibility 1
+and/or management 1
+appropriate control 1
+current format 1
+weak management 1
+equivalent authority 1
+underlying framework 1
+their effect 1
+professional practice 1
+prescribed form 1
+marcia buchanan 1
+latter fail 1
+field work 1
+d. failure 1
+second reporting 1
+narrow scope 1
+unwarranted disruption 1
+it evaluation 1
+audit organization 1
+n t 1
+professional expertise 1
+misleading information 1
+experienced auditor 1
+high-level summary 1
+professional proficiency 1
+g. performance 1
+additional testing 1
+certain location 1
+d. level 1
+formal presentation 1
+audit risk 1
+b. reliability 1
+collective wellbeing 1
+financial disclosure 1
+significant noncompliance 1
+deficient performance 1
+federal accounting 1
+public policy 1
+unbiased manner 1
+their significance 1
+significant effect 1
+specific statement 1
+it reporting 1
+industrial engineering 1
+organizational structure 1
+credible evidence 1
+positive program 1
+added language 1
+sound basis 1
+other staff 1
+ready access 1
+and/or review 1
+formal announcement.2 1
+nw washington 1
+following approach 1
+c. noncompliance 1
+gao-02-340g united 1
+c. role 1
+supplement coverage 1
+it audit 1
+preceding period 1
+advisory board 1
+c. audit 1
+potential restriction 1
+federal assistance 1
+their professionalism 1
+important responsibility 1
+other type 1
+considerable judgment 1
+enclosure enclosure 1
+inadequate separation 1
+specified period 1
+private-sector accounting 1
+prescribes field 1
+authorizing legislation 1
+timely period 1
+engaging government 1
+c. documentation 1
+prudent behavior 1
+their perception 1
+inaccurate evidence 1
+continuous process 1
+analytical evidence 1
+numbered listing 1
+clear-cut indication 1
+objective evaluation 1
+interim reporting 1
+meaningful information 1
+relative cost 1
+same information 1
+professional education 1
+nonfinancial nature 1
+public comment 1
+direct inspection 1
+third purpose 1
+general comply 1
+complex material 1
+operational audit 1
+other postemployment 1
+sufficient detail 1
+direct testing 1
+consistent manner 1
+professional competence 1
+engagement report 1
+international organization 1
+immediate attention 1
+it effect 1
+g. evidence 1
+continuous development 1
+professional standard 1
+enough evidence 1
+other financing 1
+relevant audit 1
+traditional performance 1
+essential back-up 1
+d. effect 1
+detailed work 1
+persuasive evidence 1
+such acquisition 1
+due care 1
+critical assessment 1
+third party 1
+actual situation 1
+complex survey 1
+limited number 1
+
+ Trigram NP 
+certified public accountant 5
+effective internal control 4
+their professional judgment 4
+government auditing standard 3
+other equivalent oversight 3
+certain pertinent information 3
+their own process 3
+effective corrective action 3
+previous financial audit 2
+recent external peer 2
+federal internal control 2
+limited official-use report 2
+interim financial information 2
+certain additional information 2
+available evidential matter 2
+financial related audit 2
+second general standard 2
+internal control management 2
+certified public accountants' 2
+certain additional government 2
+third general standard 1
+government printing office 1
+their first assignment 1
+user friendly presentation 1
+internal control work 1
+reportable conditions:4 a. 1
+credible third party 1
+special reports,3 audit 1
+governmental financial assistance 1
+and other noncompliance 1
+prescribes additional field 1
+it relative importance 1
+fourth general standard 1
+subsequent external peer 1
+internal control-integrated framework 1
+budget sas aicpa 1
+detect unauthorized acquisition 1
+their own testing 1
+single audit act 1
+separate limited official 1
+assume unquestioned honesty 1
+federal financial assistance 1
+american evaluation association 1
+adequate professional competence 1
+organization's internal quality 1
+other adjudicative body 1
+additional general standard 1
+c. internal control 1
+due professional care 1
+sufficient contextual sophistication 1
+their professional competence 1
+continuing professional education 1
+revision exposure draft 1
+d. internal control 1
+appropriate internal quality 1
+other appropriate documentation 1
+auditors' professional judgment 1
+it organizational structure 1
+such opinions.3 reporting 1
+d. professional judgment 1
+separate limited official-use 1
+fasab federal accounting 1
+their external peer 1
+c. sufficient staff 1
+role and responsibility 1
+omb circular a-133 1
+other material noncompliance 1
+significant indirect effect 1
+local governmental entity 1
+effective on-the-job training 1
+continued effective operation 1
+sufficient credible evidence 1
+direct physical examination 1
+student financial aid 1
+other comprehensive basis 1
+their planned work 1
+chief financial officer 1
+other adjudicative system 1
+b. internal control 1
+related internal control 1
+auditor's professional proficiency 1
+field work standard 1
+their direct testing 1
+appropriate collective knowledge 1
+inspector general act 1
+supreme audit institution 1
+
+ Unigram NP 
+audit 500
+work 205
+report 198
+gagas 189
+attestation 141
+information 104
+program 99
+documentation 89
+management 87
+compliance 86
+performance 83
+evidence 79
+fraud 79
+aicpa 77
+accordance 76
+government 66
+control 57
+engagement 55
+review 52
+state 49
+standard 48
+scope 46
+entity 46
+organization 46
+auditor 43
+reporting 42
+chapter 41
+extent 38
+use 37
+law 37
+par 37
+field 37
+staff 33
+quality 32
+risk 30
+guidance 30
+example 29
+methodology 28
+nature 28
+assertion 24
+process 23
+system 22
+regulation 22
+effect 22
+planning 22
+effectiveness 21
+cause 21
+material 21
+assignment 21
+type 21
+distribution 21
+noncompliance 20
+c. 20
+responsibility 19
+condition 18
+understanding 18
+draft 18
+b 18
+addition 18
+communication 18
+independence 17
+data 17
+term 17
+assurance 17
+competent 17
+design 16
+validity 16
+require 16
+need 16
+basis 16
+safeguarding 15
+requirement 15
+contract 15
+sas 15
+finding 15
+reliability 15
+accounting 15
+integrity 14
+assistance 14
+conduct 14
+plan 14
+security 14
+opinion 13
+paragraph 13
+significance 13
+content 13
+objectivity 13
+number 13
+part 13
+knowledge 13
+attention 13
+determination 13
+form 13
+a. 13
+time 13
+public 12
+letter 12
+authority 12
+cpe 12
+level 11
+auditing 11
+abuse 11
+policy 11
+competence 11
+peer 11
+assessment 10
+writing 10
+evaluation 10
+statement 10
+subject 10
+grant 10
+analysis 10
+presentation 9
+body 9
+materiality 9
+committee 9
+user 9
+omission 9
+population 9
+objective 9
+fact 9
+summary 9
+document 9
+purpose 9
+judgment 9
+ssaes 9
+lack 8
+environment 8
+consideration 8
+experience 8
+following 8
+united 8
+discussion 8
+disposition 8
+internal 8
+conclusion 8
+efficiency 8
+period 8
+reader 7
+conformity 7
+description 7
+date 7
+operation 7
+place 7
+enforcement 7
+matter 7
+cost 7
+gathering 7
+result 7
+record 7
+variety 7
+exposure 7
+inspection 6
+specialist 6
+examination 6
+sense 6
+economy 6
+response 6
+order 6
+nonaudit 6
+sufficiency 6
+section 6
+quantity 6
+d. 6
+awareness 6
+budget 6
+party 6
+b. 6
+accountability 6
+failure 6
+general 6
+expertise 6
+retention 5
+illegal 5
+timing 5
+supervision 5
+absence 5
+training 5
+service 5
+copy 5
+measure 5
+accuracy 5
+availability 5
+activity 5
+reference 5
+concern 5
+relevant 5
+sufficient 5
+reliance 5
+source 5
+revision 5
+output 5
+appropriate 5
+area 5
+way 5
+follow-up 5
+credibility 5
+dollar 4
+difference 4
+coso 4
+gaap 4
+oversight 4
+product 4
+a 4
+practice 4
+framework 4
+january 4
+status 4
+research 4
+safety 4
+bidder 4
+perspective 4
+manner 4
+incorporate 4
+impact 4
+factor 4
+set 4
+individual 4
+approach 4
+job 4
+duty 4
+november 4
+gao 4
+value 4
+error 4
+prevalence 4
+comment 4
+gao/aimd-00-21.3.1 4
+issuance 4
+interest 4
+delivery 4
+education 4
+structure 4
+concept 3
+concise 3
+principal 3
+justification 3
+operating 3
+study 3
+amount 3
+action 3
+advance 3
+account 3
+auditors' 3
+minimum 3
+occur 3
+f. 3
+monitoring 3
+technology 3
+advice 3
+court 3
+element 3
+existence 3
+exclusion 3
+mail 3
+misuse 3
+investigatory 3
+contracting 3
+frequency 3
+year 3
+investigation 3
+language 3
+introduction 3
+percentage 3
+relationship 3
+illegality 3
+mind 3
+evaluator 3
+] 3
+observation 3
+relation 3
+dc 3
+conjunction 3
+view 3
+sensitivity 3
+omb 3
+outcome 3
+reasonableness 3
+s 3
+context 3
+tone 3
+sampling 3
+firm 3
+aviation 3
+weakness 3
+practitioner 3
+relevance 3
+disagreement 3
+background 3
+decisionmaking 3
+benefit 3
+prevention 3
+act 3
+rationale 3
+promise 3
+computer 3
+duplicate 3
+regard 3
+delete 3
+certain 3
+contribute 3
+rule 3
+portion 3
+confirmation 2
+misunderstanding 2
+g. 2
+issue 2
+consistent 2
+voucher 2
+access 2
+exercise 2
+degree 2
+possibility 2
+separation 2
+institute 2
+memorandum 2
+permit 2
+apply 2
+select 2
+gaas 2
+sample 2
+authorization 2
+loss 2
+word 2
+room 2
+august 2
+december 2
+stewardship 2
+criterion 2
+ssars 2
+misappropriation 2
+complexity 2
+office 2
+combination 2
+profession 2
+provision 2
+enclosure 2
+gasb 2
+reason 2
+care 2
+fasab 2
+clarity 2
+consult 2
+refrain 2
+acquisition 2
+correction 2
+agency 2
+circumvention 2
+principle 2
+professional 2
+selection 2
+jurisdiction 2
+pursuant 2
+summarizing 2
+testing 2
+relative 2
+nongovernment 2
+identification 2
+discovery 2
+ability 2
+approval 2
+country 2
+event 2
+april 2
+logic 2
+collecting 2
+community 2
+testimonial 2
+proposal 2
+describe 2
+gao-01-1008g 2
+aicpa's 2
+appearance 2
+explanation 2
+perform 2
+format 2
+connection 2
+member 2
+privileged 2
+decision-making 2
+task 2
+database 2
+academia 2
+character 2
+potential 2
+board 2
+evaluate 2
+attorney 2
+and/or 2
+decision 2
+subordination 2
+agreement 2
+forth 2
+support 2
+accordingly 2
+fasb 2
+function 2
+head 2
+consist 2
+verification 2
+engineering 2
+check 2
+agreed-upon 2
+visibility 2
+coverage 2
+cpa 2
+breadth 1
+codification 1
+focus 1
+legal 1
+computation 1
+reasoning 1
+responsiveness 1
+graph 1
+e. 1
+practitioner's 1
+@ 1
+advantage 1
+hotline 1
+arrange 1
+512-9377 1
+team 1
+prevent 1
+occurrence 1
+sign 1
+feasibility 1
+recruitment 1
+street 1
+investment 1
+substitute 1
+above 1
+international 1
+movement 1
+component 1
+protection 1
+others 1
+deceit 1
+[ 1
+change 1
+substance 1
+appraisal 1
+objectives.10 1
+credit 1
+ineffectiveness 1
+criticism 1
+examining 1
+confidentiality 1
+app 1
+defense 1
+licensing 1
+confidence 1
+adequacy 1
+doubt 1
+asset 1
+inquiry 1
+aware 1
+effort 1
+supplemental 1
+md 1
+making 1
+history 1
+auditors1 1
+impair 1
+absolute 1
+autonomy 1
+straightforward 1
+provide 1
+attachment 1
+establishment 1
+simplicity 1
+may 1
+questioning 1
+organization's 1
+infallibility 1
+refuse 1
+light 1
+travel 1
+misapplication 1
+hiring 1
+attitude 1
+group 1
+listing 1
+therefor 1
+inefficiency 1
+reviewlevel 1
+finance 1
+soundness 1
+name 1
+h. 1
+stock 1
+subset 1
+financial 1
+reduce 1
+agreements.8 1
+constitute 1
+results.11 1
+space 1
+internet 1
+correct 1
+common 1
+ass 1
+belief 1
+written 1
+contain 1
+misstatement 1
+governing 1
+regulatory 1
+obligation 1
+definition 1
+interaction 1
+correctness 1
+contingency 1
+appropriateness 1
+facilitate 1
+housing 1
+thereon 1
+relate 1
+report's 1
+hearing 1
+given 1
+publication 1
+indicate 1
+opportunity 1
+systems.10 1
+fma 1
+information6 1
+recommendations1 1
+information8 1
+persuasiveness 1
+recommendations7 1
+photograph 1
+isolation 1
+j. 1
+preparation 1
+video 1
+providing 1
+103-356 1
+recommendations9 1
+thereto 1
+competency 1
+strength 1
+client 1
+equipment 1
+price 1
+termination 1
+statute 1
+request 1
+duplication 1
+implementation 1
+progress 1
+referencing 1
+comply 1
+contrast 1
+adherence 1
+aspect 1
+104-156 1
+work,4 1
+see 1
+www.gao.gov/govaud/ybk01.htm 1
+skill 1
+expert 1
+federal 1
+timeliness 1
+please 1
+drawn 1
+boundary 1
+importance 1
+striking-out 1
+debt 1
+problem 1
+audits2 1
+installation 1
+pertain 1
+whole 1
+point 1
+allowability 1
+programs,1 1
+respect 1
+programs,3 1
+custody 1
+directlycontribute 1
+engagements,1 1
+acceptance 1
+governmental 1
+mark 1
+reduction 1
+mitigation 1
+records.9 1
+maintenance 1
+records.6 1
+influence 1
+precision 1
+assertion4 1
+bidding 1
+declaration 1
+spirit 1
+aid 1
+case 1
+look 1
+governmentwide 1
+consultant 1
+behavior 1
+situation 1
+property 1
+qualifications10 1
+ascii 1
+specialization 1
+program2 1
+compiling 1
+report7 1
+inventory 1
+modification 1
+conflict 1
+deficiency 1
+development 1
+workforce 1
+allocation 1
+aggregate 1
+accountant 1
+expand 1
+expression 1
+procurement 1
+inc. 1
+consciousness 1
+being 1
+generally 1
+accurate 1
+diskette 1
+entity's 1
+identify 1
+file 1
+101-576 1
+incurring 1
+application 1
+conclude 1
+improvement 1
+add 1
+requirements.5 1
+bid 1
+7.28-7.31 1
+indicative 1
+damage 1
+execution 1
+ocboa 1
+helpful 1
+identifying 1
+message 1
+specific 1
+informative 1
+f/n 1
+page 1
+terminology 1
+criteria.4 1
+transaction 1
+delegation 1
+recommendation 1
+overlap 1
+e-mail 1
+refer 1
+measuring 1
+contingent 1
+processing 1
+conducting 1
+innuendo 1
+specialist's 1
+or 1
+disclosure 1
+inclusion 1
+washington 1
+bound 1
+determine 1
+portrayal 1
+report.5 1
+prepare 1
+start 1
+procedures.4 1
+project 1
+conclusions.4 1
+sound 1
+link 1
+memoranda 1
+subsidiary 1
+analyst 1
+hire 1
+extensiveness 1
+whether 1
+recommendations.5 1
+money 1
+impropriety 1
+u.s.c 1
+precept 1
+completeness 1
+percent 1
+depth 1
+reality 1
+role 1
+nw 1
+deviation 1
+resign 1
+meaning 1
+engagement.8 1
+detriment 1
+building 1
+reorganization 1
+pension 1
+inaccuracy 1
+resolution 1
+original 1
+
+ Arbitary length NP 
+government auditing standard exposure draft 41
+single audit act amendment 4
+government auditing standard exposure draft chapter 4
+government management reform act 3
+chief financial officer act 3
+report issuance and distribution 2
+generally accepted government auditing standard 2
+deficiency in internal control 1
+with generally accepted government auditing standard 1
+gao-02-340g government auditing standard exposure draft 1
+on compliance with law and regulation and on internal control over financial reporting 1
+certified public accountant cpa 1
+government auditing standard exposure draft financial audit 1
+government auditing standard exposure draft internal control 1
+government auditing standard exposure draft direct reporting 1
+government auditing standard exposure draft additional 1
+and reporting standard for attestation engagement introduction 1
+with provision of contract and grant agreement 1
+government auditing standard exposure draft professional judgment concerning possible fraud 1
+government auditing standard exposure draft gao-02-340g government auditing standard exposure draft gao-02-340g government auditing standard exposure draft abbreviation aicpa american institute 1
+additional field work standard for attestation engagement 1
+additional consideration for financial audit performed in accordance with gagas 1
+field work standard for financial audit introduction 1
+governmental accounting standard board 1
+result of previous audit 1
+government auditing standard exposure draft aicpa general and field work standard for attestation engagement 1
+general accounting office washington 1
+auditing standard comment u.s. general accounting office room 1
+government auditing standard exposure draft auditor 1
+standard for performance audit introduction 1
+advisory board fasb financial accounting standard board gaas aicpa 1
+standard for attestation engagement 1
+jeffrey c. steinhoff managing director financial management 1
+view of responsible official 1
+government auditing standard exposure draft independence [ refer 1
+standard for financial audit introduction 1
+to audit official and others interested in government auditing standard gao 1
+field work standard for performance audit introduction 1
+government auditing standard exposure draft c 1
+pro forma financial information 1
+type of government audit and attestation engagement introduction 1
+privileged and confidential information 1
+government auditing standard exposure draft nonaudit service of audit organization 1
+american evaluation association task force 1
+financial accounting standard board 1
+their total chargeable time 1
+internal control over compliance 1
+quality control and assurance 1
+additional gagas field work standard 1
+government auditing standard exposure draft fraud 1
+their continuing professional education 1
+gasb governmental accounting standard board gao general accounting office omb office 1
+internal control over safeguarding 1
+u.s. general accounting office 1
+government auditing standard exposure draft aicpa reporting standard for attestation engagement 1
+licensed certified public accounting 1

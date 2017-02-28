@@ -1,0 +1,68 @@
+
+ Bigram NP 
+eric kleiman 1
+civil justice 1
+good news 1
+specific piece 1
+mauricio vivero 1
+domestic-violence resource 1
+domestic shelter 1
+bad news 1
+pilot program 1
+federal grant 1
+next year 1
+upper arlington 1
+federal agency 1
+
+ Trigram NP 
+legal service corp. 3
+self-help website thursday 1
+ohio legal service 1
+new federal technology 1
+civil equal justice 1
+federal legal-aid money 1
+your federal funding 1
+tim doulin a 1
+online legal self-help 1
+federal legal aid 1
+
+ Unigram NP 
+ohio 5
+service 2
+grant 2
+columbus 2
+poverty 2
+population 2
+center 2
+www.osla.org 1
+money 1
+number 1
+county 1
+decrease 1
+pryce 1
+technology 1
+vivero 1
+web 1
+court 1
+spokesman 1
+system 1
+access 1
+state 1
+online 1
+august 1
+congress 1
+get 1
+kleiman 1
+yesterday 1
+site 1
+gain 1
+fall 1
+president 1
+bit 1
+domestic-violence 1
+kind 1
+census 1
+vice 1
+
+ Arbitary length NP 
+u.s. rep. deborah pryce 1

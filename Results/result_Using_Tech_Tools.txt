@@ -1,0 +1,205 @@
+
+ Bigram NP 
+ms. hoffman 3
+legal assistance 2
+his work 2
+long way 2
+legal help 2
+personal kind 1
+basic grunt 1
+their recruitment 1
+hotline list 1
+forms-based practice 1
+short time 1
+child abuse 1
+tech tool 1
+esther lardent 1
+legal columnist 1
+good equipment 1
+much good 1
+flat-fee billing 1
+same area 1
+their fear 1
+carolyn elefant 1
+national association 1
+dead end 1
+judge judy 1
+it site 1
+domestic violence 1
+our time 1
+portable document 1
+statutory language 1
+richard susskind 1
+free email 1
+direct service 1
+political asylum 1
+wonderful library 1
+large government 1
+basic technology 1
+great deal 1
+important tool 1
+immigration law 1
+her firm 1
+good job 1
+legal aid 1
+british writer 1
+young artist 1
+greg siskind 1
+next name 1
+legal information 1
+criminal law 1
+good guidance 1
+particular jurisdiction 1
+public interest 1
+targeted guidance 1
+enormous gap 1
+your way 1
+national group 1
+televised courtroom 1
+greater washington 1
+
+ Trigram NP 
+against mandatory minimum 1
+new york time 1
+charity legal network 1
+fifteen-year old boy 1
+susan m. hoffman 1
+wonderful legal service 1
+american bar association 1
+fair housing council 1
+public interest lawyer 1
+pro bono institute 1
+u.s. supreme court 1
+recent front page 1
+little public awareness 1
+her own database 1
+basic legal information 1
+many legal assistance 1
+wendy r. leibowitz 1
+
+ Unigram NP 
+web 12
+lawyer 7
+email 5
+askme.com 4
+work 4
+need 4
+technology 4
+bar 3
+list 3
+attorney 3
+aba 3
+lawguy1975 3
+case 3
+site 3
+client 3
+source 2
+profession 2
+association 2
+probono.net 2
+contract 2
+washington 2
+firm 2
+immigration 2
+moring 2
+information 2
+napil 2
+crowell 2
+law 2
+help 1
+course 1
+out-of-state 1
+latent 1
+knowledge 1
+copyright 1
+tv 1
+rewarding 1
+destroyed 1
+adoption 1
+plate 1
+complaint 1
+publicity 1
+format 1
+practice 1
+lunch 1
+report 1
+lawyers.com 1
+name 1
+visalaw.com 1
+ripoffcity.com 1
+page 1
+caller 1
+freeadvice.com 1
+lawguys 1
+library 1
+immigrant 1
+www.napil.org 1
+practitioner 1
+matching 1
+addition 1
+remain 1
+state 1
+custody 1
+internet 1
+www.shusterman.com 1
+mycounsel.com 1
+sole 1
+approval 1
+search 1
+d.c 1
+uncertainty 1
+thing 1
+amount 1
+prejudice 1
+pdf 1
+nolo.com 1
+neglect 1
+plethora 1
+question 1
+image 1
+clumsy 1
+market 1
+city 1
+story 1
+brussels 1
+bono.html 1
+wealth 1
+area 1
+findlegalhelp.org 1
+divorce 1
+destination 1
+www.visalaw.com 1
+divorcelawinfo.com 1
+meeting 1
+form 1
+serve 1
+present 1
+volunteer 1
+counsel 1
+www.famm.org 1
+appearance 1
+matter 1
+while 1
+problem 1
+coordinator 1
+lawguy 1
+any 1
+united 1
+court 1
+veteran 1
+novice 1
+tight 1
+online 1
+status 1
+paramount 1
+d.c. 1
+president 1
+state-by-state 1
+remember 1
+person 1
+organization 1
+
+ Arbitary length NP 
+new york lawyer referral service* 1
+chicago bar association* los angeles county bar lawyer referral service* assoc 1
+wendy r. leibowitz lexisone technology 1

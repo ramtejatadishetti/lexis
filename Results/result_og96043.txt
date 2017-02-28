@@ -1,0 +1,179 @@
+
+ Bigram NP 
+quote rule 11
+federal register 6
+exchange commission 5
+exchange act 4
+cost-benefit analysis 3
+display rule 3
+their quote 2
+it report 2
+it authority 2
+economic impact 1
+improved access 1
+our assessment 1
+statutory authorization 1
+internet web-site 1
+supplementary information 1
+et seq 1
+legal basis 1
+new rule 1
+full text 1
+additional amendment 1
+jr. chairman 1
+improved execution 1
+trader association 1
+our report 1
+marketwide price 1
+commerce house 1
+additional notice 1
+it reaction 1
+it analysis 1
+mr. bothwell 1
+public availability 1
+particular pursuant 1
+executive order 1
+substantial market 1
+national association 1
+major change 1
+our review 1
+gao/ogc-96-43 section 1
+public display 1
+
+ Trigram NP 
+paperwork reduction act 3
+regulatory flexibility analysis 2
+national market system 1
+amendment to rule 1
+nasdaq small cap 1
+other relevant information 1
+kathleen e. wannisky 1
+james l. bothwell 1
+certain private trading 1
+administrative procedure act 1
+regulatory flexibility act 1
+urban affair united 1
+associate general counsel 1
+exchange commission page 1
+
+ Unigram NP 
+commission 32
+rule 19
+u.s.c 12
+section 10
+market 8
+security 6
+reg 6
+fed 6
+september 5
+b 5
+rulemaking 5
+pursuant 4
+summary 4
+competition 4
+limit 4
+information 4
+analysis 4
+omb 3
+notice 3
+ac1-1 3
+act 3
+iv 3
+agency 3
+office 2
+executive 2
+impact 2
+title 2
+number 2
+exchange 2
+compliance 2
+gao/ogc-96-43 2
+publication 2
+interest 2
+gao 2
+iii 2
+october 2
+accordance 2
+control 2
+price 2
+collection 2
+response 2
+i 2
+code 1
+nasdaq 1
+alternative 1
+justice 1
+handling 1
+burden 1
+mandate 1
+report 1
+issue 1
+item 1
+release 1
+amendment 1
+work 1
+financial 1
+senate 1
+trading 1
+operation 1
+subject 1
+512-8326 1
+version 1
+evaluation 1
+standard 1
+consideration 1
+reaction 1
+industry 1
+specialist's 1
+maker 1
+comment 1
+cc 1
+commissionadopted 1
+proposing 1
+approval 1
+respect 1
+size 1
+management 1
+addition 1
+housing 1
+final 1
+statement 1
+regard 1
+copy 1
+customer 1
+plain 1
+official 1
+budget 1
+display 1
+process 1
+ii 1
+need 1
+512-8678 1
+united 1
+department 1
+conflict 1
+quote 1
+effect 1
+director 1
+meaning 1
+decision 1
+statute 1
+banking 1
+contact 1
+review 1
+
+ Arbitary length NP 
+limit order display rule 6
+initial regulatory flexibility analysis 3
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+final regulatory flexibility analysis 1
+gao/ogc-96-43 enclosure analysis under 1
+mr. jonathan g. katz secretary 1
+new york specialist association 1
+robert p. murphy general counsel enclosure 1
+by the security and exchange commission 1
+honorable paul s. sarbanes ranking minority member committee 1
+honorable alfonse d'amato chairman 1
+honorable thomas j. bliley 1
+general counsel b-274403 september 1

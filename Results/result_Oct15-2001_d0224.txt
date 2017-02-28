@@ -1,0 +1,928 @@
+
+ Bigram NP 
+sensitive information 13
+critical infrastructure 12
+federal government 8
+appendix ii 8
+gao's study 8
+critical success 6
+our study 6
+timely information 4
+secure communication 4
+electric power 4
+information sharing 4
+our nation 4
+entire membership 4
+data web 4
+national security 4
+adequate funding 4
+their membership 4
+federal bureau 3
+disease control 3
+their participation 3
+effective information 3
+national defense 3
+information-sharing organization 3
+incident response 3
+private sector 3
+public health 3
+our government 3
+imminent attack 3
+our review 3
+national telecommunication 2
+key role 2
+identifiable membership 2
+code red 2
+such support 2
+their ability 2
+top management 2
+timecritical information 2
+secret service 2
+their success 2
+it membership 2
+current information 2
+receive information 2
+their advice 2
+wide variety 2
+it mission 2
+legal liability 2
+academic community 2
+proprietary information 2
+successful information 2
+private industry 2
+inadvertent release 2
+additional supporting 2
+his employer 2
+special function 2
+time-critical information 2
+senior management 2
+critical government 2
+nonfederal analysis 2
+antitrust law 2
+important communication 1
+large network 1
+specific topic 1
+social science 1
+poor information 1
+it support 1
+federal interagency 1
+computer-generated counterfeit 1
+primary method 1
+individual member 1
+public welfare 1
+facilitate communication 1
+managing director 1
+danielle hollomon 1
+private/public partnership 1
+diminish reliance 1
+transient membership 1
+relevant information 1
+focal point 1
+wide audience 1
+public telecommunication 1
+national coordinating 1
+overall authority 1
+serious challenge 1
+topic-based information 1
+similar model 1
+entire group 1
+special network 1
+special security 1
+other technology 1
+gi00 united 1
+participants' ability 1
+prompt restoration 1
+investigative arm 1
+address correction 1
+technical information 1
+new computer 1
+single address 1
+sensitive member 1
+proprietary business 1
+underlying element 1
+significant concern 1
+inappropriate disclosure 1
+effective member 1
+single individual 1
+specialized training 1
+overall reliability 1
+waterborne commerce 1
+formidable challenge 1
+common security 1
+other assistance 1
+widespread interconnectivity 1
+information age 1
+i-4 member 1
+national threat 1
+secure environment 1
+their exposure 1
+their entirety 1
+valuable learning 1
+competitive pay 1
+active member 1
+our home 1
+possible outbreak 1
+further facilitate 1
+other health 1
+needed vulnerability 1
+other analysis 1
+air force 1
+close relationship 1
+regular mail 1
+such information 1
+information act 1
+useful information 1
+advisory information 1
+gao e-mail 1
+last decade 1
+direct contact 1
+further research 1
+real-time assistance 1
+geographic area 1
+proactive measure 1
+major information 1
+entire network 1
+executive order 1
+coordinate communication 1
+critical computer-dependent 1
+valuable information 1
+information management 1
+catherine schweitzer 1
+it core 1
+general information 1
+national perspective 1
+official board 1
+their organization's 1
+damaging information 1
+subsequent distribution 1
+analytical support 1
+national institute 1
+free member 1
+pertinent organization 1
+individual industry 1
+such analysis 1
+half-day discussion 1
+gao report 1
+our computer 1
+other confidential 1
+poor system 1
+composite information 1
+local laboratory 1
+secure system 1
+small number 1
+existing member 1
+nation's telecommunication 1
+considerable credit 1
+fulfilling member 1
+small part 1
+overall security 1
+good government 1
+possible mitigation 1
+such standardization 1
+jean boltz 1
+their identity 1
+marine corp 1
+information-sharing process 1
+gather information 1
+voluntary organization 1
+their industry 1
+electronic order 1
+technical assistance 1
+mutual respect 1
+organization's stature 1
+local interagency 1
+413-0006 fax 1
+potential impact 1
+physical telecommunication 1
+collaborative effort 1
+sri international 1
+internet-based network 1
+specific interest 1
+g street 1
+information-sharing aspect 1
+national capability 1
+additional time 1
+nonfinancial assistance 1
+same period 1
+their organization 1
+sophisticated network 1
+expert analysis 1
+shared information 1
+local law 1
+computer-related evidence 1
+corporate governance 1
+unprecedented growth 1
+foster trust 1
+national welfare 1
+public disclosure 1
+critical infrastructures-an 1
+it recognition 1
+other monitoring 1
+immediate contact 1
+our focus 1
+nonfederal government 1
+full-text document 1
+timely communication 1
+it staff 1
+human service 1
+it industry 1
+traditional telecommunication 1
+i-4 staff 1
+extensive policy 1
+great deal 1
+first day 1
+security-related information 1
+informed oversight 1
+printed report 1
+jeff nelligan 1
+further distribution 1
+potential threat 1
+total knowledge 1
+bulk power 1
+nelliganj @ 1
+federal power 1
+difficult challenge 1
+limited number 1
+mutual self-interest 1
+such funding 1
+mixed success 1
+their survival 1
+such liability 1
+fedcirc • 1
+further analysis 1
+internal security 1
+south carolina 1
+limited progress 1
+enormous security 1
+computer-based vulnerability 1
+own resource 1
+major telecommunication 1
+distributed model 1
+deregulated environment 1
+initial reluctance 1
+provided access 1
+it representative 1
+future occurrence 1
+private use 1
+administrative skill 1
+individual representative 1
+electronic information 1
+factor critical 1
+internet web 1
+4critical infrastructure 1
+protecting america 1
+other government 1
+critical information 1
+independent power 1
+interconnected computer 1
+automated intrusiondetection 1
+electric industry 1
+other members-some 1
+first copy 1
+national network 1
+accurate information 1
+entire grid 1
+underlying requirement 1
+your staff 1
+joint industry 1
+medical director 1
+extensive experience 1
+individual organization 1
+consistent member 1
+central intelligence 1
+foodborne illness 1
+report fraud 1
+their employer's 1
+executive council 1
+procedural awareness 1
+private industry.4 1
+international scale 1
+michael gilmore 1
+administrative staff 1
+second day 1
+considerable time 1
+jtf-cno expansion 1
+free advice 1
+accepted government 1
+successful sharing 1
+vice chairman 1
+it member 1
+it ability 1
+expertise pertinent 1
+document room 1
+business week 1
+permanent staff 1
+
+ Trigram NP 
+national research council 2
+joint economic committee 2
+ranking minority member 2
+free expert advice 2
+national communication system 2
+national coordinating center 1
+entire information-sharing organization 1
+their own emergency 1
+maintaining appropriate analytical 1
+new operational mission 1
+electronic crimes-an effort 1
+distribution center washington 1
+several information-sharing computer 1
+environmental protection agency 1
+epidemic information exchange 1
+relevant technical experience 1
+their potential liability 1
+identifiable membership benefit 1
+generate clearly organization 1
+other critical success 1
+presorted standard postage 1
+our overall objective 1
+their own risk 1
+other public health 1
+adequate funding developing 1
+it informationsharing organization 1
+code red ii 1
+common critical success 1
+specific geographic region 1
+u.s. attorney general 1
+national communication system1 1
+u.s. census bureau 1
+their own self-interest 1
+critical infrastructure protection 1
+national infragard program 1
+epidemic intelligence service 1
+their professional staff 1
+membership base most 1
+entire information-sharing group 1
+certain sensitive information 1
+several critical success 1
+critical computer-dependent infrastructure 1
+their own self-promotion 1
+their individual organization 1
+rural electric power 1
+their chartered number 1
+their global business 1
+essential underlying element 1
+it final analysis 1
+their new employer 1
+national executive board 1
+general accounting office 1
+presidential decision directive 1
+lead federal agency 1
+electric reliability council 1
+competent information-sharing entity 1
+g. street nw 1
+critical success factor 1
+defense advanced research 1
+federal program web 1
+official business penalty 1
+seattle-based regional network 1
+dear senator bennett 1
+cert® coordination center 1
+
+ Unigram NP 
+information 101
+organization 54
+addition 28
+member 26
+security 22
+sharing 19
+share 19
+trust 19
+protection 18
+enforcement 18
+example 17
+law 17
+government 17
+• 16
+system 15
+technology 15
+internet 14
+computer 14
+time 13
+membership 12
+web 12
+infrastructure 11
+support 11
+congress 11
+challenge 10
+health 10
+report 10
+gao 10
+development 10
+emergency 10
+industry 10
+access 9
+response 9
+year 9
+coordination 9
+participation 9
+network 8
+research 8
+site 8
+secure 7
+united 7
+threat 7
+cdc 7
+business 7
+infragard 7
+management 7
+cyber 6
+power 6
+company 6
+group 6
+number 6
+attack 6
+staff 6
+state 6
+community 6
+center 6
+use 6
+october 6
+list 5
+vulnerability 5
+advice 5
+president 5
+nation 5
+investigation 5
+ncc 5
+fedcirc 5
+public 5
+defense 5
+incident 5
+meeting 5
+d.c. 5
+director 5
+agora 5
+distribution 5
+risk 4
+nsies 4
+fbi 4
+scope 4
+jtf-cno 4
+may 4
+mission 4
+policy 4
+telecommunication 4
+service 4
+effectiveness 4
+request 4
+order 4
+continuity 4
+importance 4
+preparedness 4
+intrusion 4
+contact 4
+prevention 4
+confidentiality 4
+leadership 4
+way 4
+expertise 4
+nerc 4
+variety 4
+cert/cc 4
+department 4
+individual 4
+level 3
+force 3
+integrity 3
+understanding 3
+isac 3
+telephone 3
+following 3
+discussion 3
+damage 3
+methodology 3
+readiness 3
+documentation 3
+responsibility 3
+i-4 3
+part 3
+mechanism 3
+fraud 3
+intelligence 3
+sensitivity 3
+result 3
+progress 3
+nature 3
+april 3
+pdd 3
+supply 3
+strategy 3
+commission 3
+developing 3
+gao.gov 3
+reliability 3
+isacs 3
+reporting 3
+opportunity 3
+task 3
+analysis 3
+victim 3
+world 3
+success 3
+provider 3
+testimony 3
+communication 3
+regard 3
+private-sector 3
+computing 3
+building 3
+lack 2
+query 2
+@ 2
+www.gao.gov 2
+further 2
+directive 2
+method 2
+exchange 2
+pulsenet 2
+experience 2
+nstac 2
+program 2
+phone 2
+appendix 2
+council 2
+monitoring 2
+establishment 2
+administrator 2
+interconnectivity 2
+travel 2
+september 2
+entity 2
+production 2
+food 2
+day 2
+mean 2
+energy 2
+funding 2
+issue 2
+u.s. 2
+base 2
+care 2
+training 2
+ability 2
+quality 2
+draft 2
+relationship 2
+project 2
+gathering 2
+applicant 2
+need 2
+agency 2
+academia 2
+performance 2
+virus 2
+violation 2
+planning 2
+knowledge 2
+guidance 2
+crime 2
+enthusiasm 2
+awareness 2
+atomictangerine 2
+cooperation 2
+august 2
+problem 2
+country 2
+respect 2
+acceptance 2
+value 2
+behavior 2
+situation 2
+participant 2
+purpose 2
+identity 2
+position 2
+rest 2
+identify 2
+disseminate 2
+source 2
+grid 2
+background 2
+loss 2
+lead 2
+communicate 2
+alliance 2
+washington 2
+commitment 2
+legislation 2
+accountability 2
+form 2
+dissemination 2
+storage 2
+role 2
+nw 2
+exposure 2
+depth 2
+www.gao.gov/fraudnet/fraudnet.htm 1
+focus 1
+nimda 1
+foster 1
+safety 1
+street 1
+advantage 1
+posture 1
+timely 1
+team 1
+trend 1
+cost 1
+design 1
+assistance 1
+brief 1
+asia 1
+conduct 1
+agreement 1
+transportation 1
+human 1
+water 1
+consideration 1
+november 1
+box 1
+search 1
+forum 1
+study 1
+credit 1
+iloveyou 1
+influx 1
+regardless 1
+transit 1
+crisis 1
+market 1
+easy-to-use 1
+confidence 1
+army 1
+sake 1
+reciprocity 1
+face-to-face 1
+assessment 1
+today 1
+real-time 1
+effort 1
+customer 1
+room 1
+science 1
+meet 1
+control 1
+meant 1
+figure 1
+process 1
+december 1
+currency 1
+sense 1
+counterfeit 1
+recovery 1
+nipc 1
+s. 1
+toxic 1
+description 1
+emergencyresponse 1
+organization's 1
+date 1
+hoc 1
+effective 1
+nsie 1
+goal 1
+turnover 1
+violator 1
+coordinating 1
+stability 1
+attitude 1
+existence 1
+gao-01-822 1
+solving 1
+reluctance 1
+mail 1
+overcome 1
+correspondence 1
+finance 1
+strive 1
+sircam 1
+january 1
+capability 1
+magnitude 1
+mastercard 1
+regulation 1
+harm 1
+generation 1
+receipt 1
+product 1
+society 1
+investigative 1
+sponsor 1
+navy 1
+operation 1
+event 1
+canada 1
+space 1
+profit 1
+develop 1
+size 1
+highway 1
+assist 1
+circumstance 1
+standard 1
+cutting-edge 1
+card 1
+language 1
+abuse 1
+necessity 1
+anonymity 1
+message 1
+illustrate 1
+july 1
+accordance 1
+anticipate 1
+future 1
+hacking 1
+willingness 1
+conversion 1
+equipment 1
+damage.1 1
+chairman 1
+persistence 1
+information-sharing 1
+collaboration 1
+visa 1
+letter 1
+device 1
+capacity 1
+preventive 1
+fees-one 1
+disease 1
+bulletin 1
+sector 1
+rating 1
+atmosphere 1
+corner 1
+abreast 1
+impact 1
+implementation 1
+treasury 1
+publicity 1
+assistant 1
+gao-01-323 1
+conjunction 1
+banking 1
+architecture 1
+contain 1
+respond 1
+requirement 1
+disaster 1
+detection 1
+concern 1
+detect 1
+managing 1
+identification 1
+melissa 1
+approach 1
+europe 1
+parent 1
+efficiency 1
+job 1
+percent 1
+approval 1
+contract 1
+overview 1
+fostering 1
+basis 1
+interest 1
+waste 1
+engine 1
+field 1
+fire 1
+gas 1
+representative 1
+aviation 1
+general 1
+pilot 1
+case 1
+commerce 1
+budget 1
+voice 1
+procedure 1
+compliance 1
+mexico 1
+obstacle 1
+vendor 1
+administration 1
+amount 1
+check 1
+outbreak 1
+terrorism 1
+document 1
+oil 1
+year-and 1
+rail 1
+ownership 1
+functionality 1
+person 1
+consistency 1
+inability 1
+model 1
+money 1
+executive 1
+alternate 1
+daceyr 1
+location 1
+input 1
+march 1
+pertinent 1
+identifying 1
+server 1
+specific 1
+page 1
+superintendent 1
+creation 1
+home 1
+contributing 1
+e-mail 1
+h.r 1
+sponsoring 1
+unit 1
+leader 1
+tdd 1
+pressure 1
+peer 1
+conducting 1
+freedom 1
+afternoon 1
+software 1
+disclosure 1
+consulting 1
+interdependency 1
+determine 1
+utility 1
+span 1
+additional 1
+area 1
+transfer 1
+analyze 1
+war 1
+function 1
+interagency 1
+wireless 1
+line 1
+promote 1
+type 1
+official 1
+fraudnet 1
+foresight 1
+ad 1
+measurement 1
+evidence 1
+engineering 1
+warning 1
+education 1
+archive 1
+countermeasure 1
+application 1
+setting 1
+gao-01-1073t 1
+outage 1
+june 1
+intent 1
+pool 1
+mass 1
+
+ Arbitary length NP 
+national infrastructure protection center 6
+information sharing practice appendix ii 3
+national security telecommunication advisory committee 2
+general accounting office washington 2
+federal computer incident response center 2
+critical infrastructure assurance office 1
+information sharing cert® coordination center 1
+u.s. general accounting office p.o 1
+information sharing joint task force- computer network operation 1
+new york electronic crime task force 1
+obtain top management support ensure leadership continuity several 1
+honorable robert f. bennett ranking minority member joint economic committee congress 1
+their own technical expertise 1
+challenge can benefit critical infrastructure protection 1
+sircam attack highlight need 1
+senator robert f. bennett 1
+gao building visit gao 1
+maintaining effective information sharing initially establishing 1
+can benefit critical infrastructure protection 1
+content figure content abbreviation cdc 1
+general accounting office report 1
+network security information exchange 1
+task force-computer network defense 1
+information security issue appendix 1
+information sharing north american electric reliability council 1
+kent ridge digital lab 1
+information sharing pulsenet epidemic information exchange 1
+information sharing new york electronic crime task force nsies 1
+electronic crime special agent program 1
+information sharing international information integrity institute • 1
+president's national security council 1
+maintaining trust relationship all 1
+federal emergency management agency 1
+prevention cert/cc cert® coordination center a united 1
+information sharing network security information exchange 1
+infragard cleveland fbi field office 1
+fee paid gao permit no 1
+robert f. dacey director 1
+joint task force-computer network operation 1
+international information integrity institute 1
+u.s. general accounting office 1

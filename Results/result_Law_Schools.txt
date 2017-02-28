@@ -1,0 +1,219 @@
+
+ Bigram NP 
+st. mary 2
+big law 2
+academic pecking 1
+many law 1
+costly work 1
+little guesswork 1
+think local 1
+tiny neighborhood 1
+palace diner 1
+altman weil 1
+l. deutsch 1
+low bono 1
+last decade 1
+legal education 1
+san francisco 1
+last year 1
+former president 1
+public service 1
+lovely dhillon 1
+standard curriculum 1
+same time 1
+their commitment 1
+real community 1
+atypical kind 1
+academic debt 1
+great idea 1
+median student 1
+giant leap 1
+national association 1
+your rent 1
+fred rooney 1
+legal consulting 1
+legal work 1
+natural target 1
+only channel 1
+their way 1
+civil troub 1
+legal pedagogy 1
+stanford university 1
+law placement 1
+executive director 1
+rutgers school 1
+additional law 1
+little debate 1
+initial interest 1
+solo practice 1
+new wage 1
+law school 1
+his brow 1
+new direction 1
+second string 1
+social justice 1
+feeble economy 1
+their billing 1
+first time 1
+city university 1
+northeastern university 1
+middle class 1
+mushrooming student 1
+further encouragement 1
+corporate largess 1
+
+ Trigram NP 
+tristan da cunha 1
+madison square garden 1
+new york school 1
+their own judgment 1
+new mexico school 1
+american bar association 1
+free legal research 1
+syracuse law school 1
+american law school 1
+greg winter monday 1
+yale law school 1
+deborah l. rhode 1
+median hourly rate 1
+government-financed legal aid 1
+theresa j. bryant 1
+their financial reach 1
+touro law school 1
+
+ Unigram NP 
+law 12
+consortium 10
+year 5
+percent 5
+school 3
+association 3
+university 3
+solo 3
+debt 3
+career 3
+lund 3
+life 3
+katalinic 3
+cates 3
+office 2
+justice 2
+government 2
+practice 2
+anything 2
+survey 2
+question 2
+lot 2
+cuny 2
+kind 2
+hour 2
+bill 2
+taxi 1
+help 1
+money 1
+queen 1
+meditation 1
+bit 1
+access 1
+disconnect 1
+convinced 1
+charge 1
+maryland 1
+texas 1
+lure 1
+assistant 1
+michigan 1
+truly 1
+part 1
+difference 1
+term 1
+bar 1
+truth 1
+small 1
+security 1
+clientele 1
+attorney 1
+work 1
+dean 1
+fair 1
+foundation 1
+sign 1
+street 1
+palm 1
+home 1
+insurance 1
+graduating 1
+newark 1
+stua 1
+surprise 1
+contrast 1
+movement 1
+perception 1
+business 1
+pressure 1
+post 1
+box 1
+faith 1
+c 1
+yard 1
+district 1
+country 1
+study 1
+range 1
+climb 1
+lutèce 1
+profession 1
+one 1
+cha 1
+eye 1
+service 1
+hospital 1
+tow 1
+call 1
+firm 1
+mundane 1
+company 1
+glamour 1
+failure 1
+true 1
+volunteer 1
+case 1
+pull 1
+tunnel 1
+challenge 1
+rutgers 1
+malpractice 1
+december 1
+partner 1
+end 1
+pay 1
+warehouse 1
+couple 1
+development 1
+shrug 1
+may 1
+lab 1
+director 1
+important 1
+student 1
+faculty 1
+nation 1
+tradition 1
+pool 1
+bullet 1
+light 1
+professor 1
+later 1
+m 1
+pipe 1
+client 1
+plumbing 1
+representation 1
+software 1
+order 1
+
+ Arbitary length NP 
+new york time law school urge graduate 1
+community legal resource network 1
+thomas m. cooley law school 1
+new york law school 1

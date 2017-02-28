@@ -1,0 +1,125 @@
+
+ Bigram NP 
+legal aid 5
+southwest virginia 4
+it name 2
+bland county 2
+it executive 2
+private bar 2
+federal funding 2
+reduced funding 1
+small way 1
+lee county 1
+only lawyer 1
+smyth county 1
+our service 1
+new office 1
+new york 1
+sam hardy 1
+32-member staff 1
+joe tate 1
+first director 1
+long way 1
+u.s. department 1
+our stride 1
+our work 1
+first version 1
+new funding 1
+private practice 1
+first day 1
+eilene mcilvane 1
+marion-based community 1
+major funding 1
+legal service 1
+grant money 1
+roanoke time 1
+larry harley 1
+magna carta 1
+
+ Trigram NP 
+it expanded service 1
+economic opportunity act 1
+it only lawyer 1
+justice cynthia kinser 1
+early legal aid 1
+our domestic violence 1
+virginia supreme court 1
+it first year 1
+client centered legal 1
+legal aid society 1
+legal service corp. 1
+
+ Unigram NP 
+program 6
+office 4
+tate 4
+marion 3
+group 3
+harley 3
+area 2
+lawyer 2
+state 2
+director 2
+funding 2
+bar 2
+christiansburg 2
+abingdon 1
+concept 1
+england 1
+kinser 1
+program's 1
+weekend 1
+keynote 1
+galax 1
+grayson 1
+staff 1
+roanoke 1
+city 1
+domestic-violence 1
+family 1
+service 1
+source 1
+divorce 1
+housing 1
+agency 1
+paralegal 1
+celebration 1
+castlewood 1
+increase 1
+start 1
+health 1
+board 1
+way 1
+speaker 1
+care 1
+today 1
+justice 1
+head 1
+business 1
+government 1
+food 1
+carroll 1
+part 1
+merger 1
+november 1
+law 1
+effort 1
+man 1
+salary 1
+wytheville 1
+organization 1
+country 1
+work 1
+budget 1
+person 1
+future 1
+time 1
+action 1
+
+ Arbitary length NP 
+service paul dellinger thursday 1
+southwest virginia legal aid society 1
+world news legal aid group 1
+new river valley legal aid society 1
+smyth-bland legal aid society 1
+southwest virginia legal aid 1

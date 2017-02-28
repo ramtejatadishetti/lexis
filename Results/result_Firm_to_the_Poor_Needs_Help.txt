@@ -1,0 +1,121 @@
+
+ Bigram NP 
+legal aid 3
+eastern oklahoma 2
+hot line 2
+john athens 1
+'law firm 1
+it way 1
+special interest 1
+sarkeys foundation 1
+last year 1
+legal service 1
+oxley foundation 1
+george kaiser 1
+onionskin-thin budget 1
+child delinquency 1
+david riggs 1
+'with justice 1
+said riggs 1
+it expansion 1
+chief funding 1
+r.h. harbaugh 1
+general population 1
+legal advice 1
+tulsa foundation 1
+small percentage 1
+his mentor 1
+dallas ferguson 1
+domestic abuse 1
+his honor 1
+need help 1
+lip service 1
+it goal 1
+reduced staff 1
+oklahoma inc 1
+grant money 1
+public fund 1
+
+ Trigram NP 
+our legal system 2
+justice julie delcour 1
+u.s. supreme court 1
+legal service corp. 1
+tulsa world sunday 1
+
+ Unigram NP 
+attorney 6
+lseo 5
+riggs 4
+drive 3
+tulsa 3
+firm 2
+funding 2
+oklahoma 2
+athens 2
+state 2
+poverty 2
+law 2
+system 1
+agency 1
+businessman 1
+worthwhile 1
+family 1
+grievance 1
+money 1
+champion 1
+community 1
+society 1
+redress 1
+rent 1
+lawyer 1
+year 1
+need 1
+phrase 1
+extinction 1
+custody 1
+staff 1
+congress 1
+service 1
+area 1
+merger 1
+winter 1
+unemployment 1
+help 1
+mark 1
+access 1
+source 1
+client 1
+safety 1
+board 1
+net 1
+appeal 1
+legal-aid 1
+poor 1
+foundation 1
+satellite 1
+norman 1
+government 1
+fund 1
+representation 1
+president 1
+distraction 1
+building 1
+conner 1
+gift 1
+colleague 1
+january 1
+trustee 1
+budget 1
+contract 1
+steam 1
+april 1
+amount 1
+fund-raiser 1
+aid 1
+consumer 1
+housing 1
+laso 1
+
+ Arbitary length NP 
+tulsa area united way 1

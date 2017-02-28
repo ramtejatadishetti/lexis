@@ -1,0 +1,105 @@
+
+ Bigram NP 
+national association 2
+smylie brown 2
+law placement 2
+sixty-six percent 1
+average law 1
+private firm 1
+jonathan asher 1
+denver university 1
+first time 1
+undergraduate work 1
+libby deblasio 1
+public service 1
+top-ranked law 1
+significant number 1
+chief deputy 1
+fellow minority 1
+it search 1
+low-income housing 1
+it history 1
+public defender 1
+jennifer knight 1
+public interest 1
+law- student 1
+legal-aid snub 1
+legal aid 1
+private practice 1
+her tuition 1
+corresponding increase 1
+colorado legal 1
+public practice 1
+high school 1
+northeastern university 1
+
+ Trigram NP 
+colorado legal service 3
+france smylie brown 1
+median private law 1
+tom mcghee wednesday 1
+other public service 1
+large enough pool 1
+colorado law school 1
+
+ Unigram NP 
+law 10
+year 7
+school 7
+state 5
+tuition 5
+debt 4
+denver 4
+university 4
+student 3
+asher 3
+office 2
+number 2
+college 2
+lawyer 2
+housing 2
+lot 2
+population 2
+study 2
+knight 2
+boulder 1
+interest 1
+colorado 1
+boston 1
+executive 1
+washington 1
+month 1
+growth 1
+crime 1
+low-pay 1
+kind 1
+cu 1
+agency 1
+percent 1
+graduate 1
+source 1
+public-service 1
+frustration 1
+development 1
+du 1
+d.c. 1
+government 1
+body 1
+director 1
+pressure 1
+job 1
+half 1
+pool 1
+comparison 1
+enormous 1
+'it 1
+talent 1
+difficulty 1
+january 1
+work 1
+while 1
+drone 1
+joke 1
+scholarship 1
+
+ Arbitary length NP 

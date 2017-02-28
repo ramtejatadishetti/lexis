@@ -1,0 +1,78 @@
+
+ Bigram NP 
+legal aid 5
+basic filing 1
+part-time position 1
+general assembly 1
+bipartisan support 1
+bowling green 1
+additional filing 1
+federal budget 1
+judicial system 1
+federal grant 1
+their support 1
+good job 1
+
+ Trigram NP 
+kentucky legal aid 2
+director scott crocker 1
+kentucky bar association 1
+kentucky legal aid's 1
+rep. charles geveden 1
+
+ Unigram NP 
+legislation 8
+access 5
+geveden 4
+office 3
+justice 3
+money 2
+supplement 2
+court 2
+district 2
+kentucky 2
+circuit 2
+crocker 2
+help 1
+statewide 1
+process 1
+tax 1
+site 1
+one 1
+d-wickliffe 1
+sponsor 1
+home 1
+message 1
+legislator 1
+increase 1
+fee 1
+support 1
+percent 1
+state 1
+passage 1
+reduction 1
+endorsement 1
+total 1
+formula 1
+proposal 1
+issue 1
+foundation 1
+web 1
+www.lrc.state.ky.us 1
+director 1
+poverty 1
+funding 1
+association 1
+population 1
+bar 1
+hopkinsville 1
+january 1
+bill 1
+budget 1
+visit 1
+filing 1
+fact 1
+
+ Arbitary length NP 
+bowling green's kentucky legal aid 1
+robyn l. minor sunday 1

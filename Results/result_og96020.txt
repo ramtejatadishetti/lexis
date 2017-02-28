@@ -1,0 +1,206 @@
+
+ Bigram NP 
+interim rule 8
+final rule 7
+fiscal year 5
+surgical treatment 4
+supreme court 3
+vocational rehabilitation 3
+effective date 3
+regulatory affair 2
+veteran affair 2
+federal register 2
+order no 2
+general notice 2
+clear language 2
+disability resulting 2
+our review 2
+mr. baine 1
+cost-benefit analysis 1
+it implementation 1
+substantial number 1
+appropriate consideration 1
+additional disability 1
+previous adjudication 1
+gangrenous leg 1
+veteran appeal 1
+honorable g.v 1
+our assessment 1
+general standard 1
+fault-or-accident requirement 1
+procedure act 1
+unambiguous manner 1
+other statute 1
+budgetary analysis 1
+medical treatment 1
+statutory authorization 1
+key element 1
+retroactive effect 1
+et seq 1
+budgetary impact 1
+major rule 1
+interpretive rule1 1
+our report 1
+5-year benefit 1
+quality issue 1
+reasonable effort 1
+same reason 1
+executive order 1
+final stage 1
+chief counsel 1
+affair house 1
+
+ Trigram NP 
+regulatory flexibility act 2
+executive order no 2
+enclosure analysis under 1
+significant economic impact 1
+final regulatory flexibility 1
+kathleen e. wannisky 1
+clear legal standard 1
+veterans' affair united 1
+it economic impact 1
+brown v. gardner 1
+regulation management department 1
+david p. baine 1
+health care delivery 1
+vocational rehabilitation pursuant 1
+significant regulatory action 1
+paperwork reduction act 1
+other relevant information 1
+veteran affair page 1
+civil justice reform 1
+or vocational rehabilitation 1
+small business administration 1
+associate general counsel 1
+planned regulatory action 1
+
+ Unigram NP 
+va 27
+rule 15
+b 10
+u.s.c 10
+compensation 9
+section 8
+examination 6
+hospitalization 6
+veteran 6
+office 5
+act 5
+executive 4
+treatment 4
+sba 4
+regulation 4
+s.ct 4
+official 4
+disability 3
+brown 3
+cost 3
+result 3
+decision 3
+may 3
+information 3
+department 3
+certification 2
+death 2
+title 2
+practice 2
+page 2
+rulemaking 2
+reg 2
+november 2
+fed 2
+injury 2
+iv 2
+rin 2
+analysis 2
+united 2
+agency 2
+i 2
+order 2
+code 1
+interpretation 1
+pursuant 1
+course 1
+interim 1
+march 1
+government 1
+report 1
+loss 1
+term 1
+d 1
+amputation 1
+f 1
+benefit 1
+indemnity 1
+amendment 1
+work 1
+senate 1
+operation 1
+subject 1
+federal 1
+aggravation 1
+512-8326 1
+evaluation 1
+notice 1
+eligibility 1
+standard 1
+reason 1
+pursuit 1
+definition 1
+c 1
+accident 1
+fault 1
+compliance 1
+dependency 1
+action 1
+ch 1
+cc 1
+adjudication 1
+right 1
+limb 1
+respect 1
+management 1
+publication 1
+entitlement 1
+gardner 1
+v. 1
+award 1
+gao 1
+part 1
+copy 1
+iii 1
+ii 1
+accordance 1
+budget 1
+advocacy 1
+example 1
+occur 1
+court 1
+objection 1
+document 1
+va's 1
+512-7101 1
+effect 1
+collection 1
+director 1
+meaning 1
+date 1
+law 1
+opportunity 1
+payment 1
+documentation 1
+contact 1
+
+ Arbitary length NP 
+unfunded mandate reform act 2
+montgomery ranking minority member committee 1
+compensation for disability resulting from hospitalization 1
+honorable alan k. simpson chairman 1
+general counsel b-271810.8 june 1
+a major rule issued by the department of veteran affair entitled 1
+robert p. murphy general counsel enclosure 1
+mr. thomas o. gessel director 1
+honorable john d. rockefeller iv ranking minority member committee 1
+u.s. general accounting office 1
+honorable bob stump chairman 1

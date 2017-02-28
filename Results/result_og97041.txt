@@ -1,0 +1,228 @@
+
+ Bigram NP 
+first year 5
+toxic chemical 5
+final rule 4
+emergency planning 2
+otherwise use 2
+community right-to-know 2
+different reporting 1
+cost-benefit analysis 1
+modified interpretation 1
+substantial number 1
+overall affect 1
+economic impact 1
+procedure act 1
+private sector 1
+potential impact 1
+it submission 1
+it report 1
+proposed rulemaking 1
+our assessment 1
+peter guerrero 1
+protection agency 1
+60-day comment 1
+statutory authorization 1
+mr. guerrero 1
+social impact 1
+alan zuckerman 1
+particular facility 1
+analysis under 1
+other waste 1
+major rule 1
+jr. chairman 1
+other emergencies.2 1
+basic purpose 1
+et seq 1
+tribal governments3 1
+other reporting 1
+our report 1
+extensive analysis 1
+sba sic 1
+commerce house 1
+regulatory management 1
+detailed discussion 1
+other management 1
+public interest 1
+statutory authority 1
+public comment 1
+federal register 1
+small business 1
+total compliance 1
+our review 1
+intergovernmental mandate 1
+
+ Trigram NP 
+toxic release inventory 4
+environmental protection agency 2
+certain industry sector 2
+community right-to-know act 2
+paperwork reduction act 2
+assistant general counsel 1
+pollution prevention act 1
+community right-to-know pursuant 1
+significant economic impact 1
+omb control no 1
+federal financial assistance 1
+environmental protection issue 1
+detailed economic analysis 1
+regulatory flexibility act 1
+executive order no 1
+federal intergovernmental mandate 1
+standard industrial classification 1
+significant regulatory action 1
+other relevant information 1
+public work united 1
+their annual revenue 1
+his own motion 1
+
+ Unigram NP 
+rule 24
+epa 18
+percent 15
+u.s.c 11
+section 8
+information 6
+reg 5
+compliance 5
+fed 5
+b 5
+agency 5
+office 4
+tri 4
+state 4
+omb 4
+code 3
+interpretation 3
+use 3
+industry 3
+irfa 3
+addition 3
+epcra 3
+gao/ogc-97-41 3
+analysis 3
+title 2
+period 2
+report 2
+cost 2
+subject 2
+notice 2
+estimate 2
+ppa 2
+facility 2
+number 2
+gao 2
+iv 2
+rin 2
+reporting 2
+june 2
+i 2
+§11023 1
+sector 1
+september 1
+lack 1
+trade 1
+threshold 1
+impact 1
+sic 1
+knowledge 1
+iii 1
+labor 1
+environment 1
+employee 1
+executive 1
+government 1
+difference 1
+association 1
+512-4586 1
+forth 1
+public 1
+t 1
+release 1
+work 1
+senate 1
+owner 1
+value 1
+year 1
+512-6111 1
+enclosure 1
+overlap 1
+internet 1
+icr 1
+evaluation 1
+base 1
+disposition 1
+manufacturing 1
+preamble 1
+extension 1
+turn 1
+sba 1
+action 1
+addendum 1
+comment 1
+cc 1
+thereafter 1
+issue 1
+operator 1
+respect 1
+total 1
+management 1
+//www.epa.gov/opptintr/tri/ 1
+statement 1
+assessment 1
+form 1
+epa's 1
+part 1
+expenditure 1
+§§11023 1
+copy 1
+familiarization 1
+ii 1
+society 1
+official 1
+governor 1
+preparation 1
+behavior 1
+result 1
+control 1
+site 1
+close 1
+phrase 1
+united 1
+april 1
+event 1
+chemical 1
+methodology 1
+administrator 1
+http 1
+may 1
+collection 1
+director 1
+issuance 1
+aggregate 1
+comments4 1
+data 1
+statute 1
+task 1
+request 1
+contact 1
+review 1
+quantity 1
+
+ Arbitary length NP 
+regulatory flexibility analysis epa 2
+honorable john d. dingell ranking minority member committee 1
+initial regulatory flexibility analysis 1
+revised interpretation of otherwise use 1
+a major rule issued by the environmental protection agency entitled 1
+general counsel b-276901 may 1
+honorable john h. chafee chairman 1
+unfunded mandate reform act statement 1
+gao/ogc-97-41 executive order no 1
+addition of facility in certain industry sector 1
+honorable max baucus ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+information environmental protection agency 1
+thomas e. kelly director 1
+honorable thomas j. bliley 1
+unfunded mandate reform act 1

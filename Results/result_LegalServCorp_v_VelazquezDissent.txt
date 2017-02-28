@@ -1,0 +1,504 @@
+
+ Bigram NP 
+u. s. 36
+first amendment 10
+lsc act 6
+public forum 6
+statutory validity 5
+internal quotation 5
+appropriation act 4
+legal assistance 4
+national endowment 3
+woman voter 3
+public radio 2
+forbidden claim 2
+proper disposition 2
+federal subsidy 2
+usual functioning 2
+subsidized speech 2
+[ t 2
+subsidized position 2
+such legislation 2
+professional obligation 2
+'coercive effect 2
+normal work 2
+same time 2
+welfare litigation 2
+title x 2
+present case 2
+permissible scope 1
+iii even 1
+michigan academy 1
+general litigation 1
+it decision 1
+individual welfare 1
+family physician 1
+full freedom 1
+little resemblance 1
+privileged outlet 1
+only thing 1
+federal lobbying 1
+such relief 1
+it use 1
+state-owned television 1
+appropriate prenatal 1
+speech inherent 1
+it power 1
+partial unconstitutionality 1
+secondary school 1
+legitimate basis 1
+unsupportable interpretation 1
+little doubt 1
+professional responsibility 1
+other counsel 1
+chippewa indian 1
+requisite coercion 1
+f. supp 1
+same result 1
+same obligation 1
+pregnant woman 1
+long discussion 1
+full determination 1
+recent decision 1
+implausible proposition 1
+it purpose 1
+strict scrutiny 1
+universal coverage 1
+private speech 1
+statutory scheme 1
+high quality 1
+nontherapeutic abortion 1
+odd principle 1
+arkansas ed 1
+[ w 1
+her indigency 1
+stirring language 1
+[ n 1
+[ o 1
+limited order 1
+supreme court 1
+it prohibition 1
+medical profession 1
+general ban 1
+basic difference 1
+criminal penalty 1
+lsc-funded attorney 1
+subsidized government 1
+southeastern pa. 1
+american college 1
+judicial review 1
+legislative intent 1
+such litigation 1
+indigent woman 1
+restricted number 1
+justice thomas 1
+health-care provider 1
+applicable welfare 1
+it brief 1
+specific relief 1
+true speaker 1
+truncated representation 1
+unconventional way 1
+chief justice 1
+federal jurisdiction 1
+only difference 1
+public interest 1
+] ttorneys 1
+unconstitutional coercion 1
+financial support 1
+justice o'connor 1
+certain class 1
+clear indication 1
+limited spending 1
+reapportionment litigation 1
+it proviso 1
+alternative program 1
+cfr §1639.3 1
+full range 1
+second circuit 1
+revised version 1
+similar argument 1
+federal regulation 1
+unborn child 1
+corporation comm'n 1
+our jurisprudence 1
+nondistortable function 1
+fundamental right 1
+excepting proviso 1
+confidential advice 1
+direct regulation 1
+prospective client 1
+asserted interest 1
+new york 1
+federal spending 1
+it limit 1
+legislative compromise 1
+telecommunication consortium 1
+
+ Trigram NP 
+arkansas writers' project 2
+denver area ed 1
+mille lac band 1
+[ public radio 1
+our own profession 1
+federal regulatory program 1
+conceivable coercive effect 1
+legal service corporation 1
+goldberg v. kelly 1
+omnibus consolidated rescission 1
+due process clause 1
+it usual functioning 1
+individual eligible client 1
+discriminat [ ion 1
+legitimate legislative choice 1
+improper special solicitude 1
+railroad retirement bd 1
+piper aircraft co. 1
+alton r. co. 1
+carter coal co. 1
+adequate legal counsel 1
+chief justice shaw 1
+] justice scalia 1
+our prior law 1
+only conceivable argument 1
+judgepronounced constitutional imperatives- 1
+fcc v. league 1
+tucker truck line 1
+[ w ] 1
+supreme judicial court 1
+such selective spending 1
+
+ Unigram NP 
+court 30
+lsc 25
+v. 23
+program 21
+welfare 20
+§504 19
+congress 19
+litigation 18
+rust 17
+government 15
+] 15
+statute 15
+ante 13
+representation 12
+funding 10
+speech 10
+law 10
+restriction 9
+issue 9
+[ 8
+id. 6
+basis 6
+spending 6
+scope 6
+case 6
+j. 6
+scalia 5
+question 5
+scheme 5
+abortion 5
+lobbying 5
+severability 5
+united 5
+client 5
+inc. 5
+viewpoint 4
+provision 4
+lawyer 4
+reform 4
+brief 4
+petitioner 4
+subsidy 4
+suit 4
+today 4
+claim 4
+supra 4
+effect 4
+decision 4
+course 3
+rulemaking 3
+§2996f 3
+subsection 3
+art 3
+state 3
+judgment 3
+legislature 3
+sullivan 3
+anyone 3
+system 3
+way 3
+medium 3
+effort 3
+b 3
+challenge 3
+finley 3
+e 3
+analysis 3
+§2996 2
+league 2
+planning 2
+regan 2
+television 2
+subject 2
+novel 2
+wash. 2
+va. 2
+difference 2
+attorney 2
+right 2
+rector 2
+nondistortion 2
+operation 2
+federal 2
+section 2
+discretion 2
+accord 2
+belief 2
+ibid 2
+nature 2
+limitation 2
+forum 2
+precedent 2
+trial 2
+expression 2
+distortion 2
+respondent 2
+family 2
+point 2
+respect 2
+passage 2
+univ 2
+use 2
+refusal 2
+regulation 2
+ragland 2
+diversity 2
+rosenberger 2
+taxation 2
+part 2
+dissent 2
+influence 2
+interpretation 2
+station 2
+no 2
+purpose 2
+inquiry 2
+stake 1
+roe 1
+making 1
+entity 1
+bowen 1
+clinic 1
+mayor 1
+upheld 1
+ground 1
+access 1
+exclusion 1
+wallace 1
+§2996b 1
+implementation 1
+recipient 1
+indigency 1
+labor 1
+ineligibility 1
+absence 1
+ortwein 1
+criterion 1
+presentation 1
+dispute 1
+reyno 1
+contention 1
+dependent 1
+choice 1
+*** 1
+fall 1
+inception 1
+condition 1
+government-funded 1
+school 1
+bar 1
+l. 1
+approach 1
+list 1
+minnesota 1
+fcc 1
+antilabor 1
+affiliate 1
+t 1
+maher 1
+ban 1
+x 1
+massachusetts 1
+inter 1
+side 1
+view 1
+amendment 1
+context 1
+carter 1
+frost 1
+product 1
+authority 1
+insult 1
+see 1
+alaska 1
+doe 1
+cfr 1
+litigant 1
+nonabortion 1
+absent 1
+instance 1
+constitution 1
+jurisprudence 1
+coercion 1
+legal 1
+importance 1
+version 1
+provider 1
+limit 1
+appeal 1
+method 1
+exercise 1
+restriction- 1
+foundation 1
+proviso 1
+desegregation 1
+bearing 1
+title 1
+position 1
+court's 1
+step 1
+poverty 1
+aid 1
+randall 1
+alderman 1
+fondness 1
+cranch 1
+comm'n 1
+piece 1
+exemption 1
+seq. 1
+enlargement 1
+freedom 1
+experience 1
+7-8 1
+s 1
+abuse 1
+threat 1
+automobile 1
+action 1
+opinion 1
+permission 1
+legality 1
+withdraws 1
+ability 1
+student 1
+marshall 1
+cf 1
+whatever 1
+one 1
+'consistent 1
+nothing 1
+plurality 1
+involvement 1
+venture 1
+thornburgh 1
+§§504 1
+unwillingness 1
+brock 1
+fee 1
+pt 1
+ca2 1
+charlestown 1
+class 1
+forbes 1
+initiation 1
+certiorari 1
+type 1
+unconstitutionality 1
+§10 1
+sort 1
+'decision 1
+tax 1
+blackmun 1
+c 1
+schwab 1
+casey 1
+fund 1
+speiser 1
+role 1
+ii 1
+none 1
+join 1
+anything 1
+f 1
+lyng 1
+alia 1
+j 1
+warren 1
+validity 1
+cal. 1
+webster 1
+problem 1
+lavine 1
+example 1
+marketplace 1
+uncertainty 1
+doctor 1
+ibid. 1
+edny 1
+counsel 1
+unavailability 1
+gynecologist 1
+rule 1
+counseling 1
+okla. 1
+f. 1
+dozen 1
+'affiliate 1
+corporation 1
+agency 1
+range 1
+reality 1
+majority 1
+broadcasting 1
+answer 1
+party 1
+curiam 1
+evidence 1
+conclusion 1
+residue 1
+stat 1
+picketing 1
+boycott 1
+time 1
+a. 1
+parenthood 1
+davis 1
+free-speech 1
+denial 1
+suppression 1
+termination 1
+date 1
+discriminate 1
+response 1
+structure 1
+verdugo-urquidez 1
+whole 1
+lsc-funded 1
+request 1
+filing 1
+mass 1
+principle 1
+mother 1
+cli 1
+resolution 1
+
+ Arbitary length NP 
+u. s. c. §2996 3
+carmen velazquez et al 2
+on writ of certiorari to the united state court of appeal for the second circuit [ february 1
+the united state no 1
+significant quid pro quo 1
+legal service corporation act 1

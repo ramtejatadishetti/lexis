@@ -1,0 +1,143 @@
+
+ Bigram NP 
+final rule 12
+physical therapy 3
+respiratory therapy 3
+occupational therapy 2
+outside contractor 2
+salary equivalency 2
+medicaid program 2
+regulatory action 1
+procedure act 1
+cost-benefit analysis 1
+health financing 1
+substantial number 1
+medicare trust 1
+private sector 1
+finance united 1
+our assessment 1
+statutory authorization 1
+significant impact 1
+william scanlon 1
+mean house 1
+human service 1
+et seq 1
+federal register 1
+mr. scanlon 1
+major rule 1
+jr. chairman 1
+order no 1
+james vickers 1
+system issue 1
+our report 1
+commerce house 1
+our review 1
+federal intergovernmental 1
+speech language 1
+
+ Trigram NP 
+speech language pathology 3
+paperwork reduction act 2
+salary equivalency guideline 2
+social security act 2
+combined regulatory impact 1
+assistant general counsel 1
+human service page 1
+new salary equivalency 1
+executive order no 1
+enclosure analysis under 1
+medicare part a 1
+medicare part b 1
+other relevant information 1
+regulatory flexibility act 1
+
+ Unigram NP 
+hcfa 9
+u.s.c 8
+health 5
+rule 5
+medicare 5
+b 4
+office 3
+human 3
+section 3
+department 3
+notice 3
+0938-ag70 2
+iv 2
+rin 2
+information 2
+fed 2
+title 2
+agency 2
+gao/ogc-98-30 2
+reg 2
+omb 2
+executive 2
+therapy 2
+report 2
+i 2
+january 2
+budget 2
+v 2
+management 2
+secretary 2
+code 1
+cost 1
+revenue 1
+senate 1
+official 1
+authority 1
+512-7114 1
+therapist 1
+analysis 1
+hospice 1
+respect 1
+pathology 1
+work 1
+subject 1
+united 1
+§ 1
+cc 1
+methodology 1
+comment 1
+way 1
+provider 1
+percentage 1
+evaluation 1
+march 1
+pursuant 1
+gao 1
+difficulty 1
+mandate 1
+iii 1
+response 1
+ii 1
+director 1
+february 1
+respiratory 1
+512-8210 1
+§§ 1
+compliance 1
+future 1
+hospital 1
+
+ Arbitary length NP 
+health care financing administration 3
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+final regulatory flexibility analysis 1
+a major rule issued by the department of health and human service 1
+occupational therapy service pursuant 1
+honorable daniel patrick moynihan ranking minority member committee 1
+honorable william v. roth chairman 1
+general counsel b-279224 february 1
+honorable charles b. rangel ranking minority member committee 1
+health care financing administration entitled 1
+honorable bill archer chairman 1
+medicare and medicaid program 1
+robert p. murphy general counsel enclosure 1
+honorable donna e. shalala 1
+honorable thomas j. bliley 1
+salary equivalency guideline for physical therapy 1
+and occupational therapy service 1

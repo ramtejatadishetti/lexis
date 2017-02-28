@@ -1,0 +1,100 @@
+
+ Bigram NP 
+alpaugh irrigation 6
+last month 1
+voter approval 1
+big increase 1
+undrinkable water 1
+steve martin 1
+renters' protest 1
+sandra meraz 1
+tulare county 1
+possible fee 1
+patrick enright 1
+monthly price 1
+property-related fee 1
+executive director 1
+chris schneider 1
+it role 1
+informational meeting 1
+their water 1
+monthly fee 1
+unpalatable choice 1
+propertyrelated fee 1
+
+ Trigram NP 
+joan obra alpaugh 1
+alpaugh irrigation district 1
+
+ Unigram NP 
+water 7
+district 6
+july 4
+property 4
+increase 3
+board 3
+service 3
+farmworker 2
+household 2
+tonight 2
+vote 2
+fee 2
+meeting 2
+president 2
+martin 2
+attorney 1
+misinformation 1
+process 1
+move 1
+month 1
+protest 1
+cost 1
+election 1
+approval 1
+tuesday 1
+writing 1
+debate 1
+prop 1
+voter 1
+end 1
+area 1
+addition 1
+lawsuit 1
+jump 1
+question 1
+charge 1
+crisis 1
+fire 1
+state 1
+energy 1
+maintenance 1
+confusion 1
+supplier 1
+recordkeeping 1
+today 1
+power 1
+may 1
+alpaugh 1
+price 1
+interview 1
+part 1
+screaming 1
+% 1
+pool 1
+town 1
+loss 1
+meraz 1
+assessment 1
+bill 1
+schneider's 1
+contract 1
+record 1
+proposition 1
+outcome 1
+section 1
+result 1
+
+ Arbitary length NP 
+tulare county water work 9
+central california legal service 1
+tulare county water work district 1

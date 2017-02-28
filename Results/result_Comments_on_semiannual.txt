@@ -1,0 +1,398 @@
+
+ Bigram NP 
+inspector general 5
+program performance 5
+high quality 4
+legal assistance 4
+equal justice 3
+legal education 3
+legal information 2
+result project 2
+south carolina 2
+management report 2
+technical assistance 2
+final rule 2
+defender association 2
+west virginia 2
+twenty-five percent 1
+new grant 1
+comprehensive information 1
+true cross 1
+possible guide 1
+management initiative 1
+three-day conference 1
+six-month period 1
+final report 1
+general supervision 1
+better use 1
+statewide basis 1
+non-profit corporation 1
+grantee issued 1
+applicant information 1
+lasting change 1
+it goal 1
+it effort 1
+real estate 1
+regulatory compliance 1
+primary goal 1
+increased accuracy 1
+first conference 1
+alternative dispute 1
+web site 1
+collaborative service 1
+continued technology 1
+improved access 1
+state justice 1
+it initiative 1
+information management 1
+congressional appropriation 1
+statewide web 1
+cfr part 1
+our nation 1
+grant year 1
+lsc website 1
+diverse group 1
+comprehensive system 1
+indiana access 1
+primary responsibility 1
+electronic mail 1
+different program 1
+national level 1
+referral system 1
+management agreed 1
+near future 1
+ultimate goal 1
+strengthen program 1
+key information 1
+national center 1
+academic community 1
+new jersey 1
+north carolina 1
+new york 1
+available technology 1
+executive office 1
+new service 1
+new rule 1
+applicant's service 1
+our support 1
+justice conference 1
+thorough review 1
+other community 1
+their quality 1
+public comment 1
+first time 1
+new hampshire 1
+federal register 1
+lsc's office 1
+great effort 1
+ideal telephone 1
+financial support 1
+merger-related technology 1
+be put 1
+legal affair 1
+unnecessary duplication 1
+activity lsc 1
+san diego 1
+ongoing effectiveness 1
+chief executive 1
+full range 1
+applicant staff 1
+lsc act 1
+lsc staff 1
+regional training 1
+continued progress 1
+sub-granting part 1
+program letter 1
+participant solicitation 1
+result project' 1
+lsc board 1
+significant progress 1
+strategic planning 1
+model intake 1
+civil justice 1
+our goal 1
+it ability 1
+applicant process 1
+many program 1
+
+ Trigram NP 
+state planning initiative 3
+national legal aid 2
+management information exchange 2
+equal justice conference 2
+technology initiative grant 2
+strategic direction plan 2
+it second round 2
+strategic direction lsc 1
+it strategic plan 1
+douglas s. eakeley 1
+specific geographic area 1
+it competitive grant 1
+five-year strategic plan 1
+state planning report 1
+lsc strategic direction 1
+case management software 1
+special telephonic conference 1
+national 2-day training 1
+inspector general audit 1
+their equal justice 1
+audit report issued 1
+state justice institute 1
+the period october 1
+program review guide 1
+open society institute 1
+state planning lsc 1
+coordinated legal assistance 1
+inspector general act 1
+case service reporting 1
+other equal justice 1
+
+ Unigram NP 
+lsc 69
+program 13
+office 12
+delivery 11
+state 10
+board 9
+rfp 9
+conference 9
+work 9
+technology 9
+staff 8
+period 8
+community 8
+reporting 8
+march 7
+grant 7
+corporation 7
+system 6
+information 6
+development 6
+client 6
+report 5
+draft 5
+% 5
+oig 5
+collection 5
+director 5
+may 4
+training 4
+quality 4
+fund 4
+project 4
+process 4
+year 4
+advice 4
+planning 3
+justice 3
+ohio 3
+competition 3
+funding 3
+legal 3
+access 3
+country 3
+compliance 3
+implementation 3
+statewide 3
+use 3
+management 3
+area 3
+diversity 3
+part 3
+tig 3
+intake 3
+october 3
+site 3
+opp 3
+plan 3
+fy 3
+june 3
+ejc 2
+recipient 2
+april 2
+instrument 2
+tigs 2
+number 2
+burden 2
+conjunction 2
+resource 2
+creation 2
+calendar 2
+purpose 2
+assistance 2
+efficiency 2
+approval 2
+november 2
+session 2
+service 2
+florida 2
+act 2
+table 2
+district 2
+workshop 2
+function 2
+july 2
+effort 2
+case 2
+meeting 2
+united 2
+variety 2
+performance 2
+columbia 2
+award 2
+president 2
+pennsylvania 2
+missouri 2
+selection 1
+protocol 1
+september 1
+consent 1
+lay 1
+reconfiguration 1
+committee 1
+maine 1
+help 1
+impact 1
+web 1
+sixteen 1
+application 1
+minnesota 1
+bench 1
+overage 1
+listing 1
+input 1
+maryland 1
+michigan 1
+citrix 1
+utah 1
+consolidation 1
+handling 1
+half 1
+bar 1
+provision 1
+review 1
+anticipation 1
+january 1
+race 1
+officer 1
+gender 1
+-2005 1
+senate 1
+series 1
+sensitivity 1
+availability 1
+recruitment 1
+design 1
+result 1
+measure 1
+retention 1
+insurance 1
+ability 1
+aba 1
+practice 1
+degree 1
+decision 1
+coordination 1
+future 1
+internet 1
+evaluation 1
+collaboration 1
+wisconsin 1
+belief 1
+foreword 1
+exchange 1
+activity 1
+standard 1
+leadership 1
+california 1
+lawsuit 1
+distribution 1
+forum 1
+southeast 1
+region 1
+section 1
+software 1
+colorado 1
+carryover 1
+consideration 1
+washington 1
+type 1
+message 1
+programs,2 1
+wan 1
+pre-conference 1
+transfer 1
+visit 1
+seventy 1
+strengthen 1
+maintenance 1
+indiana 1
+proposal 1
+louisiana 1
+twenty-eight 1
+questioned 1
+enforcement 1
+receipt 1
+form 1
+addition 1
+regard 1
+serve 1
+oregon 1
+hershey 1
+coherent 1
+merger 1
+pilot 1
+target 1
+value 1
+nebraska 1
+monitoring 1
+balance 1
+gathering 1
+mediation 1
+december 1
+pro 1
+u.s.c 1
+aarp 1
+ethnicity 1
+concept 1
+lsc's 1
+self 1
+administration 1
+illinois 1
+field 1
+potential 1
+party 1
+test 1
+effectiveness 1
+gauging 1
+outreach 1
+programs' 1
+sql 1
+nation 1
+response 1
+inspiration 1
+volume 1
+age 1
+documentation 1
+request 1
+sale 1
+telephone 1
+organization 1
+alabama 1
+clearance 1
+resolution 1
+order 1
+www.ain.lsc.gov 1
+
+ Arbitary length NP 
+six month period ending march 2
+march aba/nlada equal justice conference 2
+chairman legal service corporation may 1
+lsc recipient information network 1
+high quality legal assistance 1
+the board of director 1
+legal service corporation board of director comment on the office of inspector general 1
+semiannual report to the congress 1
+legal service corporation act 1
+background legal service corporation 1
+lsc's state planning initiative 1

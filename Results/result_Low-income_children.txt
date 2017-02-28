@@ -1,0 +1,65 @@
+
+ Bigram NP 
+mental health 2
+court-appointed guardian 1
+economic background 1
+muskie school 1
+similar program 1
+three-year evaluation 1
+alison beyea 1
+social work 1
+new report 1
+muskie fellowship 1
+legal counseling 1
+frank d'alessandro 1
+legislative appropriation 1
+southern maine 1
+her study 1
+public service 1
+online tuesday 1
+private system 1
+
+ Trigram NP 
+
+ Unigram NP 
+gal 9
+beyea 6
+court 5
+state 5
+family 4
+divorce 4
+report 4
+maine 3
+study 3
+hour 2
+right 1
+ad 1
+communication 1
+ap 1
+lawyer 1
+year 1
+portland 1
+concern 1
+fee 1
+district 1
+anyone 1
+foster 1
+guardian 1
+collaboration 1
+litem 1
+child 1
+law 1
+recipient 1
+case 1
+february 1
+university 1
+budget 1
+neglect 1
+abuse 1
+time 1
+management 1
+implement 1
+
+ Arbitary length NP 
+chief justice leigh saufley 1
+pine tree legal service 1

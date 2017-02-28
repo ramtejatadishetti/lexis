@@ -1,0 +1,103 @@
+
+ Bigram NP 
+legal aid 7
+public assistance 2
+executive director 2
+lillian moy 1
+tina lavery 1
+full-time representation 1
+their time 1
+self-employed auto 1
+your house 1
+limited degree 1
+bar association 1
+anne erickson 1
+dennis duggan 1
+financial help 1
+capital region 1
+constitutional right 1
+her request 1
+vast majority 1
+thomas levin 1
+legal representation 1
+capital district 1
+judicial system 1
+bureaucratic confusion 1
+social security 1
+justice committee 1
+criminal court 1
+taxpayerfunded attorney 1
+whole class 1
+legal crisis 1
+single consultation 1
+large portion 1
+
+ Trigram NP 
+her 2-year-old son 1
+albany's legal aid 1
+their 13-attorney staff 1
+their own lawyer 1
+northeastern new york 1
+albany law school 1
+updated legal information 1
+legal aid society 1
+andrew tilghman five 1
+
+ Unigram NP 
+office 3
+year 3
+lavery 3
+law 3
+help 2
+family 2
+september 1
+tuesday 1
+woman 1
+lawyer 1
+autism 1
+custody 1
+staff 1
+albany 1
+story 1
+court 1
+variety 1
+justice 1
+support 1
+percent 1
+system 1
+state's 1
+access 1
+process 1
+disparity 1
+call 1
+chairman 1
+interest 1
+income 1
+speech 1
+secure 1
+guarantee 1
+household 1
+bureaucracy 1
+scotia 1
+lot 1
+business 1
+state 1
+price 1
+escrow 1
+therapy 1
+student 1
+judge 1
+day 1
+care 1
+hour 1
+wife 1
+receive 1
+levin 1
+morning 1
+trial 1
+mechanic 1
+
+ Arbitary length NP 
+greater upstate law project 1
+albany county family court 1
+new york state bar association 1

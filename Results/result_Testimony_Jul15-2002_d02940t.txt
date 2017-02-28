@@ -1,0 +1,650 @@
+
+ Bigram NP 
+human capital 29
+federal government 14
+federal pay 5
+individual knowledge 3
+geographic location 3
+their performance 3
+results-oriented performance 3
+national commission 3
+homeland security 3
+21st century 2
+good government 2
+our model 2
+short term 2
+effective performance 2
+organizational performance 2
+public service 2
+our workforce 2
+personnel management 2
+our country 2
+management reform 2
+federal performance 2
+gao-02-940t gao 2
+program risk 2
+reasonable flexibility 1
+unarguable point 1
+our training 1
+our economy 1
+full use 1
+increased emphasis 1
+federal bureau 1
+challenge remain 1
+wide range 1
+persistent attention 1
+challenged agency 1
+valuable asset 1
+it management 1
+important area 1
+major transformation 1
+change management 1
+agency leader 1
+on-site child 1
+fbi reorganization 1
+involved employee 1
+critical success 1
+longstanding management 1
+specific dollar 1
+space administration 1
+other transformation 1
+basic stewardship 1
+concerted effort 1
+senior career 1
+long-standing management 1
+individual measurement 1
+right direction 1
+critical element 1
+our internship 1
+important quality 1
+our work 1
+oriented approach 1
+current momentum 1
+constructive feedback 1
+occupational series 1
+locality pay 1
+a white 1
+mr. chairman 1
+constructive role 1
+major step 1
+it mission 1
+result act 1
+their interest 1
+organizational alignment 1
+long-term stewardship 1
+overall number 1
+primary goal 1
+global interdependence 1
+additional information 1
+extensive campaign 1
+my opinion 1
+matrix management 1
+integrated set 1
+strategic fashion 1
+government performance 1
+federal workforce 1
+strong presence 1
+accountability series 1
+activity panel 1
+widespread concern 1
+only way 1
+it accountability 1
+scientific career 1
+fact-based information 1
+results-oriented basis 1
+vital role 1
+analyst-related staff 1
+vast majority 1
+third step 1
+senior leadership 1
+it culture 1
+top-level attention 1
+minimum time 1
+casual dress 1
+implementation will 1
+integrated manner 1
+our responsibility 1
+federal employee 1
+open communication 1
+a model 1
+our competitiveness 1
+cultural transformation 1
+gao-02-940t requiring 1
+inspired leadership 1
+sustained management 1
+succession planning 1
+my statement 1
+meaningful performance 1
+performance agreement 1
+organizational level 1
+christopher mihm 1
+foster transformation 1
+governmentwide pay 1
+high-risk series 1
+successful organizations.13 1
+white paper 1
+current length 1
+additional flexibility 1
+necessary information 1
+financial management 1
+political leadership 1
+president bush 1
+execute change 1
+much work 1
+comprehensive review 1
+careful study 1
+• management 1
+our experience 1
+sourcing decision 1
+it performance 1
+comptroller general 1
+lisa shame 1
+further information 1
+direct link 1
+difficult task 1
+our world 1
+workforce planning 1
+leading accountability 1
+appraise executive 1
+our page 1
+self-assessment checklist 1
+select number 1
+gao-02-940t figure 1
+it knowledge 1
+long-standing lack 1
+• performance 1
+prominent change 1
+it work 1
+second step 1
+governmentwide perspective 1
+active employee 1
+their people.14 1
+appropriate incentive 1
+fitness center 1
+key tool 1
+inward focus 1
+serious change 1
+organizational unit 1
+national aeronautics 1
+their use 1
+asymmetrical security 1
+• knowledge 1
+direct input 1
+governmentwide authority 1
+meet current 1
+federal employment 1
+his management 1
+results-oriented pay 1
+political affiliation 1
+daily decision 1
+strategic issue 1
+successful work 1
+clear linkage 1
+key stewardship 1
+important management 1
+same time 1
+rebecka derr 1
+top priority 1
+budgetary challenge 1
+public transportation 1
+three-year commitment 1
+judith kordahl 1
+risk-based approach 1
+their missions.2 1
+successful merger 1
+dispute resolution 1
+major change 1
+sustained commitment 1
+their review 1
+mid-point review 1
+day-to-day basis 1
+good foundation 1
+ellen rubin 1
+use performance 1
+important step 1
+individual accountability 1
+accountability-with appropriate 1
+management challenge 1
+targeted college 1
+profound transition 1
+chairman volcker 1
+first step 1
+key question 1
+key management 1
+our government 1
+ed stephenson 1
+amy choi 1
+it promises.1 1
+hud management 1
+
+ Trigram NP 
+strategic human capital 7
+our strategic plan 2
+gao personnel act 2
+human capital cornerstone 2
+senior executive service 2
+their human capital 2
+it human capital 2
+serious human capital 1
+internal revenue service 1
+our first offering 1
+our banded system 1
+new competency-based performance 1
+voluntary early retirement 1
+success factor organized 1
+employee advisory council 1
+good first phase 1
+governmentwide high-risk area 1
+agencies' respective performance 1
+our human capital 1
+their overall orientation 1
+integrate human capital 1
+accountability framework needed 1
+broad transformation needed 1
+enormous human capital 1
+broad human capital 1
+program's administrative structure 1
+our high-risk list 1
+consistent strategic approach 1
+appropriate first phase 1
+using performance management 1
+professional development program 1
+our own performance 1
+comprehensive civil service 1
+comprehensive human capital 1
+arbitrary full-time equivalent 1
+• strategic planning 1
+gao-02-940t ensuring leadership 1
+successful improvement initiative 1
+• human capital 1
+candidate development program 1
+critical success factor 1
+our own accountability 1
+our first student 1
+our institutional independence 1
+dod financial management 1
+reward high performance 1
+
+ Unigram NP 
+management 43
+performance 33
+d.c. 26
+washington 26
+agency 20
+• 19
+employee 14
+opm 14
+government 13
+s 12
+program 9
+example 9
+knowledge 9
+omb 9
+congress 9
+gao 9
+system 8
+coo 8
+model 8
+transformation 7
+use 6
+today 6
+number 6
+part 6
+reform 6
+compensation 6
+pay 6
+leadership 6
+accountability 6
+process 5
+information 5
+january 5
+organization 5
+progress 5
+approach 5
+addition 5
+value 5
+range 5
+legislation 5
+time 5
+risk 4
+may 4
+scorecard 4
+case 4
+administration 4
+connection 4
+allocation 4
+position 4
+executive 4
+gao-02-940t 4
+core 4
+regard 4
+department 4
+focus 3
+oct. 3
+experience 3
+apr 3
+appraisal 3
+united 3
+mar 3
+agenda 3
+order 3
+office 3
+transition 3
+attention 3
+nature 3
+key 3
+commission 3
+interest 3
+momentum 3
+success 3
+business 3
+panel 3
+branch 3
+june 3
+passage 2
+level 2
+recruitment 2
+rate 2
+perspective 2
+gao-02-528t 2
+assistance 2
+change 2
+survey 2
+fbi 2
+unit 2
+assessment 2
+effort 2
+customer 2
+work 2
+light 2
+mission 2
+fig 2
+policy 2
+practice 2
+term 2
+repayment 2
+status 2
+energy 2
+fte 2
+base 2
+training 2
+conducted 2
+place 2
+promotion 2
+grade 2
+option 2
+future 2
+investment 2
+emphasis 2
+effectiveness 2
+principle 2
+implementation 2
+continuity 2
+resource 2
+importance 2
+linkage 2
+april 2
+loan 2
+satisfaction 2
+consideration 2
+gap 2
+governmentwide 2
+technology 2
+composition 2
+opportunity 2
+center 2
+reward 2
+inflation 2
+authority 2
+employment 2
+way 2
+line 2
+role 2
+broadbanding 2
+lack 1
+continue- 1
+adjustment 1
+retention 1
+finally 1
+include 1
+oversight 1
+@ 1
+confirmation 1
+appointment 1
+candid 1
+fall 1
+affect 1
+evaluation 1
+consistent 1
+cost 1
+design 1
+selected 1
+degree 1
+pay-for-performance 1
+chairing 1
+i.e 1
+gao/ggd-00-113br 1
+gao-02-886t 1
+action 1
+mobility 1
+enactment 1
+manage 1
+morale 1
+flexibility 1
+motivate 1
+modernization 1
+examination 1
+scope 1
+curriculum 1
+gao-01-115 1
+midst 1
+science 1
+challenge 1
+transparency 1
+making 1
+control 1
+re-examination 1
+figure 1
+december 1
+sense 1
+goal 1
+discussion 1
+methodology 1
+profile 1
+abuse 1
+reassessment 1
+date 1
+-may 1
+ombudsman 1
+third 1
+documentation 1
+chief 1
+responsibility 1
+tenure 1
+feedback 1
+september 1
+in-house 1
+paper 1
+committed 1
+taxpayer 1
+gao/t-ggd-00-118 1
+gao-01-242 1
+gao-01-241 1
+gao-01-246 1
+bar 1
+gao/t-hehs-00-108 1
+series 1
+idea 1
+gpra 1
+year 1
+marshaling 1
+increase 1
+investigation 1
+size 1
+issue 1
+sept. 1
+standard 1
+quo 1
+care 1
+director 1
+gao-01-466 1
+turn 1
+turf 1
+strategic 1
+feb. 1
+legislative 1
+publication 1
+top 1
+statement 1
+reprioritization 1
+challenges.15 1
+challenges.12 1
+july 1
+population 1
+sourcing 1
+architect 1
+acquisition 1
+manner 1
+need 1
+ahead.3 1
+empowered 1
+incentive 1
+pivotal 1
+track 1
+collaboration 1
+class 1
+dod 1
+staff 1
+guidance 1
+gao-02-439t 1
+report 1
+wellness 1
+summary 1
+gao-01-965t 1
+view 1
+art 1
+defense 1
+college 1
+result 1
+august 1
+capacity 1
+managing 1
+irs 1
+state 1
+work-in-progress 1
+ability 1
+stakeholder 1
+efficiency 1
+retirement 1
+gao-02-45 1
+career 1
+contract 1
+gao-02-656 1
+context 1
+flextime 1
+point 1
+period 1
+initiative 1
+basis 1
+strategy 1
+privilege 1
+proposal 1
+life 1
+gao/ocg-00-14g 1
+centerpiece 1
+diffuse 1
+pilot 1
+regard.7 1
+gao.gov 1
+budget 1
+behavior 1
+gao/ggd-00-28 1
+assure 1
+member 1
+gao/t-ggd-00-131 1
+gao-01-1070 1
+inventory 1
+subunit 1
+development 1
+suggestion 1
+workforce 1
+student 1
+gao-01-509 1
+variety 1
+person 1
+contact 1
+summer 1
+capitol 1
+mechanism 1
+redesign 1
+alignment 1
+high-grade 1
+gao-02-632t 1
+candidate 1
+deputy 1
+contractor 1
+board 1
+citizen 1
+march 1
+preference 1
+semester 1
+benefit 1
+officer 1
+essential 1
+senate 1
+spring 1
+gao-02-865t 1
+sight 1
+place.8 1
+equivalent 1
+gao-01-262 1
+gao-01-263 1
+empowerment 1
+medicare 1
+testimony 1
+gao-02-497t 1
+ferc 1
+communication 1
+commitment 1
+gao-02-373sp 1
+compression 1
+area 1
+start 1
+analyst 1
+october 1
+j 1
+vanguard 1
+jan. 1
+distribution 1
+diverse 1
+-one 1
+locality 1
+individual 1
+percent 1
+gao/t-ggd-00-26 1
+update 1
+building 1
+e 1
+age 1
+nasa 1
+
+ Arbitary length NP 
+u.s. general accounting office 11
+their individual human capital 2
+strategic human capital management 2
+our current broadbanded system 1
+their specific human capital 1
+accountability series-major management challenge 1
+century challenge prompt fresh 1
+public service gao-02-940t chairman volcker 1
+emerging human capital challenge 1
+nine private sector organization 1
+general accounting office testimony gao 1
+agency address their human capital challenge 1
+our current human capital 1
+u.s general accounting office 1
+strategic human capital reform 1
+cabinet agency ha merit 1
+effective strategic human capital 1
+confront challenge that impede effective oversight 1
+see u.s. general accounting office 1

@@ -1,0 +1,107 @@
+
+ Bigram NP 
+legal aid 11
+executive director 3
+domestic violence 2
+jamie hamon 1
+legal assistance 1
+next year 1
+ernie lewis 1
+it passage 1
+federal program 1
+defense fund 1
+other staff 1
+elderly person 1
+annual budget 1
+scott crocker 1
+appalachian research 1
+dennis bricking 1
+statewide poverty-law 1
+his office 1
+poverty-law resource 1
+major funding 1
+legal service 1
+potential loss 1
+justice foundation 1
+grant money 1
+
+ Trigram NP 
+kentucky legal aid 1
+additional federal money 1
+sen. tom harkin 1
+u.s. justice department 1
+poor facing statewide 1
+legal service corp. 1
+noncriminal legal assistance 1
+
+ Unigram NP 
+kentucky 8
+state 6
+poverty 4
+hamon 4
+loss 3
+money 2
+budget 2
+rate 2
+bricking 2
+funding 2
+percent 2
+louisville 2
+board 2
+interest 2
+head 2
+appalred 2
+fraud 2
+center 2
+lexington 2
+amendment 1
+d-iowa 1
+family 1
+statewide 1
+senate 1
+domestic-violence 1
+executive 1
+ap 1
+eviction 1
+public-defender 1
+victim 1
+year 1
+trust 1
+crisis 1
+staff 1
+decline 1
+cut 1
+kentucky's 1
+member 1
+addition 1
+housing 1
+agency 1
+legal 1
+saturday 1
+access 1
+program 1
+area 1
+bluegrass 1
+ky. 1
+congress 1
+director 1
+fund 1
+demand 1
+estimate 1
+law 1
+data 1
+jefferson 1
+october 1
+resource 1
+home 1
+region 1
+bill 1
+census 1
+time 1
+consumer 1
+example 1
+system 1
+
+ Arbitary length NP 
+violence against woman act 2
+louisville legal aid society 1

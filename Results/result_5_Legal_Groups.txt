@@ -1,0 +1,94 @@
+
+ Bigram NP 
+salt lake 2
+my assistant 1
+olafson group 1
+protective order 1
+old paint 1
+new facility 1
+donor list 1
+west-side downtown 1
+charity christenson 1
+their board 1
+right agency 1
+joint fund-raising 1
+first floor 1
+executive director 1
+stewart ralphs 1
+west high 1
+same reception 1
+her husband 1
+public service 1
+jaye olafson 1
+legal center 1
+
+ Trigram NP 
+community legal center 3
+legal aid society 2
+sweet candy company 1
+first joint office 1
+utah legal service 1
+disability law center 1
+it own parking 1
+
+ Unigram NP 
+building 7
+project 3
+all 2
+share 2
+jaye 2
+staff 2
+justice 2
+tomax 2
+tour 2
+alliance 1
+cost 1
+campaign 1
+facility 1
+locale 1
+street 1
+something 1
+desperate 1
+year 1
+touch 1
+home 1
+gateway 1
+owning 1
+equipment 1
+group 1
+office 1
+area 1
+west 1
+hardwood 1
+brick 1
+subject 1
+couple 1
+town 1
+woman 1
+reception 1
+business 1
+utah 1
+stone 1
+downtown 1
+half 1
+bit 1
+law 1
+renovation 1
+february 1
+room 1
+n. 1
+country 1
+space 1
+wednesday 1
+client 1
+venture 1
+erik 1
+problem 1
+example 1
+rent 1
+
+ Arbitary length NP 
+first joint fund-raising campaign 1
+community legal center campaign 1
+senior lawyer volunteer project 1
+vulnerable salt lake city tribune by edward mcdonough five 1

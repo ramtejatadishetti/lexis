@@ -1,0 +1,56 @@
+
+ Bigram NP 
+their study 1
+same industry 1
+job is 1
+significant progress 1
+active use 1
+their employment 1
+husband-and-wife team 1
+hard core 1
+alfred w. 1
+different job 1
+rutgers school 1
+significant problem 1
+intentional discriminator 1
+intentional discrimination 1
+it employment 1
+their hiring 1
+
+ Trigram NP 
+reed abelson july 1
+same geographic area 1
+ruth g. blumrosen 1
+employment opportunity commission 1
+
+ Unigram NP 
+study 4
+employment 2
+discrimination 2
+company 2
+site 1
+today 1
+category 1
+information 1
+united 1
+www.eeo1.com 1
+government 1
+newark 1
+commission 1
+draft 1
+e.e.o.c 1
+hundred 1
+norm 1
+workplace 1
+woman 1
+minority 1
+web 1
+chance 1
+blumrosens 1
+law 1
+job 1
+common 1
+average 1
+
+ Arbitary length NP 
+new york time study find bias 1

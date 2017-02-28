@@ -1,0 +1,236 @@
+
+ Bigram NP 
+final rule 13
+interim program 6
+cost-benefit analysis 3
+regulatory impact 3
+federal register 3
+additive injection 1
+substantial number 1
+public docket 1
+answer document 1
+private sector 1
+title ii 1
+cost-effective approach 1
+numerous business 1
+sic code 1
+regulatory affair 1
+certain engine 1
+our assessment 1
+peter guerrero 1
+same time 1
+effective level 1
+entire analysis 1
+regulated industry 1
+statutory authorization 1
+total producer 1
+mr. guerrero 1
+small entity 1
+average consumer 1
+possible requirement 1
+sufficient data 1
+et seq 1
+senior attorney 1
+it consideration 1
+detailed presentation 1
+major rule 1
+jr. chairman 1
+order no 1
+james vickers 1
+public input 1
+our report 1
+overall impact 1
+various implementation 1
+commerce house 1
+regulatory flexibility 1
+regulatory management 1
+director office 1
+advance notice 1
+it place 1
+executive order 1
+comment period 1
+required deposit 1
+chief counsel 1
+our review 1
+public hearing 1
+estimated cost 1
+
+ Trigram NP 
+environmental protection agency 5
+paperwork reduction act 2
+small business administration 2
+significant regulatory action 2
+executive order no 2
+administrative procedure act 1
+annual economic impact 1
+other relevant information 1
+thomas e. kelly 1
+environmental protection issue 1
+public work united 1
+required regulatory impact 1
+epa docket no 1
+gao/ogc-96-27 interim program 1
+regulatory flexibility act 1
+interim detergent program 1
+significant economic impact 1
+it economic impact 1
+detergent rule question 1
+
+ Unigram NP 
+epa 20
+rule 19
+analysis 12
+certification 9
+section 9
+fuel 6
+u.s.c 6
+information 6
+office 5
+detergent 5
+reg 5
+notice 5
+act 5
+fed 5
+collection 5
+requirement 4
+omb 4
+program 4
+b 4
+gasoline 4
+control 4
+test 4
+executive 3
+impact 3
+january 3
+l 3
+year 3
+rulemaking 3
+sba 3
+quality 3
+management 3
+enforcement 3
+budget 3
+air 3
+oira 3
+order 3
+chain 2
+title 2
+production 2
+burden 2
+loss 2
+cost 2
+federal 2
+evaluation 2
+business 2
+preamble 2
+c 2
+industry 2
+connection 2
+gao/ogc-96-27 2
+approval 2
+size 2
+regulation 2
+frl 2
+official 2
+distribution 2
+december 2
+iv 2
+rin 2
+united 2
+agency 2
+percent 2
+performance 2
+i 2
+flow 2
+deposit 2
+code 1
+nitrogen 1
+retention 1
+environment 1
+practice 1
+october 1
+report 1
+512-8210 1
+l. 1
+summary 1
+chamber 1
+addization 1
+page 1
+work 1
+iv-c-09 1
+iv-c-08 1
+senate 1
+testing 1
+subject 1
+reopening 1
+combustion 1
+state 1
+iv-c-10 1
+iv-c-11 1
+use 1
+pub 1
+standard 1
+protection 1
+formation 1
+carbon 1
+manufacturing 1
+compliance 1
+accumulation 1
+action 1
+comment 1
+supply 1
+cc 1
+period 1
+respect 1
+publication 1
+addition 1
+reduction 1
+maintenance 1
+vehicle 1
+type 1
+engine 1
+elaboration 1
+emission 1
+epa's 1
+gao 1
+expenditure 1
+july 1
+iii 1
+ii 1
+advocacy 1
+oxide 1
+anew 1
+submitter 1
+process 1
+demonstration 1
+monoxide 1
+objection 1
+equipment 1
+role 1
+economy 1
+administrator 1
+512-6111 1
+june 1
+director 1
+meaning 1
+response 1
+consumer 1
+review 1
+
+ Arbitary length NP 
+clean air act amendment 3
+honorable john d. dingell ranking minority member committee 1
+standard for deposit control gasoline additive 1
+deposit control gasoline additive pursuant 1
+honorable john h. chafee chairman 1
+epa docket item v-b-02 1
+a major rule issued by the environmental protection agency entitled 1
+deposit control gasoline additive 1
+honorable max baucus ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+information environmental protection agency page 1
+gao/ogc-96-27 enclosure analysis under 1
+general counsel b-272425.1 july 1
+honorable thomas j. bliley 1
+regulation of fuel and fuel additive 1
+unfunded mandate reform act 1

@@ -1,0 +1,156 @@
+
+ Bigram NP 
+legal service 12
+new jersey 5
+machete attack 2
+social security 2
+their day 1
+her arrival 1
+onehour documentary 1
+bureaucratic snafu 1
+fifth-floor apartment 1
+private sector 1
+his health 1
+isaac benjamin 1
+last year 1
+compelling case 1
+big firm 1
+doe defabrizio 1
+david morris 1
+double bypass 1
+sierra leone 1
+his request 1
+grayce wiggins 1
+great thing 1
+jersey city 1
+political asylum 1
+laura adjangba 1
+his case 1
+my problem 1
+ground-floor apartment 1
+his landlord 1
+his documentary 1
+fifth floor 1
+jean-claude joseph 1
+never-ending quest 1
+legal assistance 1
+subsidized apartment 1
+his forearm 1
+deaf ear 1
+repressive homeland 1
+michael defabrizio 1
+his file 1
+my laundry 1
+executive producer 1
+
+ Trigram NP 
+54-year-old naturalized citizen 1
+new jersey network 1
+president lyndon johnson 1
+rudy larini thursday 1
+his left arm 1
+her political asylum 1
+civil legal problem 1
+her last name 1
+stephen st. hilaire 1
+her very life 1
+
+ Unigram NP 
+legal 5
+documentary 5
+kind 4
+justice 3
+attorney 3
+case 3
+help 2
+disability 2
+nyd2 2
+government 2
+day 2
+security 2
+year 2
+benjamin 2
+joseph 2
+something 2
+martha 2
+law 2
+person 2
+mission 1
+katzenbach 1
+staff 1
+deportation 1
+group 1
+program 1
+isaac 1
+someone 1
+practice 1
+world 1
+haiti 1
+condition 1
+nicholas 1
+january 1
+handout 1
+bag 1
+morris 1
+robbery 1
+lawyer 1
+surgery 1
+god 1
+beaten 1
+p.m. 1
+civilization 1
+ground 1
+landlord 1
+opening 1
+u.s. 1
+use 1
+job 1
+poverty 1
+key 1
+care 1
+survey 1
+baltimore 1
+county 1
+mid1960s 1
+story 1
+america 1
+housing 1
+visit 1
+philadelphia 1
+elevator 1
+passport 1
+somerset 1
+war 1
+today 1
+firm 1
+bureaucracy 1
+form 1
+immigration 1
+work 1
+budget 1
+salem 1
+deb 1
+one-third 1
+general 1
+woman 1
+need 1
+united 1
+court 1
+floor 1
+agency 1
+complex 1
+laundry 1
+elizabeth 1
+purpose 1
+president 1
+segment 1
+building 1
+attempt 1
+johnson 1
+vice 1
+notion 1
+principle 1
+time 1
+order 1
+
+ Arbitary length NP 

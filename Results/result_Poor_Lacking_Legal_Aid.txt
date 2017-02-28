@@ -1,0 +1,74 @@
+
+ Bigram NP 
+legal service 3
+two-year period 1
+legal aid 1
+annual luncheon 1
+next year 1
+his budget 1
+president bush 1
+nonprofit group 1
+american public 1
+legal services-funded 1
+former state 1
+legal profession 1
+new head 1
+legal help 1
+record wednesday 1
+congressional district 1
+greensboro news 1
+
+ Trigram NP 
+american bar association 2
+second consecutive year 1
+greensboro bar association 1
+current annual spending 1
+joseph e. turner 1
+legal service corp. 1
+average american family 1
+
+ Unigram NP 
+carlton 3
+greensboro 3
+tuesday 2
+lawyer 2
+travesty 2
+congress 2
+group 2
+request 2
+help 1
+office 1
+conundrum 1
+dearth 1
+county 1
+native 1
+conference 1
+united 1
+funding 1
+basis 1
+per 1
+low-income 1
+proposal 1
+august 1
+may 1
+downtown 1
+part 1
+shortfall 1
+plan 1
+caput 1
+half 1
+law 1
+february 1
+area 1
+solution 1
+raleigh 1
+marriott 1
+president-elect 1
+
+ Arbitary length NP 
+poor lacking legal aid 1
+district court judge a. robinson hassell 1
+supreme court chief justice henry frye 1
+alfred p. carlton jr. 1
+district attorney stuart albright 1
+mike fuchs staff writer poor 1

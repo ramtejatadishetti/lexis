@@ -1,0 +1,167 @@
+
+ Bigram NP 
+larimer county 4
+northern colorado 3
+equal access 2
+warren rudman 2
+fort collins 2
+ongoing quandary 1
+money magazine 1
+common good 1
+paralegal coordinator 1
+domestic dissolution 1
+our power 1
+local bar 1
+broad net 1
+low income 1
+single parent 1
+kris merkel 1
+same time 1
+pro se 1
+other address 1
+big bite 1
+promised land 1
+other month 1
+personal injury 1
+past year 1
+domestic law 1
+his staff 1
+our program 1
+it predictability 1
+both rivera 1
+r-new hampshire 1
+51-week period 1
+president bush 1
+parental responsibility 1
+public defender 1
+federal support 1
+legal system 1
+amy rosenberg 1
+most-dedicated attorney 1
+same place 1
+david bye 1
+kris markel 1
+mario rivera 1
+legal sophistication 1
+legal-aid coordinator 1
+long history 1
+legal counsel 1
+attorney lend 1
+minimum-wage job 1
+short notice 1
+
+ Trigram NP 
+legal service corp. 3
+pro bono project 1
+out-of-sight real estate 1
+legal aid foundation 1
+judicial advisory council 1
+their local bar 1
+
+ Unigram NP 
+case 6
+work 6
+attorney 5
+bar 4
+increase 4
+office 3
+rosenberg 3
+part 3
+economy 3
+group 2
+bye 2
+defenseless 2
+lawyer 2
+year 2
+rivera 2
+funding 2
+law 2
+loveland 2
+colorado 2
+number 2
+community 2
+larimer 2
+fee 2
+area 2
+population 2
+need 2
+time 2
+court 2
+class 2
+help 1
+month 1
+uneasiness 1
+chair 1
+staff 1
+cut 1
+admission 1
+thursday 1
+program 1
+board 1
+fax 1
+advantage 1
+permission 1
+dependent 1
+merkel 1
+report 1
+world 1
+association 1
+pinch 1
+wednesday 1
+defense 1
+crisis 1
+shelter 1
+market 1
+net 1
+cause 1
+ability 1
+pressure 1
+consideration 1
+care 1
+contract 1
+counterpart 1
+contingency 1
+reagan 1
+resilience 1
+custody 1
+service 1
+addition 1
+divorce 1
+support 1
+greeley 1
+phone 1
+spirit 1
+intake 1
+budget 1
+project 1
+generosity 1
+growth 1
+malpractice 1
+oath 1
+criminal- 1
+personal-injury 1
+willingness 1
+process 1
+pro 1
+education 1
+end 1
+class-action 1
+administration 1
+insurance 1
+may 1
+advice 1
+june 1
+outreach 1
+america 1
+salary 1
+weld 1
+complexity 1
+client 1
+english 1
+fact 1
+
+ Arbitary length NP 
+larimer county bar association 2
+colorado lawyer trust account foundation 1
+hand jane d albritton upon 1
+legal services/pre bono committee 1

@@ -1,0 +1,377 @@
+
+ Bigram NP 
+mr. bookstaver 6
+new york 6
+dean glen 6
+mr. curnin 5
+justice center 5
+civil court 4
+judge newton 4
+t ] 3
+alternative exam 3
+public service 3
+recent interview 3
+mr. rooney 3
+holistic approach 2
+last year 2
+law journal 2
+her essay 2
+judge lippman 2
+further consideration 1
+certain expertise 1
+cuny law 1
+personal option 1
+senior associate 1
+significant headway 1
+lavan llp 1
+gardner llc 1
+important area 1
+desperate need 1
+his assistant 1
+his life 1
+big story 1
+legal community 1
+three-year study 1
+first contact 1
+joint report 1
+multi-state law 1
+their ability 1
+final convocation 1
+president clinton 1
+his office 1
+private firm 1
+such news 1
+working structure 1
+whole range 1
+same way 1
+brush-up training 1
+poor get 1
+state university 1
+great sea 1
+30-story complex 1
+rote memory 1
+legal work 1
+great passion 1
+current bar 1
+live courtroom 1
+major task 1
+new idea 1
+good start 1
+supervised work 1
+black letter 1
+next month 1
+reduced fee 1
+legal service 1
+private bar 1
+personal injury 1
+federal funding 1
+dramatic increase 1
+new york's 1
+new yorkers 1
+valiant attempt 1
+administrative judge 1
+west street 1
+historic outpouring 1
+main order 1
+city bar 1
+fair resolution 1
+formal way 1
+his desk 1
+transactional work 1
+substantial initiative 1
+our focus 1
+orderly donation 1
+housing court 1
+efficient delivery 1
+decent living 1
+social security 1
+former journalist 1
+ramada inn 1
+additional funding 1
+david bookstaver 1
+public interest 1
+south tower 1
+city university 1
+official news 1
+useful test 1
+enormous need 1
+outstanding work 1
+publico award 1
+beaver street 1
+required retainer 1
+her list 1
+negron llp 1
+same time 1
+general practice 1
+other case 1
+time- consuming 1
+mai yee 1
+conservative impulse 1
+second terrorist- 1
+[ bar 1
+american lawyer 1
+illegal immigration 1
+additional lawyer 1
+second point 1
+sweeping proposal 1
+second thing 1
+court administration 1
+mr. bookstaver's 1
+additional advantage 1
+one-stop shopping 1
+journalistic instinct 1
+legal profession 1
+fat year 1
+first thing 1
+
+ Trigram NP 
+chief judge kaye 4
+world trade center 2
+columbia law review 2
+pro bono institute 1
+albany law school 1
+whole new model 1
+his own firm 1
+thomas adcock one 1
+first official news 1
+american bar association 1
+free legal service 1
+kevin j. curnin 1
+bar exam box 1
+substantial economic gain 1
+[ alternative bar 1
+new york city 1
+new york school 1
+provides greater urgency 1
+state supreme court 1
+civil legal service 1
+esther f. lardent 1
+slowly grinding wheel 1
+first court-sponsored entity 1
+numerous worthy justice 1
+fordham university school 1
+frederick p. rooney 1
+exam procedural issue 1
+public service project 1
+kristin booth glen 1
+good samaritan law 1
+needed legal help 1
+
+ Unigram NP 
+law 7
+service 6
+] 6
+state 5
+firm 5
+court 5
+sept. 4
+year 4
+work 4
+matter 4
+director 4
+office 3
+press 3
+marcos 3
+nation 3
+day 3
+bar 3
+morning 3
+release 3
+attorney 3
+access 3
+exam 3
+justice 3
+system 3
+need 3
+manhattan 3
+lot 3
+essay 2
+oct. 2
+fax 2
+emergency 2
+judge 2
+school 2
+reference 2
+bethlehem 2
+case 2
+negron 2
+june 2
+poverty 2
+[ 2
+care 2
+news 2
+publication 2
+way 2
+proposal 2
+stroock 2
+campus 2
+machine 2
+aba 2
+convocation 2
+building 2
+chief 2
+wake 2
+increase 2
+help 1
+september 1
+patina 1
+rod 1
+far-reaching 1
+debris 1
+aspect 1
+welfare 1
+manner 1
+delay 1
+kindness 1
+oca 1
+admission 1
+point 1
+sky 1
+spirit 1
+compelling 1
+volunteer 1
+city 1
+lawyering 1
+liability 1
+conjunction 1
+association 1
+solution 1
+consensus 1
+eviction 1
+officer 1
+dean 1
+creation 1
+duration 1
+publico 1
+calendar 1
+lightning 1
+event 1
+out 1
+recession 1
+funding 1
+consortium 1
+assistance 1
+custody 1
+appeal 1
+contrast 1
+cord 1
+noise 1
+business 1
+reporter 1
+importance 1
+guess 1
+poorer 1
+water 1
+consideration 1
+change 1
+plug 1
+sister 1
+ok 1
+controversy 1
+amount 1
+afternoon 1
+smoke 1
+divorce 1
+duty 1
+note 1
+fordham 1
+deputy 1
+wall 1
+legislation 1
+rolling 1
+twin 1
+ninety 1
+table 1
+unit 1
+conference 1
+devastation 1
+story 1
+housing 1
+question 1
+volunteerism 1
+meeting 1
+geneva 1
+telephone 1
+consensus-building 1
+part 1
+shortfall 1
+demand 1
+copy 1
+commence 1
+pilot 1
+sound 1
+nov. 1
+counsel 1
+october 1
+hour 1
+challenge 1
+abortion 1
+project 1
+compensation 1
+complaint 1
+rooney 1
+report 1
+example 1
+history 1
+control 1
+mainstay 1
+missile 1
+mind 1
+mine 1
+middle 1
+self-representation 1
+something 1
+sense 1
+partner 1
+element 1
+result 1
+albany 1
+relationship 1
+variety 1
+class-action 1
+percent 1
+magazine 1
+instance 1
+client 1
+supply 1
+concern 1
+establishment 1
+economy 1
+ball 1
+congress 1
+mess 1
+collaboration 1
+philosophy 1
+chance 1
+plane 1
+entry 1
+dust 1
+segment 1
+mannicci 1
+average 1
+ocean 1
+person 1
+contact 1
+fact 1
+deafening 1
+buffalo 1
+order 1
+pa. 1
+that's 1
+
+ Arbitary length NP 
+public service alternative bar examination 2
+permanent civil legal service 1
+chief administrative judge jonathan lippman 1
+new york state bar association 1
+judge juanita bing newton 1
+new york state access 1
+community legal resource network 1
+new york state unified court system 1
+[ city bar ] 1
+chief judge judith s. kaye 1
+attack upstage legal service initiative 1
+georgetown university law center 1
+new york law journal 1
+new york fire department 1
+public service bar exam 1

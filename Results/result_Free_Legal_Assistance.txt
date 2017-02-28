@@ -1,0 +1,126 @@
+
+ Bigram NP 
+orange county 3
+child- support 2
+legal experiment 1
+thurman williams 1
+statewide effort 1
+fast track 1
+uc irvine 1
+basic advice 1
+legal assistance 1
+touch-screen technology 1
+videotaped instructor 1
+last year 1
+keyboard state 1
+san diego 1
+two-month waiting 1
+computerized video 1
+computerized kiosk 1
+family- law 1
+beatrice contreras 1
+state bar 1
+legal filing 1
+legal help 1
+quarter-inch stack 1
+van nuys 1
+recent study 1
+single father 1
+social ecology 1
+right way 1
+his lawyer 1
+common court 1
+
+ Trigram NP 
+lamoreaux justice center 4
+free legal assistance 1
+san juan capistrano 1
+state judicial council 1
+commissioner salvador sarmiento 1
+irvine city hall 1
+
+ Unigram NP 
+court 9
+custody 4
+williams 4
+help 3
+lawyer 3
+lot 3
+% 3
+attorney 2
+family 2
+child-support 2
+crisis 2
+office 2
+system 2
+state 2
+orange 2
+sarmiento 2
+contreras 2
+kiosk 2
+part 2
+california 2
+domestic-violence 2
+i-can 2
+fullerton 1
+force 1
+resident 1
+money 1
+child 1
+number 1
+sad 1
+spanish 1
+eviction 1
+year 1
+touch 1
+home 1
+operation 1
+staff 1
+information 1
+law 1
+district 1
+everything 1
+it's 1
+support 1
+percent 1
+flood 1
+location 1
+internet 1
+phenomenon 1
+eighty 1
+trend 1
+bureaucracy 1
+life 1
+offer 1
+sacramento 1
+suit 1
+facilitator 1
+pressure 1
+half 1
+report 1
+line 1
+opportunity 1
+day 1
+legislature 1
+school 1
+task 1
+paternity 1
+english 1
+vietnamese 1
+june 1
+matter 1
+ventura 1
+computer 1
+exercise 1
+assistant 1
+divorce 1
+poorhouse 1
+problem 1
+guide 1
+
+ Arbitary length NP 
+seek basic legal advice 1
+los angeles time tuesday 1
+monte morin time staff writer 1
+self-help legal access center 1
+family law information center 1

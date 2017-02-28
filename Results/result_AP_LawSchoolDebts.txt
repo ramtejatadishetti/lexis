@@ -1,0 +1,74 @@
+
+ Bigram NP 
+public service 5
+public interest 4
+massive student 1
+student-loan debt 1
+private sector 1
+nellie mae 1
+median tuition 1
+last year 1
+joint study 1
+federal government 1
+legal education 1
+card debt 1
+chief executive 1
+new york 1
+average credit 1
+max stier 1
+their need 1
+public advocacy 1
+bottom line 1
+spiraling education 1
+private law 1
+legal aid 1
+it work 1
+high law 1
+chronic teacher 1
+average college 1
+national association 1
+law placement 1
+
+ Trigram NP 
+lucrative private sector 1
+associated press law 1
+equal justice work 1
+average new lawyer 1
+
+ Unigram NP 
+law 8
+school 4
+percent 3
+government 3
+money 2
+partnership 2
+student 2
+study 2
+debt 2
+force 1
+loan 1
+washington 1
+ap 1
+college 1
+year 1
+need 1
+america 1
+combination 1
+addition 1
+pay 1
+agency 1
+graduate 1
+contrast 1
+georgetown 1
+monday 1
+shortage 1
+inner-city 1
+harvard 1
+report 1
+president 1
+november 1
+salary 1
+work 1
+time 1
+
+ Arbitary length NP 

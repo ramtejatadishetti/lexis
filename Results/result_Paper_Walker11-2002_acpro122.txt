@@ -1,0 +1,716 @@
+
+ Bigram NP 
+my view 10
+right thing 9
+our profession 9
+arthur andersen 9
+federal government 6
+public trust 5
+corporate governance 5
+recent accountability 5
+current accounting 5
+executive compensation 4
+new independence 4
+public interest 4
+private sector 4
+same time 4
+recent business 4
+their audit 4
+public company 3
+their employer 3
+final analysis 3
+our nation 3
+critical importance 3
+wall street 3
+21st century 2
+global crossing 2
+valuable asset 2
+their company 2
+independent board 2
+acceptable behavior 2
+reasonable assurance 2
+general market 2
+american business 2
+my support 2
+bottom line 2
+justice department 2
+intellectual capital 2
+broad range 2
+u.s. government 2
+hard-earned reputation 2
+george shaheen 2
+u.s. congress 2
+managing partner 2
+legal form 2
+appropriate accountability 2
+your reputation 2
+related accounting 2
+jim wadia 2
+key performance 2
+their consulting 2
+comptroller general 2
+adequate transparency 2
+our work 2
+economic substance 2
+american institute 2
+severe sanction 2
+exchange commission 2
+key accounting 1
+other performance 1
+future accountability 1
+it agenda 1
+key risk 1
+related audit 1
+other integrity 1
+right answer 1
+several partner 1
+10-year tenure 1
+controversial issue 1
+wide range 1
+key stakeholder 1
+right time 1
+electronic information 1
+andersen worldwide 1
+current attest 1
+desired accounting 1
+major service 1
+non-financial information 1
+great extent 1
+short-term gain 1
+defined benefit 1
+united kingdom 1
+late element 1
+their employee 1
+it leadership 1
+principles-based approach 1
+follow-up forum 1
+second prong 1
+their independence 1
+real world 1
+going-forward basis 1
+right governance 1
+important entity 1
+critical element 1
+recent accounting 1
+our job 1
+their core 1
+future role 1
+criminal behavior 1
+appropriate accounting 1
+stock-based compensation 1
+recent integrity 1
+professional conduct 1
+pension and 1
+my membership 1
+independent auditor 1
+their retirement 1
+public criticism 1
+self-disciplinary function 1
+basic accounting 1
+little doubt 1
+current model 1
+total amount 1
+internal management 1
+related auditing 1
+only organization 1
+supplemental information 1
+active member 1
+three-pronged approach 1
+andersen consulting 1
+top management 1
+apparent weakness 1
+major stock 1
+desired business 1
+it reputation 1
+our core 1
+current value 1
+my opinion 1
+enough time 1
+adequate job 1
+other business 1
+legitimate role 1
+first prong 1
+fiduciary responsibility 1
+wrong thing 1
+key value 1
+our audit 1
+public service 1
+warranted government 1
+their judgment 1
+legal language 1
+special treatment 1
+vital role 1
+top line 1
+individual plan 1
+right direction 1
+overall governance 1
+it job 1
+3-percent level 1
+global accounting 1
+financial statement 1
+significant portion 1
+selected projection 1
+professional risk 1
+your organization 1
+great value 1
+huge longterm 1
+further consolidation 1
+their compensation 1
+related reporting 1
+tails-you-lose compensation 1
+single executive 1
+new fraud 1
+meaningful reform 1
+fiscal year-end 1
+current challenge 1
+assurance standard 1
+big six 1
+such stock 1
+industrial age 1
+significant influence 1
+federal prison 1
+following year 1
+outside auditor 1
+their time 1
+public confidence 1
+accepted accounting 1
+accountability forum 1
+un-level playing 1
+his support 1
+new accounting 1
+it listing 1
+desired result 1
+their existing 1
+technological innovation 1
+past decade 1
+much emphasis 1
+little question 1
+our part 1
+their part 1
+our judgment 1
+legislative branch 1
+financial reporting 1
+dramatic lesson 1
+independent funding 1
+simple matter 1
+additional stock 1
+his regard 1
+our country 1
+subject matter 1
+accountability breakdown 1
+value-based performance 1
+their investment 1
+major reason 1
+aren't compensation 1
+their pay 1
+global gold 1
+various attest 1
+inter-dependent world 1
+his candidacy 1
+key benchmark 1
+right path 1
+strategic realignment 1
+related capital 1
+needed realignment 1
+additional legislation 1
+your brain 1
+other key 1
+current independence 1
+non-financial performance 1
+large part 1
+critical level 1
+gordon gecko 1
+conceptual merit 1
+clear responsibility 1
+current law 1
+continuous auditing 1
+it glory 1
+valuable experience 1
+short prison 1
+knowledge-based economy 1
+accounting profession 1
+simple rule 1
+their job 1
+huge impact 1
+various government 1
+great debate 1
+his area 1
+potential independence 1
+larry weinbach 1
+large number 1
+adverse affect 1
+certain key 1
+priceless reputation 1
+financial accounting 1
+late part 1
+other hand 1
+professional association 1
+their stock 1
+practical standpoint 1
+eventual passage 1
+interim reporting 1
+considerable amount 1
+strategic advice 1
+his leadership 1
+meteoric rise 1
+critical crossroad 1
+world-class organization 1
+my tenure 1
+many accounting 1
+waste management 1
+third prong 1
+principle-based accounting 1
+modern governance 1
+their bonus 1
+historical cost 1
+basic error 1
+key compliance 1
+inadequate oversight 1
+micro strategy 1
+practical perspective 1
+rapid decline 1
+much stiffer 1
+never-ending quest 1
+public scrutiny 1
+their effectiveness 1
+overall executive 1
+significant amount 1
+their membership 1
+big four 1
+strategic perspective 1
+m university 1
+our democracy 1
+strategic alignment 1
+texas a 1
+
+ Trigram NP 
+arthur andersen llp 3
+certified public accountant 2
+whole new range 2
+current self-regulatory structure 1
+their own work 1
+present self-regulatory structure 1
+major public company 1
+it fair share 1
+our corporate governance 1
+certain unusual audit 1
+their top line 1
+auditing standard board 1
+other major accounting 1
+key federal performance 1
+certain other reform 1
+our 21st century 1
+certain other business 1
+other recent business 1
+current audit-reporting model 1
+short-term value-oriented objective 1
+our overall accountability 1
+other practical effect 1
+primary federal regulator 1
+it public company 1
+it own membership 1
+federal financial management 1
+their professional judgment 1
+our current accounting 1
+david m. walker 1
+close regulatory review 1
+certain civil enforcement 1
+certain recent business 1
+serious public interest 1
+many major accounting 1
+top corporate management 1
+other enhanced attest 1
+today's knowledge-based economy 1
+major public accountability 1
+
+ Unigram NP 
+board 24
+connection 23
+reporting 22
+cpa 19
+aicpa 18
+andersen 16
+gao 16
+accountability 16
+stock 15
+order 14
+accounting 14
+integrity 13
+value 13
+sec 12
+addition 12
+firm 12
+model 12
+risk 11
+enron 11
+confidence 11
+company 11
+management 11
+result 11
+assurance 10
+example 10
+independence 10
+number 10
+performance 10
+case 9
+business 9
+responsibility 8
+compensation 8
+profession 8
+information 7
+united 7
+future 7
+nature 7
+trust 7
+legislation 7
+regard 7
+variety 7
+sarbanes-oxley 6
+reputation 6
+audit 6
+government 6
+form 6
+role 6
+structure 6
+time 6
+public 5
+ceo 5
+matter 5
+price 5
+plan 5
+fact 5
+decline 5
+worldcom 4
+fall 4
+perspective 4
+capital 4
+projection 4
+process 4
+light 4
+practice 4
+standard 4
+set 4
+system 4
+mind 4
+need 4
+concern 4
+ability 4
+expense 4
+money 4
+world 4
+core 4
+leadership 4
+reliability 4
+level 3
+cost 3
+power 3
+institute 3
+k 3
+opinion 3
+manage 3
+doubt 3
+today 3
+share 3
+tax 3
+end 3
+law 3
+greed 3
+nation 3
+u.s. 3
+ceiling 3
+part 3
+chairman 3
+shareholder 3
+reform 3
+state 3
+hopefully 3
+country 3
+treatment 3
+appearance 3
+partner 3
+floor 3
+auditor 3
+pcaob 3
+unit 3
+consulting 3
+lot 3
+fasb 3
+failure 3
+congress 3
+pension 3
+spes 2
+oversight 2
+qwest 2
+team 2
+investment 2
+november 2
+change 2
+compliance 2
+amount 2
+auditing 2
+crisis 2
+market 2
+strike 2
+scope 2
+type 2
+work 2
+transparency 2
+closing 2
+way 2
+sense 2
+stewardship 2
+membership 2
+report 2
+versus 2
+good 2
+objectivity 2
+theory 2
+clearly 2
+position 2
+sector 2
+access 2
+employer 2
+timeless 2
+banking 2
+attest 2
+sensitivity 2
+detection 2
+approach 2
+importance 2
+key 2
+reasonableness 2
+community 2
+aicpa's 2
+situation 2
+someone 2
+opportunity 2
+client 2
+organization 2
+source 2
+everything 2
+inside 2
+percent 2
+income 2
+represent 1
+environment 1
+breach 1
+worth 1
+song 1
+compassion 1
+consolidation 1
+choice 1
+liability 1
+rogue 1
+difference 1
+look 1
+school 1
+harder 1
+professionalism 1
+rate 1
+cell 1
+new 1
+exercise 1
+movement 1
+let 1
+substance 1
+forum 1
+experience 1
+expulsion 1
+action 1
+regardless 1
+sanction 1
+forefront 1
+club 1
+treasury 1
+envelope 1
+visibility 1
+effort 1
+account 1
+join 1
+history 1
+heart 1
+december 1
+something 1
+siren 1
+discussion 1
+globalization 1
+fourth 1
+answer 1
+establishment 1
+abuse 1
+date 1
+attempt 1
+adelphia 1
+co-mission 1
+office 1
+insight 1
+aiding 1
+tendency 1
+sooner 1
+provision 1
+day 1
+february 1
+document 1
+name 1
+intervene 1
+truth 1
+frequency 1
+sponsor 1
+year 1
+insurance 1
+defend 1
+reader 1
+issue 1
+possibility 1
+asb 1
+obligation 1
+reproach 1
+realignment 1
+interaction 1
+top 1
+quality 1
+story 1
+service 1
+interact 1
+gao's 1
+enforcement 1
+collapse 1
+deductibility 1
+july 1
+third 1
+contrary 1
+bet 1
+ranch 1
+manner 1
+option 1
+u.s 1
+consortium 1
+majority 1
+emphasis 1
+value-enhancement 1
+subject 1
+competence 1
+play 1
+reach 1
+super-majority 1
+nothing 1
+morality 1
+inappropriate 1
+face 1
+convergence 1
+earth 1
+debate 1
+ratio 1
+knowledge 1
+equity 1
+employee 1
+timing 1
+conjunction 1
+microscope 1
+secretary 1
+requirement 1
+omission 1
+abetting 1
+individual 1
+capacity 1
+timeliness 1
+attention 1
+franchise 1
+approval 1
+instant 1
+license 1
+etc 1
+contribution 1
+expression 1
+year-end 1
+re-pricing 1
+initiative 1
+table 1
+conference 1
+interest 1
+direction 1
+gap 1
+exception 1
+interlocking 1
+straight 1
+budget 1
+pace 1
+behavior 1
+pyramid 1
+player 1
+member 1
+speech 1
+indictment 1
+composition 1
+conflict 1
+director 1
+transaction 1
+center 1
+non-audit 1
+executive 1
+tyco 1
+irrationality 1
+improvement 1
+prison 1
+press 1
+loss 1
+consensus 1
+simply 1
+back 1
+competition 1
+recognition 1
+extinction 1
+benefit 1
+legal 1
+innovation 1
+congress' 1
+brokerage 1
+relating 1
+industry 1
+range 1
+xyz 1
+involvement 1
+registration 1
+lesson 1
+bankruptcy 1
+intervention 1
+area 1
+start 1
+accountancy 1
+brand 1
+xerox 1
+heat 1
+authority 1
+elimination 1
+line 1
+promote 1
+fraud 1
+foresight 1
+problem 1
+gone 1
+certain 1
+influence 1
+engineering 1
+accenture 1
+deed 1
+education 1
+film 1
+stake 1
+reality 1
+field 1
+felt 1
+age 1
+
+ Arbitary length NP 
+financial accounting standard board 2
+past and future action 1
+new york state attorney general 1
+american institute of certified public accountant 1
+federal regulation and enforcement 1
+our current corporate governance 1
+public company accounting oversight board 1
+superior federal saving bank 1
+new york stock exchange 1
+u.s. general accounting office 1
+our own professional association 1
+financial and other advisor 1

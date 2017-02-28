@@ -1,0 +1,65 @@
+
+ Bigram NP 
+legal aid 2
+his authority 2
+st. louis 1
+osage county 1
+dale doerhoff 1
+it rightful 1
+unclaimed property 1
+last week 1
+worthy cause 1
+several state 1
+legal authority 1
+missouri court 1
+eastern missouri 1
+legal service 1
+
+ Trigram NP 
+cole county courthouse 1
+court keep judge 1
+legal aid group 1
+
+ Unigram NP 
+money 9
+brown 7
+nixon 6
+attorney 2
+wednesday 2
+emergency 2
+judge 2
+action 2
+order 2
+office 1
+september 1
+st. 1
+authority 1
+wednesday's 1
+insurance 1
+utility 1
+safekeeping 1
+judge's 1
+insolvency 1
+basis 1
+decision 1
+state's 1
+interest 1
+proposal 1
+cause 1
+mary 1
+today 1
+dispute 1
+company 1
+fund 1
+part 1
+court 1
+behalf 1
+bill 1
+up 1
+spokeswoman 1
+
+ Arbitary length NP 
+cole county circuit judge byron kinder 1
+cole county circuit judge thomas brown iii 1
+virginia young post-dispatch jefferson city bureau 1
+attorney general jay nixon 1

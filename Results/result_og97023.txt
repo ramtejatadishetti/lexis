@@ -1,0 +1,171 @@
+
+ Bigram NP 
+determining disability 2
+fiscal year 2
+personal responsibility 2
+federal register 2
+security income 2
+procedure act 1
+cost-benefit analysis 1
+substantial number 1
+legislative history 1
+private sector 1
+reduced program 1
+regulatory affair 1
+finance united 1
+6-year period 1
+it entirety 1
+our assessment 1
+new collection 1
+cost-benefit assessment 1
+new definition 1
+good cause 1
+statutory authorization 1
+annual hour 1
+federal government 1
+one-time disability 1
+mean house 1
+et seq 1
+budgetary impact 1
+major rule 1
+staff office 1
+jr. chairman 1
+james vickers 1
+public law 1
+new information 1
+jane ross 1
+our report 1
+social security 1
+congressional intent 1
+ms. ross 1
+comment pursuant 1
+our review 1
+omb no 1
+
+ Trigram NP 
+interim final rule 10
+social security administration 4
+administrative procedure act 1
+yearly usage rate 1
+assistant general counsel 1
+income security issue 1
+paperwork reduction act 1
+state disability determination 1
+other relevant information 1
+significant regulatory action 1
+effective upon enactment 1
+new functional assessment 1
+supplemental security income 1
+significant economic impact 1
+regulatory flexibility act 1
+executive order no 1
+planned regulatory action 1
+
+ Unigram NP 
+rule 11
+ssa 7
+disability 6
+u.s.c 6
+office 5
+omb 5
+commissioner 4
+b 4
+law 4
+section 3
+assessment 3
+information 3
+age 3
+request 3
+title 2
+burden 2
+report 2
+february 2
+submission 2
+cost 2
+subject 2
+evaluation 2
+april 2
+child 2
+iv 2
+rin 2
+agency 2
+0960-ae57 2
+collection 2
+i 2
+childhood 2
+gao/ogc-97-23 2
+code 1
+executive 1
+month 1
+impact 1
+program 1
+march 1
+emergency 1
+mandate 1
+workload 1
+512-8210 1
+children's 1
+requirement 1
+official 1
+senate 1
+result 1
+year 1
+0960-0568 1
+rulemaking 1
+state 1
+reg 1
+notice 1
+reason 1
+compliance 1
+medicaid 1
+nprm 1
+comment 1
+cc 1
+enactment 1
+period 1
+respect 1
+redetermination 1
+fed 1
+management 1
+addition 1
+legislation 1
+reduction 1
+way 1
+form 1
+gao 1
+iii 1
+ii 1
+completion 1
+work 1
+budget 1
+512-7215 1
+process 1
+hehs-95-66 1
+united 1
+document 1
+stat 1
+director 1
+intent 1
+response 1
+spent 1
+time 1
+order 1
+
+ Arbitary length NP 
+work opportunity reconciliation act 2
+unfunded mandate reform act 2
+determining disability for a child under age 1
+honorable daniel patrick moynihan ranking minority member committee 1
+childhood disability evaluation form 1
+honorable william v. roth 1
+general counsel b-276222 february 1
+mr. brian coyne chief 1
+honorable charles b. rangel ranking minority member committee 1
+commissioner social security administration page 1
+honorable bill archer chairman 1
+interim final rule with request 1
+child raise eligibility question 1
+robert p. murphy general counsel enclosure 1
+gao/ogc-97-23 executive order no 1
+a major rule issued by the social security administration entitled 1
+gao/ogc-97-23 enclosure analysis under 1

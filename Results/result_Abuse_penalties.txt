@@ -1,0 +1,155 @@
+
+ Bigram NP 
+domestic violence 10
+schuylkill county 4
+local police 2
+schuylkill woman 2
+maximum fine 1
+marsha chwastiak 1
+protection order 1
+mental health 1
+supervised place 1
+fine someone 1
+their abuser 1
+municipal police 1
+outside supervision 1
+criminal justice 1
+full term 1
+legal representation 1
+same fine 1
+detailed study 1
+u.s. department 1
+legal system 1
+major concern 1
+respectful treatment 1
+minimum fine 1
+proper training 1
+executive director 1
+expedient service 1
+further burden 1
+undue burden 1
+immediate delivery 1
+civil justice 1
+local requirement 1
+technical violation 1
+two-year program 1
+justice department 1
+federal grant 1
+nonscheduled work 1
+valerie west 1
+
+ Trigram NP 
+mid-penn legal service 2
+protection from abuse 2
+indirect criminal contempt 1
+maria herne tuesday 1
+affordable legal representation 1
+sarah t. casey 1
+pennsylvania justice network 1
+schuylkill county sheriff 1
+cost effective link 1
+
+ Unigram NP 
+pfa 7
+county 7
+custody 5
+fine 4
+state 4
+jnet 4
+casey 4
+order 4
+program 3
+pfas 3
+west 3
+system 3
+abuse 3
+lack 2
+swic 2
+attorney 2
+safety 2
+pottsville 2
+crisis 2
+defendant 2
+enforcement 2
+visitation 2
+need 2
+information 2
+court 2
+agency 2
+percent 2
+majority 2
+law 2
+dog 2
+protocol 1
+office 1
+administration 1
+rest 1
+victim 1
+justice 1
+writer 1
+arrest 1
+include 1
+woman 1
+disparate 1
+plaintiff 1
+detention 1
+department 1
+consultant 1
+consistent 1
+cost 1
+year 1
+concern 1
+assistance 1
+lorraine 1
+reading 1
+christmas 1
+parent 1
+agreement 1
+efficiency 1
+plea 1
+address 1
+swift 1
+training 1
+fault 1
+violence 1
+drug 1
+it's 1
+punishment 1
+trainer 1
+manager/attorney 1
+bennick 1
+hearing 1
+ridge-schweiker 1
+initiative 1
+probation 1
+message 1
+management 1
+service 1
+support 1
+pa 1
+sort 1
+cruelty 1
+immediate 1
+kind 1
+wish 1
+advocacy 1
+matter 1
+problem 1
+heart 1
+december 1
+share 1
+slap 1
+contempt 1
+goal 1
+grant 1
+deserve 1
+animal 1
+answer 1
+pathway 1
+chwastiak 1
+a. 1
+wrist 1
+jail 1
+
+ Arbitary length NP 
+justice violence against woman office 1

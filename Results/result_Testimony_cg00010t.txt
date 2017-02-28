@@ -1,0 +1,1389 @@
+
+ Bigram NP 
+fiscal year 24
+federal government 15
+human capital 13
+same time 9
+it mission 9
+strategic plan 9
+social security 8
+our work 7
+comptroller general 6
+private sector 6
+21st century 6
+it decisionmaking 5
+long term 5
+national security 5
+our performance 4
+mr. chairman 4
+our staff 4
+federal workforce 4
+frequent flyer 4
+effective government 3
+improved government 3
+financial management 3
+information technology 3
+our ability 3
+federal spending 3
+annual report 3
+national defense 3
+our client 3
+it ability 3
+important role 2
+many government 2
+our core 2
+new information 2
+current staff 2
+current process 2
+cold war 2
+new investment 2
+our capacity 2
+public health 2
+it dedication 2
+federal oldage 2
+statutory framework 2
+foreign policy 2
+federal budget 2
+it work 2
+physical infrastructure 2
+survivor insurance 2
+provide timely 2
+strategic planning 2
+other support 2
+global interdependence 2
+stable funding 2
+government performance 2
+last decade 2
+financial information 2
+our nation 2
+my testimony 2
+u.s. government 2
+diverse population 2
+international trade 2
+it workload 2
+technological innovation 2
+highrisk area 2
+model organization 2
+annual planning 2
+elk hill 2
+it audit 2
+our field 2
+it place 2
+executive branch 2
+performancebased management 2
+federal agency 2
+foreign currency 1
+training institute 1
+public's quality 1
+new hire 1
+annual basis 1
+important area 1
+select amount 1
+highspeed passenger 1
+effective partnering 1
+email message 1
+state department 1
+projected budget 1
+our product 1
+it firstever 1
+short term 1
+statutory authority 1
+owned government 1
+highrisk list 1
+staggering backlog 1
+interest all 1
+our flexibility 1
+different security 1
+paperwork workload 1
+unauthorized use 1
+general accounting 1
+improving government 1
+overall affordability 1
+elmer staats 1
+complex role 1
+new set 1
+longlasting impact 1
+major management 1
+gao-the legislation 1
+efficient government 1
+little room 1
+substantial disarray 1
+public sector 1
+early fieldwork 1
+comprehensive takeover 1
+last resort 1
+work-a component 1
+professional staff 1
+different oversight 1
+it role 1
+various executive 1
+new performance 1
+national debt 1
+poor nursing 1
+equitable treatment 1
+technical talent 1
+recent audit 1
+significant era 1
+federal entitlement 1
+obsolete hardware 1
+unique support 1
+personal use 1
+responsible stewardship 1
+continuous learning 1
+total fte 1
+required information 1
+important work 1
+knowledgebased workforce 1
+military strategy 1
+our population 1
+war department 1
+safety gao 1
+mutual interest 1
+global trade 1
+technical staff 1
+good business 1
+our oversight 1
+following graphic 1
+quality support 1
+other information 1
+enhanced executive 1
+disability trust 1
+u rplu 1
+oftenstated goal 1
+it employ 1
+chronic budget 1
+fiscal restraint 1
+such spending 1
+multidisciplinary accountability 1
+financial interdependence 1
+net worth 1
+their effectiveness 1
+accounting act 1
+st century 1
+my term 1
+recent denialofservice 1
+varied work 1
+competitive marketplace 1
+clinger-cohen gao 1
+additional audit 1
+budget issue 1
+fundamental weakness 1
+statutory preference 1
+governmentwide management 1
+major reform 1
+public demand 1
+ther spending 1
+income security 1
+low rate 1
+critical information 1
+engagement acceptance 1
+our decision 1
+accelerating basis 1
+agencies' performance 1
+senate governmental 1
+mixed ownership 1
+particular concern 1
+large entitlement 1
+his tenure 1
+foreign investment 1
+federal level 1
+increased presence 1
+continued debt 1
+reliable information 1
+review meeting 1
+economic prosperity 1
+chief actuary 1
+our responsiveness 1
+right way 1
+improved performance 1
+it insight 1
+sound trade 1
+american federalism 1
+major air 1
+modern technology 1
+our stewardship 1
+considerable attention 1
+new law 1
+it use 1
+multiple management 1
+legislative change 1
+tax administration 1
+puerto rico 1
+strong framework 1
+unbalanced workforce 1
+sequential nature 1
+environmental quality 1
+timely service 1
+charles bowsher- 1
+different career 1
+constructive engagement 1
+major dynamic 1
+poor performance 1
+our view 1
+important part 1
+federal retirement 1
+year figure 1
+unnecessary advance 1
+expands government 1
+act accounting 1
+capable workforce 1
+certain reductioninforce 1
+fourth goal 1
+it field 1
+european office 1
+economic activity 1
+same thing 1
+our management 1
+continued decline 1
+same pay 1
+integrated infrastructure 1
+our productivity 1
+program-the nation 1
+workload yellowbook_ 1
+our independence-and 1
+clingercohen act 1
+it contingency 1
+different employment 1
+same type 1
+president johnson 1
+little oversight 1
+illegal drug 1
+our proposal 1
+our recruiting 1
+strong return 1
+illegal immigration 1
+it client 1
+diverse workforce 1
+effective use 1
+information ordersbyinternet 1
+our effort 1
+benefit gao 1
+e note 1
+international interaction 1
+bob keller 1
+effective tool 1
+financial security 1
+recent past 1
+supplemental request 1
+gradual reduction 1
+critical core 1
+social safety 1
+sound security 1
+our network 1
+postal money 1
+costeffective approach 1
+traditional approach 1
+urban development 1
+broadbased assistance 1
+major policy 1
+authorized staff 1
+long period 1
+highrisk series 1
+our information 1
+focused structure 1
+nation-in fact 1
+unfettered access 1
+our attrition 1
+fixed time 1
+our accountability 1
+global nature 1
+global security 1
+significant risk 1
+deployment decision 1
+international drug 1
+seniorexecutive pay 1
+extensive computer 1
+total funding 1
+timeliness percent 1
+past decade 1
+only agency 1
+gao initiative 1
+selective use 1
+reasonable amount 1
+congressional decisionmaking 1
+close attention 1
+community investment 1
+wide range 1
+persistent attention 1
+sourcing management 1
+senior executive 1
+successful implementation 1
+principal architect 1
+watchful eye 1
+good government 1
+efficient government-nor 1
+basic employment 1
+substantial growth 1
+general management 1
+it history 1
+strengthen performance 1
+significant change 1
+effective stewardship 1
+different role 1
+annual budget 1
+critical asset 1
+related staff 1
+major concern 1
+potential risk 1
+critical component 1
+historic turnaround 1
+certain income 1
+costeffective government 1
+new staff 1
+considerable impact 1
+federal grantsinaid 1
+economic development 1
+integrated information 1
+bureaus spend 1
+institutional memory 1
+legislative support 1
+strategic management 1
+legal recognition 1
+it service 1
+ollar sin 1
+it resource 1
+criminal justice 1
+promised system 1
+local government 1
+rapid growth 1
+vital importance 1
+it products-as 1
+their pension 1
+such authority 1
+our evaluator 1
+s h 1
+near future 1
+info @ 1
+informed decisionmaking 1
+urban sprawl 1
+government management 1
+it staffing 1
+technology problem 1
+public safety 1
+gao history 1
+workforce planning 1
+it research 1
+it record 1
+personal identifying 1
+federal use 1
+our role 1
+oversee work 1
+agency's workforce 1
+adjustment factor 1
+senior management 1
+world bank 1
+stringent safety 1
+financial discipline 1
+discretionary spending 1
+other infrastructure 1
+fiscal discipline 1
+various government 1
+oklahoma city 1
+unnecessary spending 1
+great opportunity 1
+overall readiness 1
+unique value 1
+government reform 1
+slow rise 1
+prevent future 1
+passive income 1
+federal insurance 1
+5year period 1
+congressman turner 1
+complex issue 1
+historic growth 1
+illegal use 1
+their technology 1
+budgetary flexibility 1
+frequent travel 1
+federal money 1
+new surplus 1
+independent auditor 1
+collaborative work 1
+global economy 1
+immediate stability 1
+individual level 1
+key organization 1
+topflight talent 1
+other subcommittee 1
+competitive job 1
+new century 1
+long range 1
+it evaluation 1
+open world 1
+it nursing 1
+effective technology 1
+it enforcement 1
+physical environment 1
+effective workforce 1
+program's inclusion 1
+exceptional performance 1
+n c 1
+productive workforce 1
+physical impact 1
+result act 1
+their ability 1
+significant computer 1
+annual growth 1
+education workforce 1
+result act-which 1
+global market 1
+flexible compensation 1
+riskbased management 1
+other organization 1
+gao/tocg0010 evolution 1
+public policy 1
+next year 1
+secure retirement 1
+public wellbeing 1
+considerable progress 1
+demographic shift 1
+important balance 1
+use information 1
+organizational structure 1
+widespread lack 1
+widespread use 1
+new deal 1
+matrix management 1
+ns o 1
+great depression 1
+their oversight 1
+contextual sophistication 1
+their tenure 1
+government government 1
+difficult process 1
+his deputy 1
+active employee 1
+high school 1
+it section 1
+sustainable budget 1
+committee chair 1
+major turning 1
+due diligence 1
+strong foundation 1
+government operation 1
+our realignment 1
+continued ability 1
+financial integrity 1
+senate-stable funding 1
+disciplined application 1
+our training 1
+open trade 1
+original sale 1
+important component 1
+federal dollar 1
+federal health 1
+critical transition 1
+significant cost 1
+their use 1
+effective implementation 1
+able staff 1
+it assistance 1
+internal focus 1
+entrylevel-a result 1
+consistent direction 1
+more resultsoriented 1
+accountable federal 1
+attractive pay 1
+health care 1
+it job 1
+environmental protection 1
+global expansion 1
+tremendous amount 1
+single agency 1
+federal management 1
+international organization 1
+unqualified opinion 1
+global finance 1
+agency's mission 1
+responsive business 1
+organizational success 1
+it surveyor 1
+report fraud 1
+quality gao 1
+office management 1
+it oversight 1
+gao's federalinformationsystemcontrolsauditmanualis 1
+additional authority 1
+average life 1
+official travel 1
+federal acquisition 1
+our goal 1
+entitywide security 1
+excellent economy 1
+
+ Trigram NP 
+deputy comptroller general 4
+social security administration 3
+it strategic plan 3
+ranking minority member 3
+our strategic plan 2
+modern human capital 2
+international monetary fund 2
+paperwork reduction act 2
+gene l. dodaro 1
+reduction act begin 1
+longterm historical viewpoint 1
+international fellows program 1
+disability insurance trust 1
+intercontinental ballistic missile 1
+senior executive service 1
+cfo act gao 1
+comptroller general staats 1
+my prepared statement 1
+world wide web 1
+new york city 1
+great society's war 1
+continued economic growth 1
+our total workload 1
+strong economic performance 1
+fiscal good fortune 1
+national missile defense 1
+widespread inadequate health 1
+world war ii 1
+it new mission 1
+reliable financial information 1
+our federal government 1
+president pro tempore 1
+significant new security 1
+naval petroleum reserve 1
+resultsoriented federal government 1
+it prewar size 1
+congressional budget office 1
+fiscal year gao 1
+our own transition 1
+strategic human capital 1
+startofthe 21st century 1
+gao mr. chairman 1
+it electronic link 1
+implement major technology 1
+our longterm capacity 1
+chief operating officer 1
+effective human capital 1
+significant national security 1
+first strategic goal 1
+our human capital 1
+rapid technological change 1
+accounting procedure act 1
+d p figure 1
+general accounting office 1
+comptroller general warren 1
+future economic growth 1
+governance challenge figure 1
+voluntary early retirement 1
+other flexible work 1
+from gao recommendation 1
+significant human capital 1
+federal financial management 1
+it own value 1
+• thesingleaudit act 1
+global economic stability 1
+surplus cbo projection 1
+direct financial page 1
+improved financial position 1
+gross domestic product 1
+major federal audit 1
+staff level number 1
+associated annual performance 1
+end-improved federal performance 1
+current tight labor 1
+remarkable economic growth 1
+it ongoing work 1
+year mandate committee/member 1
+federal program email 1
+large federal role 1
+difficult public policy 1
+it national security 1
+comprehensive structural safety 1
+federal railroad administration 1
+our longterm model 1
+it current mission 1
+employees-to keep frequent 1
+our principal mission 1
+federal government-to compete 1
+national military strategy 1
+constant fiscal year 1
+federal government besides 1
+only federal entity 1
+unspecified permanent policy 1
+chief financial officer 1
+corporation audit division 1
+world trade organization 1
+1995-which streamlined government 1
+significant new information 1
+other congressional oversight 1
+vigorous congressional oversight 1
+broad oversight support 1
+enormous administrative control 1
+supplemental security income 1
+comptroller general bowsher 1
+longterm comprehensive plan 1
+social security worker 1
+total federal revenue 1
+new hire number 1
+overall human capital 1
+mission support2 fy 1
+nearterm fiscal position 1
+first sustained increase 1
+coordinated international response 1
+consequent detrimental impact 1
+nc e note 1
+supreme audit institution 1
+challenge mr. chairman 1
+present major renewed 1
+
+ Unigram NP 
+gao 234
+congress 121
+government 90
+work 46
+information 33
+accountability 32
+management 30
+technology 30
+agency 28
+performance 25
+budget 24
+percent 24
+• 23
+u.s. 22
+future 22
+figure 21
+example 19
+security 17
+program 16
+united 16
+number 15
+realignment 14
+legislation 14
+result 14
+executive 14
+branch 14
+year 12
+gao's 12
+system 12
+part 12
+staff 12
+development 12
+today 11
+plan 11
+% 11
+health 10
+economy 10
+office 10
+quality 10
+service 10
+y2k 10
+fraud 10
+flexibility 9
+process 9
+care 9
+training 9
+support 9
+world 9
+time 9
+mission 8
+nation 8
+president 8
+defense 8
+country 8
+source 8
+business 8
+medicare 8
+spending 8
+environment 7
+investment 7
+transportation 7
+use 7
+tax 7
+end 7
+computer 7
+addition 7
+productivity 7
+workforce 7
+organization 7
+deficit 7
+value 6
+change 6
+law 6
+order 6
+gpra 6
+safety 6
+issue 6
+hud 6
+population 6
+subcommittee 6
+reform 6
+approach 6
+ability 6
+waste 6
+life 6
+analysis 6
+war 6
+oversight 6
+education 6
+level 5
+rate 5
+assistance 5
+auditing 5
+globalization 5
+goal 5
+trade 5
+committee 5
+house 5
+funding 5
+effectiveness 5
+planning 5
+employee 5
+administration 5
+opportunity 5
+gdp 5
+retirement 5
+growth 5
+home 5
+interdependence 5
+area 5
+department 5
+integrity 4
+trend 4
+paperwork 4
+infrastructure 4
+share 4
+challenge 4
+appraisal 4
+abuse 4
+readiness 4
+downsizing 4
+return 4
+framework 4
+transition 4
+revenue 4
+enforcement 4
+need 4
+note 4
+dod 4
+bowsher 4
+set 4
+concern 4
+state 4
+importance 4
+composition 4
+instance 4
+d 4
+benefit 4
+leadership 4
+series 4
+delivery 4
+passenger 4
+accounting 4
+field 4
+structure 4
+age 4
+highquality 3
+case 3
+force 3
+feedback 3
+capital 3
+protection 3
+experience 3
+missile 3
+disruption 3
+effort 3
+era 3
+mismanagement 3
+profile 3
+act 3
+response 3
+complexity 3
+succession 3
+february 3
+research 3
+increase 3
+privacy 3
+percentage 3
+outreach 3
+theater 3
+financing 3
+hcfa 3
+emphasis 3
+knowledge 3
+staats 3
+report 3
+ssa 3
+respond 3
+capacity 3
+debt 3
+legislature 3
+c 3
+terrorism 3
+person 3
+inflation 3
+relief 3
+model 3
+unemployment 3
+spread 3
+board 3
+senate 3
+r 3
+simulation 3
+testimony 3
+entitlement 3
+housing 3
+question 3
+reliability 3
+variety 3
+lack 2
+dollar 2
+focus 2
+retention 2
+passage 2
+appointment 2
+evaluation 2
+solution 2
+excellence 2
+science 2
+cfo 2
+recruitment 2
+commensurate 2
+water 2
+address 2
+november 2
+credit 2
+amount 2
+crisis 2
+market 2
+curriculum 2
+customer 2
+car 2
+control 2
+nursing 2
+council 2
+mix 2
+monitoring 2
+responsibility 2
+tenure 2
+american 2
+se 2
+hiring 2
+existence 2
+warren 2
+labor 2
+combination 2
+provision 2
+workload 2
+january 2
+gao/tocg0010 2
+generation 2
+energy 2
+trading 2
+network 2
+fte 2
+internet 2
+timeline 2
+obligation 2
+so 2
+contingency 2
+array 2
+audit 2
+acquisition 2
+actuary 2
+prosperity 2
+conversion 2
+strength 2
+reliance 2
+equipment 2
+chairman 2
+accuracy 2
+affordability 2
+request 2
+sale 2
+doe 2
+effect 2
+fact 2
+surplus 2
+show 2
+freight 2
+access 2
+justice 2
+guidance 2
+ssi 2
+silo 2
+resource 2
+public 2
+requirement 2
+federal 2
+review 2
+irs 2
+nature 2
+attention 2
+efficiency 2
+dedication 2
+uncertainty 2
+contract 2
+april 2
+context 2
+whole 2
+point 2
+excess 2
+satisfaction 2
+fra 2
+reduction 2
+position 2
+demand 2
+diffuse 2
+air 2
+guide 2
+it 2
+trustee 2
+http 2
+reporting 2
+rail 2
+director 2
+implementation 2
+destruction 2
+task 2
+rifs 2
+reward 2
+stewardship 2
+october 2
+improvement 2
+emergency 2
+term 2
+period 2
+traffic 2
+t 2
+page 2
+competition 2
+employment 2
+recognition 2
+core 2
+expansion 2
+software 2
+communication 2
+way 2
+link 2
+influence 2
+general 2
+engineering 2
+preaudit 2
+ne 2
+mass 2
+breadth 1
+nearand 1
+ala 1
+supplement 1
+adjustment 1
+responsiveness 1
+graph 1
+modernization 1
+teaching 1
+maryland 1
+presentation 1
+staffing 1
+other1 1
+statute 1
+billio 1
+advantage 1
+candid 1
+betterment 1
+condition 1
+school 1
+goalsetting 1
+list 1
+p 1
+assurance 1
+enhance 1
+tru 1
+sewage 1
+government's 1
+consistent 1
+cost 1
+design 1
+aguideforevaluatingagencies'itinvestmentdecisionmaking 1
+profitability 1
+current 1
+through1997 1
+decade 1
+international 1
+net 1
+method 1
+body 1
+proliferation 1
+exchange 1
+eligibility 1
+makeup 1
+poverty 1
+separation 1
+aftermath 1
+engage 1
+shift 1
+medica 1
+base 1
+survey 1
+suggestion 1
+influx 1
+confidentiality 1
+blizzard 1
+deputy 1
+wealth 1
+army 1
+doubt 1
+scope 1
+panel 1
+bureaucracy 1
+mediumterm 1
+train 1
+investigation 1
+citizenry 1
+stabilizing 1
+baby 1
+sovereignty 1
+largescale 1
+majority 1
+f 1
+history 1
+august 1
+@ 1
+something 1
+sense 1
+risk 1
+recovery 1
+democracy 1
+travel 1
+map 1
+product 1
+fu 1
+fy 1
+collection 1
+sustainability 1
+legality 1
+fg 1
+date 1
+natural 1
+manpower 1
+light 1
+st 1
+propriety 1
+rogue 1
+help 1
+move 1
+intosai 1
+le 1
+taxpayer 1
+window 1
+production 1
+policy 1
+speaker 1
+imbalance 1
+greater 1
+practice 1
+misuse 1
+transparent 1
+highlevel 1
+name 1
+profound 1
+advent 1
+finance 1
+magnitude 1
+stock 1
+expectancy 1
+harm 1
+financial 1
+thecongress 1
+issues-including 1
+//www.gao.gov 1
+society 1
+navy 1
+operation 1
+agriculture 1
+insurance 1
+minority 1
+driving 1
+re 1
+surprise 1
+highway 1
+ass 1
+quarter 1
+contain 1
+payroll 1
+standard 1
+difficulty 1
+reason 1
+california 1
+nto 1
+ash 1
+beginning 1
+card 1
+connectivity 1
+longterm 1
+aging 1
+conducted 1
+place 1
+medicaid-is 1
+first 1
+bulky 1
+strategic 1
+tomorrow 1
+size 1
+consisting 1
+attack 1
+low 1
+appropriation 1
+attrition-and 1
+gao/aimd10.1.13 1
+nce 1
+b 1
+warfare 1
+require 1
+matter 1
+compensation 1
+russia 1
+voucher 1
+strengthen 1
+partnership 1
+eficit 1
+childcare 1
+cognizant 1
+capitalism 1
+devolution 1
+potential 1
+online 1
+finding 1
+persistence 1
+price 1
+entry 1
+payment 1
+volume 1
+proud 1
+mid1930s 1
+consumer 1
+reserve 1
+emerging 1
+burden 1
+compensate 1
+corner 1
+fear 1
+availability 1
+fifth 1
+impact 1
+ratio 1
+proportion 1
+crime 1
+utilization 1
+treasury 1
+achieve 1
+continuity 1
+de 1
+expectation 1
+toestablishjustice 1
+disbursement 1
+theft 1
+onboard 1
+conjunction 1
+stability 1
+h 1
+banking 1
+activity 1
+conduct 1
+concert 1
+freeze 1
+brazil 1
+amtrak 1
+pattern 1
+corruption 1
+korea 1
+parent 1
+subject 1
+approval 1
+distribution 1
+reaction 1
+s 1
+workplace 1
+contribution 1
+flier 1
+olla 1
+solvency 1
+respect 1
+trust 1
+domestictranquility…promotethegeneralwelfare 1
+beneficiary 1
+likewise 1
+treatment 1
+commuter 1
+recruiting 1
+gap 1
+bulk 1
+fund 1
+expenditure 1
+aviation 1
+sound 1
+commerce 1
+governmentwide 1
+gao.gov 1
+harder 1
+cash 1
+kentucky 1
+pace 1
+diverse 1
+fense 1
+many 1
+aid 1
+property 1
+act-which 1
+prevalence 1
+middle 1
+anthrax 1
+rif 1
+missionsupport 1
+pay 1
+upon 1
+inventory 1
+document 1
+conflict 1
+oil 1
+assignment 1
+medicaid 1
+purpose 1
+ownership 1
+environment-all 1
+identity 1
+insure 1
+emarketer 1
+insura 1
+center 1
+indonesia 1
+spent 1
+inability 1
+surplus/d 1
+being 1
+accurate 1
+coordination 1
+web 1
+impetus 1
+family 1
+thinking 1
+we've 1
+ease 1
+vaccination 1
+march 1
+situation 1
+fieldwork 1
+objective 1
+icit 1
+birth 1
+press 1
+emergence 1
+desire 1
+success 1
+identifying 1
+nearrecord 1
+comparability 1
+continue 1
+backlog 1
+sustainablesolvency 1
+right 1
+curity 1
+sight 1
+recommendation 1
+blessingoflibertytoourselvesandourposterity… 1
+voucherchecking 1
+insolvency 1
+everything 1
+leader 1
+patient 1
+s/d 1
+procure 1
+thailand 1
+stage 1
+empowerment 1
+othe 1
+cadre 1
+road 1
+inte 1
+outlook 1
+gao-and 1
+washington 1
+accountabilityreportis 1
+start 1
+consultation 1
+been-and 1
+rce 1
+blueprint 1
+billion 1
+plunge 1
+i've 1
+trus 1
+regard 1
+immigration 1
+authority 1
+elimination 1
+parttime 1
+nutshell 1
+info 1
+shortterm 1
+fraudnet 1
+record 1
+below 1
+economic 1
+site 1
+problem 1
+congestion 1
+andsecurethe 1
+contactone 1
+measurement 1
+cbo 1
+wartime 1
+resumption 1
+expertise 1
+urity 1
+personnel 1
+individual 1
+cleanup 1
+intention 1
+picture 1
+agencywide 1
+m 1
+client 1
+coverage 1
+exposure 1
+eightynine 1
+e 1
+portion 1
+vietnam 1
+
+ Arbitary length NP 
+eliminate nonsocial security surplus 3
+health care financing administration 2
+earned income tax credit 2
+federal hospital insurance trust fund 1
+world war i. wartime 1
+medicare hospital trust fund 1
+our current human capital 1
+small business job protection act 1
+president franklin d. roosevelt 1
+house government reform committee 1
+congressional budget office's january 1
+hospital insurance trust fund face insolvency 1
+chief information officer council 1
+chief financial officer act-which 1
+fiscal year mr. chairman 1
+stable federal budgetary future 1
+great management reform act act 1
+efficient national physical infrastructure 1
+depression gao acquisition streamlining act 1
+government management reform act-which 1
+comptroller general employee advisory council 1
+fulltime equivalent staff level number 1
+international auditor fellowship program 1
+general accounting office testimony gao 1
+our recent human capital 1
+theater high altitude area defense 1
+human capital profile number 1
+band i-d band i-f band ii band iii s all staff staff level 1
+s band iii band ii band 1
+nondefense discretionary spending-the share 1
+it first strategic plan 1
+annual consolidated financial statement 1
+government corporation control act 1
+spending federal revenue federal spending 1
+field office structure number 1

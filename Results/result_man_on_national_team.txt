@@ -1,0 +1,166 @@
+
+ Bigram NP 
+el paso 4
+his wife 3
+president bush 2
+his life 2
+first lady 2
+laura bush 2
+his son 2
+his home 2
+my wife 1
+his artist 1
+entire life 1
+legal assistance 1
+my life 1
+minimum wage 1
+his leather 1
+enough money 1
+same time 1
+black-and-white photograph 1
+tragic event 1
+other board 1
+late visit 1
+national team 1
+motorcycle-car accident 1
+valuable insight 1
+common sense 1
+nonprofit organization 1
+his kitchen 1
+fresh voice 1
+korean war 1
+his identity 1
+iron horse 1
+strange twist 1
+junior league 1
+lico subia 1
+his name 1
+mauricio vivero 1
+great impression 1
+adair margo 1
+mickie subia 1
+subia jr 1
+last weekend 1
+lower valley 1
+adjacent room 1
+international garment 1
+my son 1
+unforgettable quality 1
+great contributor 1
+new role 1
+first meeting 1
+his family 1
+felipe adame 1
+high school 1
+second meeting 1
+cesar viramontes 1
+
+ Trigram NP 
+legal service corp. 2
+maribel villalva sunday 1
+my gray hair 1
+chamizal national memorial 1
+his 21-year-old son 1
+south el paso 1
+then-texas first lady 1
+
+ Unigram NP 
+subia 25
+mickie 6
+lico 6
+home 4
+president 4
+bush 3
+board 3
+day 3
+margo 3
+trip 3
+organization 3
+money 2
+motorcycle 2
+florentino 2
+father 2
+nunie 2
+friendship 2
+washington 2
+owner 2
+city 2
+lot 2
+jacket 2
+biker 1
+committee 1
+death 1
+input 1
+someone 1
+fate 1
+couple 1
+none 1
+boxer 1
+chihuahuita 1
+room 1
+viramontes 1
+stranger 1
+motorcyclist 1
+leather 1
+then-gov 1
+el 1
+everyone 1
+senate 1
+back 1
+mural 1
+perspective 1
+year 1
+liking 1
+spokesman 1
+pickup 1
+vivero 1
+christmas 1
+handful 1
+barrio 1
+d.c 1
+experience 1
+introduction 1
+tour 1
+history 1
+family 1
+one 1
+quality 1
+feb. 1
+everybody 1
+confidence 1
+union 1
+call 1
+suit 1
+friend 1
+life 1
+way 1
+club 1
+envelope 1
+representative 1
+behalf 1
+kind 1
+anything 1
+governor 1
+project 1
+something 1
+share 1
+confirmation 1
+unlikely 1
+variety 1
+veteran 1
+beach 1
+picture 1
+d.c. 1
+year-round 1
+nomination 1
+gallery 1
+grave 1
+man 1
+wife 1
+age 1
+request 1
+person 1
+shade 1
+bandanna 1
+
+ Arbitary length NP 

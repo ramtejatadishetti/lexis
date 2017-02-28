@@ -1,0 +1,206 @@
+
+ Bigram NP 
+federal register 5
+fcc rcd 3
+effective date 2
+projected reporting 2
+advisory committee 2
+telecommunication equipment 2
+final report 2
+other compliance 2
+it date 1
+it belief 1
+title ii 1
+large part 1
+mr. anderson 1
+specific signage 1
+phased-in basis 1
+our assessment 1
+electro-magnetic coil 1
+transportation united 1
+supplementary information 1
+et seq 1
+control number 1
+legal basis 1
+major rule 1
+jr. chairman 1
+proposed rulemaking 1
+final rule 1
+full text 1
+informal comment 1
+our report 1
+unanimous consent 1
+direct response 1
+aid compatible 1
+commerce house 1
+john anderson 1
+new hearing 1
+certain hearing 1
+public comment 1
+it rule 1
+it proposal 1
+our review 1
+telecommunication issue 1
+chief counsel 1
+
+ Trigram NP 
+regulatory flexibility analysis 3
+independent regulatory agency 1
+significant additional cost 1
+other relevant information 1
+kathleen e. wannisky 1
+paperwork reduction act 1
+federal communication commission 1
+administrative procedure act 1
+lengthy phase-in period 1
+regulatory flexibility act 1
+small business administration 1
+associate general counsel 1
+
+ Unigram NP 
+commission 37
+report 18
+order 18
+u.s.c 12
+notice 11
+reg 8
+fed 8
+rulemaking 7
+section 7
+aid 7
+rule 7
+federal 6
+use 6
+analysis 6
+stamp 5
+compatibility 5
+b 5
+date 5
+volume 5
+pursuant 4
+emergency 4
+access 4
+august 4
+control 4
+telephone 4
+united 4
+committee 3
+hac 3
+omb 3
+gao/ogc-96-36 3
+information 3
+fcc 3
+i 3
+office 2
+executive 2
+impact 2
+§ 2
+title 2
+d 2
+requirement 2
+reply 2
+november 2
+compliance 2
+workplace 2
+comment 2
+number 2
+packaging 2
+type 2
+manufacture 2
+july 2
+nursing 2
+iv 2
+agency 2
+equipment 2
+recordkeeping 2
+fcc-96-285 2
+letter 2
+response 2
+code 1
+deadline 1
+increase 1
+suspension 1
+october 1
+association 1
+summary 1
+item 1
+work 1
+senate 1
+512-5207 1
+result 1
+year 1
+operation 1
+subject 1
+cost-benefit 1
+proceeding 1
+evaluation 1
+participation 1
+transportation 1
+formation 1
+approval 1
+reaction 1
+statutory 1
+compatible 1
+april 1
+action 1
+purview 1
+ability 1
+cc 1
+hearing 1
+respect 1
+estimate 1
+unit 1
+management 1
+publication 1
+initial 1
+telecommunication 1
+describes 1
+labelling 1
+proposal 1
+hearing- 1
+authorization 1
+affixed 1
+gao 1
+representative 1
+review 1
+iii 1
+commerce 1
+512-2834 1
+accordance 1
+science 1
+official 1
+budget 1
+future 1
+ii 1
+need 1
+discussion 1
+conflict 1
+description 1
+effect 1
+collection 1
+director 1
+membership 1
+purpose 1
+e 1
+third 1
+contact 1
+time 1
+
+ Arbitary length NP 
+hearing aid compatibility act 4
+hearing aid compatibility negotiated rulemaking committee 3
+initial regulatory flexibility analysis 3
+final regulatory flexibility analysis 2
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+mr. andrew s. fishel managing director federal communication commission page 1
+honorable larry pressler chairman 1
+background of report and order 1
+access to telecommunication equipment and service by person with disability 1
+gao/ogc-96-36 enclosure analysis under 1
+gao/ogc-96-36 paperwork reduction act 1
+honorable ernest f. hollings ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+a major rule issued by the federal communication commission entitled 1
+honorable thomas j. bliley 1
+general counsel b-274142 august 1

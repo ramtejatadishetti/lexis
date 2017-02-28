@@ -1,0 +1,84 @@
+
+ Bigram NP 
+northern california 2
+california department 1
+social security 1
+chisorom okwuosa 1
+kay loughrey 1
+legal advice 1
+david mandel 1
+full-time staff 1
+it efficiency 1
+second time 1
+private foundation 1
+legal service 1
+grant application 1
+sacramento county 1
+long-term care 1
+federal grant 1
+last year 1
+it expansion 1
+new telephone 1
+
+ Trigram NP 
+senior legal hotline 3
+quick legal advice 1
+
+ Unigram NP 
+hotline 8
+grant 4
+mandel 4
+help 3
+statewide 3
+year 3
+state 3
+aging 3
+staff 2
+administration 2
+application 2
+program 2
+california 2
+loss 2
+yuba 1
+attorney 1
+yolo 1
+washington 1
+telephone 1
+system 1
+placer 1
+need 1
+screw-up 1
+nevada 1
+crisis 1
+custody 1
+information 1
+service 1
+support 1
+agency 1
+consumer 1
+legal 1
+way 1
+sierra 1
+legislature 1
+developer 1
+email 1
+specialist 1
+sacramento 1
+number 1
+chance 1
+part 1
+report 1
+tenant 1
+hotline's 1
+package 1
+january 1
+area 1
+budget 1
+sutter 1
+landlord 1
+position 1
+whole 1
+
+ Arbitary length NP 
+nancy weaver teichert saturday 1
+senior legal service task force 1

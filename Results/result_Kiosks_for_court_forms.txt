@@ -1,0 +1,101 @@
+
+ Bigram NP 
+orange county 3
+legal jargon 1
+r block 1
+large percentage 1
+minor paperwork 1
+santa ana 1
+san francisco 1
+family-support office 1
+bonnie hough 1
+fifth-grade vocabulary 1
+bob cohen 1
+available online 1
+interactive computer 1
+domestic violence 1
+their hearing 1
+garden grove 1
+executive director 1
+courtney perkes 1
+legal aid 1
+wendy maloney 1
+free system 1
+uninitiated fill 1
+
+ Trigram NP 
+legal aid society 2
+thick how-to guide 1
+california judicial council 1
+lamoreaux justice center 1
+commissioner salvador sarmiento 1
+irvine city hall 1
+
+ Unigram NP 
+system 6
+program 5
+study 4
+orange 3
+computer 3
+attorney 2
+cohen 2
+technology 2
+court 2
+access 2
+way 2
+paperwork 2
+form 2
+california 2
+wednesday 2
+child-custody 1
+help 1
+summer 1
+series 1
+ez 1
+sarmiento 1
+defense 1
+video 1
+lawyer 1
+spanish 1
+home 1
+quality 1
+courthouse 1
+district 1
+vietnamese 1
+divorce 1
+support 1
+agency 1
+fullerton 1
+hough 1
+internet 1
+order 1
+life 1
+woman 1
+mainstream 1
+may 1
+screen 1
+kiosk 1
+expansion 1
+irvine 1
+efficiency 1
+part 1
+benefit 1
+nation 1
+kind 1
+hour 1
+anything 1
+eviction 1
+h 1
+lot 1
+request 1
+experience 1
+think 1
+preparation 1
+tour 1
+adam 1
+english 1
+university 1
+
+ Arbitary length NP 
+orange county register roberta adam 1
+san juan capistrano library 1

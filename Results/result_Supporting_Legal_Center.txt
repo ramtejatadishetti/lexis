@@ -1,0 +1,118 @@
+
+ Bigram NP 
+sen. suazo 3
+salt lake 3
+last year 2
+legal aid 2
+law center 2
+major difference 1
+specific mission 1
+herbert i. 1
+just-completed session 1
+legal assistance 1
+his tireless 1
+equal access 1
+george s. 1
+our legislature 1
+our nation 1
+domestic violence 1
+30,000-square-foot building 1
+mike leavitt 1
+their colleague 1
+legal advice 1
+one-stop shopping 1
+olafson group 1
+fight injustice 1
+clear message 1
+merrill building 1
+our state 1
+cedar city 1
+common worthwhile 1
+their credit 1
+
+ Trigram NP 
+utah state bar 3
+community legal center 3
+utah legal service 2
+disability law center 2
+john a. adam 2
+legal aid society 2
+our legal system 1
+not-for-profit legal service 1
+supporting legal center 1
+their vital mission 1
+it prior owner 1
+utah bar foundation 1
+utah state legislature 1
+salt lake county 1
+sen. pete suazo 1
+deseret news friday 1
+
+ Unigram NP 
+justice 5
+campaign 4
+utah 4
+access 3
+state 3
+building 3
+all 2
+staff 2
+district 2
+nation 2
+utahns 2
+law 2
+purchase 2
+service 2
+project 2
+money 1
+help 1
+family 1
+senate 1
+house 1
+top 1
+share 1
+site 1
+murray 1
+provo 1
+stability 1
+leadership 1
+planning 1
+year 1
+operation 1
+total 1
+difference 1
+estate 1
+variety 1
+west 1
+assistance 1
+system 1
+lip 1
+cooperation 1
+innovation 1
+gov 1
+cause 1
+easier 1
+morrison 1
+way 1
+co-location 1
+utah's 1
+appropriation 1
+delivery 1
+base 1
+opportunity 1
+volunteer 1
+kudos 1
+n. 1
+ogden 1
+capital 1
+example 1
+april 1
+client 1
+place 1
+model 1
+honor 1
+
+ Arbitary length NP 
+senior lawyer volunteer project 2
+else b. michael foundation 1
+dolores dore eccles foundation 1

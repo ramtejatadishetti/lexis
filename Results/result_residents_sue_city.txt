@@ -1,0 +1,79 @@
+
+ Bigram NP 
+mobile home 2
+future fire 1
+clean piece 1
+allegheny county 1
+city-owned community 1
+7.2-acre site 1
+public purpose 1
+lincoln place 1
+jan ackerman 1
+our agreement 1
+mr. raimondi 1
+joan tate 1
+
+ Trigram NP 
+community justice project 2
+supplemental social security 1
+community development act 1
+subsidized rental housing 1
+her mobile home 1
+eminent domain code 1
+eileen d. yacknin 1
+lincoln place mobile 1
+evalynn b. welling 1
+
+ Unigram NP 
+city 8
+raimondi 3
+suit 3
+park 3
+lawsuit 3
+sirabella 2
+home 2
+relocation 2
+may 2
+state 2
+center 2
+compensation 2
+attorney 2
+property 2
+requirement 1
+code 1
+site 1
+community 1
+sale 1
+domain 1
+carry 1
+obligation 1
+nls 1
+group 1
+tate 1
+housing 1
+eminent 1
+station 1
+board 1
+way 1
+munhall 1
+government 1
+pittsburgh 1
+friday 1
+yesterday 1
+agreement 1
+date 1
+july 1
+month 1
+loss 1
+land 1
+mobile 1
+wednesday 1
+closing 1
+yacknin 1
+order 1
+
+ Arbitary length NP 
+neighborhood legal service association 1
+edward j. raimondi jr. 1
+deputy mayor sal sirabella 1
+post-gazette staff writer resident 1

@@ -1,0 +1,59 @@
+
+ Bigram NP 
+last month 1
+paul rolly 1
+his building 1
+penny sweat 1
+new building 1
+lee kemp 1
+nonsubsidized apartment 1
+her ousting 1
+joann jacobsen-wells 1
+her grandmother 1
+federal housing 1
+his company 1
+out-of-town trip 1
+
+ Trigram NP 
+salt lake city 2
+utah nonprofit housing 2
+world war ii 1
+utah legal service 1
+know right wednesday 1
+her previous rent 1
+attorney marty blaustein 1
+
+ Unigram NP 
+kemp 5
+sweat 4
+manager 3
+eviction 2
+willey 2
+complex 2
+hud 2
+nobody 2
+right 1
+bureaucracy 1
+hearing 1
+owner 1
+vet 1
+housing 1
+blaustein 1
+state 1
+inquiry 1
+cause 1
+personality 1
+case 1
+granddaughter 1
+government 1
+company 1
+july 1
+building 1
+rift 1
+unaware 1
+
+ Arbitary length NP 
+utah nonprofit housing president marion willey 1
+hud-subsidized glendale senior housing 1
+utah nonprofit housing corp. 1
+salt lake city tribune 1

@@ -1,0 +1,164 @@
+
+ Bigram NP 
+vice president 11
+white house 3
+our access 3
+comprehensive energy 3
+reasonable accommodation 2
+district court 2
+our request 2
+our nation 2
+factual information 2
+important matter 1
+statutory process 1
+formal request 1
+international terrorism 1
+congressional interest 1
+his role 1
+ongoing effort 1
+legal system 1
+statutory access 1
+our fight 1
+good government 1
+congressional oversight 1
+limited information 1
+white house's 1
+past year 1
+meaningful action 1
+it consideration 1
+comptroller general 1
+timely resolution 1
+our audit 1
+vice president's 1
+direct control 1
+federal official 1
+initial response 1
+his counsel 1
+recent bankruptcy 1
+public scrutiny 1
+expected consideration 1
+environmental matter 1
+longstanding interest 1
+further assertion 1
+such committee 1
+enclosure page 1
+first time 1
+public confidence 1
+various government 1
+our view 1
+our homeland 1
+great confidence 1
+last time 1
+judicial enforcement 1
+our authority 1
+immediate need 1
+
+ Trigram NP 
+national energy policy 2
+our prior correspondence 1
+his constitutional position 1
+our statutory access 1
+related legal action 1
+statutory 20-day response 1
+prescribed statutory process 1
+general accounting office 1
+it ongoing oversight 1
+fundamental statutory authority 1
+our statutory audit 1
+vice president cheney 1
+
+ Unigram NP 
+gao 12
+nepdg 12
+information 12
+congress 10
+united 8
+policy 5
+august 5
+access 5
+connection 5
+staff 4
+energy 4
+authority 4
+matter 4
+president 4
+september 3
+government 3
+senate 3
+suit 3
+administration 3
+office 2
+executive 2
+committee 2
+chair 2
+oversight 2
+report 2
+house 2
+cost 2
+number 2
+addition 2
+legislation 2
+proposal 2
+failure 2
+subcommittee 2
+mechanism 2
+development 2
+request 2
+session 1
+litigation 1
+jurisdiction 1
+prudence 1
+dc 1
+period 1
+page 1
+right 1
+result 1
+pattern 1
+decision 1
+valve 1
+investigation 1
+safety 1
+body 1
+ability 1
+formation 1
+[ 1
+enron 1
+american 1
+disclosure 1
+cc 1
+management 1
+district 1
+accountability 1
+privilege 1
+scope 1
+regard 1
+july 1
+case 1
+look 1
+accordance 1
+budget 1
+transparency 1
+formulation 1
+need 1
+court 1
+democracy 1
+agency 1
+branch 1
+department 1
+columbia 1
+director 1
+moment 1
+purpose 1
+letter 1
+date 1
+statute 1
+recourse 1
+order 1
+position 1
+review 1
+
+ Arbitary length NP 
+] david m. walker comptroller general 1
+comptroller general concerning nepdg litigation january 1
+general accounting office washington 1
+national energy policy development group 1

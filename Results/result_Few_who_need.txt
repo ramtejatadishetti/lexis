@@ -1,0 +1,138 @@
+
+ Bigram NP 
+domestic violence 2
+legal assistance 2
+past commission 1
+low interest 1
+new study 1
+rural population 1
+one-sided contest 1
+alternative dispute 1
+status report 1
+bleak picture 1
+san francisco 1
+poverty level 1
+equal justice 1
+new zealand 1
+new jersey 1
+inflict injustice 1
+california court 1
+legal aid 1
+proper care 1
+judicial council 1
+extensive universe 1
+legal help 1
+practical matter 1
+california commission 1
+high unemployment 1
+civil justice 1
+increased spending 1
+jack londen 1
+wide range 1
+private investment 1
+online assistance 1
+
+ Trigram NP 
+present economic downturn 1
+justice earl johnson 1
+our whole society 1
+equal access fund 1
+los angeles county 1
+
+ Unigram NP 
+access 9
+california 9
+justice 6
+report 6
+state 5
+percent 5
+poverty 4
+welfare 3
+nation 3
+number 3
+system 3
+increase 2
+lawyer 2
+employment 2
+funding 2
+gap 2
+fund 2
+need 2
+abuse 2
+scotland 1
+lack 1
+well-being 1
+committee 1
+chair 1
+caregiver 1
+availability 1
+minnesota 1
+equity 1
+australia 1
+world 1
+iolta 1
+attorney 1
+england 1
+fairness 1
+home 1
+canada 1
+reform 1
+assistance 1
+legal 1
+health 1
+appeal 1
+transportation 1
+ability 1
+job 1
+path 1
+debt 1
+care 1
+legislature 1
+language 1
+host 1
+period 1
+plan 1
+family 1
+statewide 1
+community 1
+county 1
+elder 1
+self-help 1
+litigant 1
+bankruptcy 1
+discrimination 1
+housing 1
+anyone 1
+commission 1
+morrison 1
+immigration 1
+connecticut 1
+child 1
+foerster 1
+fraud 1
+work 1
+governor 1
+londen 1
+situation 1
+tion 1
+december 1
+legisla 1
+partner 1
+education 1
+variety 1
+latter 1
+state's 1
+economy 1
+development 1
+lag 1
+workforce 1
+massachusetts 1
+law 1
+opportunity 1
+consumer 1
+client 1
+resolution 1
+fact 1
+
+ Arbitary length NP 
+california bar journal few 1

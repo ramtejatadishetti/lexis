@@ -1,0 +1,243 @@
+
+ Bigram NP 
+passaic legal 2
+new jersey 2
+legal aid 2
+single county 2
+legal service 2
+passaic county 2
+last month 1
+alan kraus 1
+poor intake 1
+it community 1
+anna navatta 1
+joint bid 1
+legal assistance 1
+randi youells 1
+it budget 1
+required hearing 1
+consolidated plan 1
+robert magnanini 1
+competitive bidding 1
+hudson county 1
+their work 1
+other hand 1
+economic development-type 1
+her decision 1
+active community 1
+due process 1
+diverse staff 1
+special treatment 1
+it size 1
+concerted effort 1
+receive housing 1
+nationwide effort 1
+new entity 1
+fiduciary duty 1
+geographical service 1
+longstanding morale 1
+local bar 1
+it chance 1
+uneven supervision 1
+proper bid 1
+national recognition 1
+john erlenborn 1
+injunctive relief 1
+fatal news 1
+national trend 1
+various community 1
+named defendant 1
+local organization 1
+final grant 1
+federal money 1
+their budget 1
+federal court 1
+antagonism' lsnj 1
+jr. none 1
+first step 1
+bergen county 1
+federal funding 1
+federal judge 1
+linda harvey 1
+broad community 1
+undesirable merger 1
+
+ Trigram NP 
+passaic legal aid 13
+essex-newark legal service 1
+it own bid 1
+passaic county board 1
+aggressive legal work 1
+american bar association 1
+problem solver award 1
+site visit report 1
+legal service corp. 1
+similar legal challenge 1
+
+ Unigram NP 
+lsc 21
+passaic 16
+state 10
+lsnj 9
+miller 7
+funding 7
+area 7
+bergen 6
+reconfiguration 5
+service 5
+hudson 5
+process 5
+plan 5
+office 4
+money 4
+consolidation 4
+atlas 3
+community 3
+case 3
+work 3
+partner 3
+grant 3
+thorne 3
+merger 2
+program 2
+loss 2
+latham 2
+newark 2
+watkins 2
+august 2
+suggestion 2
+number 2
+law 2
+suit 2
+part 2
+october 2
+development 2
+madden 2
+congress 2
+president 2
+show 1
+rest 1
+entity 1
+maine 1
+intransigence 1
+litigation 1
+northeast 1
+group 1
+o'donnell 1
+help 1
+greenberg 1
+texas 1
+march 1
+halt 1
+antagonism 1
+hostility 1
+choice 1
+tucker 1
+february 1
+high-caliber 1
+cable 1
+level 1
+iolta 1
+side 1
+view 1
+02-cv-3866 1
+renegade…that 1
+lockstep 1
+result 1
+lawyer 1
+hudson-bergen 1
+disturbing 1
+passero 1
+eidleman 1
+monday 1
+assistance 1
+kind 1
+discretion 1
+provider 1
+staff 1
+counsel 1
+epstein 1
+core 1
+notice 1
+pclas 1
+possibility 1
+management 1
+'hostility 1
+youells 1
+opposition 1
+policy 1
+country 1
+chosen 1
+range 1
+cutoff 1
+colorado 1
+ground 1
+washington 1
+hearing 1
+county 1
+anonymity 1
+unit 1
+support 1
+system 1
+scope 1
+proposal 1
+meeting 1
+dauber 1
+extent 1
+injunction 1
+bulk 1
+failure 1
+connecticut 1
+hole 1
+behalf 1
+kraus 1
+television 1
+consultant 1
+jan. 1
+00-1901 1
+aid 1
+example 1
+subgrantee 1
+december 1
+argument 1
+agent 1
+education 1
+court 1
+d-nj 1
+grantee 1
+amount 1
+illinois 1
+state's 1
+branch 1
+performance 1
+separate 1
+june 1
+effect 1
+v. 1
+virginia 1
+director 1
+letter 1
+account 1
+bergen-hudson-passaic 1
+vice 1
+no 1
+request 1
+responsibility 1
+relief 1
+position 1
+cir.2001 1
+resolution 1
+turnover 1
+
+ Arbitary length NP 
+passaic county legal aid society v. legal service corp. 1
+passaic mary p. gallagher 1
+u.s. district judge william wall 1
+deputy director maxim thorne 1
+passaic county legal aid society 1
+lsnj president melville d. miller 1
+passaic executive director john atlas 1
+hudson legal aid director tim madden 1
+assignment judge robert passero 1
+rep. william pascrell jr. 1
+new jersey law journal n.j. legal 1

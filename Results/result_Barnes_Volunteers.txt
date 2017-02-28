@@ -1,0 +1,65 @@
+
+ Bigram NP 
+mr. barnes 4
+last month 1
+legal work 1
+private citizen 1
+his time 1
+political science 1
+my duty 1
+financial disclosure 1
+top-salaried job 1
+steven gottlieb 1
+emory university 1
+roy barnes 1
+net worth 1
+great representation 1
+handsome fee 1
+poor wednesday 1
+prestigious law 1
+mr. black 1
+unpaid attorney 1
+merle black 1
+
+ Trigram NP 
+powerful legal muscle 1
+his first act 1
+his first case 1
+atlanta legal aid 1
+
+ Unigram NP 
+office 2
+lawyer 2
+privilege 2
+everyone 1
+december 1
+tuesday 1
+executive 1
+profession 1
+society 1
+cost 1
+message 1
+quality 1
+state 1
+gov 1
+life 1
+tax 1
+re-election 1
+practice 1
+june 1
+director 1
+organization 1
+atlanta 1
+law 1
+day 1
+anything 1
+professor 1
+bill 1
+anybody 1
+governor 1
+responsibility 1
+representation 1
+that's 1
+
+ Arbitary length NP 
+atlanta legal aid society 1

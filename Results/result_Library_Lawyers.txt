@@ -1,0 +1,103 @@
+
+ Bigram NP 
+initial demand 1
+second session 1
+biased attorney 1
+gene windham 1
+good mood 1
+dick brownell 1
+long-standing program 1
+right direction 1
+receive advice 1
+financial issue 1
+shane massello 1
+charlene jerrell 1
+pure pro-bono 1
+unbiased advice 1
+legal problem 1
+10-minute meeting 1
+legal advice 1
+new program 1
+tremendous help 1
+legal case 1
+ulatis drive 1
+their time 1
+recent session 1
+
+ Trigram NP 
+free legal advice 1
+program information interested 1
+his first thought 1
+vacaville public library 1
+darryl richardson monday 1
+his former landlord 1
+
+ Unigram NP 
+program 8
+attorney 6
+brownell 5
+vacaville 5
+library 4
+massello 4
+night 4
+month 3
+lawyer 3
+court 3
+may 3
+june 3
+case 3
+vallejo 3
+fact 3
+p.m 2
+p.m. 2
+everything 2
+money 2
+advice 2
+law 2
+april 2
+help 1
+family 1
+probate 1
+december 1
+tuesday 1
+partnership 1
+tax 1
+number 1
+suisun 1
+event 1
+thinking 1
+person 1
+fortunately 1
+bringing 1
+discussion 1
+schedule 1
+includ 1
+meeting 1
+week 1
+agreement 1
+evening 1
+march 1
+information 1
+imaginable 1
+immigration 1
+action 1
+part 1
+plan 1
+demand 1
+judge 1
+word 1
+matter 1
+turnout 1
+type 1
+project 1
+amount 1
+windham 1
+place 1
+deposit 1
+offshoot 1
+security 1
+arrive 1
+
+ Arbitary length NP 
+vacaville reporter library lawyer program 1
+solano county bar association 1

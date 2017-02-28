@@ -1,0 +1,383 @@
+
+ Bigram NP 
+original requester 5
+ranking member 4
+comptroller general 4
+requested work 3
+gao-01-145g gao 3
+bipartisan support 2
+new work 2
+their withdrawal 2
+special investigation 2
+prior work 2
+subject matter 2
+congressional protocol 2
+senior leader 2
+congressional program 2
+committee member 2
+it work 2
+available regardless 1
+classified work 1
+professional auditing 1
+accepted government 1
+same issue 1
+other governmentwide 1
+expected date 1
+first hearing 1
+grand jury 1
+public understanding 1
+it core 1
+congress-the commitment 1
+• web 1
+legislative priority 1
+mandate gao 1
+it policy 1
+new information 1
+our work 1
+it release 1
+effective management 1
+our letter 1
+substantial body 1
+important issue 1
+testimony taxpayer 1
+desired time 1
+additional information 1
+specific committee 1
+congressional requester 1
+legal authority 1
+major management 1
+legislative authority 1
+their appropriation 1
+factual accuracy 1
+it scope 1
+affected agency 1
+equitable treatment 1
+their confidentiality 1
+g sts 1
+available information 1
+e-mail message 1
+applicable auditing 1
+investigative work 1
+particular committee 1
+//www.gao.gov/fraudnet/fraudnet.htm• e-mail 1
+undertakes work 1
+bicameral support 1
+dc order 1
+efficient use 1
+daily list 1
+single address 1
+ongoing assignment 1
+broad interest 1
+required knowledge 1
+ongoing work 1
+following order 1
+expected completion 1
+natural disaster 1
+accurate product 1
+their support 1
+professional courtesy 1
+federal fraud 1
+appropriate use 1
+our ability 1
+public interest 1
+designated committee 1
+limited portion 1
+congressional staff 1
+legislative debate 1
+oversight jurisdiction 1
+draft product 1
+targeted issuance 1
+verbal communication 1
+my nomination 1
+related time 1
+first copy 1
+final product 1
+senate governmental 1
+major event 1
+knowledgeable staff 1
+gao gao 1
+such work 1
+st. nw 1
+release all 1
+report fraud 1
+congressional page 1
+statutory obligation 1
+our trial 1
+verbal estimate 1
+
+ Trigram NP 
+world wide web 2
+congressional protocol gao 2
+house majority leader 1
+other sensitive information 1
+content letter gao 1
+fast legislative track 1
+workpaper access gao 1
+it own authority 1
+congressional protocol request 1
+general accounting office 1
+house minority leader 1
+house government reform 1
+same subject matter 1
+it past practice 1
+ranking minority member 1
+due professional care 1
+broad institutional interest 1
+house government reform-gao 1
+president pro tempore 1
+senate majority leader 1
+senate minority leader 1
+congressional protocol united 1
+it public release 1
+congressional requester senate 1
+limited technical assistance 1
+
+ Unigram NP 
+gao 129
+work 40
+product 27
+requester 23
+request 23
+congress 19
+house 15
+information 15
+member 13
+committee 11
+agency 11
+jurisdiction 9
+senate 9
+testimony 9
+date 8
+staff 7
+time 7
+report 6
+chair 6
+press 6
+activity 6
+calendar 6
+draft 6
+scope 6
+program 5
+release 5
+comment 5
+copy 5
+letter 5
+policy 4
+right 4
+research 4
+access 4
+option 4
+restriction 3
+office 3
+sponsorship 3
+majority 3
+writing 3
+timing 3
+public 3
+notification 3
+printing 3
+business 3
+conference 3
+future 3
+issue 3
+e.g. 3
+need 3
+methodology 3
+development 3
+minority 3
+phase 3
+integrity 2
+source 2
+commitment 2
+list 2
+page 2
+receipt 2
+authority 2
+substance 2
+exit 2
+internet 2
+leader 2
+core 2
+nature 2
+job 2
+extension 2
+pcie 2
+credit 2
+periodic 2
+disclosure 2
+washington 2
+november 2
+support 2
+gao's 2
+consultation 2
+waste 2
+meeting 2
+phone 2
+info 2
+co-requester 2
+accordance 2
+briefing 2
+site 2
+reliability 2
+party 2
+document 2
+http 2
+assignment 2
+abuse 2
+law 2
+opportunity 2
+response 2
+status 2
+termination 2
+co-requesters 1
+feedback 1
+september 1
+money 1
+misconduct 1
+availability 1
+completion 1
+knowledge 1
+implementation 1
+menu 1
+governmental 1
+mail 1
+congressional 1
+@ 1
+fax 1
+return 1
+material 1
+exception 1
+mandate 1
+day 1
+room 1
+resource 1
+level 1
+evaluation 1
+//www.gao.gov 1
+banking 1
+benefit 1
+mastercard 1
+adherence 1
+nw 1
+mean 1
+system 1
+conform 1
+superintendent 1
+reference 1
+frame 1
+www.gao.gov 1
+design 1
+subcommittee 1
+year 1
+touchtone 1
+home 1
+d.c. 1
+and/or 1
+communicating 1
+call 1
+protection 1
+objectivity 1
+approach 1
+independence 1
+body 1
+ability 1
+compilation 1
+team 1
+agreement 1
+understanding 1
+• 1
+consideration 1
+obligation 1
+tdd 1
+change 1
+box 1
+advance 1
+accident 1
+efficiency 1
+privacy 1
+timeliness 1
+period 1
+gao-03-198g 1
+visit 1
+whole 1
+rationale 1
+legislation 1
+number 1
+hearing 1
+satisfaction 1
+appropriate 1
+notify 1
+news 1
+respect 1
+forth 1
+discus 1
+basis 1
+addition 1
+impartiality 1
+responsibility 1
+accountability 1
+card 1
+leadership 1
+consistent 1
+authorization 1
+estimate 1
+herein 1
+part 1
+corner 1
+investigation 1
+consult 1
+behalf 1
+television 1
+d.c 1
+assessment 1
+gao.gov 1
+premature 1
+fraudnet 1
+project 1
+light 1
+intranet 1
+inform 1
+agree 1
+evidence 1
+on-camera 1
+expertise 1
+manner 1
+council 1
+accounting 1
+check 1
+visa 1
+competency 1
+united 1
+end 1
+january 1
+provide 1
+travel 1
+percent 1
+detail 1
+application 1
+speaker 1
+interview 1
+accuracy 1
+reporting 1
+collection 1
+dc 1
+issuance 1
+president 1
+invitation 1
+invest 1
+floor 1
+analysis 1
+person 1
+complexity 1
+contact 1
+place 1
+allow 1
+resolution 1
+order 1
+
+ Arbitary length NP 
+congressional protocol obtaining agency comment 1
+u.s. general accounting office p.o 1
+general accounting office washington 1
+u.s. general accounting office washington 1
+david m. walker comptroller general 1

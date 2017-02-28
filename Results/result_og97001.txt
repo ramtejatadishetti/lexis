@@ -1,0 +1,160 @@
+
+ Bigram NP 
+final rule 5
+child support 4
+federal register 3
+order no 3
+supplementary information 3
+individual living 2
+executive order 2
+statutory authorization 1
+substantial number 1
+brief discussion 1
+fiscal year 1
+retroactive effect 1
+our assessment 1
+annual cost 1
+local welfare 1
+judicial challenge 1
+previous version 1
+eligible food 1
+gao/ogc-97-1 department 1
+et seq 1
+agriculture issue 1
+federal program 1
+major rule 1
+forestry united 1
+continued eligibility 1
+preemptive effect 1
+benefit level 1
+new information 1
+agriculture page 1
+consumer service 1
+intergovernmental review 1
+agriculture house 1
+our report 1
+fed reg 1
+added information 1
+mr. robinson 1
+honorable e 1
+
+ Trigram NP 
+executive order no 4
+food stamp program 3
+paperwork reduction act 2
+child support deduction 2
+food stamp act 2
+regulatory flexibility act 2
+administrative procedure act 1
+it regulatory impact 1
+consumer service department 1
+other relevant information 1
+kathleen e. wannisky 1
+robert a. robinson 1
+separate cost-benefit analysis 1
+ms. ellen haas 1
+significant economic impact 1
+economic development division 1
+associate general counsel 1
+civil justice reform 1
+
+ Unigram NP 
+rule 18
+department 17
+u.s.c 9
+section 7
+food 6
+deduction 5
+household 5
+executive 4
+burden 4
+state 4
+office 3
+october 3
+requirement 3
+agriculture 3
+stamp 3
+nutrition 3
+b 3
+e 3
+i 3
+certification 2
+title 2
+secretary 2
+reg 2
+notice 2
+fed 2
+action 2
+management 2
+support 2
+budget 2
+iv 2
+information 2
+agency 2
+law 2
+analysis 2
+code 1
+relation 1
+gao/ogc-97-1 1
+number 1
+report 1
+kika 1
+resource 1
+d 1
+work 1
+senate 1
+operation 1
+subject 1
+cost-benefit 1
+rulemaking 1
+512-8326 1
+evaluation 1
+omb 1
+estimate 1
+compliance 1
+allotment 1
+act 1
+comment 1
+cc 1
+period 1
+community 1
+agriculture's 1
+respect 1
+use 1
+payment 1
+scope 1
+gao 1
+child 1
+iii 1
+official 1
+enforcement 1
+december 1
+ii 1
+united 1
+member 1
+application 1
+512-5138 1
+accuracy 1
+may 1
+0584-0064 1
+reporting 1
+collection 1
+director 1
+necessity 1
+response 1
+statute 1
+contact 1
+order 1
+
+ Arbitary length NP 
+mickey leland childhood hunger relief act 2
+unfunded mandate reform act 2
+gao/ogc-97-1 enclosure analysis under 1
+stamp program-child support deduction pursuant 1
+honorable patrick j. leahy ranking minority member committee 1
+garza ranking minority member committee 1
+a major rule issued by the department of agriculture entitled 1
+robert p. murphy general counsel enclosure 1
+general counsel b-275317 october 1
+honorable richard g. lugar chairman 1
+honorable pat robert chairman 1

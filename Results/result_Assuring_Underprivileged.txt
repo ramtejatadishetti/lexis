@@ -1,0 +1,275 @@
+
+ Bigram NP 
+her courtroom 3
+state bar 3
+los angeles 3
+fair trial 2
+public-interest work 2
+cornell university 2
+strong sense 2
+social responsibility 2
+interesting time 1
+david george 1
+her career 1
+supreme court 1
+longtime advocate 1
+public accountant 1
+williston competition 1
+outspoken proponent 1
+day-to-day work 1
+her husband 1
+public service 1
+standing committee 1
+her law 1
+her passion 1
+their contribution 1
+steep learning 1
+it value 1
+her interest 1
+awful lot 1
+equal access 1
+her team 1
+high school 1
+criminal law 1
+rational fashion 1
+single client 1
+legal funding 1
+north carolina 1
+former president 1
+public work 1
+fair hearing 1
+new york 1
+your head 1
+environmental law 1
+first time 1
+their use 1
+senior of-counsel 1
+brilliant jurist 1
+her practice 1
+her impress 1
+her objectiveness 1
+civil litigation 1
+defender association 1
+legal system 1
+her work 1
+quiet determination 1
+her interpretation 1
+broad scale 1
+gray davis 1
+welcoming place 1
+consummate professional 1
+her forward 1
+her research 1
+whole body 1
+private practice 1
+her commitment 1
+association's position 1
+great hall 1
+female member 1
+their time 1
+misdemeanor trial 1
+contract-negotiating contest 1
+my name 1
+start trial 1
+enough trial 1
+active member 1
+patricia phillips 1
+judicial council 1
+her appointment 1
+daily basis 1
+second thing 1
+her position 1
+first-year law 1
+
+ Trigram NP 
+american bar association 3
+national legal aid 1
+harvard voluntary defender 1
+her thorough understanding 1
+statewide bench-bar coalition 1
+harvard law school 1
+tina spee wednesday 1
+court-community outreach committee 1
+only student-run chapter 1
+her judicial temperament 1
+public service corp. 1
+her 1995-96 term 1
+civil legal assistance 1
+10-million-a-year legal-access fund 1
+public service responsibility 1
+her legal career 1
+large environmental group 1
+her misdemeanor court 1
+her positive reinforcement 1
+intense intellectual curiosity 1
+whole different set 1
+her intelligent interpretation 1
+laurie d. zelon 1
+
+ Unigram NP 
+zelon 35
+law 7
+judge 4
+wong 4
+system 4
+way 4
+court 4
+justice 3
+bench 3
+foerster 3
+state 3
+public 3
+california 3
+• 3
+] 3
+morrison 3
+lot 3
+member 3
+hufstedler 3
+chair 2
+community 2
+leon 2
+school 2
+right 2
+ettinger 2
+degree 2
+kaus 2
+[ 2
+everyone 2
+respect 2
+confidence 2
+commission 2
+something 2
+case 2
+matter 2
+sense 2
+partner 2
+time 2
+opportunity 2
+face 2
+office 1
+protest 1
+skiing 1
+thoughtfulness 1
+litigation 1
+group 1
+ease 1
+housewife 1
+board 1
+predecessor 1
+someone 1
+march 1
+advocate 1
+beardsley 1
+course 1
+front 1
+provision 1
+day 1
+minute 1
+reading 1
+impact 1
+gender 1
+list 1
+morning 1
+team 1
+attest 1
+fair 1
+foundation 1
+back 1
+competition 1
+recruitment 1
+college 1
+lawyer 1
+year 1
+fear 1
+canada 1
+jeremy 1
+decision 1
+access 1
+daniel 1
+gov 1
+issue 1
+specialist 1
+ability 1
+associate 1
+ill. 1
+job 1
+harvard 1
+legislature 1
+bachelor 1
+april 1
+range 1
+she's 1
+place 1
+testimony 1
+love 1
+hearsay 1
+profession 1
+period 1
+kemble 1
+one 1
+undergraduate 1
+city 1
+service 1
+area 1
+union 1
+anyone 1
+accountant 1
+music 1
+editor 1
+call 1
+firm 1
+award 1
+part 1
+elimination 1
+effort 1
+counsel 1
+october 1
+room 1
+science 1
+challenge 1
+work 1
+governor 1
+feeling 1
+history 1
+westbury 1
+division 1
+share 1
+n.y. 1
+skokie 1
+nazi 1
+anymore 1
+party 1
+effectiveness 1
+profile 1
+congress 1
+effect 1
+organization 1
+president 1
+class 1
+curve 1
+litigator 1
+person 1
+chief 1
+firm's 1
+trial-by-jury 1
+gratefulness 1
+position 1
+fact 1
+courtroom 1
+
+ Arbitary length NP 
+los angeles county bar association 2
+los angeles superior court 2
+voice jurist credit parent 1
+laurie d. zelon pro bono award 1
+harvard civil rights-civil liberty law review 1
+american civil liberty union 1
+laurie d. zelon superior court judge los angeles career 1
+clara shortridge foltz criminal justice center 1
+new york civil liberty union 1
+deputy public defender debbie canada 1
+law firm pro bono project 1
+deputy public defender noel leon 1
+deputy city attorney andrew wong 1
+harvard law school age 1

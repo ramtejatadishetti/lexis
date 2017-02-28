@@ -1,0 +1,86 @@
+
+ Bigram NP 
+legal foundation 2
+small amount 1
+pooled money 1
+legal help 1
+associated press 1
+awful lot 1
+personal property 1
+private property 1
+broad impact 1
+pooled account 1
+richard samp 1
+domestic violence 1
+widespread practice 1
+circuit court 1
+u.s. constitution 1
+important source 1
+low- income 1
+executive director 1
+legal aid 1
+barbara clark 1
+illegal taking 1
+similar program 1
+federal court 1
+fifth amendment 1
+individual client 1
+potential loss 1
+three-judge panel 1
+real estate 1
+chief counsel 1
+
+ Trigram NP 
+u.s. supreme court 1
+civil legal assistance 1
+washington supreme court 1
+u.s. district court 1
+washington legal foundation 1
+
+ Unigram NP 
+washington 6
+interest 6
+money 5
+state 3
+case 3
+iolta 3
+program 2
+foundation 2
+practice 2
+rule 2
+olympia 1
+help 1
+clark 1
+statewide 1
+tuesday 1
+eviction 1
+lawyer 1
+year 1
+accounting 1
+trust 1
+custody 1
+out 1
+u.s 1
+funding 1
+writer 1
+percent 1
+favor 1
+samp 1
+d.c. 1
+monday 1
+june 1
+lot 1
+child 1
+contention 1
+protection 1
+person 1
+amount 1
+client 1
+ruling 1
+circuit 1
+time 1
+organization 1
+closing 1
+
+ Arbitary length NP 
+washington state legal aid program challenge reach u.s. high court paul queary 1

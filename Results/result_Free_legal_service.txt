@@ -1,0 +1,81 @@
+
+ Bigram NP 
+legal aid 4
+eric kleiman 1
+federal money 1
+metropolitan chicago 1
+congressional funding 1
+social security 1
+last census 1
+executive director 1
+d.c.-based agency 1
+other money 1
+fulton st. 1
+prairie state 1
+trust fund 1
+
+ Trigram NP 
+free legal aid 1
+legal assistance foundation 1
+illinois supreme court 1
+peoria county state 1
+attorney kevin lyon 1
+free legal service 1
+prairie state legal 1
+lisa y. wilson 1
+christopher williams friday 1
+illinois general assembly 1
+lincoln legal service 1
+legal service corp. 1
+ruth ann schmitt 1
+
+ Unigram NP 
+illinois 7
+lsc 4
+attorney 3
+money 3
+wilson 3
+peoria 3
+office 2
+year 2
+funding 2
+fund 2
+land 2
+budget 2
+amount 2
+wane 1
+marshall 1
+half 1
+washington 1
+number 1
+eviction 1
+decrease 1
+stark 1
+trust 1
+impact 1
+access 1
+cut 1
+network 1
+chicago 1
+bite 1
+lurch 1
+thursday 1
+spokesman 1
+state 1
+interest 1
+suite 1
+kleiman 1
+pain 1
+august 1
+tazewell 1
+nation 1
+protection 1
+bartylak 1
+census 1
+court 1
+lincoln 1
+woodford 1
+
+ Arbitary length NP 
+lsc president john erlenborn 1
+prairie state legal service inc. 1

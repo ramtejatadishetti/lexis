@@ -1,0 +1,129 @@
+
+ Bigram NP 
+san antonio 5
+southwest texas 2
+corpus christi 2
+next light 1
+serious problem 1
+new center 1
+legal assistance 1
+call-in service 1
+st. mary 1
+comprehensive case 1
+final hearing 1
+texas school 1
+it service 1
+domestic violence 1
+william power 1
+tremendous difference 1
+68-county area 1
+final decree 1
+mauricio vivero 1
+telephone access 1
+legal problem 1
+legal advice 1
+legal assistant 1
+small call-in 1
+front end 1
+our ability 1
+their time 1
+el paso 1
+first time 1
+university school 1
+david hall 1
+
+ Trigram NP 
+critical legal advice 1
+san antonio center 1
+preliminary legal advice 1
+valuable professional experience 1
+mary christine reed 1
+rio grande valley 1
+civil legal problem 1
+new legal advice 1
+legal service corp. 1
+quick legal advice 1
+funded legal aid 1
+
+ Unigram NP 
+center 10
+law 8
+hall 8
+trla 7
+grant 5
+reed 5
+austin 5
+phone 4
+information 3
+call 3
+ut 3
+client 3
+lsc 2
+hotline 2
+courthouse 2
+justice 2
+percent 2
+system 2
+eligibility 2
+number 2
+director 2
+student 2
+area 2
+project 2
+help 1
+attorney 1
+caller 1
+dean 1
+work-up 1
+paralegal 1
+executive 1
+washington 1
+idea 1
+goal 1
+computer 1
+manner 1
+lawyer 1
+president 1
+need 1
+somebody 1
+technology 1
+taj 1
+aug. 1
+conference 1
+funding 1
+service 1
+divorce 1
+admission 1
+access 1
+food 1
+state 1
+experiment 1
+way 1
+citizen 1
+privilege 1
+staff 1
+advice 1
+texas 1
+case 1
+door 1
+price 1
+court 1
+school 1
+award 1
+news 1
+line 1
+opportunity 1
+panel 1
+a 1
+training 1
+vice 1
+university 1
+amount 1
+man 1
+january 1
+arrive 1
+south 1
+
+ Arbitary length NP 
+texas rural legal aid 1
+texas lawyer grant provides funding to connect legal aid call center mary alice robbins september 1

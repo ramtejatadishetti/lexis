@@ -1,0 +1,45 @@
+
+ Bigram NP 
+alamo hill 4
+their stuff 2
+their out-of-pocket 1
+their property 1
+limited opportunity 1
+small amount 1
+good shape 1
+pm one 1
+district court 1
+
+ Trigram NP 
+craig mccool thursday 1
+bernard dempsey jr. 1
+michigan legal service 1
+
+ Unigram NP 
+complex 4
+dempsey 3
+apartment 2
+blaze 2
+march 2
+nine 2
+comment 1
+attorney 1
+homeless 1
+group 1
+top 1
+lot 1
+august 1
+fire 1
+company 1
+aftermath 1
+lawsuit 1
+reimbursement 1
+stress 1
+spokesperson 1
+wednesday 1
+value 1
+stuff 1
+security 1
+
+ Arbitary length NP 
+kalamazoo gazette alamo fire victim sue landlord 1

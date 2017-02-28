@@ -1,0 +1,404 @@
+
+ Bigram NP 
+larval growth 6
+acute toxicity 4
+full life-cycle 4
+chronic toxicity 4
+full life 4
+static renewal 3
+critical life 2
+electrical equipment 2
+survival test 2
+sensitive life 2
+fry survival 2
+safe concentration 2
+fish toxicity 2
+embryo-larval survival 2
+sexual reproduction 2
+chemical composition 1
+partial life 1
+two-day exposure 1
+their life 1
+rapid shift 1
+urchin fertilization 1
+good housekeeping 1
+particular sample 1
+potential health 1
+significant reduction 1
+good condition 1
+short exposure 1
+fry growth 1
+natural environment 1
+whole effluent 1
+single effluent 1
+steady state 1
+dose-response relationship 1
+fresh solution 1
+specified percent 1
+appreciable impact 1
+high chemical 1
+early life 1
+sensitive endpoint 1
+disease prevention 1
+lake superior 1
+rwc + 1
+two-week exposure 1
+rwc = 1
+28-day mysid 1
+chemical hazard 1
+sensitive indicator 1
+electrical shock 1
+safety equipment 1
+undiluted receiving 1
+and/or measure 1
+net result 1
+laboratory life 1
+routine basis 1
+toxicant dependent 1
+aquatic toxicity 1
+complete life 1
+static test 1
+prescribed period 1
+other glassware 1
+short-term toxicity 1
+general safety 1
+regulatory agency 1
+direct estimate 1
+gill ventilation 1
+local fire 1
+wide variety 1
+first aid 1
+waste disposal 1
+high cost 1
+menidia menidia 1
+normal propagation 1
+appropriate manner 1
+biological oxygen 1
+npdes program 1
+warm water 1
+life-cycle test 1
+apparent toxicity 1
+graded series 1
+relative sensitivity 1
+environmental toxicology 1
+safety manual 1
+definitive test 1
+ongoing commitment 1
+28-day life-cycle 1
+necessary safety 1
+effective health 1
+early life-stage 1
+7-day sheepshead 1
+general precaution 1
+subsequent shattering 1
+annual meeting 1
+effluent toxicity 1
+significant measure 1
+routine application 1
+dose-response information 1
+possible loss 1
+personal safety 1
+same concentration 1
+seven-day larval 1
+fume hood 1
+negative test 1
+great majority 1
+same amount 1
+sufficient information 1
+same test 1
+partial lifecycle 1
+bodily injury 1
+larval survival 1
+exhaust canopy 1
+negative result 1
+ongoing training 1
+enzyme activity 1
+static non-renewal 1
+early period 1
+olfactory function 1
+laboratory staff 1
+other time 1
+further guidance 1
+early juvenile 1
+limited number 1
+fathead minnow 1
+
+ Trigram NP 
+short-term toxicity test 2
+fish full life-cycle 2
+two-day red macroalga 1
+it wide use 1
+potential temporal variability 1
+laboratory safety equipment 1
+single toxicant fathead 1
+other aquatic life 1
+health and safety 1
+it own waste 1
+their predictive value 1
+other prescribed interval 1
+lethal threshold concentration 1
+significant observed effect 1
+type of test 1
+personal safety gear 1
+
+ Unigram NP 
+test 34
+toxicity 21
+usepa 19
+growth 18
+safety 15
+el 13
+% 13
+survival 12
+concentration 11
+exposure 9
+rwc 8
+effluent 8
+minnow 7
+fish 7
+laboratory 7
+water 7
+use 7
+cycle 7
+mount 6
+reproduction 5
+permit 5
+equipment 4
+and/or 4
+birge 4
+norberg 4
+waste 4
+work 4
+al 4
+organism 4
+sheepshead 3
+health 3
+handling 3
+acute 3
+oxygen 3
+receiving 3
+program 3
+fertilization 3
+possibility 3
+embryo 3
+post-hatch 3
+control 3
+npdes 3
+pimephales 3
+silverside 3
+literature 3
+effect 3
+staff 2
+presence 2
+lc50 2
+do 2
+emergency 2
+rwc/4 2
+solution 2
+toxicant 2
+reduced 2
+bahia 2
+fathead 2
+inland 2
+rate 2
+cost 2
+duration 2
+promelas 2
+depletion 2
+state 2
+limit 2
+rwc/2 2
+mysidopsis 2
+compliance 2
+cod 2
+mysid 2
+section 2
+bod 2
+copper 2
+noecs 2
+quality 2
+reduction 2
+incubation 2
+series 2
+fry 2
+type 2
+volatilization 2
+fire 2
+volume 2
+demand 2
+disposal 2
+glass 2
+teratogenicity 2
+personnel 2
+adsorption 2
+development 2
+collection 2
+chance 2
+time 2
+chemistry 2
+selection 1
+help 1
+similarity 1
+fume 1
+lack 1
+frequency 1
+zinc 1
+skin 1
+threshold 1
+indicator 1
+death 1
+matcs 1
+field 1
+effort 1
+cyprinodon 1
+subsection 1
+lethality 1
+policy 1
+b 1
+mortality 1
+al. 1
+larva 1
+breakage 1
+histopathology 1
+renewal 1
+level 1
+jameson 1
+consensus 1
+chamber 1
+loss 1
+officer 1
+activity 1
+ohio 1
+dilution 1
+freshwater 1
+smaller 1
+embryogenic 1
+sleight 1
+authority 1
+lethal 1
+static 1
+result 1
+sea 1
+mckim 1
+preparation 1
+space 1
+federal 1
+review 1
+hepatitis 1
+matc 1
+chemical 1
+understood 1
+evaluation 1
+dursban® 1
+body 1
+variability 1
+degree 1
+asphyxiation 1
+midpoint 1
+confidence 1
+posthatch 1
+consult 1
+nacci 1
+magna 1
+approval 1
+underwriter 1
+stage 1
+comparison 1
+jackim 1
+extension 1
+spill 1
+study 1
+prior 1
+length 1
+healthier 1
+canopy 1
+plan 1
+tetanus 1
+simple 1
+multi-concentration 1
+period 1
+facility 1
+chronic 1
+wider 1
+lima 1
+management 1
+eye 1
+basis 1
+introduction 1
+permittee 1
+plastic 1
+hatchability 1
+indicate 1
+production 1
+stephan 1
+non-renewal 1
+energy 1
+walter 1
+cleaning 1
+life 1
+benoit 1
+pesticide 1
+lussier 1
+polio 1
+telephone 1
+atlantic 1
+parrish 1
+ward 1
+woltering 1
+case 1
+sample 1
+account 1
+society 1
+macek 1
+parvula 1
+nine 1
+cassidy 1
+h 1
+example 1
+heart 1
+illness 1
+process 1
+pass/fail 1
+daphnia 1
+minimum 1
+ambient 1
+pimphales 1
+champia 1
+percent 1
+range 1
+rubber 1
+majority 1
+contact 1
+pure 1
+objective 1
+glassware 1
+require 1
+area 1
+absorption 1
+toxic 1
+variegatus 1
+blood 1
+typhoid 1
+invasion 1
+data 1
+response 1
+check 1
+a 1
+inhalation 1
+manpower 1
+fever 1
+salinity 1
+portion 1
+ingestion 1
+responsibility 1
+locomotor 1
+egg 1
+/2 1
+prevention 1
+
+ Arbitary length NP 
+maximum acceptable toxicant concentration 1
+advantage and disadvantage of toxicity test type 1
+no observable effect concentration 1
+general laboratory and field operation 1
+material safety data sheet 1

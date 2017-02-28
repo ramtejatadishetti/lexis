@@ -1,0 +1,135 @@
+
+ Bigram NP 
+jim lindsay 5
+safe shelter 3
+her father 2
+social justice 2
+retired lawyer 1
+york street 1
+exclusive summer 1
+mediation center 1
+retired attorney 1
+indomitable spirit 1
+new york 1
+low-income housing 1
+different sort 1
+his dedication 1
+bill broker 1
+my father 1
+one-hour lunch 1
+much vision 1
+his wife 1
+child development 1
+senior volunteer 1
+first board 1
+uncanny ability 1
+new shelter 1
+his time 1
+assisted-care community 1
+social security 1
+his money 1
+clinical psychologist 1
+his son 1
+gail reese-wheeler 1
+new home 1
+our game 1
+lou barnes 1
+whole family 1
+second floor 1
+oberlin college 1
+
+ Trigram NP 
+georgia legal service 3
+free legal work 1
+her second week 1
+her first encounter 1
+my whole mindset 1
+daughter pippi ellison 1
+his first look 1
+jim lindsay day 1
+retired corporate lawyer 1
+urban health center 1
+
+ Unigram NP 
+lindsay 9
+jim 5
+broker 5
+savannah 3
+ellison 3
+board 3
+shelter 3
+attorney 2
+boston 2
+education 2
+volunteer 2
+school 2
+reese-wheeler 2
+kind 2
+time 2
+nonprofit 2
+maturity 1
+camp 1
+golf 1
+family 1
+executive 1
+community 1
+celebration 1
+course 1
+manager 1
+legacy 1
+year 1
+harder 1
+fla. 1
+option 1
+idea 1
+death 1
+end 1
+inspiration 1
+person 1
+barnes 1
+depth 1
+thursday 1
+day 1
+member 1
+immersion 1
+program 1
+passion 1
+volunteerism 1
+enthusiasm 1
+today 1
+ken 1
+generously 1
+parent 1
+michigan 1
+camper 1
+director 1
+lunch 1
+effect 1
+medicaid 1
+society 1
+shirley 1
+law 1
+judgment 1
+jacksonville 1
+man 1
+town 1
+anything 1
+difficulty 1
+university 1
+work 1
+ramp 1
+brother 1
+understanding 1
+concrete 1
+tour 1
+lindsey 1
+everyone 1
+reception 1
+contribution 1
+sister 1
+sat 1
+grin 1
+
+ Arbitary length NP 
+mary carr mayle safe shelter 1
+new york city mission society 1

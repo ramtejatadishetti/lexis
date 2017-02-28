@@ -1,0 +1,105 @@
+
+ Bigram NP 
+clay county 9
+legal aid 8
+domestic violence 4
+last year 3
+quigley house 2
+poverty population 1
+strong desire 1
+michael figgins 1
+additional revenue 1
+only way 1
+gloria einstein 1
+sexual assault 1
+her [ 1
+psychological trauma 1
+northeast florida 1
+abusive situation 1
+civil action 1
+additional lawyer 1
+executive director 1
+big jump 1
+legal paperwork 1
+social security 1
+her agency 1
+private counseling 1
+limited experience 1
+sharon youngerman 1
+non-profit agency 1
+our budget 1
+last time 1
+county commission 1
+federal benefit 1
+
+ Trigram NP 
+their marital relationship 1
+clay county could 1
+green cove spring 1
+
+ Unigram NP 
+percent 5
+lawyer 4
+figgins 4
+help 3
+year 3
+fee 2
+court 2
+increase 2
+program 2
+youngerman 2
+study 2
+divorce 2
+clay 2
+filing 2
+load 1
+agency 1
+office 1
+revenue 1
+paralegal 1
+tuesday 1
+executive 1
+child 1
+request 1
+one 1
+case 1
+everyone 1
+expertise 1
+result 1
+need 1
+saturday 1
+custody 1
+ordinance 1
+discrimination 1
+housing 1
+duval 1
+kind 1
+majority 1
+branch 1
+court-filing 1
+salary 1
+ability 1
+may 1
+freedom 1
+search 1
+gap 1
+director 1
+justice 1
+nassau 1
+law 1
+school 1
+fraud 1
+center 1
+hike 1
+florida 1
+order 1
+baker 1
+client 1
+medicare 1
+times-union 1
+consumer 1
+
+ Arbitary length NP 
+jacksonville area legal aid 1
+jacksonville area legal aid inc. 1
+boost r. michael anderson 1

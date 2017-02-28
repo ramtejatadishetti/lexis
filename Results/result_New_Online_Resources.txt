@@ -1,0 +1,100 @@
+
+ Bigram NP 
+legal aid 3
+executive director 2
+legal interest 1
+chicago-kent college 1
+itc board 1
+our time 1
+trust fund 1
+searchable database 1
+local technology 1
+content-management system 1
+collective knowledge 1
+legal information 1
+electronic library 1
+electronic calendar 1
+userfriendly environment 1
+large part 1
+online information 1
+legal-services library 1
+private practice 1
+basic word 1
+significant cost 1
+available training 1
+similar work 1
+different practice 1
+
+ Trigram NP 
+chicago bar foundation 2
+general legal community 2
+small legal aid 2
+robert a. glaves 1
+anne stalder nelson 1
+our legal aid 1
+illinois technology center 1
+legal service corp. 1
+local legal aid 1
+
+ Unigram NP 
+web 7
+law 4
+volunteer 4
+community 3
+state 3
+online 3
+colpoys 3
+itc 3
+nelson 3
+communication 2
+site 2
+member 2
+area 2
+illinois 2
+information 2
+internet 2
+director 2
+work 2
+list 2
+time 2
+www.illinoisprobono.org 1
+tuesday 1
+washington 1
+clinic 1
+way 1
+calendar 1
+avenue 1
+message 1
+funding 1
+opportunity 1
+support 1
+access 1
+field 1
+location 1
+interest 1
+test 1
+email 1
+board 1
+practice 1
+d.c. 1
+processing 1
+efficiency 1
+lot 1
+library 1
+[ 1
+] 1
+chicago 1
+a 1
+training 1
+duplication 1
+resource 1
+center 1
+www.illinoislegalaid.org 1
+illinoisprobono.org 1
+software 1
+
+ Arbitary length NP 
+chicago daily law bulletin new online resource available 1
+legal aid attorney adam w. lasker october 1
+cabrini green legal aid clinic 1
+itc executive director lisa a. colpoys 1

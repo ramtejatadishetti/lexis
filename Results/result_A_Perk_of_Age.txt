@@ -1,0 +1,66 @@
+
+ Bigram NP 
+hot line 3
+washington d.c. 1
+legal aid 1
+tackle estate 1
+legal advice 1
+legal counseling 1
+eldercare locator 1
+other elder-law 1
+puerto rico 1
+legal-services network 1
+their phone 1
+
+ Trigram NP 
+local legal assistance 1
+little known perk 1
+hands-on legal counsel 1
+their usual rate 1
+
+ Unigram NP 
+year 2
+anyone 2
+state 2
+advice 2
+phone 2
+age 2
+requirement 1
+legal-assistance 1
+help 1
+low-cost 1
+elder-law 1
+elder 1
+planning 1
+lawyer 1
+simple 1
+cost 1
+end 1
+service 1
+perk 1
+agency 1
+administration 1
+source 1
+800-677-1116 1
+call 1
+face-to-face 1
+health 1
+march 1
+u.s. 1
+protection 1
+group 1
+part 1
+locator 1
+country 1
+list 1
+abuse 1
+pension 1
+grandchild 1
+english 1
+% 1
+consumer 1
+neglect 1
+
+ Arbitary length NP 
+kelly greene free legal 1
+aarp's legal service network 1

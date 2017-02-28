@@ -1,0 +1,109 @@
+
+ Bigram NP 
+legal aid 11
+open house 3
+central oregon 2
+federal funding 2
+former state 1
+santiam pas 1
+his thumb 1
+legal assistance 1
+his speech 1
+wind-blown hair 1
+long time 1
+corporate support 1
+reliable vehicle 1
+lowincome population 1
+his dedication 1
+disadvantaged population 1
+u.s. house 1
+his neck 1
+big part 1
+regional office 1
+legitimate grievance 1
+local office 1
+little car 1
+our community 1
+bob turner 1
+domestic violence 1
+his message 1
+
+ Trigram NP 
+sen. neil bryant 1
+central oregon's office 1
+his drive form 1
+legal need study 1
+
+ Unigram NP 
+balmer 4
+funding 3
+percent 3
+state 3
+oregon 3
+bend 2
+nobody 2
+work 2
+wednesday 2
+thomas 1
+help 1
+office 1
+money 1
+attorney 1
+anybody 1
+paper 1
+budget 1
+need 1
+mustang 1
+trust 1
+employment 1
+trouble 1
+lawyer 1
+halfway 1
+courthouse 1
+service 1
+federal 1
+divorce 1
+support 1
+system 1
+legal 1
+crisis 1
+access 1
+speech 1
+custody 1
+interest 1
+tie 1
+subject 1
+foundation 1
+oregon's 1
+a. 1
+director 1
+reason 1
+lift 1
+court 1
+award 1
+child 1
+smoking 1
+convertible 1
+remainder 1
+network 1
+wagon 1
+kind 1
+october 1
+bar 1
+success 1
+third 1
+country 1
+ride 1
+volvo 1
+salem 1
+time 1
+fun 1
+aid 1
+thalhofer 1
+housing 1
+
+ Arbitary length NP 
+bend bulletin high court judge visit bend 1
+oregon supreme court justice 1
+retired judge joseph thalhofer 1
+better legal aid matthew taran thursday 1

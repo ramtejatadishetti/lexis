@@ -1,0 +1,122 @@
+
+ Bigram NP 
+city council 13
+mayor bloomberg 6
+corporation counsel 4
+law department 2
+legal work 2
+county law 1
+their mandate 1
+first department 1
+it budget 1
+legal service 1
+it district 1
+same time 1
+daniel wise 1
+corporation counsel's 1
+general counsel 1
+first time 1
+legal aid 1
+different set 1
+appellate defender 1
+family court 1
+18-b program 1
+her office 1
+jack deacy 1
+mayor giuliani 1
+it plan 1
+many agency 1
+many city 1
+district attorney 1
+kate ahlers 1
+it response 1
+
+ Trigram NP 
+legal aid society 6
+new york city 2
+his preliminary budget 2
+neighborhood legal service 1
+it current finding 1
+it total funding 1
+handle legal work 1
+thomas l. mcmahon 1
+
+ Unigram NP 
+council 13
+percent 12
+plan 10
+office 8
+city 7
+mayor 5
+proposal 5
+budget 5
+cut 4
+work 4
+department 3
+yesterday 3
+elimination 3
+administration 2
+funding 2
+agency 2
+document 2
+contract 2
+view 2
+comment 1
+layoff 1
+force 1
+correction 1
+tax 1
+one-third 1
+jump 1
+cutting 1
+year 1
+total 1
+feb. 1
+willingness 1
+service 1
+children's 1
+spending 1
+transfer 1
+compensation 1
+mayor's 1
+spokesman 1
+deficit 1
+way 1
+contrast 1
+prosecute 1
+head 1
+scale 1
+building 1
+commuter 1
+pursuant 1
+consolidation 1
+allocation 1
+efficiency 1
+abuse 1
+bloomberg 1
+child 1
+article 1
+count 1
+comparison 1
+handling 1
+district 1
+sanitation 1
+level 1
+spokeswoman 1
+april 1
+amount 1
+part 1
+conflict 1
+shade 1
+management 1
+harlem 1
+neglect 1
+restoration 1
+
+ Arbitary length NP 
+new york city council 1
+legal aid would gain 1
+city council budget target legal work 1
+proposal city criminal justice coordinator john feinblatt 1
+it own legal staff 1
+new york law journal tuesday 1

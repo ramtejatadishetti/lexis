@@ -1,0 +1,1855 @@
+
+ Bigram NP 
+march comment 494
+north carolina 107
+march testimony 102
+legal service 92
+april testimony 91
+legal assistance 59
+shelley latin 52
+april comment 51
+jose padilla 40
+michael wyatt 36
+legal aid 32
+janice morgan 30
+rob williams 30
+cynthia rice 29
+lisa butler 28
+mid-new york 23
+robert salzman 23
+new york 23
+charlotte sibley 23
+legal representation 22
+nan schivone 22
+phyllis holmen 22
+bill beardall 22
+jack londen 19
+legislative history 18
+michael carlin 17
+their employment 17
+victor lara 16
+javier rioja 15
+nationality act 15
+anita soucy 15
+permanent resident 14
+patrick mcintyre 14
+l. no 12
+meaningful representation 11
+carolyn corrie 11
+part ii 10
+marci seville 10
+u.s. department 10
+private counsel 10
+factual record 9
+h-2a program 9
+jim albright 9
+catholic diocese 9
+bruce iwasaki 8
+lawyer committee 8
+civil right 8
+their home 8
+legal action 8
+federal register 8
+lynn coyle 8
+los angeles 8
+mark talamantes 7
+education fund 7
+washington alliance 6
+rep. no 6
+west virginia 6
+legal defense 6
+melinda wiggins 6
+refugee justice 6
+attorney general 6
+statutory language 6
+student action 6
+federal court 6
+nieves negrete 6
+doreen dodson 6
+control act 6
+specific contract 6
+mr. casellas 6
+part iii 6
+sylvia argueta 5
+professional responsibility 5
+juris doctor 5
+their immigration 5
+other employment 5
+minimum wage 5
+private bar 5
+their right 5
+low income 5
+gao report 5
+adverse effect 5
+immigration reform 5
+future employment 5
+alien representation 4
+professor cleveland 4
+legal question 4
+mr. erlenborn 4
+permanent residence 4
+presence requirement 4
+important context 4
+immigration law 4
+statutory scheme 4
+agricultural labor 4
+eligible alien 4
+their employer 4
+lsc-funded representation 4
+garry geffert 4
+administrative level 4
+mark miller 4
+general counsel 4
+new mexico 4
+final paycheck 4
+professor rogers 3
+legal authority 3
+dol report 3
+erlenborn commission 3
+first time 3
+public law 3
+mark schacht 3
+daily ed 3
+house report 3
+elizabeth freeman 3
+alan houseman 3
+unmarried child 3
+conditional entry 3
+other hand 3
+professor aleinikoff 3
+emma torres 3
+social policy 3
+appropriation act 3
+their contract 3
+lsc act 3
+their way 3
+legal claim 3
+foreign country 3
+their residence 3
+walt auvil 3
+wrongful discharge 3
+such representation 3
+equal access 3
+vast majority 3
+state bar 3
+their status 3
+gabriel medel 3
+lawful immigration 3
+social security 3
+specific employment 2
+their community 2
+general representation 2
+final report 2
+it context 2
+public housing 2
+ordinary meaning 2
+alien h-2a 2
+irca § 2
+legislative crafting 2
+it plain 2
+n.c. justice 2
+h-2a worker 2
+current law 2
+their job 2
+daily basis 2
+first half 2
+fifty percent 2
+long-standing practice 2
+howard berman 2
+only category 2
+sole exception 2
+pennsylvania school 2
+agricultural employer 2
+following representation 2
+express statement 2
+further inquiry 2
+naturalization service 2
+h-2a visa 2
+political calamity 2
+migrant stream 2
+dawn burtt 2
+their case 2
+live testimony 2
+alien client 2
+administrative law 2
+such section 2
+his employer 2
+previous season 2
+domestic violence 2
+hour division 2
+their isolation 2
+single interpretation 2
+legal system 2
+carnegie endowment 2
+narrow range 2
+h. conf 2
+federal law 2
+private attorney 2
+central element 2
+mary bauer 2
+such language 2
+legal counsel 2
+careful consideration 2
+statutory context 2
+their lack 2
+florida h-2a 2
+alternative representation 2
+[ t 2
+federally-authorized travel 2
+indigent defendant 2
+standing committee 2
+legal education 2
+international migration 2
+corporation board 2
+constitutional law 2
+clear purpose 2
+formal motion 2
+international peace 2
+immediate context 2
+cornell university 2
+it regulation 2
+h-2 program 2
+lsc board 2
+practical matter 2
+other health 2
+mary school 2
+alien eligibility 1
+brown university 1
+crucial part 1
+effective representation 1
+legislative design 1
+his service 1
+fifty-seven percent 1
+first street 1
+legal assistance.12 1
+farm bureau 1
+significant family 1
+migrant farmworkers 1
+statutory restriction 1
+seasonal agriculture 1
+john levy 1
+extreme dependency 1
+del rey 1
+loyala university 1
+active recruitment 1
+dupage county 1
+temporary worker 1
+congressional purpose 1
+contractual relationship 1
+low relative 1
+indiana university 1
+g. burden 1
+her career 1
+temporary trip 1
+designated employer 1
+unauthorized representation 1
+vegetable harvesting 1
+only interpretation 1
+their farmworker 1
+air force 1
+legal a 1
+successful resolution 1
+alien eligible 1
+sen. rudman 1
+financial assistance 1
+their work 1
+fritz roka 1
+personal contact 1
+daily log 1
+new interpretation 1
+exhaustive study 1
+large fee 1
+geographic location 1
+her claim 1
+dangerous field 1
+inexpensive housing 1
+public citizen 1
+district court 1
+adverse impact 1
+lawful status 1
+their labor 1
+small percentage 1
+significant presence 1
+common lack 1
+particular interest 1
+non-english speaking 1
+alien farmworker 1
+her apartment 1
+high quality 1
+dramatic increase 1
+twenty percent 1
+individual ability 1
+large labor 1
+her home 1
+attorney advisor 1
+full extent 1
+fiscal year 1
+their exemption 1
+alternative meaning 1
+subject matter 1
+well-established rule 1
+special a 1
+skadden fellow 1
+yale university 1
+significant season 1
+pro bono 1
+contiguous territory 1
+ofgeneral abode 1
+mexican side 1
+actual length 1
+procedural abuse 1
+appellate work 1
+rural labor 1
+h-2a case 1
+expanded list 1
+much aware 1
+nonimmigrant classification 1
+federal employment 1
+improper use 1
+citizen population 1
+washington state 1
+medical treatment 1
+northern district 1
+cheap labor 1
+wal-mart parking 1
+h-2a labor 1
+clear goal 1
+loyola university 1
+upward trend 1
+her father 1
+spanish speaking 1
+u.s. congress 1
+rep. mazzoli 1
+ct. app 1
+established practice 1
+third circuit 1
+bad faith 1
+administrative practice 1
+legal profession 1
+other family 1
+such migrancy 1
+low-income alien 1
+congressman berman 1
+nonimmigrant visa 1
+it placement 1
+gao reportat 1
+employer violation 1
+their term 1
+recent publication 1
+actual residence 1
+puerto rico 1
+statutory construction 1
+mere paper 1
+rep. morrison 1
+law lsc 1
+f. availability 1
+similar employment 1
+mexican border 1
+reporter hon 1
+association-wide basis 1
+central america 1
+isolated nature 1
+stephen goldberg 1
+major role 1
+f. supp 1
+temporary basis 1
+rep. schumer 1
+unemployment compensation 1
+mexican h-2a 1
+full knowledge 1
+notice duly 1
+lsc-funded legal 1
+start-and-stop representation 1
+competitive advantage 1
+chairman hon 1
+unlawful eviction 1
+state representative 1
+his government 1
+financial incentive 1
+h. practice 1
+federal government 1
+alleged desire 1
+relevant question 1
+other mass 1
+nancy rogers 1
+adequate housing 1
+factual finding 1
+following testimony 1
+bad housing 1
+migrant health 1
+public a 1
+civil impact 1
+notre dame 1
+nineteen percent 1
+lawful status.15 1
+alien assistance 1
+academic administration 1
+voluntary departure 1
+it time 1
+related injury 1
+their transportation 1
+] [ 1
+her family 1
+agricultural community 1
+rep. rodino 1
+general abode 1
+u. s. 1
+additional time 1
+roman ramos 1
+our task 1
+u.s. chamber 1
+thirty percent 1
+vice provost 1
+floor washington 1
+further barrier 1
+successful leadership 1
+extensive experience 1
+low compensation 1
+postal service 1
+professor david 1
+mauricio vivero 1
+non-agricultural worker 1
+limited access 1
+fresno county 1
+adequate source 1
+continued representation 1
+private representation 1
+alien current 1
+recent year 1
+stringent interpretation 1
+nonprofit corporation 1
+limited purpose 1
+medical care 1
+sugar cane 1
+academic study 1
+daily routine 1
+stanford university 1
+short time 1
+temporary departure 1
+their office 1
+effective mediation 1
+filing discovery 1
+appeal council 1
+brief period 1
+bilingual capacity 1
+int'l union 1
+permissible representation 1
+representative morrison 1
+government operation 1
+civil money 1
+associated justice 1
+their farm 1
+mobile home 1
+vice chair 1
+fla. dist 1
+north carolina's 1
+special vulnerability 1
+restaurant work 1
+employer-provided transportation 1
+indian worker 1
+south dakota 1
+vincent beckman 1
+basic employment 1
+rep. berman 1
+their income 1
+administrative agency 1
+platt professor 1
+h-2a representation 1
+caribbean h-2a 1
+associate editor 1
+viable alternative 1
+federal challenge 1
+weak enforcement 1
+full year 1
+alien described 1
+their alien 1
+congressional committee 1
+thorough analysis 1
+paula gupton 1
+their travel 1
+it interpretation 1
+total work 1
+low level 1
+client's absence 1
+absolute showstopper 1
+virgin island 1
+omnibus consolidated 1
+assistant state 1
+immigrant community 1
+avco corp. 1
+twelve month 1
+last year 1
+bracero program 1
+recent complaint 1
+pre-litigation exhaustion 1
+full-blown litigation 1
+specialized knowledge 1
+fourteen month 1
+legal fiction 1
+legitimate field 1
+temporary visa 1
+receive funding 1
+our nation 1
+common claim 1
+significant portion 1
+high violation 1
+spanish version 1
+legal treatise 1
+h-2a wage 1
+back wage 1
+recipient's representation 1
+impossible position 1
+[ language 1
+realistic way 1
+rep. mccollum 1
+dorothy cook 1
+similar program 1
+sen. kennedy 1
+nonimmigrant worker 1
+consistent practice 1
+illegal wage 1
+dependency h-2a 1
+engine div. 1
+continuous representation 1
+oxford university 1
+their application 1
+domestic farm 1
+such county 1
+their representation 1
+minimum access 1
+immigration briefing 1
+eastern district 1
+following season 1
+clinton administration 1
+involuntary termination 1
+decennial census 1
+catastrophic injury 1
+sub-grantee relating 1
+congressional debate 1
+apparent purpose 1
+seasonal nature 1
+academic interest 1
+balanced program 1
+particular significance 1
+opposing counsel 1
+certified period 1
+particular emphasis 1
+burden several 1
+immigration judge 1
+following spring 1
+seventy-one percent 1
+specific set 1
+h-2a report 1
+direct impact 1
+texas school 1
+legal process 1
+long history 1
+faculty advisor 1
+member board 1
+university life 1
+it compliance 1
+dispute resolution 1
+roundtrip transportation 1
+united automobile 1
+book prize 1
+editorial board 1
+her work 1
+substitute counsel 1
+glaring problem 1
+u.s. dol 1
+utterly meaningless 1
+executive department 1
+el paso 1
+specific context 1
+foreign residence 1
+administrative review 1
+unsafe housing 1
+new language 1
+c. implication 1
+rep. simpson 1
+representative berman 1
+full freedom 1
+strong likelihood 1
+sixty-seven percent 1
+statutory term 1
+specific scope 1
+professor trucios-haynes 1
+green card 1
+statutory analysis 1
+long series 1
+specified employer 1
+their corresponding 1
+221-24 comment 1
+household composition 1
+statutory provision 1
+their departure 1
+average time 1
+statute's application 1
+mexican fiesta 1
+individual worker 1
+ninety-eight percent 1
+their ability 1
+their workforce 1
+craig mcewen 1
+swarthmore college 1
+javier rojas 1
+sen. grassley 1
+survival strategy 1
+overall enforcement 1
+u.s. see 1
+their poverty 1
+statutory change 1
+extensive record 1
+agricultural workforce 1
+her absence 1
+targeted enforcement 1
+y ] 1
+private enforcement 1
+full restitution 1
+own education 1
+equivalent insurance 1
+considerable concern 1
+specific group 1
+their property 1
+'fundamental principle 1
+frequent lecturer 1
+sole counsel 1
+physical presence 1
+charles gordon 1
+president clinton 1
+seventy-five percent 1
+west chester 1
+u.s.-mexico border 1
+statistical sampling 1
+economic barrier 1
+other type 1
+unpaid wage 1
+regular mail 1
+other travel 1
+federal cause 1
+her position 1
+cost-sharing component 1
+effective advocacy 1
+his career 1
+current interpretation 1
+distinguished career 1
+geographic isolation 1
+act [ 1
+added incentive 1
+legislative compromise 1
+conference report 1
+green v. 1
+olga pedroza 1
+applicable law 1
+multicultural nationalism 1
+u.s. legal 1
+guaranteed labor 1
+little opportunity 1
+daily employment 1
+valid employment 1
+three-fourths guarantee 1
+proposed legislation 1
+discretionary readmission 1
+specialized practice 1
+formal regulation 1
+short period 1
+sexual harassment 1
+their fear 1
+leon higginbotham 1
+ohio state 1
+pre-trial mediation 1
+public service 1
+federal labor 1
+their access 1
+legal advice 1
+special category 1
+non-h-2a employer 1
+personal travel 1
+program h-2a 1
+financial advisory 1
+summary judgment 1
+absent enforcement 1
+inter alia 1
+swarthmore group 1
+minimum vehicle 1
+
+ Trigram NP 
+cynthia l. rice 40
+garry g. geffert 33
+florida legal service 31
+d. michael dale 30
+oregon law center 30
+legal aid society 24
+patricia c. kakalec 23
+farmworker law project 22
+mary lee hall 21
+robert j. willis 21
+farmworker legal service 15
+daniel g. ford 14
+james f. schmidt 14
+northwest justice project 14
+arthur n. read 12
+columbia legal service 11
+keith s. ernst 10
+francisco j. bricio 9
+d. michael hancock 8
+marilyn j. endriss 8
+legal aid foundation 8
+kevin g. magee 8
+lawful permanent resident 7
+sarah m. singleton 6
+community legal service 6
+wake county human 5
+vincent h. beckman 5
+american bar association 5
+howard l. berman 5
+janet e. hill 5
+provided legal assistance 4
+meaningful legal representation 4
+seek legal assistance 4
+jena l. matzen 4
+community development center 4
+federal register notice 4
+garry m. restaino 4
+legal service act 3
+continuous physical presence 3
+john w. morehouse 3
+colombia legal service 3
+effective legal representation 3
+michael l. monahan 3
+omnibus consolidated recission 3
+yale law school 3
+larry b. sitton 3
+gary m. restaino 2
+virginia justice center 2
+it ordinary meaning 2
+john n. erlenborn 2
+georgia j. lewis 2
+north carolina justice 2
+seasonal agricultural work 2
+alien agricultural worker 2
+romano l. mazzoli 2
+sister evelyn mattern 2
+north carolina council 2
+vincent h. beckmann 2
+federal minimum wage 2
+their h-2a contract 2
+north carolina h-2a 2
+preliminary administrative process 1
+their h-2 contract 1
+his outstanding career 1
+u.s. district court 1
+express congressional intent 1
+yankton sioux tribe 1
+commission hearing transcript 1
+prudential insurance company 1
+their own country 1
+complex regulatory scheme 1
+second leading country 1
+valid unexpired passport 1
+administration john mckay 1
+h-2a worker private 1
+omnibus continuing resolution 1
+membership corp.,454 u.s. 1
+comparative citizenship project 1
+permanent legal resident 1
+extensive factual record 1
+seek legal representation 1
+illegal immigration reform 1
+immigration lawyers' association 1
+their current status 1
+adequate legal counsel 1
+march comment ] 1
+seasonal agricultural worker 1
+h-2a report ] 1
+statutory twenty-five percent 1
+legal service corporation 1
+chief legal officer 1
+texas law review 1
+their authorized stay 1
+victor m. fortuno 1
+further medical attention 1
+specialized legal expertise 1
+western grower association 1
+john a. hartingh 1
+valid unexpired immigrant 1
+philadelphia bar association 1
+march testimony ] 1
+chief operating officer 1
+harry a. blackmun 1
+government agency enforcement 1
+particular agricultural sector 1
+april testimony ] 1
+daily postal service 1
+their limited access 1
+general accounting office 1
+research report no 1
+agency appropriation act 1
+non-lsc funded nonprofit 1
+relevant legislative history 1
+april comment ] 1
+public international law 1
+employment opportunity commission 1
+same political party 1
+their bonded status 1
+special agricultural worker 1
+associate attorney general 1
+honorable edward weinfeld 1
+temporary foreign workers.19 1
+their green card 1
+contested north carolina 1
+nancy hardin rogers 1
+general high employment 1
+their cultural heritage 1
+shell oil co. 1
+his academic career 1
+foreign labor certification 1
+her legal right 1
+federal civil procedure 1
+her legal career 1
+e. time period 1
+executive associate commissioner 1
+illinois general assembly 1
+final legal authority 1
+other legal representation 1
+american arbitration association 1
+agricultural implement worker 1
+delayed mid-contract transportation 1
+u.s. district judge 1
+farmworkers law project 1
+summa cum laude 1
+immigrant responsibility act 1
+gao report ] 1
+u.s. supreme court 1
+prior work-related injury 1
+mary mccarthy fellowship 1
+their legal problem 1
+stanford law school 1
+public interest law 1
+john t. broderick 1
+average h-2a visa 1
+h-2a agricultural guestworkerprogram 1
+other basic access 1
+only other country 1
+special minimum wage 1
+stanford law review 1
+primary federal statute 1
+global labor right 1
+related appropriation act 1
+president john kennedy 1
+effective collective ability 1
+other alien category 1
+their basic human 1
+el paso/ciudad juarez 1
+significant spanish-speaking bar 1
+their own behalf 1
+ohio state university 1
+international labor organization 1
+bock laundry mach 1
+
+ Unigram NP 
+comment 590
+united 217
+testimony 201
+law 170
+h-2a 137
+attorney 130
+representation 129
+alien 114
+lsc 94
+id 80
+congress 72
+a. 69
+pershing 66
+melissa 66
+worker 65
+presence 53
+requirement 52
+commission 48
+march 48
+u.s. 45
+language 44
+et 40
+country 38
+contract 37
+client 37
+oregon 36
+u.s.c 36
+al 35
+labor 34
+program 33
+immigration 33
+statute 31
+mexico 29
+litigation 28
+farmworker 28
+usdol 27
+state 27
+time 27
+employer 26
+employment 26
+interpretation 25
+corporation 25
+case 24
+work 23
+housing 23
+c.f.r 21
+status 21
+year 20
+court 20
+period 20
+section 19
+transportation 19
+example 19
+virginia 19
+purpose 19
+farmworkers 18
+wage 18
+home 18
+rate 17
+access 16
+action 16
+§ 16
+compensation 16
+act 16
+b 15
+irca 15
+record 15
+fact 14
+h 14
+job 14
+border 14
+claim 13
+pub 13
+florida 13
+number 13
+friend 13
+application 13
+recipient 13
+stat 13
+course 12
+] 12
+result 12
+april 12
+cong 12
+director 12
+mediation 12
+ina 12
+meaning 12
+exploitation 11
+university 11
+rec 11
+california 11
+statement 11
+visa 11
+georgia 11
+oct. 10
+lack 10
+fy 10
+category 10
+cause 10
+wisconsin 10
+c 10
+family 10
+professor 10
+see 9
+member 9
+counsel 9
+legal 8
+iii 8
+behalf 8
+sugar 8
+guarantee 8
+end 8
+president 8
+order 8
+provision 8
+term 8
+season 8
+need 8
+pursuant 8
+report 8
+migrant 8
+residence 8
+ii 8
+effect 8
+board 8
+health 7
+issue 7
+[ 7
+grower 7
+v 7
+discussion 7
+office 7
+agriculture 7
+safety 7
+note 7
+knowledge 7
+justice 7
+h-2 7
+retaliation 7
+v. 7
+unemployment 7
+admission 7
+conclusion 7
+recruitment 6
+eligibility 6
+consideration 6
+fed 6
+history 6
+process 6
+a 6
+bracero 6
+return 6
+practice 6
+aba/sclaid 6
+nothing 6
+assistance 6
+fear 6
+art 6
+immigrant 6
+ability 6
+parent 6
+point 6
+citizen 6
+d 6
+washington 6
+bus 6
+evidence 6
+department 6
+persecution 6
+e 6
+jamaica 5
+experience 5
+trial 5
+telephone 5
+none 5
+reg 5
+base 5
+service 5
+motion 5
+place 5
+district 5
+divorce 5
+enforcement 5
+part 5
+isolation 5
+saw 5
+asylum 5
+availability 5
+express 5
+withdrawal 5
+seq 5
+notice 5
+november 5
+addition 5
+firm 5
+kentucky 5
+grantee 5
+english 5
+emergency 5
+government 5
+legislation 5
+expertise 5
+education 5
+outreach 5
+rule 5
+resolution 5
+bill 4
+deportation 4
+degree 4
+hour 4
+f 4
+in 4
+information 4
+farm 4
+light 4
+arizona 4
+question 4
+system 4
+pennsylvania 4
+exhibit 4
+agency 4
+reimbursement 4
+average 4
+camp 4
+violation 4
+mexican 4
+corporation's 4
+reading 4
+extent 4
+commuter 4
+bachelor 4
+present 4
+iv 4
+center 4
+illinois 4
+complaint 4
+eviction 4
+ice 4
+h.r 4
+area 4
+harvest 4
+intent 4
+possibility 3
+cost 3
+public 3
+understanding 3
+change 3
+study 3
+scope 3
+type 3
+phone 3
+effort 3
+g 3
+date 3
+restriction 3
+amistad 3
+committee 3
+half 3
+day 3
+prevailing 3
+witness 3
+mswpa 3
+definition 3
+58-62 3
+station 3
+way 3
+puentes 3
+140-41 3
+u.s 3
+h2a 3
+certification 3
+completion 3
+migratory 3
+dispute 3
+familiarity 3
+discovery 3
+46-47 3
+whole 3
+prospect 3
+community 3
+church 3
+custody 3
+pt 3
+c. 3
+gao 3
+commerce 3
+texas 3
+procedure 3
+vulnerability 3
+site 3
+unity 3
+party 3
+money 3
+preference 3
+right 3
+80-81 3
+industry 3
+location 3
+promise 3
+withholding 3
+regard 3
+continuance 3
+citizenship 3
+meaningless 3
+percent 3
+coverage 3
+age 3
+child 2
+month 2
+settlement 2
+revision 2
+removal 2
+award 2
+al. 2
+advantage 2
+account 2
+choice 2
+54-55 2
+word 2
+race 2
+design 2
+substitute 2
+aba 2
+chicago 2
+staff 2
+compliance 2
+apple 2
+apr 2
+e.g. 2
+examination 2
+authorization 2
+139-140 2
+h9866-68 2
+town 2
+alia 2
+congressional 2
+phrase 2
+hereinafter 2
+tension 2
+mar 2
+floor 2
+departure 2
+complexity 2
+blacklisting 2
+travel 2
+§1188 2
+position 2
+louisville 2
+absence 2
+policy 2
+mail 2
+petition 2
+association 2
+name 2
+side 2
+abuse 2
+living 2
+inadequacy 2
+research 2
+may 2
+print 2
+difficulty 2
+reason 2
+likelihood 2
+care 2
+refugee 2
+contingency 2
+support 2
+origin 2
+publication 2
+introduction 2
+west 2
+relationship 2
+yakima 2
+blacklist 2
+population 2
+ffairs 2
+laredo 2
+person 2
+investment 2
+majority 2
+contact 2
+conferee 2
+cane 2
+26-27 2
+termination 2
+21-22 2
+america 2
+failure 2
+d. 2
+h-2as 2
+s.ct 2
+permission 2
+assistant 2
+bar 2
+tobacco 2
+dministration 2
+college 2
+matter 2
+arkansas 2
+importance 2
+incident 2
+workplace 2
+context 2
+conference 2
+discrimination 2
+interest 2
+53-58 2
+exception 2
+unavailability 2
+situation 2
+resident 2
+january 2
+supra 2
+inquiry 2
+catholic 2
+24-25 2
+reference 2
+i 2
+tit 2
+relief 2
+inc. 2
+62-63 2
+adjunct 2
+harvesting 2
+judiciary 2
+repossession 2
+inter 2
+senate 2
+redress 2
+lead 2
+deposition 2
+religion 2
+core 2
+chairman 2
+stay 2
+nonimmigrant 2
+forth 2
+payment 2
+intention 2
+appeal 2
+house 2
+pre-litigation 2
+october 2
+limit 2
+kingston 2
+variety 2
+field 2
+june 2
+william 2
+portion 2
+hanousek 1
+code 1
+montgomery 1
+132-133 1
+u.s.c.a.a.n 1
+supplement 1
+fairness 1
+content 1
+re 1
+facsimile 1
+rhodes 1
+u.s.c.c.a.n 1
+list 1
+text 1
+southwest 1
+division 1
+fax 1
+risk 1
+predicament 1
+92-93 1
+difference 1
+92-98 1
+scholar 1
+impact 1
+asparagus 1
+mccollum-stenholm 1
+venue 1
+hawaii 1
+126-27 1
+leave 1
+lscfunded 1
+-1 1
+ride 1
+unaware 1
+visiting 1
+s.d 1
+force 1
+consistent 1
+welfare 1
+sign 1
+mexico.11 1
+adjustment 1
+constitution 1
+sua 1
+brief 1
+debate 1
+schumer 1
+conduct 1
+s29836 1
+contrast 1
+agreement 1
+full 1
+raisin 1
+11-12 1
+legality 1
+clerk 1
+cal 1
+osha 1
+poverty 1
+naws 1
+n.y 1
+congestion 1
+principle 1
+engage 1
+comptroller 1
+juarez 1
+unwillingness 1
+h9868 1
+shift 1
+alaska 1
+amount 1
+survey 1
+231-32 1
+231-33 1
+opinion 1
+classification 1
+mobility 1
+disability 1
+vii 1
+private 1
+semester 1
+durham 1
+h10590 1
+fee 1
+41-42 1
+direction 1
+h10587 1
+peru 1
+vehicle 1
+timing 1
+sharing 1
+jr. 1
+company 1
+connecticut 1
+31-32 1
+-49to 1
+teaching 1
+65-66 1
+practicing 1
+challenge 1
+remain 1
+paragraph 1
+monitoring 1
+control 1
+stream 1
+129-131 1
+106-107 1
+agent 1
+minimum 1
+34-37 1
+council 1
+scheduling 1
+jan.-feb. 1
+revising 1
+dependency 1
+robinson 1
+program.1 1
+state's 1
+parcel 1
+interview 1
+gate 1
+defeat 1
+appropriation 1
+communicating 1
+advice 1
+lab 1
+expectation 1
+client's 1
+ethnic 1
+response 1
+37-39 1
+element 1
+eeoc 1
+suggest 1
+september 1
+consent 1
+move 1
+iiraira 1
+licensure 1
+grantee.14 1
+agricultural 1
+ethic 1
+leader 1
+video 1
+group 1
+probability 1
+plainness 1
+translation 1
+farmer 1
+subparagraph 1
+66-67 1
+ninety 1
+intimidation 1
+gao/hehs-98-20 1
+textron 1
+nonrefoulement 1
+l. 1
+certainty 1
+16-22 1
+slavery 1
+capability 1
+dvisory 1
+shortage 1
+importation 1
+fragomen 1
+week 1
+ed 1
+energy 1
+literature 1
+operation 1
+kansa 1
+event 1
+standard 1
+unenforcement 1
+sector 1
+forty 1
+157-159 1
+rd 1
+investigation 1
+grantee.5 1
+associate 1
+committeewas 1
+workforce 1
+56-57 1
+hand 1
+bernsen 1
+76-77 1
+threat 1
+ssistant 1
+consequence 1
+arose 1
+suspension 1
+§214.2 1
+guam 1
+rhoads 1
+reprisal 1
+hearing 1
+246-47 1
+f.3d 1
+rosenman 1
+arbitration 1
+p.c. 1
+management 1
+olan 1
+anyone 1
+scrutiny 1
+scheme 1
+nursery 1
+ceiling 1
+western 1
+july 1
+copy 1
+piecework 1
+147-49 1
+kind 1
+accordance 1
+require 1
+preparation 1
+malpractice 1
+bare 1
+91-97 1
+105-106 1
+manner 1
+mountain 1
+28-31 1
+latter 1
+chief 1
+emphasis 1
+trespassing 1
+folk 1
+bailey 1
+performance 1
+effectiveness 1
+explanation 1
+object 1
+nationality 1
+class 1
+demand 1
+mccracken 1
+richard 1
+67-68 1
+absurd 1
+n.l.r.b 1
+atmosphere 1
+interdiction 1
+jurisdiction 1
+trespass 1
+cuban 1
+decade 1
+help 1
+title 1
+grantee.22 1
+seventeen 1
+penalty 1
+ambiguity 1
+pursuing 1
+employee 1
+n.e. 1
+awareness 1
+michigan 1
+out-of-pocket 1
+whistle 1
+207-208 1
+so.2d 1
+hiring 1
+corporation.21 1
+morning 1
+s16911 1
+ohio 1
+co. 1
+alien's 1
+secretary 1
+43-45 1
+individual 1
+115-16 1
+fail 1
+jury 1
+capacity 1
+mortgage 1
+review 1
+bureau 1
+counselor 1
+approach 1
+commute 1
+nature 1
+confusion 1
+www.lsc.gov 1
+§655.102 1
+comm 1
+magna 1
+approval 1
+debt 1
+non-waiver/anti-retaliation 1
+sanitation 1
+career 1
+region 1
+156-57 1
+coauthor 1
+expense 1
+laude 1
+55-56 1
+tennessee 1
+respect 1
+writing 1
+consuming 1
+mindful 1
+basis 1
+blower 1
+contract.20 1
+privilege 1
+proposal 1
+amendment.18 1
+63-64 1
+life 1
+citation 1
+concerning 1
+accident 1
+representative 1
+121-25 1
+spirit 1
+countless 1
+sponte 1
+155-56 1
+clerkship 1
+h9867 1
+contradiction 1
+behavior 1
+mcnary 1
+honorable 1
+canon 1
+19-20 1
+drug 1
+expulsion 1
+denial 1
+author 1
+patent 1
+§1626.2 1
+inadmissibility 1
+food 1
+document 1
+unitedstates 1
+material 1
+columbia 1
+hobson 1
+assist 1
+upon 1
+moment 1
+fruit 1
+student 1
+nation 1
+opportunity 1
+kid 1
+audit 1
+argue 1
+no 1
+analysis 1
+entry 1
+academia 1
+duty 1
+clinic 1
+aspect 1
+touch 1
+death 1
+adr 1
+mediator 1
+demographic 1
+mixtec 1
+dc 1
+contractor 1
+lender 1
+governmental 1
+20-21 1
+cum 1
+residency 1
+discontinue 1
+cf 1
+aerospace 1
+adjudication 1
+desire 1
+loss 1
+s16900 1
+indication 1
+night 1
+security 1
+reform 1
+amendment 1
+often 1
+creation 1
+authority 1
+§§ 1
+cleveland 1
+duration 1
+transport 1
+absent 1
+scale 1
+decision 1
+134-135 1
+commentator 1
+christmas 1
+contingent 1
+business 1
+marketing 1
+journal 1
+martin 1
+use 1
+h10588 1
+leadership 1
+123-24 1
+limitation 1
+lifestyle 1
+anything 1
+face 1
+violence 1
+disputant 1
+afternoon 1
+congressman 1
+ou 1
+documentary 1
+s28937 1
+188-89 1
+outset 1
+scalia 1
+colorado 1
+51-52 1
+alien-representation 1
+bankruptcy 1
+philadelphia 1
+lot 1
+call 1
+.7 1
+offer 1
+smuggling 1
+delivery 1
+landscaping 1
+library 1
+line 1
+disapproving 1
+stanford 1
+supp 1
+inhumane 1
+mckinney 1
+sum 1
+j. 1
+inadequate 1
+112-113 1
+salem 1
+colin 1
+objection 1
+detail 1
+insurance 1
+forestry 1
+recognition 1
+lsc-grantees 1
+49-50 1
+journey 1
+massachusetts 1
+130-31 1
+pool 1
+excellence 1
+absurdity 1
+consumer 1
+33-37 1
+filing 1
+farmwork 1
+mass 1
+simpson 1
+walker 1
+waiver 1
+cir 1
+
+ Arbitary length NP 
+texas rural legal aid 75
+california rural legal assistance 68
+virginia farmworkers legal assistance project 52
+west virginia legal service plan 37
+florida rural legal service 30
+georgia legal service program 22
+golden gate university school 10
+illinois migrant legal assistance project 8
+national employment lawyer association 6
+american friend service committee 4
+seasonal agricultural worker protection act 4
+north carolina bar association 4
+california rural legal assistance foundation 3
+u.s. department of labor 2
+california rural legal assistance program 2
+colombia convention center revenue 2
+georgetown university law center 2
+u.s. see march comment 2
+louis d. brandeis school 2
+southwest florida regional planning council 1
+gilbert f. casellas professor sarah h. cleveland professor nancy h. rogers professor enid f. trucios-haynes 1
+report on the use of temporary foreign worker in the florida sugar cane industry 1
+john n. erlenborn john erlenborn 1
+the presence requirement together 1
+legal service corporation act 1
+enid f. trucios-haynes enid trucios-haynes 1
+human resource david l. richardson 1
+alien tort claim act 1
+chairman professor t. alexander aleinikoff hon 1
+puerto rican legal defense 1
+jr. edna fairbanks-williams f.wm 1
+mccalpin maria luisa mercado professor nancy h. rogers thomas f. smegal 1
+information technology michael a. genz 1
+treasurer edward h. faris 1
+kingston legal aid clinic 1
+california industrial relation department 1
+program performance executive summary 1
+georgetown immigration law journal 1
+duke university law school 1
+yale law school lowenstein international human right clinic 1
+president danilo a. cardona 1
+north carolina farm bureau federation 1
+gilbert f. casellas gilbert casellas 1
+sarah h. cleveland sarah cleveland 1
+u.s. census monitoring board 1
+social science research council 1
+staff of house committee on education and labor 1
+requiring lsc funded attorney 1
+harvard human right journal 1
+corporate secretary james j. hogan 1
+director douglas s. eakeley 1
+american bar association standing committee 1
+hispanic national bar association 1
+alternative dispute resolution mediation 1
+legal analysis part iii 1
+north carolina farm bureau 1
+annual human right award 1
+emergency supplemental appropriation act 1
+north carolina industrial commission 1
+income and use of service 1
+non-lsc funded non-profit organization 1
+hulett h. askew laveeda m. battle hon 1
+pension benefit guaranty corporation 1
+honorable thomas d. lambros 1
+study offederally funded legal aid formigrant farmworkers 1
+a profile of u.s. farmworkers 1
+new york farm bureau 1
+national agricultural worker survey 1
+jr. ernestine p. watlington management 1
+alien labor certification appeal 1
+many lawful permanent resident 1
+erlenborn commission hearing transcript 1
+southern new mexico legal service 1
+legal service corporation erlenborn commission member hon 1
+appendix erlenborn commission member thomas alexander aleinikoff thomas alexander aleinikoff 1
+economic instability in an unstable labor market 1
+hendricks county rural elec 1
+change could better improve service toemployers andbetter protect worker 1
+information management leslie q. russell 1
+joseph v. okeelanta corp. 1
+north carolina grower association 1
+farmworkers in southwest florida 1

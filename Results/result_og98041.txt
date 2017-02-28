@@ -1,0 +1,178 @@
+
+ Bigram NP 
+final rule 13
+organ procurement 4
+health resource 3
+transplantation network 3
+federal register 2
+order no 2
+public hearing 2
+regulatory action 1
+procedure act 1
+cost-benefit analysis 1
+transplant center 1
+bernice steinhardt 1
+substantial number 1
+private sector 1
+federalism assessment 1
+organ transplant 1
+major portion 1
+our assessment 1
+statistical life 1
+public oversight 1
+statutory authorization 1
+significant impact 1
+specific allocation 1
+control number 1
+human service 1
+et seq 1
+substantial risk 1
+major rule 1
+patient-oriented information 1
+jr. chairman 1
+james vickers 1
+geographic equity 1
+national organ 1
+ms. steinhardt 1
+our report 1
+public trust 1
+commerce house 1
+it analysis 1
+our review 1
+federal intergovernmental 1
+average age 1
+
+ Trigram NP 
+paperwork reduction act 2
+executive order no 2
+transplantation network pursuant 1
+regulatory impact analysis 1
+health service quality 1
+other relevant information 1
+public health issue 1
+unfunded mandate act 1
+estimated annual burden 1
+regulatory flexibility analysis 1
+regulatory flexibility act 1
+total annual burden 1
+human service page 1
+assistant general counsel 1
+social security act 1
+
+ Unigram NP 
+hhs 14
+u.s.c 8
+rule 7
+performance 6
+system 5
+health 4
+omb 4
+notice 4
+comment 4
+office 3
+executive 3
+human 3
+approval 3
+transplantation 3
+gao/ogc-98-41 3
+information 3
+administration 3
+department 3
+title 2
+equity 2
+benefit 2
+secretary 2
+section 2
+reg 2
+period 2
+fed 2
+management 2
+b 2
+budget 2
+iv 2
+rin 2
+need 2
+0906-aa32 2
+united 2
+agency 2
+use 2
+i 2
+analysis 2
+code 1
+september 1
+concern 1
+alternative 1
+labor 1
+0915-0184 1
+march 1
+nation 1
+mandate 1
+report 1
+512-8210 1
+respond 1
+requirement 1
+work 1
+senate 1
+authority 1
+§§ 1
+usefulness 1
+measure 1
+subject 1
+favor 1
+state 1
+evaluation 1
+patient 1
+confidence 1
+possibility 1
+difficulty 1
+preemption 1
+november 1
+preamble 1
+comparison 1
+graft 1
+compliance 1
+april 1
+federalism 1
+rule's 1
+cc 1
+hearing 1
+respect 1
+quality 1
+transplant 1
+area 1
+addition 1
+accountability 1
+certain 1
+relationship 1
+volume 1
+iii 1
+ii 1
+official 1
+value 1
+december 1
+512-7119 1
+discussion 1
+role 1
+effectiveness 1
+description 1
+allocation 1
+director 1
+gao 1
+quantifying 1
+order 1
+fact 1
+
+ Arbitary length NP 
+honorable john d. dingell ranking minority member committee 1
+a major rule issued by the department of health and human service 1
+health resource and service administration entitled 1
+general counsel b-279684 april 1
+gao/ogc-98-41 enclosure analysis under 1
+honorable james m. jeffords chairman 1
+honorable edward m. kennedy ranking minority member committee 1
+organ procurement and transplantation network 1
+robert p. murphy general counsel enclosure 1
+honorable donna e. shalala 1
+public health service act 1
+honorable thomas j. bliley 1
+unfunded mandate reform act 1

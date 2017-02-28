@@ -1,0 +1,167 @@
+
+ Bigram NP 
+final rule 6
+exchange commission 5
+passive market 3
+regulation m 3
+cost-benefit analysis 2
+flexible framework 2
+federal register 2
+rule concerning 2
+exchange act 2
+firm estimate 1
+security act 1
+gao/ogc-97-11 section 1
+it report 1
+offering pursuant 1
+our assessment 1
+increased eligibility 1
+statutory authorization 1
+cooling-off period 1
+restrictive nature 1
+et seq 1
+senior attorney 1
+legal basis 1
+regulatory burden 1
+major rule 1
+manipulative conduct 1
+our office 1
+order no 1
+james vickers 1
+full text 1
+our report 1
+overall effect 1
+mr. bothwell 1
+our review 1
+james bothwell 1
+
+ Trigram NP 
+independent regulatory agency 2
+regulatory flexibility analysis 2
+investment company act 1
+other relevant information 1
+executive order no 1
+paperwork reduction act 1
+financial service house 1
+regulatory flexibility act 1
+urban affair united 1
+administrative procedure act 1
+§ 80a-1 et 1
+exchange commission page 1
+
+ Unigram NP 
+rule 24
+sec 17
+u.s.c 12
+section 6
+information 4
+analysis 4
+executive 3
+burden 3
+reg 3
+notice 3
+seq. 3
+compliance 3
+fed 3
+offering 3
+c 3
+b 3
+need 3
+agency 3
+office 2
+anti-manipulation 2
+nasdaq 2
+title 2
+summary 2
+banking 2
+january 2
+eligible 2
+rulemaking 2
+review 2
+omb 2
+g 2
+april 2
+respect 2
+ii 2
+trading 2
+iv 2
+rin 2
+et 2
+i 2
+code 1
+impact 1
+gao/ogc-97-11 1
+report 1
+investor 1
+512-8210 1
+forth 1
+security 1
+-0418 1
+work 1
+financial 1
+u.s.c.§§ 1
+senate 1
+receipt 1
+competition 1
+result 1
+512-8678 1
+subject 1
+evaluation 1
+use 1
+protection 1
+design 1
+exemption 1
+-0071 1
+connection 1
+comment 1
+cc 1
+number 1
+management 1
+housing 1
+acceptance 1
+interest 1
+-0466 1
+-0467 1
+-0465 1
+statement 1
+explanation 1
+gao 1
+copy 1
+iii 1
+none 1
+accordance 1
+official 1
+budget 1
+making 1
+outcome 1
+issue 1
+control 1
+-0201 1
+december 1
+j 1
+united 1
+objective 1
+performance 1
+reporting 1
+june 1
+director 1
+coverage 1
+portion 1
+fact 1
+
+ Arbitary length NP 
+initial regulatory flexibility analysis 2
+unfunded mandate reform act 2
+jonathan g. katz secretary 1
+gao/ogc-97-11 paperwork reduction act 1
+final regulatory flexibility analysis 1
+honorable henry b. gonzalez ranking minority member committee 1
+rule concerning security offering 1
+honorable alfonse m. d'amato chairman 1
+honorable jim leach chairman 1
+security exchange release no 1
+honorable paul s. sarbanes ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+a major rule issued by the security and exchange commission entitled 1
+gao/ogc-97-11 enclosure analysis under 1
+general counsel b-275821 january 1

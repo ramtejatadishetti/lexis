@@ -1,0 +1,67 @@
+
+ Bigram NP 
+legal aid 1
+baylor university 1
+ken boehm 1
+his group 1
+similar case 1
+bill underwood 1
+south texas 1
+former counsel 1
+dramatic increase 1
+legal help 1
+nationwide overhaul 1
+john mckay 1
+david hall 1
+
+ Trigram NP 
+legal service corp. 2
+rural legal specialist 1
+adequate public funding 1
+free legal help 1
+rio grande valley 1
+
+ Unigram NP 
+lawyer 3
+hall 3
+work 3
+lsc 2
+money 2
+number 2
+year 2
+staff 2
+funding 2
+state 2
+valley 2
+texas 2
+problem 2
+lawyer-to-client 1
+lack 1
+group 1
+ap 1
+sunday 1
+weslaco 1
+monitor 1
+reform 1
+percent 1
+system 1
+mcallen 1
+program 1
+board 1
+congress 1
+ratio 1
+underwood 1
+consolidation 1
+director 1
+efficiency 1
+part 1
+president 1
+law 1
+full-time 1
+bar 1
+professor 1
+organization 1
+
+ Arbitary length NP 
+texas rural legal aid 1
+valley needing legal service mcallen 1

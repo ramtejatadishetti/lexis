@@ -1,0 +1,104 @@
+
+ Bigram NP 
+public servant 1
+her desire 1
+luther ott 1
+resource development 1
+medgar evers 1
+public school 1
+our country 1
+mississippi school 1
+senior attorney 1
+similar post 1
+ginny kilgore 1
+engraved plaque 1
+bobby delaughter 1
+personal satisfaction 1
+former district 1
+her niche 1
+stewpot community 1
+great deal 1
+single-parent home 1
+great professional 1
+my mother 1
+private law 1
+her selection 1
+northern half 1
+constance slaughter-harvey 1
+law unit 1
+year award 1
+her dedication 1
+
+ Trigram NP 
+public service award 3
+ginny kilgore honored 1
+legal service lawyer 1
+mississippi bar association 1
+elaine pugh december 1
+elder law clinic 1
+elder law project 1
+civil law clinic 1
+
+ Unigram NP 
+kilgore 8
+law 6
+attorney 4
+award 4
+school 4
+um 3
+home 2
+director 2
+oxford 2
+university 2
+work 2
+family 1
+dinne 1
+catherine 1
+professor 1
+college 1
+council 1
+sense 1
+school's 1
+education 1
+miss 1
+indigent 1
+aging 1
+mississippi 1
+healt 1
+jackson 1
+table 1
+justice 1
+discrimination 1
+nmrls 1
+adjunct 1
+state 1
+master 1
+forest 1
+ginny 1
+meal 1
+project 1
+life 1
+evening 1
+practice 1
+prosecution 1
+v. 1
+bachelor 1
+recipient 1
+tradition 1
+care 1
+equality 1
+h 1
+graduation 1
+side 1
+compensation 1
+r 1
+workplace 1
+mother 1
+davis 1
+assassin 1
+honor 1
+
+ Arbitary length NP 
+north mississippi rural legal service 1
+byron de la beckwith 1
+dean samuel m. davis 1

@@ -1,0 +1,150 @@
+
+ Bigram NP 
+frank smith 4
+jody smith 2
+sanpete county 2
+public interest 2
+salt lake 2
+tough fight 1
+little miracle 1
+huge need 1
+6-year-old car 1
+chris barboza 1
+lucrative law 1
+other lawyer 1
+busy firm 1
+kent snider 1
+3-year-old daughter 1
+enough money 1
+much money 1
+legal system 1
+good guy 1
+his custody 1
+his head 1
+general public 1
+his ex-wife 1
+his range 1
+entire profession 1
+his volunteer 1
+his overflow 1
+big time 1
+45-hours-a-week office 1
+t sit 1
+child support 1
+his exwife 1
+personal satisfaction 1
+last week 1
+big part 1
+grant ave. 1
+formal proposal 1
+his client 1
+legal aid 1
+s experience 1
+chronic ailment 1
+her disappointment 1
+one-lawyer foundation 1
+full waiting 1
+my husband 1
+
+ Trigram NP 
+utah legal service 2
+his own discount 1
+same federal poverty 1
+good legal work 1
+his hourly rate 1
+his old job 1
+his prior attorney 1
+tim gurrister standard-examiner 1
+
+ Unigram NP 
+t 11
+smith 10
+lawyer 7
+s 6
+law 6
+ogden 6
+frank 3
+lot 3
+hour 3
+man 3
+office 2
+snider 2
+jody 2
+practice 2
+guy 2
+attorney 2
+p.m. 2
+re 2
+custody 2
+foundation 2
+anything 2
+area 2
+fight 2
+friend 2
+case 2
+kind 2
+work 2
+praise 2
+fee 2
+shop 1
+summer 1
+help 1
+money 1
+manager 1
+planning 1
+relation 1
+staff 1
+wage 1
+father 1
+adoption 1
+norm 1
+dispute 1
+someone 1
+mid-july 1
+mon 1
+upstream 1
+d 1
+clientele 1
+logan 1
+year 1
+advertise 1
+saturday 1
+progress 1
+schedule 1
+deadbeat 1
+base 1
+range 1
+a.m. 1
+bob 1
+family 1
+lavar 1
+bountiful 1
+market 1
+management 1
+divorce 1
+stark 1
+priority 1
+way 1
+type 1
+paperwork 1
+afford 1
+visitation 1
+part 1
+midst 1
+hold 1
+bud 1
+ve 1
+heard 1
+something 1
+grant 1
+barboza 1
+sunday 1
+luxury 1
+june 1
+m 1
+departure 1
+
+ Arbitary length NP 
+northern utah legal aid foundation 1
+his senior paralegal minimum 1
+weber county bar association 1

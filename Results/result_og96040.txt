@@ -1,0 +1,209 @@
+
+ Bigram NP 
+small business 8
+fixed wireless 3
+cost-benefit analysis 2
+final rule 2
+service offering 2
+communication act 1
+gross revenue 1
+insufficient information 1
+block a 1
+coprimary basis 1
+mr. anderson 1
+broadband pc 1
+mobile radio 1
+our assessment 1
+same period 1
+actual number 1
+statutory authorization 1
+current license 1
+sba-approved definition 1
+additional reporting 1
+alan zuckerman 1
+recent information 1
+regulatory treatment 1
+federal register 1
+general notice 1
+major rule 1
+jr. chairman 1
+it submission 1
+order no 1
+et seq 1
+single licensee 1
+c. no 1
+our report 1
+executive summary 1
+it notice 1
+transportation united 1
+title ii 1
+similar lack 1
+commerce house 1
+regulatory flexibility 1
+strong support 1
+john anderson 1
+unnecessary analysis 1
+other compliance 1
+commercial mobile 1
+our review 1
+telecommunication issue 1
+chief counsel 1
+
+ Trigram NP 
+independent regulatory agency 2
+wt docket no 2
+for-profit interconnected business 2
+assistant general counsel 1
+consistent regulatory framework 1
+final regulatory flexibility 1
+potential economic impact 1
+it regulatory flexibility 1
+commercial mobile radio 1
+regulatory flexibility analysis 1
+federal communication commission 1
+personal communication service 1
+other relevant information 1
+regulatory flexibility act 1
+administrative procedure act 1
+small business administration 1
+executive order no 1
+paperwork reduction act 1
+
+ Unigram NP 
+commission 18
+fcc 14
+rule 12
+section 9
+u.s.c 9
+analysis 9
+cmrs 7
+sba 6
+rulemaking 5
+b 5
+service 4
+pc 4
+narrowband 4
+i 4
+mhz 3
+radiotelephone 3
+category 3
+federal 3
+census 3
+act 3
+number 3
+executive 2
+radio 2
+title 2
+absence 2
+employee 2
+report 2
+d 2
+irfa 2
+reg 2
+transportation 2
+august 2
+approval 2
+c 2
+auction 2
+flexibility 2
+respect 2
+fed 2
+opportunity 2
+f 2
+ibs 2
+iv 2
+calendar 2
+information 2
+agency 2
+response 2
+broadband 2
+order 2
+code 1
+office 1
+pursuant 1
+entity 1
+§ 1
+february 1
+cellular 1
+provision 1
+512-4586 1
+submission 1
+commenter 1
+public 1
+benefit 1
+breakdown 1
+work 1
+senate 1
+competition 1
+broadcast 1
+year 1
+operation 1
+subject 1
+smr 1
+bureau 1
+above 1
+avoidance 1
+evaluation 1
+participation 1
+notice 1
+e. 1
+business 1
+use 1
+excess 1
+512-8234 1
+definition 1
+g 1
+compliance 1
+connection 1
+block 1
+gao/ogc-96-40 1
+cc 1
+communication 1
+utility 1
+gao 1
+authority 1
+copy 1
+iii 1
+commerce 1
+science 1
+official 1
+advocacy 1
+preparation 1
+record 1
+r 1
+wireline 1
+interconnected 1
+process 1
+j 1
+spectrum 1
+ii 1
+f. 1
+united 1
+development 1
+congress 1
+collection 1
+director 1
+intent 1
+purpose 1
+data 1
+a 1
+wireless 1
+e 1
+contact 1
+
+ Arbitary length NP 
+final regulatory flexibility analysis 2
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+honorable larry pressler chairman 1
+mr. andrew s. fishel managing director federal communication commission enclosure analysis under 1
+general counsel b-274307 september 1
+flexible service offering in the commercial mobile radio service 1
+it initial regulatory flexibility 1
+honorable ernest f. hollings ranking minority member committee 1
+commercial mobile radio service 1
+robert p. murphy general counsel enclosure 1
+initial regulatory flexibility analysis pursuant 1
+a major rule issued by the federal communication commission entitled 1
+commercial mobile radio service pursuant 1
+honorable thomas j. bliley 1

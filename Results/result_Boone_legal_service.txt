@@ -1,0 +1,67 @@
+
+ Bigram NP 
+legal service 4
+legal representation 2
+prairie meadow 2
+primary money 1
+domestic abuse 1
+donovan olson 1
+drake university 1
+alan schroeder 1
+it funding 1
+kathy berg 1
+private practice 1
+main money 1
+sad situation 1
+suzanne levitt 1
+boone county 1
+
+ Trigram NP 
+prairie meadow racetrack 1
+kix paul monday 1
+
+ Unigram NP 
+schroeder 6
+county 4
+program 4
+board 4
+boone 4
+city 3
+money 3
+supervisor 2
+state 2
+olson 2
+july 2
+law 2
+source 2
+attorney 1
+help 1
+december 1
+one 1
+semester 1
+variety 1
+year 1
+ia 1
+march 1
+bankruptcy 1
+grant 1
+needy 1
+spring 1
+e-mail 1
+chairman 1
+iowa 1
+finance 1
+quit 1
+none 1
+outfit 1
+february 1
+-poor 1
+professor 1
+casino 1
+drake 1
+officer 1
+fact 1
+
+ Arbitary length NP 
+boone county legal aid 2
+boone mayor george maybee 1

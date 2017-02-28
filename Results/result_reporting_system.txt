@@ -1,0 +1,261 @@
+
+ Bigram NP 
+low income 11
+legal education 11
+legal aid 5
+domestic violence 5
+wide range 4
+reporting system 3
+second half 3
+precise level 2
+crucial service 2
+accurate picture 2
+legal information 2
+ken smith 2
+result group 2
+other community 2
+civil justice 2
+broad range 1
+it site 1
+weekly radio 1
+great majority 1
+conservative estimate 1
+new knowledge 1
+non-lsc funding 1
+statistical reporting 1
+shelter staff 1
+extensive assistance 1
+alternative dispute 1
+legal assistance 1
+new data 1
+first instance 1
+legal training 1
+public service 1
+toll-free phone 1
+nationwide basis 1
+full scale 1
+subject matter 1
+general concept 1
+their reach 1
+vague concept 1
+mediation / 1
+multiplier effect 1
+particular segment 1
+client-eligible population 1
+targeted outreach 1
+public access 1
+full range 1
+their experience 1
+small proportion 1
+next section 1
+non-legal service 1
+other service 1
+significant role 1
+our court 1
+strong capacity 1
+legal problem 1
+narrative component 1
+general population 1
+great deal 1
+important tool 1
+particular concern 1
+expanded capacity 1
+total number 1
+right mix 1
+last half 1
+important asset 1
+complete picture 1
+non-english speaking 1
+other outreach 1
+effective way 1
+useful way 1
+outside consultant 1
+their eligibility 1
+actual number 1
+important service 1
+personal safety 1
+their scale 1
+
+ Trigram NP 
+matter reporting system 3
+lsc result group 3
+matter service report 2
+their fellow program 2
+their legal situation 2
+web-based legal education 1
+our legal system 1
+pinetree legal service 1
+status report planning 1
+appropriate legal information 1
+special legal aid 1
+matter service provided 1
+little useable information 1
+local senior center 1
+case service report 1
+lsc grantee a 1
+
+ Unigram NP 
+lsc 24
+community 13
+system 12
+example 12
+percent 10
+number 8
+assistance 7
+service 6
+information 6
+grantee 6
+help 5
+web 5
+reliability 4
+place 4
+outreach 4
+collection 4
+data 4
+group 3
+nation 3
+addition 3
+state 3
+job 3
+tv 3
+range 3
+delivery 3
+newspaper 3
+corporation 3
+csr 3
+courthouse 2
+implementation 2
+instrument 2
+program 2
+location 2
+practice 2
+bar 2
+iolta 2
+year 2
+network 2
+legal 2
+version 2
+story 2
+expansion 2
+care 2
+column 2
+appropriate 2
+use 2
+targeting 2
+support 2
+way 2
+scope 2
+type 2
+july 2
+effort 2
+behalf 2
+case 2
+work 2
+matter 2
+future 2
+distribution 2
+pro 2
+strain 2
+need 2
+congress 2
+reach 2
+client 2
+administration 1
+volunteer 1
+welfare 1
+maine 1
+majority 1
+guidance 1
+disability 1
+character 1
+visitor 1
+pilot 1
+march 1
+october 1
+additional 1
+desk 1
+report 1
+january 1
+summary 1
+conclusion 1
+attorney 1
+startup 1
+video 1
+lawyer 1
+stream 1
+indirect 1
+newsletter 1
+capacity 1
+review 1
+sponsorship 1
+access 1
+public 1
+health 1
+above 1
+internet 1
+staff 1
+method 1
+core 1
+mid-stream 1
+difficulty 1
+making 1
+alone 1
+advertising 1
+family 1
+overview 1
+eviction 1
+hotline 1
+table 1
+non-case 1
+total 1
+wealth 1
+introduction 1
+asset 1
+field 1
+posting 1
+offering 1
+visibility 1
+grantee's 1
+order-of-protection 1
+child 1
+population 1
+b 1
+consultant 1
+clearer 1
+advocacy 1
+aid 1
+exhibit 1
+significance 1
+figure 1
+process 1
+program's 1
+evidence 1
+sample 1
+self-representation 1
+counseling 1
+education 1
+clarification 1
+c. 1
+court 1
+variety 1
+self 1
+detail 1
+flood 1
+income 1
+survey 1
+picture 1
+aging 1
+shelter 1
+advice 1
+advertisement 1
+end 1
+period 1
+volume 1
+applicant 1
+principle 1
+representation 1
+resolution 1
+prevention 1
+
+ Arbitary length NP 
+lsc matter reporting system august 1

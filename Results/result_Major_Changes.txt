@@ -1,0 +1,146 @@
+
+ Bigram NP 
+new york 3
+sole member 2
+executive director 2
+corporate structure 2
+legal service 2
+eric kleiman 1
+their behalf 1
+little comfort 1
+his group 1
+professor martin 1
+viable remedy 1
+mr. thompson 1
+little need 1
+possible loss 1
+mr. delaney 1
+new york's 1
+controlling voice 1
+their power 1
+new bylaw 1
+next year 1
+his program 1
+it exercise 1
+brighton beach 1
+decentralized school 1
+daniel wise 1
+effective monitoring 1
+edwina martin 1
+revised structure 1
+mr. kleiman 1
+city legal 1
+early part 1
+it power 1
+not-for-profit corporation 1
+it spokesman 1
+southern district 1
+radical restructuring 1
+annual budget 1
+legislative power 1
+local board 1
+further empower 1
+owned subsidiary 1
+local control 1
+it lawsuit 1
+drastic remedy 1
+martin needleman 1
+it restructuring 1
+federal corporation 1
+two-tiered structure 1
+bronx program 1
+our ability 1
+centralized structure 1
+local program 1
+sean delaney 1
+distant entity 1
+true oversight 1
+other source 1
+local corporation 1
+local community 1
+central office 1
+walker thompson 1
+
+ Trigram NP 
+bronx legal service 6
+new york city 4
+mfy legal service 1
+harlem legal service 1
+fordham university school 1
+sole corporate member 1
+michael w. martin 1
+queen legal service 1
+
+ Unigram NP 
+lsny 26
+corporation 8
+program 8
+legal 4
+lawsuit 4
+percent 3
+instance 3
+change 3
+board 3
+bylaw 3
+control 2
+selection 2
+year 2
+business 2
+addition 2
+agency 2
+ny 2
+money 2
+august 2
+power 2
+restructuring 2
+reorganization 2
+law 2
+thursday 2
+bronx 2
+aug. 1
+prompting 1
+purse 1
+community 1
+one 1
+device 1
+alliance 1
+right 1
+mechanism 1
+lawyer 1
+minutia 1
+management 1
+funding 1
+williamsburg 1
+role 1
+citywide 1
+new 1
+consideration 1
+transformation 1
+core 1
+head 1
+membership 1
+slate 1
+v. 1
+bulk 1
+brooklyn 1
+incorporation 1
+separation 1
+class 1
+structure 1
+delivery 1
+02-6199 1
+professor 1
+budget 1
+spokeswoman 1
+turn 1
+place 1
+expenditure 1
+model 1
+replacement 1
+
+ Arbitary length NP 
+brooklyn legal service corp. a 2
+new york law journal 2
+restructuring plan prompt lawsuit 1
+bedford stuyvesant legal service 1
+south brooklyn legal service corp. b 1

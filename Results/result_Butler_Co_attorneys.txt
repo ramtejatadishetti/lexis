@@ -1,0 +1,102 @@
+
+ Bigram NP 
+butler county 4
+equal access 2
+her home 1
+poor population 1
+legal assistance 1
+low income 1
+last year 1
+lssm director 1
+municipal court 1
+southern missouri 1
+elderly woman 1
+their income 1
+federal government 1
+fred hall 1
+public defender 1
+legal representation 1
+his wife 1
+legal advice 1
+her terribly 1
+illegal eviction 1
+not-for-profit organization 1
+her jaw 1
+their time 1
+local area 1
+shoddy plumbing 1
+local newspaper 1
+temporary restraining 1
+
+ Trigram NP 
+their economic standing 1
+their limited staff 1
+development sharon alexander 1
+lssm board member 1
+
+ Unigram NP 
+lssm 13
+attorney 5
+case 4
+percent 3
+number 2
+service 2
+area 2
+justice 2
+legal 2
+volunteer 2
+springfield 2
+alexander 2
+counsel 2
+work 2
+plumbing 2
+organization 2
+claim 1
+regardless 1
+lsc 1
+half 1
+county 1
+minimum 1
+lawyer 1
+year 1
+population 1
+arm 1
+spouse 1
+funding 1
+congress 1
+corporation 1
+housing 1
+program 1
+fraction 1
+income 1
+department 1
+company 1
+firm 1
+plate 1
+woman 1
+offering 1
+abuse 1
+medicaid 1
+child 1
+law 1
+panel 1
+loss 1
+equality 1
+sheriff 1
+success 1
+level 1
+region 1
+budget 1
+example 1
+cost 1
+jail 1
+time 1
+guy 1
+poverty 1
+order 1
+husband 1
+
+ Arbitary length NP 
+american news butler co. 1
+jackie harder ~ staff writer july 1
+missouri lawyer trust account foundation 1

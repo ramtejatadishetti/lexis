@@ -1,0 +1,90 @@
+
+ Bigram NP 
+lake county 3
+legal assistance 1
+tricky endeavor 1
+prairie state 1
+self-help center 1
+statewide agency 1
+linda rothnagel 1
+nonprofit group 1
+private agency 1
+new self-help 1
+it kind 1
+other information 1
+legal information 1
+few operate 1
+special telephone 1
+governmental center 1
+main courthouse 1
+pro-se litigation 1
+judicial process 1
+first floor 1
+personal injury 1
+their research 1
+
+ Trigram NP 
+u.s. supreme court 1
+american bar association 1
+n. county st 1
+
+ Unigram NP 
+court 6
+center 6
+county 4
+information 3
+practice 3
+law 3
+case 3
+attorney 2
+library 2
+self-representation 2
+self-help 2
+illinois 2
+access 2
+internet 2
+waukegan 2
+survey 2
+summer 1
+right 1
+help 1
+office 1
+represent 1
+money 1
+year 1
+share 1
+variety 1
+subject 1
+grant 1
+it's 1
+assistance 1
+percent 1
+zastany 1
+employee 1
+latin 1
+oneself 1
+advantage 1
+june 1
+hand 1
+paper 1
+line 1
+effort 1
+population 1
+resource 1
+sept. 1
+undertaking 1
+cd-rom 1
+work 1
+space 1
+project 1
+eviction 1
+circuit 1
+divorce 1
+organization 1
+fact 1
+
+ Arbitary length NP 
+prairie state legal service 2
+court administrator bob zastany 1
+russell lissau daily herald staff writer 1
+illinois equal justice foundation 1

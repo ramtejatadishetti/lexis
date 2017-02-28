@@ -1,0 +1,173 @@
+
+ Bigram NP 
+final rule 12
+cost-benefit analysis 2
+federal register 2
+required information 1
+procedure act 1
+applicable emission 1
+full analysis 1
+substantial number 1
+locomotive remanufacturing 1
+private sector 1
+new marketplace 1
+our assessment 1
+peter guerrero 1
+protection agency 1
+regulatory action 1
+mr. guerrero 1
+et seq 1
+annual burden 1
+effective approach 1
+major rule 1
+total benefit 1
+jr. chairman 1
+order no 1
+james vickers 1
+locomotive engine 1
+required documentation 1
+our report 1
+complete fleet 1
+inuse test 1
+enforceable duty 1
+emission standard 1
+commerce house 1
+regulatory management 1
+locomotive aftermarket 1
+60-percent reduction 1
+public hearing 1
+41-year life 1
+tribal government 1
+our review 1
+intergovernmental mandate 1
+
+ Trigram NP 
+clean air act 3
+paperwork reduction act 2
+environmental protection agency 2
+net present value 2
+assistant general counsel 1
+other relevant information 1
+public work united 1
+environmental protection issue 1
+regulatory flexibility act 1
+locomotive engine pursuant 1
+significant economic impact 1
+executive order no 1
+
+ Unigram NP 
+epa 18
+u.s.c 7
+rule 7
+office 5
+cost 4
+section 4
+information 4
+nitrogen 3
+year 3
+omb 3
+notice 3
+program 3
+compliance 3
+collection 3
+analysis 3
+executive 2
+title 2
+rulemaking 2
+reg 2
+number 2
+fed 2
+management 2
+ton 2
+emission 2
+b 2
+budget 2
+control 2
+remanufacturing 2
+iv 2
+rin 2
+agency 2
+i 2
+order 2
+code 1
+alternative 1
+environment 1
+production 1
+march 1
+michigan 1
+mandate 1
+report 1
+railroad 1
+february 1
+512-8210 1
+benefit 1
+locomotive 1
+respond 1
+requirement 1
+work 1
+senate 1
+authority 1
+§§ 1
+gao/ogc-98-46 1
+subject 1
+state 1
+phase-in 1
+evaluation 1
+particulate 1
+hardship 1
+reason 1
+approval 1
+estimate 1
+c 1
+transition 1
+april 1
+act 1
+comment 1
+cc 1
+romulus 1
+flexibility 1
+respect 1
+quality 1
+addition 1
+class 1
+reduction 1
+capital/startup 1
+authorization 1
+gao 1
+expenditure 1
+copy 1
+iii 1
+ii 1
+official 1
+air 1
+matter 1
+december 1
+need 1
+united 1
+discussion 1
+party 1
+effectiveness 1
+administrator 1
+512-6111 1
+may 1
+effect 1
+director 1
+statutory 1
+tier 1
+response 1
+time 1
+turnover 1
+
+ Arbitary length NP 
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+mr. thomas e. kelly director 1
+gao/ogc-98-46 enclosure analysis under 1
+a major rule issued by the environmental protection agency entitled 1
+honorable john h. chafee chairman 1
+general counsel b-279823 april 1
+emission standard for locomotive and locomotive engine 1
+honorable max baucus ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+information environmental protection agency page 1
+honorable thomas j. bliley 1

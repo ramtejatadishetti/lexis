@@ -1,0 +1,147 @@
+
+ Bigram NP 
+final rule 4
+federal register 3
+regulation t 3
+cost-benefit analysis 2
+significant number 2
+statutory authorization 1
+substantial effect 1
+final rulemaking 1
+our assessment 1
+regulatory review 1
+substantial number 1
+board board 1
+our understanding 1
+rin 7100-ab28 1
+credit transaction 1
+major rule 1
+jr. chairman 1
+et seq 1
+our report 1
+small entities.1 1
+commerce house 1
+mr. bothwell 1
+exchange act 1
+same reason 1
+national association 1
+adverse effect 1
+non-exempted security 1
+our review 1
+chief counsel 1
+
+ Trigram NP 
+security credit transaction 2
+federal reserve system 2
+administrative procedure act 1
+final regulatory flexibility 1
+other relevant information 1
+henry r. wray 1
+federal reserve bank 1
+independent regulatory agency 1
+paperwork reduction act 1
+james l. bothwell 1
+regulatory improvement act 1
+riegle community redevelopment 1
+significant economic impact 1
+regulatory flexibility act 1
+urban affair united 1
+small business administration 1
+
+ Unigram NP 
+rule 17
+board 15
+section 9
+u.s.c 8
+fed 5
+reg 5
+b 5
+act 5
+official 4
+rulemaking 4
+sba 4
+office 3
+may 3
+credit 3
+comment 2
+pursuant 2
+iv 2
+ii 2
+governor 2
+respect 2
+title 2
+agency 2
+gao/ogc-96-15 2
+notice 2
+practice 2
+june 2
+review 2
+opportunity 2
+i 2
+august 1
+code 1
+financial 1
+certification 1
+senate 1
+likewise 1
+loan 1
+number 1
+rin 1
+currency 1
+issue 1
+512-8678 1
+work 1
+broker-dealer 1
+subject 1
+information 1
+united 1
+publication 1
+addition 1
+iii 1
+housing 1
+objection 1
+favor 1
+statement 1
+proposal 1
+'credit 1
+type 1
+eliminate 1
+executive 1
+ability 1
+collection 1
+period 1
+gao 1
+director 1
+value 1
+letter 1
+report 1
+therefore 1
+cc 1
+512-8581 1
+submission 1
+banking 1
+evaluation 1
+compliance 1
+request 1
+amount 1
+accordance 1
+advocacy 1
+analysis 1
+margin 1
+
+ Arbitary length NP 
+honorable john d. dingell ranking minority member committee 1
+review of regulation t 1
+gao/ogc-96-15 enclosure analysis under 1
+honorable alfonse m. d'amato chairman 1
+mr. donald j. winn assistant 1
+federal reserve system page 1
+the federal reserve system entitled 1
+by broker and dealer 1
+robert p. murphy general counsel enclosure 1
+honorable paul s. sarbanes ranking minority member committee 1
+general counsel b-271810.6 may 1
+senior associate general counsel 1
+a major rule issued by the board of governor 1
+honorable thomas j. bliley 1
+unfunded mandate reform act 1

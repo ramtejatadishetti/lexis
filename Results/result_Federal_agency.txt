@@ -1,0 +1,110 @@
+
+ Bigram NP 
+equal justice 4
+king street 4
+south carolina 4
+local bar 3
+charleston county 2
+king st. 2
+eric kleiman 1
+north charleston 1
+it interest 1
+legal assistance 1
+last year 1
+local agency 1
+congressional agency 1
+va. kleiman 1
+nationwide consolidation 1
+circuit court 1
+orderly transfer 1
+it funding 1
+patrick property 1
+it grant 1
+legal aid 1
+nonprofit corporation 1
+main st. 1
+randall goldman 1
+redeveloped office 1
+their obligation 1
+federal agency 1
+
+ Trigram NP 
+prime real estate 1
+it federal grant 1
+west montague avenue 1
+greenville-based equal justice 1
+neighborhood legal program 1
+e. douglas pratt-thomas 1
+big stone gap 1
+john n. erlenborn 1
+civil legal assistance 1
+gerald a. kaynard 1
+legal service corp. 1
+herb frazier a 1
+upscale commercial development 1
+federal legal aid 1
+
+ Unigram NP 
+lsc 11
+building 10
+charleston 10
+nlap 7
+property 6
+kleiman 4
+agency 3
+letter 3
+aug. 2
+conway 2
+county 2
+funding 2
+grant 2
+st. 2
+kaynard 2
+georgetown 2
+president 2
+center 2
+january 2
+title 2
+control 1
+claim 1
+requirement 1
+office 1
+september 1
+money 1
+sale 1
+partner 1
+decade 1
+erlenborn 1
+federal 1
+stake 1
+percent 1
+spokesman 1
+sunday 1
+program 1
+board 1
+s.c. 1
+antique 1
+appeal 1
+issue 1
+chairman 1
+entrance 1
+august 1
+courier 1
+government 1
+dispute 1
+agreement 1
+phone 1
+part 1
+post 1
+america 1
+lawsuit 1
+nov. 1
+shop 1
+area 1
+budget 1
+comment 1
+heart 1
+
+ Arbitary length NP 
+neighborhood legal assistance program corp. 1
+charleston county bar association 1

@@ -1,0 +1,209 @@
+
+ Bigram NP 
+executive order 4
+catastrophic risk 3
+undivided interest 3
+catastrophic coverage 3
+cost-benefit analysis 2
+federal register 2
+second rule 1
+private sector 1
+regulatory affair 1
+our assessment 1
+previous ad 1
+statutory authorization 1
+b-274637 september 1
+significant impact 1
+catastrophic yield 1
+implementation pursuant 1
+solicit input 1
+senior attorney 1
+agriculture issue 1
+budgetary impact 1
+substantial number 1
+forestry united 1
+economic significance 1
+order no 1
+et seq 1
+agriculture house 1
+our report 1
+single disaster 1
+insurable acreage 1
+additional flexibility 1
+mr. robinson 1
+reform act 1
+public interest 1
+same reason 1
+similar requirement 1
+our review 1
+honorable e 1
+chief counsel 1
+
+ Trigram NP 
+general administrative regulation 3
+executive order no 3
+first listed rule 1
+james w. vickers 1
+crop insurance application 1
+federal agriculture improvement 1
+new catastrophic risk 1
+civil justice reform 1
+other relevant information 1
+final regulatory flexibility 1
+robert a. robinson 1
+omb control no 1
+paperwork reduction act 1
+significant intergovernmental mandate 1
+administrative procedure act 1
+general counsel b-274636 1
+regulatory flexibility act 1
+regulation for implementation 1
+small business administration's 1
+planned regulatory action 1
+
+ Unigram NP 
+crop 10
+fcic 9
+act 8
+u.s.c 8
+b 7
+insurance 6
+section 6
+agriculture 5
+state 5
+protection 5
+office 4
+reg 4
+august 4
+fed 4
+information 4
+department 4
+title 3
+loss 3
+requirement 3
+notice 3
+sba 3
+gao/ogc-96-47 3
+rin 3
+analysis 3
+executive 2
+program 2
+policy 2
+emergency 2
+0563-ab11 2
+tobacco 2
+l. 2
+cost 2
+federal 2
+omb 2
+marketing 2
+pub 2
+linkage 2
+rule 2
+comment 2
+period 2
+addition 2
+card 2
+official 2
+budget 2
+oira 2
+iv 2
+corporation 2
+agency 2
+i 2
+order 2
+management 2
+assistance 2
+waiver 2
+code 1
+september 1
+pursuant 1
+interim 1
+intergovernmental 1
+producer 1
+implementation 1
+0563-003 1
+march 1
+risk 1
+government 1
+food 1
+practice 1
+burden 1
+mandate 1
+report 1
+kika 1
+day 1
+condition 1
+volatility 1
+512-8210 1
+level 1
+january 1
+submittal 1
+l 1
+public 1
+p 1
+work 1
+landowner 1
+senate 1
+§§ 1
+year 1
+subject 1
+rulemaking 1
+cooperation 1
+evaluation 1
+eligibility 1
+extent 1
+approval 1
+language 1
+certainty 1
+compliance 1
+0563-ab09 1
+connection 1
+federalism 1
+issuance 1
+revenue 1
+cc 1
+weather 1
+respect 1
+disaster 1
+fee 1
+publication 1
+assessment 1
+function 1
+nutrition 1
+share 1
+gao 1
+review 1
+iii 1
+ii 1
+exception 1
+advocacy 1
+p.l 1
+united 1
+hoc 1
+objection 1
+income 1
+512-5138 1
+document 1
+may 1
+collection 1
+director 1
+plan 1
+response 1
+statute 1
+
+ Arbitary length NP 
+federal crop insurance reform act 6
+federal crop insurance corporation 5
+catastrophic risk protection endorsement 3
+unfunded mandate reform act 1
+two major rule issued by the department of agriculture 1
+honorable patrick j. leahy ranking minority member committee 1
+garza ranking minority member committee 1
+mr. kenneth ackerman manager federal crop insurance corporation page 1
+crop insurance acreage report 1
+robert p. murphy general counsel enclosure 1
+gao/ogc-96-47 enclosure analysis under 1
+federal crop insurance corporation entitled 1
+honorable richard g. lugar chairman 1
+honorable pat robert chairman 1

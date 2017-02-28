@@ -1,0 +1,115 @@
+
+ Bigram NP 
+justice foundation 3
+supreme court 2
+kleinman award 2
+low- income 2
+opt-out approach 1
+deborah hankinson 1
+intellectual commitment 1
+umbrella organization 1
+texas access 1
+justice hankinson 1
+equal access 1
+public service 1
+their income 1
+harold kleinman 1
+strong supporter 1
+her role 1
+state bar 1
+justice commission 1
+texas-based funding 1
+outstanding character 1
+our justice 1
+court luncheon 1
+same passion 1
+cum laude 1
+legal aid 1
+poor friday 1
+congressional retreat 1
+afforded access 1
+civil justice 1
+recent change 1
+her doctorate 1
+inspirational leadership 1
+
+ Trigram NP 
+texas equal access 4
+harold f. kleinman 1
+justice deborah hankinson 1
+harold kleinman award 1
+crime victim compensation 1
+
+ Unigram NP 
+texas 6
+hankinson 5
+justice 4
+award 4
+foundation 3
+fund 3
+community 2
+system 2
+law 2
+court 2
+access 2
+source 2
+contribution 2
+kleinman 1
+december 1
+creation 1
+commitment 1
+oct. 1
+professionalism 1
+www.txiolta.org 1
+lawyer 1
+year 1
+partner 1
+trust 1
+quality 1
+bcls 1
+native 1
+litigation 1
+decline 1
+service 1
+field 1
+acceptance 1
+state 1
+legal 1
+crime 1
+charge 1
+cvcls 1
+statement 1
+thompson 1
+issue 1
+firm 1
+interest 1
+compassion 1
+upon 1
+delivery 1
+assault 1
+judge 1
+capacity 1
+prestige 1
+provision 1
+october 1
+jurisprudence 1
+iolta 1
+knight 1
+dallas 1
+example 1
+managing 1
+liaison 1
+time 1
+organization 1
+austin 1
+honor 1
+vision 1
+
+ Arbitary length NP 
+teajf board chairman dick tate 1
+southern methodist university school 1
+business wire texas supreme court justice deborah hankinson lauded 1
+crime victim civil legal service 1
+basic civil legal service 1
+texas supreme court chief justice thomas r. phillips 1
+justice foundation chairman harold f. kleinman 1

@@ -1,0 +1,657 @@
+
+ Bigram NP 
+postal service 46
+zip code 16
+universal service 10
+city mail 7
+sweden post 7
+route mail 7
+variable cost 5
+large volume 5
+rural delivery 4
+it cost 4
+first quartile 4
+geographic cream 3
+two-day frequency 3
+alternative delivery 3
+frequent delivery 3
+first class 3
+low cost 3
+residential delivery 3
+cream skimmer 3
+our analysis 3
+other hand 3
+monotonic behavior 2
+relative efficiency 2
+in-office time 2
+see cohen 2
+expensive quartile 2
+it competitor 2
+other country 2
+efficient classification 2
+current competition 2
+finland post 2
+residential route 2
+it destination 2
+universal delivery 2
+table a2 2
+table a1 2
+much volume 2
+low risk 2
+demographic data 2
+total volume 2
+monopoly protection 2
+potential cream 2
+potential competitor 2
+it monopoly 2
+in-office preparing 1
+overtime pay 1
+available market 1
+legal monopoly1 1
+stand-alone cost 1
+residential service 1
+competitive position 1
+great number 1
+large transaction 1
+their cost 1
+wide divergence 1
+competition authority 1
+first-class carrier 1
+their profit 1
+changing restriction 1
+important impact 1
+dominant provider 1
+percent coverage 1
+great extent 1
+worker's compensation 1
+puerto rico 1
+possible delivery 1
+addressed grocery 1
+fragmented market 1
+same degree 1
+central business 1
+second quartile 1
+third attempt 1
+socio-economic information 1
+single delivery 1
+ninety-four percent 1
+physical object 1
+fixed cost 1
+alternative delivery.12 1
+such mail 1
+it letter 1
+only deviation 1
+cream skimming 1
+addressed advertising 1
+address list 1
+avoided cost 1
+mixed park 1
+other operator 1
+incremental cost 1
+stockholm school 1
+foot route 1
+planning u.s 1
+residential foot 1
+significant labor 1
+convenient location 1
+major business 1
+necessary level 1
+quantitative investigation 1
+web site 1
+postal product 1
+residential carrier 1
+mean route 1
+postal monopoly 1
+profitable portion 1
+maximum impact 1
+only country 1
+daily profit 1
+curbside mail 1
+it service 1
+residential cream 1
+systemwide labor 1
+enough capital 1
+universal pricing 1
+newspaper association 1
+single efficiency 1
+productive hourly 1
+other administration.47 1
+deliverya stop 1
+negative impact 1
+high risk 1
+limited effect 1
+mixed foot 1
+upper bound 1
+average incremental 1
+civil service 1
+right hand 1
+entire suburban 1
+important sense 1
+out-of-office cost24 1
+recent study 1
+comprehensive discussion 1
+additional disadvantage 1
+unfunded liability 1
+delivered mail 1
+typical newspaper 1
+issue relevant 1
+maximum effect 1
+different routes.18 1
+out-of-office productivity 1
+high cost 1
+large portion 1
+single piece 1
+large proportion 1
+valid test 1
+same cost 1
+private mail 1
+average price 1
+unrealistic case 1
+limited competition 1
+three-day window 1
+possible delivery.37 1
+stand-alone insert 1
+publisher express 1
+considerable disadvantage 1
+new zealand 1
+high carrier 1
+separate mail 1
+several score 1
+it productivity 1
+sufficient volume 1
+postal delivery 1
+previous term 1
+different rate 1
+viable competitor 1
+local cream 1
+residential apartment 1
+total cost 1
+physical terrain 1
+single subclass 1
+h. consequence 1
+available carrier 1
+small share 1
+difficult target 1
+alternative supplier 1
+introduction postal 1
+meredith corp. 1
+mixed curb 1
+emerging competition 1
+denmark sponsored 1
+same sample 1
+postal administration 1
+brief description 1
+local delivery 1
+125-piece walk 1
+their delivery 1
+urgent mail 1
+time inc. 1
+proper postage 1
+it price 1
+large number 1
+few pay 1
+new area 1
+congested business 1
+third dimension 1
+household income 1
+postal office 1
+addressed information 1
+federal express 1
+different percentage 1
+sizable amount 1
+section j 1
+large sample 1
+last set 1
+high elasticity 1
+postal service's 1
+letter-shaped mail 1
+competitive environment 1
+unaddressed letters.10 1
+evolving structure 1
+average volume 1
+cross section 1
+monotonic series 1
+small panel 1
+called mail 1
+required increase 1
+preliminary version 1
+it monopoly.2 1
+virtual monopoly 1
+u.s. a 1
+profitable quartile.29 1
+possible case 1
+it competitor.4 1
+standard work 1
+successful cream 1
+custodial maintenance 1
+residential park 1
+subsequent panel 1
+it assessment 1
+out-of-office technology 1
+top matrix 1
+their selection 1
+postal provider 1
+available volume 1
+physical proximity 1
+their time 1
+indirect labor 1
+advertising mail 1
+post office 1
+residential curb 1
+average profit 1
+third party 1
+high profit 1
+many delivery 1
+significant advantage 1
+
+ Trigram NP 
+kluwer academic publisher 3
+piece delivery stop 2
+united parcel service 2
+general accounting office 2
+average incremental cost 2
+postal service reform 1
+postal rate commission 1
+cross sectional comparison 1
+high financial impact 1
+enhanced carrier route 1
+it fixed cost 1
+other associated delivery 1
+it prestigious sponsorship 1
+productive hourly rate 1
+competitive postal service 1
+carrier cost survey 1
+significant in-office delivery 1
+other postal administration 1
+average delivered volume 1
+american express publishing 1
+their high profit 1
+time mirror co. 1
+private letter delivery 1
+mean daily route 1
+delivery market a 1
+certain large volume 1
+it unprofitable mail 1
+real alternative delivery 1
+city carrier survey 1
+it dominant market 1
+their potential profit 1
+professor erik nerep 1
+r. r. donnelley 1
+only industrial nation 1
+low financial impact 1
+incumbent postal administration 1
+mean daily profit 1
+cream skimmer cream 1
+roadway package service 1
+national postal administration 1
+usable residential routes22 1
+postal service.49 a 1
+universal service obligation 1
+productive hourly wage 1
+much potential volume 1
+it average cost 1
+parallel postal system 1
+medium financial impact 1
+
+ Unigram NP 
+delivery 68
+cream 59
+cost 47
+mail 44
+route 42
+carrier 39
+volume 39
+percent 26
+business 24
+piece 23
+u.s 23
+city 21
+service 17
+skimming 16
+skimmer 16
+u.s. 15
+analysis 13
+advertising 11
+paper 10
+stop 9
+function 9
+monopoly 9
+week 9
+letter 9
+quartile 9
+number 8
+product 8
+advantage 7
+competition 7
+rate 7
+profitability 7
+cc 7
+proportion 6
+market 6
+% 6
+course 5
+point 5
+revenue 5
+caput 5
+loss 5
+level 5
+profit 5
+column 5
+addition 5
+percentage 5
+type 5
+sweden 5
+price 5
+order 5
+office 4
+per 4
+day 4
+drop 4
+stf 4
+first-class 4
+competitor 4
+efficiency 4
+united 4
+appendix 4
+file 4
+effect 4
+average 4
+increase 3
+classification 3
+residential 3
+crew 3
+saturation 3
+street 3
+bound 3
+ferguson 3
+postal 3
+frequency 3
+year 3
+case 3
+transportation 3
+processing 3
+kleindorfer 3
+country 3
+range 3
+a3 3
+bulk 3
+vehicle 3
+mailer 3
+wage 3
+newspaper 3
+amount 3
+loop 3
+curb 3
+variety 3
+supra 3
+incumbent 3
+xenakis 3
+structure 3
+a 3
+transaction 3
+administration 2
+shape 2
+parcel 2
+report 2
+productivity 2
+in-office 2
+activity 2
+ups 2
+sequence 2
+ed 2
+notwithstanding 2
+space 2
+unit 2
+technology 2
+size 2
+basis 2
+marketing 2
+address 2
+post 2
+table 2
+box 2
+discount 2
+study 2
+survey 2
+sense 2
+scope 2
+respect 2
+difficulty 2
+labor 2
+bankruptcy 2
+use 2
+area 2
+question 2
+system 2
+priority 2
+assumption 2
+ceteris 2
+attainment 2
+supervision 2
+example 2
+park 2
+telephone 2
+premium 2
+pay 2
+income 2
+paribus 2
+a1 2
+census 2
+data 2
+demand 2
+foot 2
+education 2
+time 2
+position 2
+geographic 2
+concept 1
+phenomenon 1
+fringe 1
+september 1
+suburban 1
+fall 1
+rest 1
+relation 1
+alternative 1
+display 1
+geography 1
+impact 1
+www.naa.org/marketscope/databank/preppriyr.htm 1
+retirement 1
+spite 1
+change 1
+electricity 1
+except 1
+decile 1
+monday/thursday 1
+window 1
+setting 1
+service.38 1
+automation 1
+factor 1
+relevance 1
+population 1
+gb 1
+innovation 1
+sound 1
+government 1
+practice 1
+term 1
+multi-delivery 1
+customers.6 1
+b 1
+penetration 1
+burden 1
+half 1
+a2 1
+recipient 1
+disadvantage 1
+february 1
+barcoding 1
+adherence 1
+decrease 1
+security 1
+prevailing 1
+set 1
+weight 1
+trend 1
+terrain 1
+relative 1
+result 1
+routes.17 1
+tenth 1
+scale 1
+matrix 1
+decision 1
+subclass 1
+research 1
+cell 1
+study9 1
+messenger 1
+provider 1
+issue 1
+contrast 1
+available 1
+presorting 1
+e. 1
+theory 1
+nature 1
+routes.21 1
+bureau 1
+water 1
+areas.5 1
+protection 1
+extent 1
+standpoint 1
+hand 1
+panel 1
+comparison 1
+piece.43 1
+exemption 1
+billing 1
+economics 1
+shipping 1
+delivery.26 1
+prior 1
+published 1
+hence 1
+tuesday/friday 1
+reside 1
+assistance 1
+advertisement 1
+probability 1
+presence 1
+helsingør 1
+variable 1
+dint 1
+regulated 1
+licensing 1
+parking 1
+obligation 1
+america 1
+i.e. 1
+housing 1
+scale.8 1
+overtime 1
+regulation 1
+asset 1
+show 1
+day.25 1
+household 1
+store 1
+chu 1
+postage 1
+corresponding 1
+relationship 1
+incentive 1
+floor 1
+company 1
+gas 1
+gao 1
+fuel 1
+larger 1
+fy 1
+point.45 1
+age 1
+customer 1
+observation 1
+exception 1
+handling 1
+reason 1
+hour 1
+j 1
+value 1
+record 1
+minimum 1
+marriage 1
+attention 1
+deregulation 1
+proof 1
+firm 1
+finland 1
+boston 1
+cohen 1
+p.r 1
+abandonment 1
+surface 1
+sample 1
+rule 1
+close 1
+turn 1
+receptacle 1
+utility 1
+capture 1
+mailers40 1
+skimmers.33 1
+efficiency/cost 1
+individual 1
+agency 1
+cross 1
+cent 1
+potential 1
+sequence.36 1
+performance 1
+parameter 1
+express 1
+office.14 1
+june 1
+collection 1
+subsidy 1
+consequence 1
+diversion 1
+abuse 1
+purpose 1
+date 1
+m.a 1
+law 1
+network 1
+attempt 1
+center 1
+industry 1
+stand-alone 1
+portion 1
+out-of-office 1
+fact 1
+
+ Arbitary length NP 
+of carrier route volume captured 4
+g. cream skimmer cost per piece table 1
+the potential for cream skimming in the u.s 1
+rutgers university an analysis 1
+successful cream skimming table 1
+a function of efficiency relative to postal service 1
+selected average for residential route when route are sorted by volume of carrier route mail per route 1
+selected average for residential route when route are sorted by profit per route 1
+d. postal service delivery cost 1
+cost by type of city delivery route 1
+cost per piece in cent 1
+c. city carrier data 1
+day of delivery and percent of carrier route mail 1
+puerto rico zip code 1
+general accounting office study 1
+new york time co. 1
+postal rate commission october 1
+impact of cream skimming on 1
+delivery market robert h. cohen william w. ferguson john d. waller spyros s. xenakis office 1
+mail route delivery stop f. estimating 1

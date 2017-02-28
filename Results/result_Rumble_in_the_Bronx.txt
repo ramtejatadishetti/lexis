@@ -1,0 +1,98 @@
+
+ Bigram NP 
+legal service 8
+new york 4
+few law 1
+it neighborhood 1
+proposed plan 1
+competitive bidding 1
+local input 1
+new system 1
+his shoulder 1
+legal representation 1
+ghita schwarz 1
+city limit 1
+it funding 1
+jill grossman 1
+new funding 1
+local partner 1
+federal legislation 1
+preliminary thumbs-up 1
+it mission 1
+their contract 1
+same year 1
+primary funder 1
+entire city 1
+
+ Trigram NP 
+bronx legal service 3
+it federal funding 1
+it own funding 1
+federally-funded legal assistance 1
+his office's independence 1
+it main funder 1
+increased central oversight 1
+michael w. martin 1
+it national parent 1
+
+ Unigram NP 
+lsny 12
+lsc 7
+bronx 6
+plan 3
+percent 3
+thompson 3
+lawsuit 3
+city 2
+congress 2
+corporation 2
+board 2
+monday 2
+control 1
+neighborhood 1
+office 1
+washington 1
+idea 1
+rest 1
+member 1
+won't 1
+lawyer 1
+need 1
+borough 1
+risk 1
+help 1
+cut 1
+court 1
+union 1
+system 1
+legal 1
+accountability 1
+access 1
+ny 1
+state 1
+concern 1
+staffing 1
+august 1
+decision-making 1
+consolidation 1
+cooperate 1
+community 1
+organization 1
+date 1
+president 1
+line 1
+law 1
+legislature 1
+october 1
+level 1
+likelihood 1
+budget 1
+contract 1
+turn 1
+martin 1
+position 1
+mistake 1
+
+ Arbitary length NP 
+legal service staff association 1
+bronx legal service director walker thompson 1

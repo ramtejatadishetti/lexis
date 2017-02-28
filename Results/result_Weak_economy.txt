@@ -1,0 +1,191 @@
+
+ Bigram NP 
+executive director 4
+legal help 3
+last year 2
+subsidized housing 2
+general assembly 2
+legal aid 2
+last month 1
+low interest 1
+same level 1
+constitutional challenge 1
+uphill fight 1
+short-term trust 1
+individual account 1
+my life 1
+county democrat 1
+domestic abuse 1
+next year 1
+financial assistance 1
+strong push 1
+chief judge 1
+big hit 1
+next month 1
+financial help 1
+unprecedented state 1
+our funding 1
+annual lawyer 1
+main source 1
+prince george 1
+his budget 1
+annual budget 1
+incoming administration 1
+legal-services organization 1
+legal challenge 1
+high interest 1
+lawyer trust 1
+main funding 1
+her record 1
+high court 1
+shelly norman 1
+fiscal year 1
+critical need 1
+law center 1
+first time 1
+billable hour 1
+her housing 1
+new legislator 1
+letter-writing campaign 1
+
+ Trigram NP 
+baltimore sun weak 1
+robert j. rhudy 1
+american bar association 1
+court-ordered child support 1
+low-fee legal work 1
+l. tracy brown 1
+u.s. supreme court 1
+threaten legal services' 1
+legal aid bureau 1
+statewide hot line 1
+coppin state college 1
+
+ Unigram NP 
+state 8
+maryland 5
+year 5
+funding 5
+interest 5
+iolta 4
+shortfall 4
+court 4
+percent 4
+budget 3
+work 3
+mechanism 3
+help 2
+money 2
+cut 2
+group 2
+day 2
+lawyer 2
+access 2
+mlsc 2
+conviction 2
+sabonis 2
+hearing 2
+lieu 2
+drug 2
+check 2
+surcharge 2
+needy 2
+june 2
+request 2
+best-case 1
+misdemeanor 1
+dollar 1
+front 1
+welfare 1
+spokesman 1
+office 1
+justice 1
+presence 1
+improvement 1
+source 1
+texas 1
+woman 1
+emergency 1
+government 1
+couple 1
+judiciary 1
+timing 1
+rhudy 1
+january 1
+morning 1
+ohio 1
+everyone 1
+registration 1
+value 1
+event 1
+alcohol 1
+bureau 1
+provider 1
+issue 1
+campaign 1
+degree 1
+kitchen 1
+legislature 1
+package 1
+baltimore 1
+family 1
+revenue 1
+washington 1
+community 1
+tennessee 1
+probation 1
+crime 1
+everybody 1
+fee 1
+eye 1
+district 1
+subsidy 1
+master 1
+mainstay 1
+way 1
+gap 1
+line 1
+behalf 1
+case 1
+kind 1
+slack 1
+challenge 1
+cash 1
+advocacy 1
+recession 1
+soup 1
+compensation 1
+ruling 1
+counselor 1
+example 1
+orientation 1
+need 1
+goal 1
+arrangement 1
+heyday 1
+economy 1
+week 1
+picture 1
+though 1
+law 1
+judgment 1
+center 1
+scenario 1
+askance 1
+organization 1
+filing 1
+
+ Arbitary length NP 
+maryland legal service corp. 2
+chief judge robert m. bell 1
+wilhelm h. joseph jr. 1
+anne arundel county democrat 1
+andrea f. siegel saturday 1
+homeless person representation project 1
+maryland state bar association 1
+maryland legal aid bureau 1
+crime victim compensation fund 1
+senate president thomas v. mike miller 1
+house speaker michael e. busch 1
+j. peter sabonis jr. 1
+gov.-elect robert l. ehrlich jr. 1

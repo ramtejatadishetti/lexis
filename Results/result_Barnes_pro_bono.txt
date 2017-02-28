@@ -1,0 +1,78 @@
+
+ Bigram NP 
+former governor 1
+incredible compliment 1
+new zealand 1
+his surprise 1
+legal system 1
+his secretary 1
+only way 1
+nonprofit group 1
+his re-election 1
+public office 1
+steven gottlieb 1
+elective office 1
+rick dent 1
+political consultant 1
+his voicemail 1
+roy barnes 1
+sonny perdue 1
+his time 1
+zell miller 1
+legal aid 1
+his image 1
+king roy 1
+high-profile law 1
+his legacy 1
+
+ Trigram NP 
+his first priority 1
+
+ Unigram NP 
+barnes 8
+gottlieb 3
+tuesday 2
+legal 2
+gov 2
+behalf 2
+aid 2
+attorney 1
+campaign 1
+december 1
+executive 1
+heard 1
+legacy 1
+something 1
+lawyer 1
+year 1
+nov. 1
+conference 1
+access 1
+pas 1
+group 1
+write 1
+legislation 1
+spokesman 1
+program 1
+holding 1
+image 1
+firm 1
+move 1
+offer 1
+director 1
+marietta 1
+organization 1
+press 1
+news 1
+volunteer 1
+loss 1
+joke 1
+cash 1
+governor 1
+dent 1
+someone 1
+race 1
+
+ Arbitary length NP 
+duane d. stanford wednesday 1
+atlanta legal aid society 1

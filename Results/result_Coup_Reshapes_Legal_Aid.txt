@@ -1,0 +1,316 @@
+
+ Bigram NP 
+long beach 8
+old program 6
+legal aid 6
+los angeles 6
+san gabriel 3
+his program 3
+san fernando 2
+last year 2
+local bar 2
+van nuys 2
+public interest 2
+impact litigation 2
+county government 1
+his goal 1
+social policy 1
+your approach 1
+bruce iwasaki 1
+past year 1
+orange county 1
+federal program 1
+old way 1
+direct client 1
+good program 1
+self-help kiosk 1
+little bit 1
+new program 1
+difficult situation 1
+scott wheeler 1
+his grant 1
+their program 1
+new territory 1
+longtime poverty 1
+competitive bidding 1
+same thing 1
+his clash 1
+federal government 1
+his takeover 1
+longtime observer 1
+local government 1
+countywide health 1
+national funding 1
+careful respect 1
+executive director 1
+3-year-old program 1
+san bernardino 1
+neighborhood legal 1
+lauralea saddick 1
+dramatic change 1
+john peck 1
+high-profile litigation 1
+california endowment 1
+federal budget 1
+homeless advocacy 1
+her board 1
+bright side 1
+el monte 1
+effective advocacy 1
+legal magnet 1
+private sector 1
+north hill 1
+strong support 1
+our emphasis 1
+our board 1
+deni butler 1
+impact work 1
+government-sponsored coup 1
+federal suit 1
+former board 1
+political capital 1
+acrimonious transition 1
+huge area 1
+neal dudovitz 1
+toll-free phone 1
+grant application 1
+low-income housing 1
+other housing 1
+one-on-one service 1
+his caseload 1
+legal advice 1
+government-funded group 1
+his counterpart 1
+multimillion-dollar grant 1
+button-down breed 1
+federal order 1
+former executive 1
+local resident 1
+temporary office 1
+other side 1
+federal agency 1
+
+ Trigram NP 
+san gabriel-pomona valley 13
+legal service corp. 6
+neighborhood legal service 3
+los angeles county 3
+his new territory 3
+legal aid foundation 2
+legal aid society 2
+san fernando valley 2
+his 29-year tenure 1
+his first year 1
+his combined area 1
+private legal community 1
+toll-free multilingual phone 1
+their main funding 1
+los angeles county's 1
+eastern bar association 1
+unserved poor grow 1
+36-year-old legal aid 1
+his respected program 1
+his hostile takeover 1
+his own stormy 1
+health consumer center 1
+their ideal marriage 1
+president jerome applebaum 1
+pasadena bar association 1
+san gabriel valley 1
+self-help legal access 1
+his toll-free phone 1
+other public interest 1
+
+ Unigram NP 
+dudovitz 29
+program 20
+iwasaki 10
+merger 6
+board 6
+staff 5
+community 5
+clinic 4
+year 4
+care 4
+transition 4
+service 4
+budget 4
+lawyer 3
+health 3
+domestic-violence 3
+share 3
+reputation 3
+percent 3
+pasadena 3
+pomona 3
+law 3
+money 2
+litigation 2
+peck 2
+source 2
+policy 2
+association 2
+bar 2
+neal 2
+state 2
+takeover 2
+[ 2
+step 2
+observer 2
+area 2
+opportunity 2
+immigration 2
+work 2
+advocacy 2
+matter 2
+member 2
+congress 2
+director 2
+consumer 2
+help 1
+mending 1
+mission 1
+rest 1
+fund-raising 1
+radio 1
+debate 1
+decade 1
+increase 1
+group 1
+knowledge 1
+riverside 1
+volunteer 1
+ally 1
+case 1
+lack 1
+combination 1
+void 1
+rise 1
+fan 1
+preference 1
+reconfiguration 1
+desire 1
+officials' 1
+rothschild 1
+kern 1
+excellence 1
+wonk 1
+development 1
+attorney 1
+everyone 1
+neighborhood 1
+deal 1
+individual 1
+innovator 1
+reconciliation 1
+entrée 1
+funding 1
+decision 1
+access 1
+favor 1
+internet 1
+ground 1
+issue 1
+impact 1
+knew 1
+umbrella 1
+august 1
+power 1
+importance 1
+handful 1
+outfit 1
+job 1
+poverty 1
+foothill 1
+extent 1
+humility 1
+path 1
+earthquake 1
+country 1
+route 1
+experience 1
+walkin 1
+range 1
+homelessness 1
+protector 1
+block 1
+presence 1
+period 1
+one 1
+county 1
+promise 1
+effortless 1
+anonymity 1
+message 1
+quality 1
+landscape 1
+city 1
+start 1
+compensate 1
+meeting 1
+today 1
+location 1
+northridge 1
+favoritism 1
+eastern 1
+o'melveny 1
+wheeler 1
+gap 1
+appreciation 1
+line 1
+effort 1
+aid 1
+town 1
+look 1
+lapse 1
+smooth 1
+ventura 1
+jan. 1
+era 1
+situation 1
+balance 1
+changeover 1
+control 1
+president 1
+backing 1
+partnership 1
+something 1
+need 1
+technology 1
+end 1
+relationship 1
+ordinance 1
+discussion 1
+courthouse 1
+reality 1
+beach 1
+week 1
+administrator 1
+koreatown 1
+philosophy 1
+court 1
+] 1
+privatesector 1
+kid 1
+myers 1
+saddick 1
+center 1
+goodwill 1
+infrastructure 1
+time 1
+organization 1
+model 1
+assistance 1
+
+ Arbitary length NP 
+san gabriel-pomona valley/orange county 1
+james monroe high school 1
+their own once-monthly family 1
+gina keating daily journal staff writer los angeles 1
+former long beach executive director toby rothschild 1
+eastern district superior court 1
+san fernando valley-san gabriel-pomona valley 1
+legal service corp. dudovitz 1
+federal emergency management agency 1
+coup reshapes legal aid program 1
+san fernando valley neighborhood legal 1

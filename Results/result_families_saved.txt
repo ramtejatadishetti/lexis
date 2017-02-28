@@ -1,0 +1,77 @@
+
+ Bigram NP 
+housing authority 2
+informal association 1
+negotiate agreement 1
+recent cutting 1
+justice network 1
+economic development 1
+annual state 1
+dan jennings 1
+east wenatchee 1
+manuel luna 1
+community development 1
+his intent 1
+chelan county 1
+patrick plea 1
+local businessman 1
+mobile home 1
+never-ending set 1
+mr. jennings 1
+city council 1
+columbia legal 1
+hard work 1
+yearly contribution 1
+interlocal agreement 1
+
+ Trigram NP 
+northwest justice project 4
+mobile park plaza 3
+private legal counsel 2
+columbia legal service 1
+wenatchee valley mall 1
+wenatchee housing authority 1
+civil legal assistance 1
+governor gary locke's 1
+mayor steve lacy 1
+
+ Unigram NP 
+state 6
+park 6
+help 3
+city 3
+solution 3
+year 2
+funding 2
+attorney 1
+everyone 1
+office 1
+washington 1
+authority 1
+eviction 1
+home 1
+justice 1
+legal 1
+access 1
+latino 1
+week 1
+notice 1
+north 1
+farm 1
+jennings 1
+half 1
+november 1
+effort 1
+volunteer 1
+closure 1
+october 1
+light 1
+growth 1
+place 1
+balance 1
+
+ Arbitary length NP 
+mobile park plaza mobile 1
+east wenatchee city council 1
+greater wenatchee housing authority 1
+east wenatchee east wenatchee 1

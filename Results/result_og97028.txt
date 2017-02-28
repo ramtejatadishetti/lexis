@@ -1,0 +1,141 @@
+
+ Bigram NP 
+final rule 12
+regulation y 4
+cost-benefit analysis 2
+bank control 2
+federal register 2
+docket no 2
+procedure act 1
+statutory authorization 1
+substantial number 1
+notice process 1
+ms. stromberg 1
+small bank 1
+regulatory restriction 1
+our assessment 1
+final analysis 1
+board board 1
+enforcement act 1
+various information 1
+et seq 1
+major rule 1
+order no 1
+james vickers 1
+our report 1
+expedited application/notice 1
+our review 1
+total cost 1
+
+ Trigram NP 
+federal reserve system 4
+independent regulatory agency 2
+new yearly cost 1
+unnecessary regulatory burden 1
+jean gleason stromberg 1
+international banking act 1
+assistant general counsel 1
+bank control act 1
+final regulatory flexibility 1
+other relevant information 1
+initial regulatory flexibility 1
+paperwork reduction act 1
+financial service house 1
+regulatory flexibility act 1
+urban affair united 1
+significant economic impact 1
+
+ Unigram NP 
+u.s.c 12
+governor 7
+board 7
+section 7
+b 6
+rule 6
+bank 4
+burden 4
+rulemaking 3
+§ 3
+notice 3
+executive 3
+change 3
+financial 2
+office 2
+iv 2
+ii 2
+preamble 2
+information 2
+fed 2
+title 2
+agency 2
+j 2
+reg 2
+number 2
+february 2
+r-0936 2
+i 2
+compliance 2
+banking 2
+act 2
+analysis 2
+comment 1
+control 1
+code 1
+senate 1
+reform 1
+official 1
+pursuant 1
+authority 1
+96-181 1
+respect 1
+512-8678 1
+work 1
+subject 1
+united 1
+recovery 1
+opportunity 1
+housing 1
+removal 1
+application 1
+reduction 1
+evaluation 1
+law 1
+omb 1
+collection 1
+gao 1
+reason 1
+management 1
+operating 1
+issuance 1
+report 1
+september 1
+iii 1
+response 1
+competitiveness 1
+director 1
+512-8210 1
+§§ 1
+issue 1
+budget 1
+order 1
+gao/ogc-97-28 1
+cc 1
+
+ Arbitary length NP 
+federal deposit insurance act 2
+general counsel b-276296 march 1
+honorable alfonse m. d'amato chairman 1
+mr. donald j. winn assistant 1
+bank holding company act 1
+gao/ogc-97-28 enclosure analysis under 1
+the federal reserve system entitled 1
+honorable jim leach chairman 1
+bank holding company and change in bank control 1
+honorable henry b. gonzalez ranking minority member committee 1
+honorable paul s. sarbanes ranking minority member committee 1
+international lending supervision act 1
+robert p. murphy general counsel enclosure 1
+bank holding company act amendment 1
+a major rule issued by the board of governor 1
+governor federal reserve system page 1
+unfunded mandate reform act 1

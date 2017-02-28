@@ -1,0 +1,105 @@
+
+ Bigram NP 
+west virginia 5
+legal aid 3
+carol bond 2
+pfeiffer university 1
+bluefield college 1
+her husband 1
+louis bledsoe 1
+associate dean 1
+joyce mcconnell 1
+carter bond 1
+kellogg grant 1
+criminal justice 1
+pivotal moment 1
+her mother 1
+domestic violence 1
+her interest 1
+bledsoe jr. 1
+her work 1
+w. va. 1
+regional counsel 1
+legal secretary 1
+big picture 1
+home society 1
+her nature 1
+my job 1
+hunter hus 1
+low income 1
+
+ Trigram NP 
+junior girl scout 1
+her legal career 1
+outstanding woman lawyer 1
+appalachian legal service 1
+w. va. wallace 1
+public defender corp. 1
+
+ Unigram NP 
+wallace 10
+law 6
+degree 3
+college 2
+worthy 2
+psychology 2
+athens 2
+internship 2
+gastonia 2
+princeton 2
+job 2
+attorney 1
+misenheimer 1
+w.va. 1
+rob 1
+rachel 1
+commitment 1
+wvu 1
+advocacy 1
+year 1
+home 1
+pfeiffer 1
+doctor 1
+merger 1
+manifestation 1
+help 1
+mcconnell 1
+charleston 1
+arkansas 1
+board 1
+interest 1
+leader 1
+caucus 1
+biology 1
+safe 1
+practice 1
+february 1
+award 1
+a. 1
+director 1
+bachelor 1
+half 1
+opportunity 1
+child 1
+soapbox 1
+louis 1
+age 1
+grant 1
+graduation 1
+experience 1
+claire 1
+suggestion 1
+cathy 1
+organization 1
+university 1
+result 1
+
+ Arbitary length NP 
+west virginia university college 2
+hunter hus high school 1
+west virginia legal service plan 1
+hus grad earns law award 1
+erin elizabeth walker gazette correspondent princeton 1
+concord united methodist church 1
+stop abusive family environment 1
+public interest law award 1

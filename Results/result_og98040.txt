@@ -1,0 +1,174 @@
+
+ Bigram NP 
+registration form 7
+final rule 6
+exchange commission 3
+control no 2
+security act 2
+cost-benefit analysis 2
+new rule 2
+new information 2
+form n-1a 2
+annual cost 1
+procedure act 1
+initial time 1
+effective communication 1
+required information 1
+thomas mccool 1
+our report 1
+our assessment 1
+order no 1
+key information 1
+b-279589 april 1
+open-end management 1
+new format 1
+statutory authorization 1
+current information 1
+et seq 1
+federal register 1
+jr. chairman 1
+new profile 1
+james vickers 1
+standardized format 1
+mutual fund 1
+essential information 1
+same day 1
+it rulemaking 1
+commerce house 1
+restructured advertising 1
+new disclosure 1
+mr. mccool 1
+separate treatment 1
+our review 1
+
+ Trigram NP 
+new disclosure option 8
+open-end management investment 4
+investment company act 3
+independent regulatory agency 2
+paperwork reduction act 2
+regulatory flexibility act 2
+assistant general counsel 1
+final rule pursuant 1
+other relevant information 1
+total annual cost 1
+estimated annual burden 1
+regulatory flexibility analysis 1
+general counsel b-279588 1
+enclosure analysis under 1
+urban affair united 1
+executive order no 1
+recent fiscal year 1
+exchange commission page 1
+
+ Unigram NP 
+rule 14
+sec 11
+u.s.c 8
+information 6
+analysis 6
+fund 5
+prospectus 4
+profile 4
+notice 4
+office 3
+march 3
+section 3
+reg 3
+disclosure 3
+fed 3
+executive 2
+title 2
+investor 2
+security 2
+competition 2
+investment 2
+omb 2
+protection 2
+g 2
+final 2
+ii 2
+b 2
+gao/ogc-98-40 2
+iv 2
+agency 2
+response 2
+i 2
+code 1
+pursuant 1
+confirmation 1
+preparing 1
+burden 1
+report 1
+512-8210 1
+issue 1
+banking 1
+benefit 1
+work 1
+financial 1
+concise 1
+senate 1
+512-8678 1
+subject 1
+printing 1
+capital 1
+evaluation 1
+use 1
+difficulty 1
+formation 1
+definition 1
+reformatting 1
+efficiency 1
+industry 1
+compliance 1
+turn 1
+act 1
+action 1
+comment 1
+cc 1
+aprofile 1
+number 1
+registration 1
+respect 1
+management 1
+housing 1
+option 1
+form 1
+both 1
+c 1
+gao 1
+authority 1
+review 1
+iii 1
+official 1
+budget 1
+future 1
+distribution 1
+one-third 1
+rin 1
+diverse 1
+need 1
+united 1
+end 1
+percent 1
+performance 1
+document 1
+development 1
+collection 1
+director 1
+purchase 1
+time 1
+filing 1
+
+ Arbitary length NP 
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+final regulatory flexibility analysis 1
+honorable alfonse m. d'amato chairman 1
+honorable jonathan g. katz secretary 1
+registration form used by open-end management investment company 1
+honorable paul s. sarbanes ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+a major rule issued by the security and exchange commission entitled 1
+disclosure option for open-end management investment company 1
+honorable thomas j. bliley 1

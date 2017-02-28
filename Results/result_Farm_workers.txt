@@ -1,0 +1,213 @@
+
+ Bigram NP 
+migrant farm 3
+last year 2
+weld county 2
+last week 2
+long-term health 2
+required information 1
+new study 1
+good job 1
+many farm 1
+cactus produce 1
+immediate sickness 1
+cesar chavez 1
+ray christensen 1
+sweet corn 1
+fresh water 1
+her husband 1
+central location 1
+britta campbell 1
+her case 1
+arkansas valley 1
+maria figeroa 1
+farm-labor housing 1
+rocky mountain 1
+other crew 1
+kimi jackson 1
+adjacent lettuce 1
+colorado department 1
+portable toilet 1
+it kind 1
+guierrmo othon 1
+farm-labor contractor 1
+other segment 1
+receive emergency 1
+vegetable farmer 1
+u.s. department 1
+executive vice 1
+marcelina lopez 1
+blanca chavez 1
+their skin 1
+regional office 1
+industrial medicine 1
+skin rash 1
+legal service 1
+her belly 1
+jim dorsey 1
+nonprofit law 1
+coleman cornelius 1
+productive workforce 1
+recent research 1
+little research 1
+medical help 1
+uterine cancer 1
+harmless solution 1
+their incident 1
+her concern 1
+their experience 1
+other farm 1
+avoid liability 1
+following year 1
+tim osag 1
+western slope 1
+seminal study 1
+
+ Trigram NP 
+colorado legal service 5
+united farm worker 2
+your own office 1
+colorado farm bureau 1
+worker protection standard 1
+many migrant farm 1
+dr. suzanne wuerthele 1
+san luis valley 1
+grower tom humphrey 1
+california cancer registry 1
+
+ Unigram NP 
+farm 18
+pesticide 12
+exposure 8
+lettuce 6
+field 6
+state 5
+olathe 5
+colorado 5
+worker 5
+chavez 5
+health 4
+risk 4
+report 4
+incident 4
+study 4
+california 3
+cancer 3
+enforcement 3
+epa 3
+violation 2
+poison 2
+crew 2
+wuerthele 2
+officer 2
+agriculture 2
+jackson 2
+legal 2
+safety 2
+drift 2
+lopez 2
+survey 2
+lot 2
+stomach 2
+company 2
+part 2
+baby 2
+illness 2
+education 2
+doctor 2
+agency 2
+percent 2
+sprayed 1
+money 1
+brain 1
+skin 1
+interpreter 1
+member 1
+group 1
+danger 1
+pounding 1
+rash 1
+activist 1
+farmer 1
+policy 1
+decontamination 1
+somebody 1
+fieldwork 1
+pesticide-safety 1
+spraying 1
+birth 1
+half 1
+crock 1
+vision 1
+crop 1
+sunup 1
+result 1
+irritation 1
+concern 1
+residue 1
+research 1
+shelter 1
+fog 1
+christensen 1
+journal 1
+water 1
+crop-duster 1
+fungus 1
+'it 1
+country 1
+region 1
+job 1
+connection 1
+husband 1
+humphrey 1
+striking 1
+community 1
+migrant 1
+denver 1
+spanish 1
+labor 1
+cloud 1
+fast 1
+breath 1
+regulation 1
+firm 1
+warn 1
+'imagine 1
+population 1
+case 1
+hour 1
+work 1
+project 1
+osag 1
+aid 1
+year 1
+coordinator 1
+throat 1
+united 1
+damage 1
+chemical 1
+role 1
+toxicologist 1
+ariz. 1
+soap 1
+foreman 1
+june 1
+scottsdale 1
+director 1
+chance 1
+plane 1
+nothing 1
+president 1
+land 1
+industry 1
+average 1
+author 1
+season 1
+hispanic 1
+contact 1
+swollen 1
+organization 1
+wind 1
+
+ Arbitary length NP 
+u.s. environmental protection agency 1

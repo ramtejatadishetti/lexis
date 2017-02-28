@@ -1,0 +1,65 @@
+
+ Bigram NP 
+public interest 4
+national association 3
+equal justice 2
+educational debt 1
+annual meeting 1
+first year 1
+online survey 1
+defender association 1
+their departure 1
+enormous law 1
+ascribe newswire 1
+law placement 1
+nationwide survey 1
+
+ Trigram NP 
+public interest law 2
+postgraduate public interest 1
+national legal aid 1
+public service-minded law 1
+
+ Unigram NP 
+law 4
+lawyer 3
+survey 3
+loan 2
+school 2
+sector 1
+summer 1
+marketplace 1
+esq. 1
+attorney 1
+manager 1
+www.napil.org 1
+battleground 1
+employment 1
+crisis 1
+information 1
+mortgage 1
+justice 1
+napil 1
+system 1
+field 1
+cause 1
+good 1
+http 1
+government 1
+brand 1
+february 1
+idea 1
+training 1
+pity 1
+equality 1
+level 1
+country 1
+project 1
+april 1
+american 1
+jan. 1
+
+ Arbitary length NP 
+napil associate sheila siegel 1
+public interest law recruitment/retention trend washington 1
+lawyer web survey how 1

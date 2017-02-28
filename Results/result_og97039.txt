@@ -1,0 +1,217 @@
+
+ Bigram NP 
+interim rule 4
+federal register 3
+group health 2
+proposed rulemaking 2
+180-day period 2
+individual health 2
+normal time 1
+cost-benefit analysis 1
+health financing 1
+60-day agency 1
+part b 1
+procedure act 1
+private sector 1
+creditable coverage 1
+individual market 1
+finance united 1
+prompt guidance 1
+our assessment 1
+same group 1
+prior group 1
+workforce house 1
+good cause 1
+internal revenue 1
+burdensome alternative 1
+william scanlon 1
+mean house 1
+human service 1
+et seq 1
+budgetary impact 1
+mr. scanlon 1
+coverage trade-off 1
+gao/ogc-97-39 department 1
+james vickers 1
+30-day comment 1
+govern access 1
+system issue 1
+continued coverage 1
+our report 1
+90-day period 1
+same day 1
+commerce house 1
+direct cost 1
+gao page 1
+special enrollment 1
+first year 1
+prior coverage 1
+public interest 1
+public comment 1
+considerable flexibility 1
+concurrent jurisdiction 1
+accountability act 1
+our review 1
+order no 1
+
+ Trigram NP 
+interim final rule 4
+health insurance portability 4
+internal revenue service 3
+paperwork reduction act 3
+regulatory flexibility act 2
+welfare benefit administration 2
+administrative procedure act 1
+assistant general counsel 1
+honorable bill archer 1
+other relevant information 1
+private health insurance 1
+congressional budget office 1
+executive order no 1
+planned regulatory action 1
+human service page 1
+department of labor 1
+combined economic impact 1
+internal revenue code 1
+welfare benefit department 1
+initial yearly cost 1
+health insurance regulation 1
+
+ Unigram NP 
+department 14
+health 11
+u.s.c 9
+section 8
+hipaa 7
+omb 6
+human 5
+group 5
+labor 5
+treasury 5
+insurance 5
+chairman 5
+information 4
+coverage 4
+office 3
+l. 3
+state 3
+notice 3
+pub 3
+approval 3
+market 3
+b 3
+rule 3
+pension 3
+review 3
+code 2
+executive 2
+impact 2
+title 2
+emergency 2
+work 2
+senate 2
+authority 2
+reg 2
+erisa 2
+april 2
+act 2
+period 2
+fed 2
+area 2
+jr. 2
+iv 2
+rin 2
+united 2
+agency 2
+gao/ogc-97-39 2
+stat 2
+i 2
+pursuant 1
+availability 1
+0938-ai08 1
+march 1
+prohibition 1
+burden 1
+report 1
+512-8210 1
+issue 1
+benefit 1
+secretary 1
+§§ 1
+cost 1
+year 1
+subject 1
+rulemaking 1
+hehs-97-8 1
+evaluation 1
+million 1
+difficulty 1
+reason 1
+estimate 1
+c 1
+extension 1
+renewability 1
+compliance 1
+length 1
+cc 1
+community 1
+consideration 1
+respect 1
+management 1
+certificate 1
+discrimination 1
+way 1
+assessment 1
+cite 1
+authorization 1
+iii 1
+ii 1
+portability 1
+official 1
+budget 1
+expiration 1
+hehs-95-257 1
+cbo 1
+need 1
+512-7114 1
+hehs-96-161 1
+education 1
+connection 1
+development 1
+june 1
+collection 1
+director 1
+statutory 1
+plan 1
+e 1
+reform 1
+request 1
+analysis 1
+
+ Arbitary length NP 
+public health service act 3
+health care financing administration 2
+employee retirement income security act 2
+unfunded mandate reform act 2
+honorable william v. roth 1
+honorable william f. goodling 1
+honorable william l. clay ranking minority member committee 1
+honorable olena berg assistant secretary 1
+a major rule issued by the department of treasury 1
+the department of health and human service 1
+honorable charles b. rangel ranking minority member committee 1
+gao/ogc-97-39 enclosure analysis under 1
+health care financing administration entitled 1
+pension and welfare benefit administration 1
+honorable daniel p. moynihan ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+interim rule for health insurance portability for group health plan 1
+honorable john d. dingell ranking minority member committee 1
+honorable edward m. kennedy ranking minority member committee 1
+labor ms. cynthia grigsby chief 1
+honorable donna e. shalala secretary 1
+honorable james m. jeffords 1
+honorable thomas j. bliley 1
+individual market face cost 1
+regulation unit internal revenue service department 1
+general counsel b-276723 april 1

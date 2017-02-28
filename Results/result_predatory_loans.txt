@@ -1,0 +1,200 @@
+
+ Bigram NP 
+eileen ledford 4
+their mortgage 4
+good resource 2
+fieldstone mortgage 2
+his bill 2
+his wife 2
+their interest 2
+ryan reilly 2
+last month 1
+good credit 1
+much conflict 1
+fraudulent behavior 1
+abusive home 1
+predatory-lending bill 1
+undocumented business 1
+denver post 1
+mortgage broker 1
+new century 1
+subprime lending 1
+her husband 1
+assisted right 1
+other day 1
+nonexistent quilting 1
+stated income 1
+enough money 1
+last year 1
+actual income 1
+percent interest 1
+same dilemma 1
+new loan 1
+recent mortgage 1
+linn ledford 1
+grand piano 1
+nonexistent home 1
+denver democrat 1
+elderly woman 1
+jose vasquez 1
+my stupidity 1
+imaginary quilting 1
+adam bass 1
+modest house 1
+federal government 1
+sandstone-hued luxury 1
+long run 1
+high-cost home 1
+federal home 1
+lucrative income 1
+shaky credit 1
+colorado association 1
+congestive heart 1
+subprime lender 1
+my objective 1
+her house 1
+their equity 1
+their predicament 1
+social security 1
+quilting company 1
+67-year-old owner 1
+her age 1
+monthly retirement 1
+cherry creek 1
+small annuity 1
+disproportionate share 1
+their house 1
+workable resolution 1
+hurried loan 1
+their home 1
+other consumer 1
+it proposal 1
+enough cash 1
+
+ Trigram NP 
+fieldstone mortgage co. 1
+new century mortgage 1
+sen. doug linkhart 1
+her supposed income 1
+colorado legal service 1
+her new home 1
+their new loan 1
+their old neighborhood 1
+their principal balance 1
+rep. rosemary marshall 1
+
+ Unigram NP 
+loan 16
+month 7
+home 7
+fedge 6
+ledfords 5
+year 5
+mortgage 5
+business 5
+broker 5
+percent 5
+house 4
+fieldstone 4
+application 4
+time 4
+help 3
+denver 3
+rate 3
+lawyer 3
+colorado 3
+company 3
+linn 3
+income 3
+prepayment 3
+money 2
+borrower 2
+senate 2
+quilting 2
+state 2
+card 2
+industry 2
+credit 2
+penalty 2
+interest 2
+linkhart 2
+bill 2
+slope 1
+capitol 1
+lack 1
+'predatory 1
+lender 1
+board 1
+persist 1
+march 1
+couple 1
+using 1
+trouble 1
+advanta 1
+subprime 1
+predatory 1
+eileen 1
+quilt 1
+idea 1
+phone 1
+pattern 1
+access 1
+showroom 1
+august 1
+opposition 1
+post 1
+debt 1
+ledford 1
+mistake 1
+hindsight 1
+owner 1
+condo 1
+market 1
+minority 1
+eye 1
+district 1
+aarp 1
+housing 1
+series 1
+whoa 1
+enforcement 1
+shopping 1
+form 1
+afford 1
+gap 1
+copy 1
+october 1
+wholesale 1
+cash 1
+slippery 1
+high-cost 1
+closing 1
+history 1
+december 1
+agent 1
+behest 1
+something 1
+d-denver 1
+deed 1
+dozen 1
+lie 1
+balloon 1
+acorn 1
+week 1
+information 1
+price 1
+flurry 1
+produce 1
+date 1
+law 1
+data 1
+payment 1
+inspiration 1
+failure 1
+sale 1
+responsibility 1
+
+ Arbitary length NP 
+colorado mortgage lender association 1
+their current monthly income 1
+david olinger denver post staff writer sunday 1

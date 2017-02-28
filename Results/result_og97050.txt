@@ -1,0 +1,245 @@
+
+ Bigram NP 
+final rule 7
+conservation service 4
+major rule 4
+effective date 3
+executive order 3
+economic analysis 3
+educational assistance 2
+procedure act 2
+good cause 2
+voluntary program 2
+significant impact 2
+federal register 2
+other provision 2
+our report 2
+public interest 2
+60-day delay 2
+conservation program 2
+environmental assessment 2
+federal court 1
+cost-benefit analysis 1
+kathleen wannisky 1
+environmental return 1
+forestry united 1
+beneficial impact 1
+agricultural production 1
+large number 1
+interim program 1
+new conservation 1
+our assessment 1
+former conservation 1
+basic program 1
+complete copy 1
+human environment 1
+non-point source 1
+subject matter 1
+effective conservation 1
+gao/ogc-97-50 preempt 1
+human health 1
+timely manner 1
+it copy 1
+legal action 1
+et seq 1
+agriculture issue 1
+second alternative 1
+commodity credit 1
+l. no 1
+robert robinson 1
+small consequence 1
+agriculture page 1
+administrative appeal 1
+environmental risk 1
+temporary authority 1
+agriculture house 1
+full copy 1
+major conclusion 1
+further delay 1
+interim conservation 1
+private sector 1
+longterm productivity 1
+risk assessment 1
+annual effect 1
+reliable information 1
+mr. robinson 1
+statutory authorization 1
+tribal government 1
+our review 1
+180-day authority 1
+
+ Trigram NP 
+commodity credit corporation 3
+significant regulatory action 2
+agriculture reorganization act 2
+regulatory flexibility act 2
+administrative procedure act 1
+net farm income 1
+other relevant information 1
+conservation service department 1
+cost benefit analysis 1
+it final rule 1
+paperwork reduction act 1
+annual economic impact 1
+general accounting office 1
+initial interim year 1
+no significant impact 1
+immediate effective date 1
+unfunded mandate act 1
+associate general counsel 1
+civil justice reform 1
+
+ Unigram NP 
+rule 20
+program 12
+nrc 12
+u.s.c 11
+ccc 11
+section 8
+may 7
+department 6
+agriculture 6
+analysis 6
+eqip 5
+agency 5
+natural 5
+notice 4
+priority 4
+conservation 4
+office 3
+executive 3
+october 3
+reg 3
+omb 3
+finding 3
+april 3
+fed 3
+assessment 3
+order 3
+pursuant 2
+staff 2
+title 2
+spring 2
+year 2
+state 2
+compliance 2
+respect 2
+b 2
+sbrefa 2
+iv 2
+rin 2
+planting 2
+delay 2
+majority 2
+0578-aa19 2
+economy 2
+fy 2
+law 2
+i 2
+organization 2
+code 1
+alternative 1
+b-275552 1
+classification 1
+implementation 1
+environment 1
+absence 1
+adoption 1
+food 1
+number 1
+report 1
+provision 1
+resource 1
+forth 1
+public 1
+work 1
+seq 1
+senate 1
+authority 1
+§§ 1
+society 1
+512-5207 1
+et 1
+operation 1
+subject 1
+scale 1
+funding 1
+rulemaking 1
+safety 1
+cooperation 1
+evaluation 1
+gao/ogc-97-50 1
+pub 1
+water 1
+base 1
+extent 1
+wildlife 1
+medicare 1
+pollution 1
+comment 1
+probability 1
+cc 1
+period 1
+flexibility 1
+quality 1
+management 1
+i.e. 1
+publication 1
+preamble 1
+start 1
+maintenance 1
+nutrition 1
+statement 1
+season 1
+great 1
+gao 1
+failure 1
+expenditure 1
+copy 1
+iii 1
+ii 1
+exception 1
+accordance 1
+official 1
+budget 1
+expiration 1
+control 1
+december 1
+c.f.r 1
+united 1
+end 1
+corporation 1
+administration 1
+damage 1
+512-5138 1
+recordkeeping 1
+information 1
+director 1
+b-275549 1
+coverage 1
+date 1
+land 1
+chief 1
+contact 1
+fact 1
+
+ Arbitary length NP 
+environmental quality incentive program 4
+federal crop insurance reform 2
+national environmental policy act 2
+colorado river basin salinity control program 1
+gao/ogc-97-50 enclosure analysis under 1
+paul w. johnson chief 1
+honorable tom harkin ranking minority member committee 1
+small business regulatory enforcement fairness act 1
+health care financing administration 1
+honorable bob smith chairman 1
+quality incentive program pursuant 1
+honorable richard g. lugar chairman 1
+honorable charles w. stenholm ranking minority member committee 1
+a major rule issued by the department of agriculture 1
+water quality incentive program 1
+robert p. murphy general counsel enclosure 1
+general counsel b-277149 june 1
+commodity credit corporation entitled 1
+unfunded mandate reform act 1

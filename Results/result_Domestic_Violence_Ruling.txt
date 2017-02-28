@@ -1,0 +1,108 @@
+
+ Bigram NP 
+judge thornton 7
+ms. walker 4
+ms. jordan 4
+domestic violence 3
+domestic abuse 2
+easy thing 1
+violent arena 1
+domestic issue 1
+main problem 1
+kentucky legislature 1
+lexington herald-leader 1
+sherry currens 1
+virtual epidemic 1
+assistant director 1
+legal protection 1
+robin hull 1
+her partner 1
+carol jordan 1
+child abuse 1
+sizable minority 1
+national council 1
+cindra walker 1
+their trouble 1
+daily living 1
+jamie harrison 1
+violent abuse 1
+their plight 1
+legal service 1
+mutual protection 1
+violence ruling 1
+executive director 1
+
+ Trigram NP 
+family court judge 1
+our big concern 1
+ms. dunford- jackson 1
+thick domestic abuse 1
+
+ Unigram NP 
+state 7
+ruling 6
+court 5
+abuse 4
+law 4
+contempt 3
+office 3
+judge 3
+victim 2
+family 2
+contact 2
+kentucky 2
+juvenile 1
+danger 1
+focus 1
+rest 1
+risk 1
+device 1
+advocacy 1
+lawyer 1
+year 1
+partner 1
+fear 1
+speak 1
+litigation 1
+you're 1
+part 1
+person 1
+protection 1
+reality 1
+finding 1
+proposal 1
+intervention 1
+issue 1
+governor 1
+sort 1
+conflicting 1
+ky. 1
+emergency 1
+tool 1
+notion 1
+effect 1
+nation 1
+director 1
+policy 1
+group 1
+bit 1
+day 1
+refuge 1
+barrier 1
+level 1
+violence 1
+side 1
+dependency 1
+jan. 1
+outcry 1
+docket 1
+order 1
+
+ Arbitary length NP 
+new york time january 1
+kentucky domestic violence association 1
+central kentucky legal service 1
+billie lee dunford- jackson 1
+francis x. cline exington 1
+judge megan lake thornton 1
+fayette county district court 1

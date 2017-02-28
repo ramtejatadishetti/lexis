@@ -1,0 +1,242 @@
+
+ Bigram NP 
+new york 5
+mr. gray 5
+mr. rothenberg 4
+legal aid 4
+ms. locker 3
+private practice 3
+nyu law 3
+new generation 2
+mr. greenberg 2
+public service 2
+my father 2
+executive director 2
+public law 2
+lawyer alliance 2
+ms. schwartz 2
+private law 2
+ms. arons 2
+public interest 2
+corporate lawyer 2
+his father 1
+documentary filmmaker 1
+disabled sibling 1
+limited income 1
+singer llp 1
+enormous tuition 1
+top-tier law 1
+disabled client 1
+bronx defender 1
+late administrator 1
+administrative board 1
+national administration 1
+virginia school 1
+large salary 1
+easy decision 1
+poorer than 1
+worthy campaign 1
+perspective midway 1
+successful appeal 1
+human right 1
+lawyer committee 1
+legal advocacy 1
+relative handful 1
+ms. vogelstein 1
+harvard law 1
+big sacrifice 1
+long struggle 1
+stephanie schwartz 1
+new breed 1
+social impact 1
+big influence 1
+carol schwartz 1
+sean delany 1
+her mother 1
+your income 1
+national standard 1
+criminal defense 1
+lynn vogelstein 1
+my family 1
+stanley rothenberg 1
+his part 1
+gray jr. 1
+young poverty 1
+incredible inflation 1
+mr. delany 1
+your mother 1
+jennifer arons 1
+my mother 1
+warren court 1
+social security 1
+loan repayment 1
+social activism 1
+youthful idealism 1
+her project 1
+negligible difference 1
+her career 1
+real commitment 1
+legal service 1
+divisive war 1
+steep price 1
+my brother 1
+important part 1
+her tuition 1
+
+ Trigram NP 
+new york lawyer 3
+salary far greater 1
+so-called red diaper 1
+columbia law school 1
+political odd couple 1
+yale law school 1
+my underdog work 1
+michael a. rothenberg 1
+his public law 1
+new york city 1
+legal aid society 1
+average first-year associate 1
+american bar association 1
+daniel l. greenberg 1
+effective legal counsel 1
+substantive legal basis 1
+katherine r. locker 1
+young public interest 1
+christopher k. tahbaz 1
+manhattan legal aid 1
+harvard law school 1
+her own pilot 1
+
+ Unigram NP 
+poverty 7
+law 7
+debt 6
+attorney 5
+money 4
+staff 4
+lawyer 4
+something 4
+school 3
+issue 3
+lot 3
+today 3
+firm 3
+work 3
+graduate 3
+time 3
+help 2
+disparity 2
+burden 2
+republican 2
+right 2
+year 2
+state 2
+tuition 2
+learning 2
+project 2
+partner 2
+thing 2
+forgiveness 2
+columbia 2
+summer 1
+office 1
+nyu 1
+idealism 1
+le 1
+father 1
+bench 1
+moses 1
+hope 1
+division 1
+return 1
+government 1
+plimpton 1
+practice 1
+kind 1
+day 1
+'50s 1
+university 1
+vision 1
+generation 1
+prosecutor's 1
+debevoise 1
+indochina 1
+costliest 1
+litigation 1
+sept. 1
+august 1
+business 1
+importance 1
+teacher 1
+inmotion 1
+sister 1
+district 1
+career 1
+credit 1
+childhood 1
+family 1
+color 1
+character 1
+son 1
+semester 1
+city 1
+america 1
+service 1
+start 1
+it's 1
+question 1
+system 1
+commission 1
+difference 1
+suit 1
+john 1
+war 1
+interest 1
+filmmaker 1
+part 1
+wake 1
+baby 1
+behalf 1
+volunteer 1
+counsel 1
+prosecutor 1
+hand 1
+juvenile 1
+sea 1
+boston 1
+chip 1
+mine 1
+surface 1
+kathryn 1
+way 1
+council 1
+need 1
+phrase 1
+co-counsel 1
+pay 1
+veteran 1
+chief 1
+role 1
+manhattan 1
+conflict 1
+a. 1
+director 1
+do-gooder 1
+president 1
+] 1
+salary 1
+annum 1
+intrusion 1
+age 1
+proud 1
+portion 1
+responsibility 1
+mother 1
+
+ Arbitary length NP 
+south brooklyn legal service 4
+thomas adcock new york law journal march 1
+mcdonald education advocacy project 1
+new york university school 1
+our [ criminal justice 1
+new york city family court 1

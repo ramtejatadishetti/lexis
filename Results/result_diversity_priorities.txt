@@ -1,0 +1,382 @@
+
+ Bigram NP 
+diverse staff 7
+discrimination-based advocacy 5
+common definition 4
+mental health 3
+local bar 2
+united way 2
+common vision 2
+our community 2
+diverse work 2
+much time 1
+strategic planning 1
+conventional lawyering 1
+serious diversity 1
+multiculturally competent 1
+stress inclusion 1
+human genius 1
+same set 1
+multicultural community 1
+new effort 1
+it hiring 1
+moral imperative 1
+full population 1
+bilingual staff 1
+national community 1
+their vision 1
+high priority 1
+minority data 1
+their staff 1
+competent • 1
+third place 1
+authentic commitment 1
+lasting change 1
+internal diversity 1
+local level 1
+our mission 1
+critical issue 1
+individual state 1
+marginalized client 1
+regular diversity 1
+advocate orientation 1
+qualified support 1
+candid conversation 1
+local program 1
+new census 1
+issue state 1
+flexible work 1
+new technology 1
+diverse leadership/governance 1
+increased diversity 1
+professional development 1
+diversity a 1
+certain staff 1
+affirmative duty 1
+glittering mosaic 1
+innovative loan 1
+local action 1
+national back-up 1
+our language 1
+sexual orientation 1
+mental illness 1
+our vision 1
+further education 1
+1-2 staff 1
+maximum extent 1
+common definition/vision 1
+• loss 1
+general program 1
+programmatic growth 1
+organization's commitment 1
+disseminate information 1
+creating culture 1
+our service 1
+indigenous staff 1
+multicultural framework 1
+two-day session 1
+successful diversity 1
+discriminatory impact 1
+assembled group 1
+long way 1
+• community 1
+our leadership 1
+hidden discrimination 1
+institutional oppression 1
+legal issue 1
+personal growth 1
+deborah howard 1
+further discussion 1
+diverse environment 1
+other advocacy 1
+long-term tenure 1
+• perception 1
+public interest 1
+diverse workplace 1
+useful way 1
+real dedication 1
+national origin 1
+innovative diversity 1
+high number 1
+national training 1
+their office 1
+clienteligible community 1
+staff indicator 1
+real accountability 1
+• recruitment 1
+full range 1
+national funders 1
+little attention 1
+national dialogue 1
+expanded diversity 1
+racial justice 1
+other nonmajority 1
+action planning 1
+nonlegal staff 1
+major challenge 1
+become diverse 1
+their time 1
+special client 1
+everyday culture 1
+national counterpart 1
+same number 1
+national leadership 1
+past decade 1
+
+ Trigram NP 
+diverse leadership/governance step 1
+vision for success 1
+present • today 1
+state justice community 1
+their legal work 1
+develop diverse leadership 1
+their particular era 1
+karp consulting group 1
+first national conference 1
+fifty equal justice 1
+female paraprofessional staff 1
+aggressive discrimination-based advocacy 1
+past • key 1
+yvonne shinhoster lamb 1
+our senior management 1
+african american representation 1
+future • key 1
+
+ Unigram NP 
+diversity 37
+staff 28
+community 22
+program 21
+state 18
+justice 15
+leadership 11
+success 8
+color 8
+client 8
+retention 7
+training 6
+lsc 5
+board 5
+recruitment 5
+power 5
+need 5
+group 4
+race 4
+vision 4
+nlada 4
+importance 4
+poverty 4
+context 4
+trust 4
+work 4
+identify 3
+concern 3
+following 3
+inclusion 3
+present 3
+population 3
+range 3
+belief 3
+forgiveness 3
+time 3
+management 3
+money 2
+planning 2
+impact 2
+guidance 2
+environment 2
+policy 2
+loss 2
+gender 2
+clash 2
+access 2
+litigation 2
+perception 2
+• 2
+competent 2
+census 2
+mentoring 2
+loan 2
+washington 2
+commitment 2
+respect 2
+minority 2
+approach 2
+meeting 2
+today 2
+sharing 2
+gay 2
+value 2
+compensation 2
+future 2
+male 2
+national 2
+variety 2
+tension 2
+may 2
+english 2
+june 2
+funding 2
+law 2
+building 2
+advocacy 2
+order 2
+advisory 1
+concept 1
+office 1
+breadth 1
+lack 1
+focus 1
+longevity 1
+held 1
+attitude 1
+committee 1
+fairness 1
+majority 1
+cle 1
+disability 1
+emphasis 1
+theme 1
+communication 1
+exit 1
+brainstorm 1
+awareness 1
+swim 1
+full-range 1
+disparate 1
+government 1
+material 1
+dc 1
+framing 1
+bar 1
+intersection 1
+association 1
+desire 1
+school 1
+equality 1
+level 1
+meant 1
+iolta 1
+team 1
+discussing 1
+hallmark 1
+set 1
+core 1
+series 1
+energy 1
+welfare 1
+past 1
+growth 1
+result 1
+lawyer 1
+year 1
+event 1
+conferee 1
+and/or 1
+capacity 1
+legal 1
+imperative 1
+progress 1
+cause 1
+independence 1
+creating 1
+desegregation 1
+ability 1
+attention 1
+action-plan 1
+understanding 1
+sink 1
+defensive 1
+firstgeneration 1
+arena 1
+definition 1
+working 1
+institute 1
+cadre 1
+place 1
+mentor 1
+act 1
+action 1
+promotion 1
+support 1
+influx 1
+pursuit 1
+criticism 1
+extent 1
+overview 1
+advancement 1
+homeless 1
+quality 1
+conference 1
+clearinghouse 1
+attendance 1
+i.e. 1
+eradication 1
+area 1
+spending 1
+discrimination 1
+due 1
+centrality 1
+priority 1
+reduction 1
+sensitivity 1
+treatment 1
+dialogue 1
+visibility 1
+appreciation 1
+part 1
+encourage 1
+exception 1
+isolation 1
+recruit 1
+excitement 1
+unfairness 1
+aid 1
+advantage 1
+example 1
+history 1
+perpetuate 1
+infrastructure 1
+inclusive 1
+share 1
+topic 1
+compile 1
+bias 1
+technology 1
+fluency 1
+ethnicity 1
+issue 1
+court 1
+goal 1
+personnel 1
+incentive 1
+member 1
+field 1
+internal 1
+department 1
+pension 1
+product 1
+d.c. 1
+congress 1
+oppression 1
+workforce 1
+membership 1
+fatigue 1
+plan 1
+organization 1
+date 1
+end 1
+achievement 1
+inspiration 1
+age 1
+person 1
+responsibility 1
+model 1
+voting 1
+turnover 1
+
+ Arbitary length NP 
+the legal service community turning 1
+justice violence against woman office 1
+need for a diverse workforce 1
+program are no longer 1

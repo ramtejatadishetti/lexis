@@ -1,0 +1,344 @@
+
+ Bigram NP 
+equal justice 4
+legal service 4
+legal assistance 3
+high quality 3
+ultimate goal 2
+san diego 2
+first conference 2
+twenty-five percent 2
+financial support 2
+merger-related technology 2
+alternative dispute 2
+comprehensive information 2
+congressional appropriation 2
+collaborative service 2
+true cross 2
+possible guide 2
+key information 2
+new grant 2
+national center 2
+academic community 2
+new jersey 2
+three-day conference 2
+strategic direction 2
+technical assistance 2
+legal education 2
+improved access 2
+our support 2
+new york 2
+referral system 2
+full range 2
+six-month period 2
+our nation 2
+final report 2
+grant year 2
+legal information 2
+applicant process 2
+general supervision 2
+available technology 2
+new service 2
+comprehensive system 2
+unnecessary duplication 2
+indiana access 2
+final rule 2
+lsc staff 2
+primary responsibility 2
+many program 2
+legal affair 2
+regional training 2
+electronic mail 2
+sub-granting part 2
+statewide basis 2
+other community 2
+non-profit corporation 2
+applicant staff 2
+different program 2
+new rule 2
+applicant information 2
+their quality 2
+civil justice 2
+national level 2
+our goal 2
+public comment 2
+first time 2
+new hampshire 2
+federal register 2
+real estate 2
+significant progress 2
+regulatory compliance 2
+primary goal 2
+great effort 2
+ideal telephone 1
+strategic plan 1
+trigram np 1
+lasting change 1
+general audit 1
+open society 1
+bigram np 1
+cfr part 1
+general act 1
+continued progress 1
+semiannual report 1
+unigram np 1
+
+ Trigram NP 
+national legal aid 1
+lsc strategic direction 1
+specific geographic area 1
+special telephonic conference 1
+coordinated legal assistance 1
+their equal justice 1
+other equal justice 1
+five-year strategic plan 1
+national 2-day training 1
+
+ Unigram NP 
+lsc 12
+management 12
+program 9
+state 9
+office 7
+justice 7
+planning 6
+board 6
+report 6
+result 6
+conference 6
+project 6
+information 6
+corporation 6
+review 5
+act 5
+service 5
+inspector 5
+technology 5
+executive 4
+activity 4
+ability 4
+period 4
+use 4
+effort 4
+case 4
+strengthen 4
+site 4
+performance 4
+effectiveness 4
+director 4
+web 3
+march 3
+recipient 3
+exchange 3
+software 3
+statewide 3
+initiative 3
+part 3
+intake 3
+grant 3
+plan 3
+telephone 3
+selection 2
+protocol 2
+september 2
+consent 2
+reconfiguration 2
+committee 2
+defender 2
+maine 2
+staff 2
+impact 2
+anticipation 2
+group 2
+field 2
+provision 2
+april 2
+help 2
+minnesota 2
+bench 2
+overage 2
+instrument 2
+listing 2
+input 2
+maryland 2
+practice 2
+virginia 2
+number 2
+burden 2
+half 2
+bar 2
+conjunction 2
+association 2
+rfp 2
+resource 2
+gender 2
+session 2
+officer 2
+senate 2
+series 2
+sensitivity 2
+creation 2
+availability 2
+competition 2
+recruitment 2
+design 2
+year 2
+calendar 2
+insurance 2
+belief 2
+aba 2
+evaluation 2
+funding 2
+foreword 2
+decision 2
+access 2
+race 2
+internet 2
+retention 2
+coordination 2
+collaboration 2
+wisconsin 2
+degree 2
+efficiency 2
+leadership 2
+california 2
+approval 2
+lawsuit 2
+seventy 2
+balance 2
+district 2
+forum 2
+southeast 2
+institute 2
+country 2
+region 2
+compliance 2
+florida 2
+implementation 2
+section 2
+colorado 2
+carryover 2
+consideration 2
+washington 2
+community 2
+variety 2
+president 2
+message 2
+programs,2 2
+quality 2
+documentation 2
+area 2
+pre-conference 2
+transfer 2
+visit 2
+system 2
+process 2
+workshop 2
+draft 2
+maintenance 2
+indiana 2
+proposal 2
+meeting 2
+enforcement 2
+receipt 2
+diversity 2
+form 2
+addition 2
+serve 2
+award 2
+hershey 2
+delivery 2
+fund 2
+coherent 2
+merger 2
+july 2
+pilot 2
+target 2
+type 2
+work 2
+value 2
+oregon 2
+distribution 2
+solicitation 2
+function 2
+mediation 2
+december 2
+citrix 2
+measure 2
+diverse 2
+ethnicity 2
+concept 2
+participant 2
+goal 2
+grantee 2
+administration 2
+application 2
+party 2
+test 2
+accuracy 2
+development 2
+regard 2
+columbia 2
+advice 2
+reporting 2
+june 2
+outreach 2
+collection 2
+consolidation 2
+letter 2
+% 2
+nation 2
+response 2
+inspiration 2
+volume 2
+pennsylvania 2
+age 2
+applicant 2
+request 2
+sale 2
+order 2
+chief 2
+client 2
+missouri 2
+organization 2
+alabama 2
+clearance 2
+resolution 2
+assistance 2
+www.ain.lsc.gov 2
+month 1
+network 1
+chairman 1
+michigan 1
+np 1
+monitoring 1
+ohio 1
+lasting 1
+self 1
+cfr 1
+ejc 1
+progress 1
+model 1
+aba/nlada 1
+standard 1
+arbitary 1
+change 1
+training 1
+length 1
+south 1
+comment 1
+wan 1
+website 1
+tig 1
+aarp 1
+opp 1
+purpose 1
+illinois 1
+ideal 1
+congress 1
+oig 1
+fy 1
+sql 1
+audit 1
+
+ Arbitary length NP 

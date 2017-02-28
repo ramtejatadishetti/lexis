@@ -1,0 +1,63 @@
+
+ Bigram NP 
+superior court 4
+district court 2
+legal aid 1
+task force 1
+joint district 1
+joint session 1
+clark county 1
+legal help 1
+total fee 1
+equal justice 1
+his state 1
+
+ Trigram NP 
+columbia legal service 1
+northwest justice project 1
+washington supreme court 1
+associated press justice 1
+civil equal justice 1
+
+ Unigram NP 
+state 3
+alexander 3
+money 2
+surcharge 2
+court 2
+percent 2
+judge 2
+legislature 2
+wednesday 2
+olympia 1
+force 1
+ap 1
+cost 1
+recommendation 1
+fee 1
+justice 1
+support 1
+kittitas 1
+access 1
+issue 1
+law 1
+judiciary 1
+nation 1
+address 1
+kitsap 1
+america 1
+lawsuit 1
+change 1
+account 1
+task 1
+january 1
+benton 1
+rule 1
+amount 1
+franklin 1
+sparse 1
+fact 1
+
+ Arbitary length NP 
+chief justice gerry alexander 1
+civil equal justice funding 1

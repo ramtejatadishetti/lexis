@@ -1,0 +1,246 @@
+
+ Bigram NP 
+interim rule 18
+good cause 6
+statutory deadline 5
+executive office 5
+naturalization service 5
+immigration review 5
+effective date 5
+60-day delay 5
+major rule 4
+judiciary house 3
+federal register 3
+your inquiry 3
+judiciary united 3
+expedited removal 2
+removal proceeding 2
+our report 2
+order no 2
+statutory authorization 1
+cost-benefit analysis 1
+gao/ogc-97-32 united 1
+new detention 1
+regular removal 1
+procedure act 1
+federalism assessment 1
+regulatory affair 1
+our office 1
+mere existence 1
+120-day comment 1
+our assessment 1
+justice issue 1
+annual cost 1
+attorney general 1
+immigration court 1
+norman rabkin 1
+federal government 1
+et seq 1
+asylum procedure 1
+new immigration 1
+budgetary impact 1
+removal form 1
+james vickers 1
+insufficient federalism 1
+legal support 1
+additional immigration 1
+public procedure 1
+government reform 1
+related alien 1
+private sector 1
+oversight house 1
+nationality act 1
+30-day comment 1
+alien travel 1
+mr. rabkin 1
+public interest 1
+their removal 1
+nonpersonnel figure 1
+our review 1
+substantial number 1
+
+ Trigram NP 
+immigrant responsibility act 4
+illegal immigration reform 4
+executive order no 3
+minority member committee 2
+paperwork reduction act 2
+honorable john conyers 2
+assistant general counsel 1
+significant economic impact 1
+omb control no 1
+increased budgetary impact 1
+dear mr. chairman 1
+in form i-589 1
+regulatory affair committee 1
+asylum procedure pursuant 1
+regulatory flexibility act 1
+naturalization service page 1
+significant regulatory action 1
+other relevant information 1
+national economic growth 1
+civil justice reform 1
+congressional review act 1
+planned regulatory action 1
+
+ Unigram NP 
+in 19
+rule 14
+u.s.c 9
+eoir 9
+office 7
+immigration 7
+march 6
+detention 6
+april 6
+removal 5
+omb 5
+notice 5
+alien 4
+title 4
+justice 4
+iirira 4
+exception 4
+department 4
+executive 3
+asylum 3
+report 3
+inspection 3
+senate 3
+cost 3
+section 3
+comment 3
+management 3
+b 3
+budget 3
+information 3
+united 3
+agency 3
+gao/ogc-97-32 3
+order 3
+code 2
+committee 2
+provision 2
+january 2
+state 2
+conduct 2
+reg 2
+jr 2
+compliance 2
+cc 2
+period 2
+fed 2
+ii 2
+official 2
+iv 2
+rin 2
+congress 2
+effect 2
+i 2
+rulemaking 2
+request 2
+september 1
+none 1
+interim 1
+b-275552 1
+staff 1
+impact 1
+clarification 1
+§ 1
+512-8777 1
+burden 1
+day 1
+document 1
+512-8210 1
+l. 1
+page 1
+view 1
+requirement 1
+work 1
+receipt 1
+authority 1
+result 1
+year 1
+et 1
+subject 1
+clarity 1
+space 1
+increase 1
+reply 1
+evaluation 1
+deportation 1
+sept. 1
+reason 1
+pub 1
+approval 1
+preamble 1
+both 1
+seq. 1
+length 1
+act 1
+federalism 1
+thereon 1
+presence 1
+hearing 1
+date 1
+respect 1
+total 1
+custody 1
+publication 1
+basis 1
+addition 1
+examination 1
+vehicle 1
+assessment 1
+withholding 1
+gao 1
+construction 1
+iii 1
+apprehension 1
+bed 1
+preparation 1
+effectiveness 1
+subcommittee 1
+control 1
+sbrefa 1
+process 1
+december 1
+latter 1
+administration 1
+delay 1
+application 1
+d.c. 1
+may 1
+collection 1
+director 1
+b-275549 1
+forth 1
+law 1
+natural 1
+analysis 1
+time 1
+coordinate 1
+review 1
+
+ Arbitary length NP 
+honorable patrick j. leahy ranking minority member committee 2
+honorable henry j. hyde chairman 2
+honorable orrin g. hatch chairman 2
+honorable doris meissner commissioner immigration 1
+health care financing administration medicare program major rule 1
+general accounting office gao washington 1
+conduct of removal proceeding 1
+medicare program major rule report 1
+small business regulatory enforcement fairness act 1
+honorable david mcintosh chairman 1
+detention and removal of alien 1
+gao/ogc-97-32 executive order no 1
+gao/ogc-97-32 enclosure analysis under 1
+robert p. murphy general counsel 1
+immigration and naturalization service and executive office for immigration review entitled 1
+general counsel b-276475.2 may 1
+robert p. murphy general counsel enclosure 1
+a major rule issued by the department of justice 1
+inspection and expedited removal of alien 1
+general counsel b-276475 march 1
+unfunded mandate reform act 1

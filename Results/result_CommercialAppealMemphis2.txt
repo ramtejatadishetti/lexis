@@ -1,0 +1,202 @@
+
+ Bigram NP 
+legal service 4
+his job 2
+high-rise efficiency 1
+poverty level 1
+thelma james 1
+community foundation 1
+larry pivnick 1
+georgia king 1
+several law 1
+second-floor warren 1
+our client 1
+prime candidate 1
+last year 1
+next year 1
+married preacher 1
+stylish furniture 1
+much work 1
+high praise 1
+legal system 1
+longtime community 1
+dana brandon 1
+42-year-old woman 1
+monthly house 1
+third- year 1
+empty word 1
+six-year affair 1
+andre turner 1
+her son 1
+child support 1
+special education 1
+our work 1
+numerous doctor 1
+major focus 1
+much clutter 1
+former duplex 1
+city hall 1
+his place 1
+questionable loan 1
+fee-generat-ing type 1
+private attorney 1
+former executive 1
+social security 1
+domestic abuse 1
+claridge hotel 1
+n. main 1
+12-year-old son 1
+his son 1
+my kidney 1
+eclectic mix 1
+poor person 1
+private bar 1
+recent visit 1
+abusive marriage 1
+decent life 1
+webb brewer 1
+large table 1
+real estate 1
+medical care 1
+his insurance 1
+constant supervision 1
+greater memphis 1
+
+ Trigram NP 
+public legal aid 1
+great learning laboratory 1
+decent affordable housing 1
+her 9-year-old son 1
+supplemental security income 1
+precious little money 1
+her first home 1
+memphis law school 1
+her monthly income 1
+simple varnished wood 1
+legal service corp. 1
+her former lover 1
+
+ Unigram NP 
+james 7
+mals 7
+brewer 5
+turner 5
+law 4
+loss 3
+transplant 3
+lot 3
+work 3
+agency 3
+director 3
+justice 2
+help 2
+program 2
+school 2
+university 2
+attorney 2
+legal 2
+poverty 2
+eviction 2
+housing 2
+part 2
+child 2
+population 2
+case 2
+room 2
+need 2
+gumption 1
+rambling 1
+money 1
+lack 1
+neon 1
+ripoff 1
+reality 1
+staff 1
+litigation 1
+apartment 1
+office 1
+hall 1
+treatment 1
+pivnick 1
+somebody 1
+advantage 1
+wharton 1
+articulate 1
+day 1
+widow 1
+art 1
+house 1
+frame 1
+motive 1
+street 1
+lawyer 1
+home 1
+insurance 1
+funding 1
+barrier 1
+space 1
+profit 1
+assistance 1
+everything 1
+crunch 1
+parent 1
+reporter 1
+reason 1
+november 1
+lawsuit 1
+sagging 1
+census 1
+one-bedroom 1
+shift 1
+everything. 1
+predatory 1
+revenue 1
+lending 1
+pop 1
+son 1
+homeless 1
+conference 1
+city 1
+area 1
+prevalence 1
+system 1
+live 1
+today 1
+snowden 1
+life 1
+bus 1
+fayette 1
+award 1
+shortfall 1
+lauderdale 1
+line 1
+memphis 1
+king 1
+fraud 1
+tipton 1
+dweller 1
+marketplace 1
+kidney 1
+court 1
+dialysis 1
+shelby 1
+veteran 1
+percent 1
+damage 1
+brandon 1
+statuary 1
+opportunity 1
+structure 1
+building 1
+purchase 1
+ex-marine 1
+professor 1
+jail 1
+african 1
+consumer 1
+
+ Arbitary length NP 
+aid client shirley downing saturday 1
+memphis area legal service 1
+word legal service reach 1
+shelby county mayor a c wharton 1

@@ -1,0 +1,361 @@
+
+ Bigram NP 
+frequent flyer 37
+official travel 20
+personal use 15
+frequent traveler 12
+private sector 7
+fiscal year 4
+effective date 3
+federal government 3
+current policy 3
+bulletin ftr 2
+new subsection 2
+uniformed service 2
+additional cost 2
+federal employee 2
+it proposal 2
+such legislation 2
+it travel 2
+general public 2
+official business 2
+it contract 2
+paragraph u2010b 1
+federal travel 1
+it program 1
+such action 1
+long time 1
+potential mean 1
+their private-sector 1
+rental car 1
+gain-sharing program 1
+federal civilian 1
+last minute 1
+gain-sharing program's 1
+further assistance 1
+overall travel 1
+gao-wide program 1
+our view 1
+their dollar 1
+current requirement 1
+their travel 1
+current disparity 1
+it bureau 1
+our task 1
+managing director 1
+their program 1
+such organization 1
+fundamental rule 1
+official travel.4 1
+draft legislation 1
+negotiated travel 1
+different carrier 1
+improper selection 1
+negative impact 1
+non-program-related travel 1
+short supply 1
+official travel9 1
+his command 1
+their business 1
+individual use 1
+separate official 1
+same treatment 1
+voluntary gainsharing 1
+justice department 1
+his agency 1
+promotional material 1
+maximum extent 1
+departmental emphasis 1
+free airline 1
+other field 1
+30-percent commission 1
+our field 1
+transportation allowance 1
+administrative support 1
+difficult travel 1
+postal service 1
+their value 1
+experience gao 1
+voluntary basis 1
+american express 1
+national affair 1
+limited success 1
+formal program 1
+such travel 1
+disciplinary action 1
+same time 1
+their official 1
+current restriction 1
+interior department 1
+analysis section 1
+comptroller general 1
+such reward 1
+individual traveler 1
+practicable cost 1
+official travel.3 1
+public law 1
+program-related travel 1
+effective program 1
+personal travel 1
+large corporation 1
+federal policy 1
+official duty 1
+it ability 1
+general policy 1
+federal contractor 1
+
+ Trigram NP 
+current federal policy 3
+their personal use 2
+acquisition streamlining act 1
+official frequent flyer 1
+few frequent flyer 1
+federal travel regulation 1
+physical infrastructure issue 1
+their frequent flyer 1
+their own use 1
+their own time 1
+frequent flyer issue 1
+103-355. frequent flyer 1
+federal frequent flyer 1
+john h. anderson 1
+it adverse effect 1
+business travel news 1
+frequent flyer mile 1
+departmentwide frequent traveler 1
+their own property 1
+it overall air 1
+federal travel regulation,6 1
+it gain-sharing program 1
+appears limited comprehensive 1
+many foreign service 1
+
+ Unigram NP 
+government 27
+travel 27
+program 23
+gsa 22
+legislation 12
+section 12
+sec 11
+percent 11
+use 10
+company 10
+employee 10
+business 9
+u.s.c 9
+united 8
+justice 7
+contractor 7
+subsection 7
+survey 7
+dod 6
+irs 5
+association 5
+transportation 5
+service 5
+representative 5
+p.l 5
+office 4
+§ 4
+advantage 4
+administrator 4
+change 4
+title 4
+carrier 4
+code 4
+addition 4
+cash 4
+agency 4
+member 4
+department 4
+information 4
+note 3
+policy 3
+interior 3
+authority 3
+gen. 3
+comp 3
+flyer 3
+article 3
+contract 3
+april 3
+act 3
+lodging 3
+unit 3
+gao 3
+part 3
+general 3
+car 3
+capture 3
+congress 3
+management 3
+administration 2
+pursuant 2
+manager 2
+reluctance 2
+practice 2
+half 2
+d 2
+benefit 2
+amendment 2
+j 2
+see 2
+enclosure 2
+federal 2
+encourage 2
+bureau 2
+ability 2
+incident 2
+extent 2
+amount 2
+expense 2
+recruiting 2
+number 2
+morale 2
+area 2
+draft 2
+type 2
+share 2
+c 2
+july 2
+proposal 2
+behalf 2
+b 2
+air 2
+property 2
+private-sector 2
+c.f.r 2
+u.s 2
+access 2
+stat 2
+mileage 2
+consequence 2
+data 2
+statute 2
+time 2
+september 1
+oct. 1
+selection 1
+committee 1
+staff 1
+field 1
+disposal 1
+association's 1
+health 1
+oversight 1
+congressional 1
+b-257525 1
+top-quality 1
+responding 1
+judge 1
+conjunction 1
+government.2 1
+gift 1
+l. 1
+january 1
+experience 1
+contrast 1
+team 1
+senate 1
+mid-1990s 1
+government's 1
+proportion 1
+deal 1
+job 1
+house 1
+budget 1
+cost 1
+result 1
+year 1
+gain-sharing 1
+policy-and 1
+assistance 1
+gratuity 1
+per 1
+internet 1
+approach 1
+participation 1
+be 1
+disincentive 1
+u.s. 1
+pub 1
+difficulty 1
+beginning 1
+seventy 1
+care 1
+advance 1
+training 1
+contractor's 1
+industry 1
+success 1
+airline 1
+action 1
+frequent 1
+software 1
+secure 1
+parity 1
+regulations.8 1
+diem 1
+flexibility 1
+initiative 1
+fee 1
+publication 1
+remainder 1
+trend 1
+majority 1
+today 1
+headache 1
+flight 1
+hotel 1
+idea 1
+effort 1
+nov. 1
+account 1
+governmentwide 1
+accordance 1
+objective 1
+work 1
+jan. 1
+k 1
+issue 1
+guide 1
+e.g. 1
+promotional 1
+purpose 1
+need 1
+par 1
+variety 1
+cross 1
+b-199656 1
+jr. 1
+performance 1
+demotion 1
+conflict 1
+economy 1
+fare 1
+may 1
+refusal 1
+director 1
+b-215826 1
+512-2834 1
+position 1
+law 1
+class 1
+i 1
+request 1
+order 1
+portion 1
+benefits1 1
+
+ Arbitary length NP 
+federal acquisition streamlining act 2
+foreign service officer association 2
+federal frequent traveler policy 1
+david m. walker comptroller general 1
+federal property management regulations5 1
+national business travel association 1
+national treasury employee union 1
+official travel is difficult 1
+government employee incentive award act 1
+joint federal travel regulations,7 1

@@ -1,0 +1,102 @@
+
+ Bigram NP 
+it client 1
+san gabriel 1
+irene mak 1
+cultural isolation 1
+cultural expertise 1
+cultural diversity 1
+competitive grant 1
+neal dubovitz 1
+free consumer 1
+my language 1
+common language 1
+domestic violence 1
+rebecca yee 1
+el monte 1
+legal representation 1
+significant part 1
+private law 1
+our goal 1
+simple telephone 1
+matt myerhoff 1
+asian communities' 1
+asian population 1
+los angeles 1
+san gabriel-pomona 1
+hong kong 1
+federal agency 1
+
+ Trigram NP 
+neighborhood legal service 1
+legal service corp. 1
+legal service program 1
+
+ Unigram NP 
+nls 8
+family 2
+attorney 2
+service 2
+agency 2
+percent 2
+legal 2
+pasadena 2
+mandarin 2
+poverty 2
+dudovitz 2
+mak 2
+thai 2
+program 1
+money 1
+lack 1
+share 1
+community 1
+month 1
+obstacle 1
+cambodia 1
+spanish 1
+partner 1
+line 1
+speak 1
+living 1
+law 1
+court 1
+office 1
+vietnamese 1
+housing 1
+labor 1
+health 1
+korean 1
+latino 1
+advice 1
+pomona 1
+firm 1
+dubovitz 1
+khmer 1
+executive 1
+cantonese 1
+tagalog 1
+year 1
+yee 1
+u.s. 1
+friday 1
+immigration 1
+expansion 1
+number 1
+director 1
+job 1
+part 1
+thailand 1
+july 1
+population 1
+language 1
+area 1
+united 1
+project 1
+april 1
+base 1
+handful 1
+english 1
+asian 1
+
+ Arbitary length NP 

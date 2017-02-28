@@ -1,0 +1,493 @@
+
+ Bigram NP 
+program letter 12
+task force 11
+lsc board 10
+lsc president 8
+vice president 7
+state planning 6
+review process 5
+competitive bidding 5
+lsc act 4
+face-to-face meeting 4
+legal assistance 4
+new approach 3
+their state 3
+high quality 3
+designated state 3
+l. no 3
+appropriation act 2
+final decision 2
+final report 2
+our society 2
+local bar 2
+service area 2
+their case 2
+additional information 2
+new jersey 2
+their progress 2
+other information 2
+efficient delivery 2
+effective delivery 2
+our government 2
+due consideration 2
+civil justice 2
+practical thereafter 2
+equal opportunity 2
+federal investment 1
+magic number 1
+virgin island 1
+justice broderick 1
+it twin 1
+current climate 1
+regulatory structure 1
+crucial symbiosis 1
+cost-effective way 1
+puerto rico 1
+reasoned judgment 1
+federal register 1
+cost-effective use 1
+annual budget 1
+additional state 1
+considerable detail 1
+cost-effective manner 1
+single delivery 1
+wide service 1
+reconfiguration re 1
+broad consensus 1
+serious consideration 1
+clear review 1
+under-represented com 1
+reconfiguration decision 1
+important way 1
+possible time 1
+effective client 1
+full communication 1
+informa- tion 1
+new service 1
+effective communication 1
+appropriate configuration 1
+parochial thinking 1
+legal review 1
+central role 1
+equal access 1
+considerable progress 1
+it service 1
+punitive measure 1
+overwhelming majority 1
+general counsel 1
+program letters16 1
+bottom-line consideration 1
+vast majority 1
+our nation 1
+effective consideration 1
+diverse clientele 1
+legal work 1
+my service 1
+major overhaul 1
+legal self-help 1
+james head 1
+it deadline 1
+jonathan ross 1
+affected state 1
+new accountability 1
+ernestine watlington 1
+legal affair 1
+legal service 1
+full opportunity 1
+multiple service 1
+active partner 1
+significant emphasis 1
+particular state 1
+historical happenstance 1
+new symbiosis 1
+other field 1
+relevant state 1
+pert assistance 1
+va. broderick 1
+statewide program 1
+congressional district 1
+denied access 1
+federal provider 1
+new vision 1
+specific area 1
+strategic direction 1
+political redistricting 1
+new york 1
+congress lsc's 1
+new vision15 1
+active role 1
+corporation a 1
+lsc resolution 1
+annual investment 1
+fy2002 appropriation 1
+corporation act 1
+our system 1
+competitive selection 1
+it grant 1
+legal aid 1
+studied determination 1
+their delivery 1
+same year 1
+conclusion congressional 1
+current approach 1
+indigent defendant 1
+year ii 1
+my state 1
+effective state 1
+ultimate appeal 1
+randi youells 1
+standing committee 1
+equal justice 1
+acting director 1
+major reform 1
+direct impact 1
+u.s. house 1
+jeanne charn 1
+section iv 1
+interim report 1
+proper exercise 1
+one-third reduction 1
+appeal lsc 1
+fundamental paradigm 1
+general rule 1
+general outline 1
+annual appropriation 1
+defender association 1
+effective usage 1
+enumerated reconfiguration 1
+individual states' 1
+precise configuration 1
+short order 1
+nonprofit corporation 1
+optimal configuration 1
+fundamental shift 1
+official framework 1
+integrated state 1
+major change 1
+entire state 1
+presumptive refunding 1
+reconfiguration september 1
+
+ Trigram NP 
+state planning initiative 7
+civil equal justice 4
+omnibus consolidated rescission 2
+american bar association 2
+lsc vice president 2
+national legal aid 1
+lawyer trust account 1
+reconfiguration review process 1
+same political party.1 1
+effective legal assistance 1
+state planning report 1
+state justice communi- 1
+report on lsc 1
+state planning consideration 1
+congress state planning 1
+lsc task force 1
+unmet legal need 1
+it statutory authority 1
+house appropriation subcommittee 1
+civil legal assistance 1
+lsc special report 1
+state planning process 1
+their pro gram 1
+melville d. miller 1
+it statutory responsibility 1
+hulett h. askew 1
+fair adversarial justice 1
+program letter 01-4 1
+michael a. genz 1
+acting vice president 1
+maria luisa mercado 1
+reconfiguration standard congress 1
+clinical legal education 1
+their own state 1
+it own reconfiguration 1
+a task force 1
+assistant inspector general 1
+continued federal funding.5 1
+harvard law school 1
+h. rep. no 1
+lsc annual appropriation 1
+various equal justice 1
+it statutory right 1
+drug-related public housing 1
+adequate legal counsel 1
+enforcement alice dickerson 1
+
+ Unigram NP 
+lsc 81
+state 59
+service 34
+planning 29
+area 20
+configuration 19
+reconfiguration 16
+dspb 14
+congress 13
+program 12
+process 12
+director 11
+access 10
+system 10
+report 8
+justice 8
+team 7
+committee 6
+review 6
+legal 6
+delivery 6
+vp 6
+information 6
+development 6
+plan 6
+study 5
+number 5
+july 5
+corporation 5
+request 5
+decision 5
+stat 4
+recommendation 4
+reconsideration 4
+funding 4
+body 4
+pub 4
+right 4
+u.s.c 4
+id 4
+president 4
+september 3
+board 3
+judiciary 3
+iolta 3
+meeting 3
+october 3
+budget 3
+field 3
+implementation 3
+client 3
+coordination 2
+staff 2
+lsc's 2
+guidance 2
+appropriation 2
+level 2
+recognition 2
+aba 2
+fact 2
+progress 2
+responsiveness 2
+training 2
+shift 2
+community 2
+quality 2
+indiana 2
+efficacy 2
+commerce 2
+country 2
+manner 2
+technology 2
+united 2
+mechanism 2
+potential 2
+document 2
+advice 2
+june 2
+letter 2
+opportunity 2
+response 2
+model 2
+consent 1
+concern 1
+mission 1
+deadline 1
+human 1
+illinois 1
+increase 1
+anticipation 1
+contracts19 1
+majority 1
+april 1
+micronesia 1
+passage 1
+proposal.11 1
+finally 1
+bodies21 1
+maryland 1
+fy01 1
+allocation 1
+disagreement 1
+preference 1
+resource 1
+provision 1
+condition 1
+million.6 1
+february 1
+capacity 1
+pertinent 1
+submission 1
+success 1
+january 1
+hawaii 1
+consensus 1
+collect 1
+benefit 1
+interim 1
+release 1
+massachusetts 1
+page 1
+view 1
+respond 1
+requirement 1
+set 1
+financial 1
+appropria- 1
+senate 1
+series 1
+creation 1
+communication 1
+redress 1
+design 1
+perspective 1
+operation 1
+belief 1
+information-sharing 1
+directive 1
+evictions.4 1
+integration 1
+thoroughreexamination 1
+importance 1
+nlada 1
+injustice 1
+public 1
+congress' 1
+august 1
+grant-making 1
+host 1
+base 1
+california 1
+extent 1
+sixty 1
+consideration 1
+faith 1
+central 1
+d.c 1
+compliance 1
+florida 1
+contract 1
+initiate 1
+range 1
+fy2001 1
+act 1
+action 1
+correspondences.12 1
+schemes.13 1
+scope 1
+first 1
+duty 1
+nevada 1
+alexandria 1
+colorado 1
+statewide 1
+overview 1
+guam 1
+washington 1
+county 1
+promise 1
+effort 1
+respect 1
+pledge 1
+sess 1
+america 1
+district 1
+engagement 1
+question 1
+class 1
+interest 1
+vi 1
+proposal 1
+territory 1
+legislation 1
+direction 1
+corresponding 1
+totality 1
+jr. 1
+georgia 1
+serve 1
+cong. 1
+part 1
+consult 1
+e 1
+iii 1
+figuration 1
+intake 1
+high-quality 1
+abortion 1
+kentucky 1
+impasse 1
+planners' 1
+aid 1
+example 1
+community.3 1
+binding 1
+iv 1
+governmental 1
+goal 1
+variety 1
+purpose 1
+arrangement 1
+pag 1
+objective 1
+principle 1
+product 1
+columbia 1
+may 1
+missouri 1
+virginia 1
+programs' 1
+law 1
+clasp 1
+building 1
+bar 1
+l. 1
+reform 1
+analysis 1
+order 1
+way 1
+responsibility 1
+comprise 1
+time 1
+con 1
+resolution 1
+prevention 1
+
+ Arbitary length NP 
+corporate secretary mauricio vivero 1
+information resource management laurie tarantowicz 1
+vice chair hulett h. askew john t. broderick 1
+numerous other targeted field 1
+the state planning process lsc 1
+related agency appropriation act 1
+administration danilo a. cardona 1
+new hampshire supreme court justice john t. broderick 1
+introduction legal service corporation 1
+acting inspector general david c. maddox 1
+foster effective legal assistance 1
+south carolina bar association 1
+board of director management and administration office of inspector general douglas s. eakeley 1
+mccalpinmaria luisa mercado nancy h. rogers thomas f. smegal 1
+other civil equal justice 1
+program performance john c. meyer 1
+program david l. richardson 1
+v. reconfiguration review process 1
+chair laveeda morgan battle 1
+information technology leonard j. koczur 1
+jr. john n. erlenborn edna fairbanks-williams f. wm 1
+jr. ernestine p. watlington john n. erlenborn 1
+information management leslie q. russell 1
+president victor m. fortuno 1
+lsc's reconfiguration review process 1
+lsc convenes reconfiguration task force 1

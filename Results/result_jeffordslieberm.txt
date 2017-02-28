@@ -1,0 +1,838 @@
+
+ Bigram NP 
+marginal cost 11
+same time 9
+phase ii 6
+other hand 6
+personal consumption 6
+advanced technology 5
+full implementation 5
+john a 5
+economic analysis 5
+electric utility 4
+scenario d 4
+national commitment 4
+clean energy 4
+standard technology 3
+actual scenario 3
+american council 3
+different technology 3
+electric power 3
+renewable energy 3
+annual rate 3
+sulfur dioxide 3
+wide variety 3
+electric generation 3
+increased spending 3
+energy-efficient equipment 3
+economic growth 3
+alternative technology 3
+general equilibrium 3
+energy efficiency 2
+similar pattern 2
+primary energy 2
+restrictive technology 2
+combined effect 2
+nation's electricity 2
+nationwide restructuring 2
+net effect 2
+significant increase 2
+michael ruth 2
+moderate scenario 2
+energy star 2
+cost-of-service pricing 2
+kyoto protocol 2
+energy-efficiency demand 2
+cef moderate 2
+scenario c 2
+same level 2
+ernst worrell 2
+full set 2
+donald a 2
+total electricity 2
+gas-fired generation 2
+stephen bernow 2
+• reduce 2
+electric generating 2
+significant review 2
+economic impact 2
+demand-side policy 2
+industrial sector 2
+technology scenario 2
+amiga system 2
+improved efficiency 2
+steady reduction 2
+advanced scenario 2
+tellus institute 2
+different mix 2
+little change 1
+full reporting 1
+natural gas 1
+nox emission 1
+unanswered question 1
+separate policy 1
+considerable controversy 1
+key energy 1
+modular design 1
+context recent 1
+near future 1
+overall mix 1
+small pool 1
+walter short 1
+incremental program 1
+rff anthology 1
+high efficiency 1
+proper characterization 1
+complete context 1
+analytical perspective 1
+desired level 1
+economic flexibility 1
+administrator whitman 1
+additional detail 1
+additional government 1
+productivity benefit 1
+maximum market 1
+their analysis 1
+same degree 1
+distorting tax 1
+real return.1 1
+efficient equipment 1
+other policy 1
+current study 1
+quadrillion btu 1
+detailed study 1
+december eia 1
+potential benefit 1
+normal market 1
+implicit discount 1
+cge model 1
+environmental quality 1
+sacrificed consumption 1
+significant part 1
+full accounting 1
+various emission 1
+200-sector computer 1
+total consumption 1
+resulting baseline 1
+international project 1
+key scenario 1
+advanced equipment 1
+gas-fired cogeneration 1
+traditional cost 1
+expensive electricity 1
+senator lieberman 1
+optimistic technology 1
+rebuild america 1
+low-carbon energy 1
+gregory p. 1
+non-utility generation 1
+substantial emission 1
+total cost 1
+following page 1
+marilyn brown 1
+so2 reduction 1
+direct investment 1
+full-employment solution 1
+acid rain 1
+small amount 1
+impact table 1
+historical data 1
+additional cost 1
+current reporting 1
+last year 1
+mere existence 1
+expected level 1
+alan sanstad 1
+economic activity 1
+complete analysis 1
+their request 1
+b. calibrating 1
+economic output 1
+macroeconomic system 1
+their consumption 1
+combined heat 1
+little documentation 1
+extensive review 1
+simple difference 1
+same year 1
+taxable income 1
+economy-wide coverage 1
+accelerated penetration 1
+moderate supply 1
+national energy 1
+advanced case 1
+double count 1
+complete assessment 1
+economic assessment 1
+post-2007 period 1
+rn newell 1
+reduced demand 1
+appropriate analysis 1
+additional appliance 1
+industrial assessment 1
+carbon reduction 1
+average cost 1
+regulated facility 1
+standard scenario 1
+benchmark emission 1
+pew center 1
+appropriate model 1
+scenario analysis 1
+study scenario 1
+same kind 1
+logical result 1
+nitrogen oxide 1
+paul baer 1
+kathleen hogan 1
+co2 reduction 1
+different policy 1
+final value 1
+careful targeting 1
+comprehensive list 1
+small decrease 1
+productivity improvement 1
+additional emission 1
+net generation 1
+commercial sector 1
+sector-by-sector assessment 1
+cost-effective emission 1
+projected electricity 1
+specific percentage 1
+advanced industrial 1
+nox reduction 1
+william dougherty 1
+consequent impact 1
+economy-wide impact 1
+skip laitner 1
+technical assistance 1
+main application 1
+advanced supply 1
+critical assumption 1
+electricity consumption 1
+climate change 1
+national income 1
+congressional request 1
+available emission 1
+meaningful analysis 1
+mercury emission 1
+• electricity 1
+hg reduction 1
+lynn price 1
+standard case 1
+carbon dioxide 1
+demand-side efficiency 1
+sivan kartha 1
+so2 emission 1
+ma toman 1
+flexible structure 1
+joseph lieberman 1
+additional spending 1
+gradual reduction 1
+senator jeffords 1
+relative cost 1
+overall estimate 1
+logical choice 1
+moderate level 1
+benefit side 1
+policy analysis 1
+modest comeback 1
+efficient technology 1
+aleksandr rudkevich 1
+coordinated climate 1
+future work 1
+underlying technology 1
+historic behavior 1
+model structure 1
+critical aspect 1
+large number 1
+current generation 1
+specific capital 1
+rough estimation 1
+integrated analysis 1
+overall cost 1
+coordination study 1
+analytic basis 1
+other government 1
+various permit 1
+energy price 1
+systematic effort 1
+further clarity 1
+donald hanson 1
+complete documentation 1
+michael lazarus 1
+environment conference 1
+employment impact 1
+historical period 1
+additional research 1
+economic modeling 1
+actual emission 1
+different modeling 1
+total energy 1
+critical research 1
+complete database 1
+radiation office 1
+added spending 1
+technology assumption 1
+careful planning 1
+amiga model 1
+new capacity 1
+reference case 1
+appropriate framework 1
+stephen j. 1
+efficient coal 1
+low carbon 1
+projection all 1
+academic journal 1
+anticipated energy 1
+executive summary 1
+overall productivity 1
+increased number 1
+el cerrito 1
+recent past 1
+policy integration 1
+/metric ton 1
+electricity generation 1
+palo alto 1
+5-year ramp-up 1
+carbon emission 1
+final intensity 1
+stephen decanio 1
+rachel cleetus 1
+potential loss 1
+incremental policy 1
+rn stavins 1
+cost-shared research 1
+other productivity 1
+state-of-the-art modeling 1
+energy-efficient and/or 1
+
+ Trigram NP 
+clean energy future 8
+energy information administration 6
+argonne national laboratory 4
+gross domestic product 4
+interlaboratory working group 3
+energy information agency 2
+information science division 2
+environmental protection agency 2
+cef advanced scenario 2
+standard technology scenario 2
+cef advanced case 2
+economic impact analysis 2
+dotted horizontal line 2
+joseph m. roop 2
+advanced technology scenario 2
+high technology scenario 2
+industry growth assessment 2
+argonne unit planning 2
+james m. jeffords 2
+joseph i. lieberman 2
+waste management association 1
+global climate change 1
+it respective reference 1
+economic growth model 1
+assumed emission cap 1
+mark d. levine 1
+net positive benefit 1
+following multi-pollutant emission 1
+robert w. schultz 1
+salt lake city 1
+reference case scenario 1
+fossil fuel generation 1
+current analytical framework 1
+same plant-level coverage 1
+energy policy vol 1
+jonathan g. koomey 1
+integrated planning model 1
+total electric generation 1
+annual energy outlook 1
+cost effective energy-efficient 1
+greenhouse gas emission 1
+reference case projection 1
+their multi-pollutant analysis 1
+other independent power 1
+climate change economics 1
+their resulting impact 1
+second missing benefit 1
+reduce carbon pollution 1
+vertical dotted line 1
+new combined cycle 1
+u.s. energy market 1
+first omitted benefit 1
+relevant economic literature 1
+environmental taxation issue 1
+multi-emissions strategy prepared 1
+michael j. scott 1
+coal-fired electric generation 1
+clean air act 1
+atmospheric program october 1
+sustainable energy path 1
+benchmark emission level 1
+lbnl-44029 oak ridge 1
+stockholm environment institute 1
+multi-emission target table 1
+u electricity trend 1
+new intertemporal optimization 1
+annual global conference 1
+strong national commitment 1
+
+ Unigram NP 
+scenario 72
+% 59
+electricity 51
+technology 39
+case 38
+reference 37
+cef 35
+analysis 35
+amiga 33
+policy 29
+emission 27
+epa 27
+energy 26
+program 25
+model 25
+percent 21
+generation 19
+year 18
+aeo2001 18
+cost 17
+carbon 17
+spending 17
+level 16
+supply 16
+d 16
+consumption 15
+nox 15
+mercury 15
+system 15
+eia 15
+example 14
+efficiency 14
+reduction 14
+demand 14
+so2 14
+use 13
+report 13
+development 13
+market 13
+a 12
+economy 12
+b 12
+sector 11
+availability 11
+control 10
+figure 10
+research 10
+increase 10
+washington 10
+investment 9
+date 9
+dc 9
+gdp 9
+al 9
+power 8
+study 8
+production 8
+combination 8
+request 8
+co2 8
+future 8
+period 8
+laitner 7
+transportation 7
+change 7
+assessment 7
+tax 7
+information 7
+u.s. 7
+r 7
+impact 7
+decline 7
+industry 7
+cap 6
+dioxide 6
+• 6
+performance 6
+consumer 6
+modeling 6
+c 6
+addition 6
+effect 6
+start 6
+skip 5
+capital 5
+compliance 5
+appendix 5
+coal 5
+price 5
+letter 5
+title 5
+fuel 5
+result 5
+characterization 5
+air 5
+behavior 5
+iv 5
+penetration 5
+government 5
+unit 4
+may 4
+argonne 4
+nitrogen 4
+nation 4
+half 4
+bank 4
+side 4
+number 4
+assumption 4
+equipment 4
+ca 4
+mix 4
+table 4
+proceeding 4
+october 4
+variety 4
+hanson 4
+u 4
+brown 3
+permit 3
+ipm 3
+flexibility 3
+pollutant 3
+december 3
+household 3
+nems 3
+description 3
+response 3
+trade 3
+health 3
+million/ton 3
+introduction 3
+target 3
+note 3
+implementation 3
+set 3
+respect 3
+gas 3
+deployment 3
+senate 3
+employment 3
+decision 3
+expansion 3
+lieberman 3
+range 3
+pollution 3
+heat 3
+hg 3
+time 3
+d. 2
+adjustment 2
+parry 2
+jeffords 2
+rate 2
+section 2
+decanio 2
+bailie 2
+operating 2
+berkeley 2
+november 2
+decrease 2
+total 2
+ma 2
+share 2
+united 2
+end 2
+endorsement 2
+purchase 2
+order 2
+september 2
+practice 2
+framework 2
+reduce 2
+funding 2
+evaluation 2
+ton 2
+percentage 2
+kind 2
+boston 2
+need 2
+potential 2
+effectiveness 2
+fact 2
+sulfur 2
+summary 2
+banking 2
+drawdown 2
+module 2
+intensity 2
+august 2
+country 2
+april 2
+allowance 2
+sullivan 2
+kwh 2
+dispatch 2
+ct 2
+maintenance 2
+krause 2
+vt 2
+il 2
+productivity 2
+oil 2
+presumption 2
+world 2
+economic 2
+peter 2
+business 2
+koomey 2
+utility 2
+way 2
+regard 2
+line 2
+finman 2
+jaffe 2
+private-sector 2
+strengthening 2
+influence 2
+detail 2
+june 2
+a. 2
+dollar 1
+focus 1
+responsiveness 1
+graph 1
+technique 1
+tn 1
+charge 1
+al. 1
+rise 1
+transmission 1
+accumulation 1
+trend 1
+fossil 1
+exercise 1
+consideration 1
+interindustry 1
+search 1
+e-grid 1
+credit 1
+amount 1
+motor 1
+chp 1
+asset 1
+vehicle 1
+scope 1
+doubling 1
+jonathan 1
+foregone 1
+benchmark 1
+varying 1
+effort 1
+equation 1
+work 1
+oxide 1
+process 1
+income.2 1
+arise 1
+delay 1
+s. 1
+stock 1
+administrator 1
+sr/oiaf/2000-05 1
+mapping 1
+coal-fired 1
+attempt 1
+oates 1
+peer-review 1
+explicit 1
+representation 1
+wind 1
+sr/oiaf/2001-05 1
+office 1
+fall 1
+meter 1
+irene 1
+tendency 1
+labor 1
+sector-spending 1
+james 1
+labeling 1
+magnitude 1
+status 1
+series 1
+operation 1
+profit 1
+demandside 1
+activity 1
+standard 1
+difficulty 1
+reason 1
+management 1
+ask 1
+estimate 1
+definition 1
+language 1
+turn 1
+hence 1
+multi-emission 1
+quality 1
+size 1
+service 1
+top 1
+hodayah 1
+speaking 1
+shell 1
+fraction 1
+memo 1
+part 1
+july 1
+diffusion 1
+accordance 1
+bea 1
+see 1
+multisector 1
+historical 1
+demonstration 1
+efficient 1
+electric 1
+successive 1
+epri 1
+tr-1000097 1
+doe-sponsored 1
+doe 1
+epa-240-r-00-003 1
+selection 1
+energyefficient 1
+trade-off 1
+producer 1
+sr/oiaf/98-03 1
+hierarchy 1
+factor 1
+jae 1
+leisure 1
+volatility 1
+cents/kwh 1
+withdrawal 1
+aeo 1
+btu 1
+sensitivity 1
+subject 1
+capacity 1
+pattern 1
+quadrillion 1
+bureau 1
+routine 1
+//www.epa.gov/airmarkets/egrid/factsheet.html 1
+approach 1
+importance 1
+constraints-but 1
+complement 1
+preprocessor 1
+extent 1
+marilyn 1
+installation 1
+reasonableness 1
+context 1
+contribution 1
+load 1
+ab 1
+basis 1
+trajectory 1
+strategy 1
+mitigation 1
+kilowatt-hour 1
+climate 1
+expenditure 1
+wholesale/retail 1
+bill 1
+balance 1
+vol 1
+baseline 1
+journal 1
+composition 1
+http 1
+hand 1
+macroeconomic 1
+transaction 1
+database 1
+left 1
+w.e 1
+measures.7 1
+retirement 1
+improvement 1
+adoption 1
+usage 1
+transformation 1
+background 1
+loss 1
+success 1
+identifying 1
+signal 1
+comparability 1
+t 1
+january 1
+right 1
+i.w.h 1
+donald 1
+lead 1
+assembly 1
+equivalent 1
+comparison 1
+simulation 1
+presence 1
+commitment 1
+appropriate 1
+alison 1
+area 1
+low-carbon 1
+building 1
+volume 1
+spending.5 1
+type 1
+energy-efficiency 1
+florentin 1
+tucson 1
+growth 1
+ornl/con-476 1
+mtc 1
+distribution 1
+evidence 1
+az 1
+case.3 1
+role 1
+bundle 1
+scrutiny 1
+structure 1
+billion 1
+assume 1
+
+ Arbitary length NP 
+lawrence berkeley national laboratory 3
+oak ridge national laboratory 2
+clean energy future scenario 2
+aceee industrial summer study 2
+u environmental protection agency 2
+clean air act amendment 1
+generation resource integrated database 1
+aceee summer study proceeding 1
+joseph i. lieberman u.s. environmental protection agency office 1
+all modular industry growth assessment 1
+moderate cef scenario assumption 1
+clean energy future advanced scenario 1
+electric power research institute 1
+technology assumption scenario a 1
+epa administrator christine todd whitman 1
+senator james m. jeffords 1
+national renewable energy laboratory 1
+energy information administration's national energy modeling system 1
+eia's standard technology scenario 1
+national energy modeling system 1
+cef moderate case scenario 1
+electric generation expenditure given 1
+climate change policy analysis 1
+cost-effective energy saving potential using conservation supply curve 1
+clean energy future report's 1
+advanced cef scenario assumption 1
+false tradeoff between environmental protection 1
+cef advanced technology scenario building 1

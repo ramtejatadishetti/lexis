@@ -1,0 +1,95 @@
+
+ Bigram NP 
+ice miller 3
+supreme court 2
+free help 2
+art kalleres 1
+indianapolis star 1
+qualified person 1
+long way 1
+second-largest firm 1
+companywide goal 1
+john floreancig 1
+general counsel 1
+cathy nestrick 1
+free time 1
+john maley 1
+financial compensation 1
+large law 1
+legal advice 1
+legal help 1
+legal aid 1
+important precedent 1
+their time 1
+status-quo obligation 1
+similar work 1
+eli lilly 1
+new policy 1
+
+ Trigram NP 
+free legal service 1
+legal aid society 1
+rus rizzo august 1
+
+ Unigram NP 
+work 8
+year 5
+firm 5
+state 4
+need 3
+indianapolis 3
+time 3
+lawyer 2
+partner 2
+thornburg 2
+city 2
+burke 2
+definition 2
+sort 1
+neighborhood 1
+help 1
+week-and-a-half 1
+community 1
+oswald 1
+smaller 1
+message 1
+clock 1
+decade 1
+story 1
+maley 1
+area 1
+managing 1
+barnes 1
+question 1
+cinergy 1
+daniel 1
+bamberger 1
+policy 1
+evansville 1
+co. 1
+everybody 1
+foreman 1
+monday 1
+dreyer 1
+job 1
+part 1
+bar 1
+law 1
+association 1
+matter 1
+case 1
+parttime 1
+hahn 1
+bill 1
+floreancig 1
+person 1
+client 1
+landlord 1
+representation 1
+problem 1
+baker 1
+fact 1
+
+ Arbitary length NP 
+heartland pro bono council 1
+marion county superior court judge david j. dreyer 1

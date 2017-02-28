@@ -1,0 +1,473 @@
+
+ Bigram NP 
+vice president 24
+comptroller general 16
+vice president«s 11
+house committee 7
+legislative history 5
+his capacity 5
+public money 5
+legislative branch 3
+our study 3
+executive privilege 3
+government reform 3
+attorney general 3
+statutory language 3
+general counsel 2
+statutory authority 2
+civil action 2
+basic authority 2
+sensitive information 2
+president clinton 2
+supreme court 2
+congressional oversight 2
+army corp 2
+broad authority 2
+reasonable time 2
+their view 1
+his assertion 1
+gao«s attempt 1
+legal authority 1
+full discussion 1
+snake river 1
+final program 1
+it right 1
+environmental impact 1
+different access 1
+senate comm 1
+broad interpretation 1
+presidential memorandum 1
+information act.≈20 1
+legal right 1
+our letter 1
+full access 1
+it expansiveness 1
+other establishment 1
+ample authority 1
+his focus 1
+independent commission 1
+initial meeting 1
+our view 1
+our examination 1
+prior administration 1
+same language 1
+relevant term 1
+judicial enforcement 1
+economic advisers.17 1
+federal service 1
+information act 1
+mutual accommodation.6 1
+meaningful review 1
+government.≈ given 1
+d.c. cir 1
+our part 1
+narrow view 1
+executive branch.≈ 1
+it support 1
+professional staff 1
+federal government 1
+governmental affair 1
+our oversight 1
+national energy 1
+anthony gamboa 1
+essential information 1
+executive director 1
+other equipment 1
+executive privilege.4 1
+gao legislation 1
+our request 1
+extensive listing 1
+economic advisor 1
+your assistance 1
+president reagan 1
+president reagan«s 1
+justice department 1
+it audit 1
+legal counsel 1
+gao«s july 1
+american telephone 1
+our authority 1
+his calendar 1
+substantial question 1
+broad discretion 1
+government operation 1
+sole function 1
+following information 1
+non-deliberative information 1
+gao/rced-00-45 april 1
+see enclosure 1
+nuclear proliferation 1
+telegraph co. 1
+executive office 1
+other information 1
+comprehensive authority 1
+b-287944 august 1
+congressional oversight.13 1
+ƒºmak [ 1
+ƒthe president 1
+deliberative process 1
+ƒserious access 1
+key purpose 1
+accounting act 1
+other executive 1
+applicable law 1
+constitutional officer 1
+white house 1
+important matter 1
+broad variety 1
+record gao 1
+complete access 1
+our access 1
+rep. no 1
+timely manner 1
+potential power 1
+our inspection.3 1
+ƒcomptroller general«s 1
+your time 1
+narrow interpretation 1
+our inquiry 1
+forest service 1
+ƒhis conduct 1
+narrow construction 1
+formal claim 1
+it oversight 1
+white house.≈ 1
+international space 1
+executive branch 1
+their role 1
+numerous phone 1
+our review 1
+overall thrust 1
+
+ Trigram NP 
+national energy policy 7
+vice president«s august 5
+s. rep. no 4
+vice president«s counsel 4
+principal legislative history 2
+ranking minority member 2
+white house counsel 2
+tonga national forest 2
+his personal schedule 2
+gao«s statutory right 1
+environmental protection agency 1
+legislative reorganization act 1
+ƒ [ t 1
+certain factual information 1
+henry a. waxman 1
+my own authority 1
+our standard practice 1
+governmental activity−the establishment 1
+health care reform 1
+david s. addington 1
+independent congressional entity.≈ 1
+my ƒlawful authority≈ 1
+white house fellow 1
+general accounting office 1
+certain special conditions.19 1
+[ w ] 1
+it legislative history 1
+vice president enclosure 1
+
+ Unigram NP 
+gao 51
+nepdg 29
+information 26
+gao«s 24
+letter 23
+congress 21
+authority 19
+president 18
+access 17
+section 16
+agency 15
+review 13
+u.s.c 12
+group 11
+executive 10
+process 10
+united 10
+june 10
+chair 9
+b 9
+statute 9
+staff 8
+report 8
+request 8
+support 7
+law 7
+government 6
+term 6
+d 6
+counsel 6
+branch 6
+energy 5
+august 5
+u.s.c.c.a.n 5
+ƒagency≈ 5
+use 5
+july 5
+example 5
+office 4
+functioning 4
+nature 4
+accommodation 4
+study 4
+act 4
+disclosure 4
+may 4
+director 4
+certification 4
+title 3
+oversight 3
+activity 3
+withheld 3
+senate 3
+result 3
+enclosure 3
+constitution 3
+omb 3
+management 3
+relevant 3
+confidentiality 3
+provision 3
+question 3
+suit 3
+scope 3
+record 3
+head 3
+commerce 3
+budget 3
+work 3
+ƒresults≈ 3
+role 3
+description 3
+plan 3
+audit 3
+faca 3
+order 3
+position 3
+codification 2
+pursuant 2
+president«s 2
+assertion 2
+program 2
+counsel«s 2
+policy 2
+≈ 2
+submission 2
+indication 2
+right 2
+chronology 2
+ability 2
+matter 2
+federal 2
+public 2
+power 2
+subject 2
+reason 2
+c 2
+freedom 2
+april 2
+type 2
+district 2
+addition 2
+privilege 2
+enforcement 2
+statement 2
+case 2
+plain 2
+paragraph 2
+council 2
+phrase 2
+court 2
+end 2
+regard 2
+effect 2
+meaning 2
+date 2
+response 2
+land 2
+e 2
+analysis 2
+mean 2
+fact 2
+breadth 1
+code 1
+interpretation 1
+serviceman 1
+purview 1
+misconstruction 1
+focus 1
+far-reaching 1
+proposition 1
+ƒ 1
+committee 1
+assessment 1
+reasoning 1
+ƒcertification≈ 1
+cell 1
+unemployment 1
+reluctance 1
+location 1
+inquiry 1
+penetrating 1
+dispute 1
+identical 1
+statutes≈ 1
+congress« 1
+documentation.15 1
+practice 1
+dc 1
+number 1
+ƒpreservation 1
+disbursement 1
+desk 1
+activities.8 1
+multiple 1
+gao-01-576r 1
+presidential 1
+delivery 1
+level 1
+ƒany 1
+comity 1
+continued… 1
+officer 1
+programs.14 1
+release 1
+secretary 1
+subcomm 1
+house 1
+receipt 1
+see 1
+growth 1
+design 1
+law≈ 1
+operation 1
+constitution.≈ 1
+propulsion 1
+ƒis 1
+necessity 1
+nepdg«s 1
+bureau 1
+reply 1
+evaluation 1
+participation 1
+station 1
+attention 1
+u.s. 1
+view 1
+pp 1
+possibility 1
+drawing 1
+opposition 1
+[ 1
+results≈ 1
+thank 1
+piece 1
+eastland 1
+language 1
+face 1
+success 1
+contract 1
+amount 1
+objective 1
+action 1
+department 1
+appropriateness 1
+purpose 1
+duty 1
+] 1
+instrumentality≈ 1
+legislation 1
+app 1
+period 1
+exercise 1
+nothing 1
+requires.≈ 1
+respect 1
+kind 1
+• 1
+area 1
+twenty 1
+board 1
+doubt 1
+act16 1
+interest 1
+assistance 1
+meeting 1
+extent 1
+authority.18 1
+explanation 1
+appropriation 1
+problem 1
+gao/rced-00-186 1
+fund 1
+part 1
+investigation 1
+exemption 1
+copy 1
+effort 1
+institution 1
+consist 1
+accordance 1
+official 1
+impasse 1
+h.r 1
+meet 1
+branch.≈ 1
+dollar 1
+compromise 1
+gathering 1
+e.g. 1
+ƒdepartment 1
+evidence 1
+privilege≈ 1
+manner 1
+cong 1
+id 1
+f. 1
+legislate 1
+filing 1
+litigation 1
+detail 1
+mechanism 1
+event 1
+issue 1
+nasa 1
+forest 1
+interior 1
+concern 1
+establishment 1
+development 1
+administrator 1
+columbia 1
+who 1
+v. 1
+information.2 1
+§716 1
+opportunity 1
+results.≈ 1
+contact 1
+module,10 1
+time 1
+resolution 1
+furthermore 1
+
+ Arbitary length NP 
+general accounting office act 2
+deputy assistant attorney general 1
+international space station propulsion module procurement process 1
+white house china trade relation working group 1
+david m. walker comptroller general 1
+federal advisory committee act 1
+lower snake river dam 1
+representative john d. dingell 1
+general accounting office washington 1
+republican ranking minority member 1
+draft environmental impact statement 1
+dear mr. vice president 1
+national energy policy development group 1
+gao«s basic audit authority gao«s 1
+president clinton«s task force 1
+white house counsel«s office 1

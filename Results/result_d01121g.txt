@@ -1,0 +1,132 @@
+
+ Bigram NP 
+electronic environment 3
+your request 3
+federal law 3
+electronic evidence 3
+inspector general 2
+special investigation 2
+criminal investigator 2
+e-mail address 1
+electronic law 1
+federal bureau 1
+preceding letter 1
+your name 1
+investigative tool 1
+• cryptography 1
+joint project 1
+various law 1
+significant assistance 1
+space administration 1
+new york 1
+esp group 1
+tax administration 1
+basic cryptography 1
+hard copy 1
+washington d.c. 1
+southern district 1
+sensitive information 1
+appendixes augment 1
+illegal online 1
+useful aid 1
+digital signature 1
+national aeronautics 1
+your assistance 1
+kevin manson 1
+encrypted format 1
+compact disk 1
+public-key infrastructure 1
+useful reminder 1
+
+ Trigram NP 
+keith a. rhodes 1
+u.s. attorney's office 1
+robyn d. stewart 1
+special investigation washington 1
+financial fraud institute 1
+m. jane hunt 1
+your e-mail request 1
+g. street nw 1
+
+ Unigram NP 
+guide 13
+enforcement 6
+app 5
+access 5
+investigation 4
+office 3
+internet 3
+@ 2
+site 2
+community 2
+information 2
+introduction 2
+encryption 2
+web 2
+gao 2
+cd 2
+gao.gov 2
+inform 2
+v 1
+secure 1
+iv 1
+ii 1
+affiliation 1
+anonymity 1
+technology 1
+512-3086 1
+united 1
+number 1
+discus 1
+service 1
+agency 1
+please 1
+submit 1
+e-mail 1
+authentication 1
+identification 1
+department 1
+suite 1
+document 1
+//cybercop.esportals.com 1
+law 1
+development 1
+fax 1
+http 1
+conduct 1
+search 1
+dc 1
+• 1
+seizure 1
+meet 1
+date 1
+treasury 1
+instructor 1
+iii 1
+publication 1
+chapter 1
+february 1
+include 1
+investigator 1
+glossary 1
+work 1
+request 1
+cybercop.org 1
+chief 1
+activity 1
+telephone 1
+aid 1
+distribution 1
+duplication 1
+
+ Arbitary length NP 
+general accounting office office 2
+federal law enforcement training center 1
+cybercop secure community vpn 1
+distribution outside federal law enforcement entity gao-01-121g united 1
+electronic law enforcement introduction 1
+small business administration's counsel 1
+robert h. hast managing director office 1
+u.s. general accounting office 1
+special investigation gao february 1
+contains sensitive law enforcement 1

@@ -1,0 +1,142 @@
+
+ Bigram NP 
+pine tree 6
+domestic violence 4
+private bar 2
+jack comart 1
+their security 1
+their divorce 1
+last year 1
+mary henderson 1
+mental health 1
+due process 1
+fair hearing 1
+our funding 1
+high volume 1
+short walk 1
+his work 1
+their hearing 1
+his experience 1
+presque isle 1
+disabled child 1
+judicial system 1
+nan heald 1
+legal help 1
+big picture 1
+legal aid 1
+lawyer trust 1
+legislative lobbying 1
+legal service 1
+chris hastedt 1
+federal funding 1
+annual operating 1
+former staff 1
+maine's needy 1
+other information 1
+
+ Trigram NP 
+pine tree legal 2
+augusta district court 2
+free legal aid 1
+maine bar foundation 1
+service agency try 1
+simplify legal problem 1
+new video-conferencing feature 1
+volunteer lawyer project 1
+first successful employment-discrimination 1
+maine equal justice 1
+lewiston district court 1
+coffin fellowship program 1
+betty adam tuesday 1
+cumberland legal aid 1
+
+ Unigram NP 
+agency 8
+comart 8
+court 5
+housing 4
+heald 3
+work 3
+augusta 3
+attorney 2
+office 2
+lawyer 2
+maine 2
+income 2
+problem 2
+support 2
+function 1
+sort 1
+right 1
+money 1
+person 1
+statewide 1
+lobbying 1
+december 1
+telephone 1
+rest 1
+budget 1
+readfield 1
+eviction 1
+contract 1
+welfare 1
+need 1
+funding 1
+education 1
+bangor 1
+staff 1
+web 1
+use 1
+fee 1
+portland 1
+area 1
+addition 1
+percent 1
+legal 1
+response 1
+access 1
+source 1
+state 1
+decree 1
+role 1
+lot 1
+prison 1
+health 1
+client 1
+interest 1
+class 1
+reform 1
+collection 1
+accessibility 1
+machias 1
+part 1
+medicaid 1
+courtroom 1
+half 1
+www.ptla.org 1
+group 1
+debt 1
+day 1
+change 1
+care 1
+rockland 1
+school 1
+level 1
+elderly 1
+average 1
+wednesday 1
+kentucky 1
+credit 1
+ninety 1
+class-action 1
+deposit 1
+abolition 1
+representation 1
+lewiston 1
+history 1
+
+ Arbitary length NP 
+kennebec county superior court 1
+pine tree legal assistance inc. 1
+maine civil legal service fund 1
+maine equal justice project 1

@@ -1,0 +1,95 @@
+
+ Bigram NP 
+domestic violence 8
+legal help 5
+deputy director 1
+restraining order 1
+legal assistance 1
+her mind 1
+last year 1
+abusive relationship 1
+julia crockett 1
+my mind 1
+protective order 1
+gwen bouie-haynes 1
+her keep 1
+lark johnson 1
+legal representation 1
+her shelter 1
+violent home 1
+domestic abuse 1
+gladys bunzy 1
+major issue 1
+legal counseling 1
+painful situation 1
+
+ Trigram NP 
+clarion ledger march 1
+their spouse's income 1
+immediate legal assistance 1
+catholic charity inc. 1
+u.s. justice department 1
+needed legal help 1
+
+ Unigram NP 
+program 10
+crockett 4
+help 3
+law 3
+attorney 2
+money 2
+vicksburg 2
+enforcement 2
+shelter 2
+director 2
+court 2
+johnson 2
+violence 2
+situation 2
+evidence 1
+often 1
+bunzy 1
+sensitivity 1
+child 1
+domestic 1
+one 1
+past 1
+victim 1
+need 1
+home 1
+education 1
+custody 1
+hattiesburg 1
+priority 1
+jackson 1
+grant 1
+lifeline 1
+legal 1
+access 1
+way 1
+pilot 1
+executive 1
+woman 1
+testimony 1
+gap 1
+protection 1
+burden 1
+aid 1
+oxford 1
+godsend 1
+boyfriend 1
+pascagoula 1
+anything 1
+project 1
+person 1
+abuser 1
+mother 1
+
+ Arbitary length NP 
+haven house family shelter inc. 1
+central southwest mississippi legal service corp. 1
+violence legal assistance program 1
+domestic violence service center 1
+sherri williams clarion-ledger staff writer domestic 1
+domestic violence legal assistance program 1
+central southwest mississippi legal service corp 1

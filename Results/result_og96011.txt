@@ -1,0 +1,280 @@
+
+ Bigram NP 
+final rule 9
+supplementary information 8
+appropriation act 5
+legislative history 3
+light truck 3
+mpg standard 3
+final rulemaking 3
+substantial number 2
+significant impact 2
+federal register 2
+prior year 2
+prior model 2
+regulatory evaluation 2
+further action 1
+cost-benefit analysis 1
+daily ed. 1
+1-year freeze 1
+government input 1
+describe section 1
+his floor 1
+government gao/ogc-96-11 1
+technological feasibility 1
+address section 1
+forth therein 1
+mr. anderson 1
+other level 1
+regulatory affair 1
+it enactment 1
+legal interpretation 1
+our assessment 1
+it lack 1
+general notice 1
+average fuel 1
+sufficient federalism 1
+order no 1
+standard prescribed 1
+unnecessary analysis 1
+advance notice 1
+statutory authorization 1
+my intent 1
+federal mandate 1
+identical standard 1
+judicial review 1
+legal analysis 1
+transportation united 1
+permissible alternative 1
+fuel economy 1
+major rule 1
+jr. chairman 1
+gao/ogc-96-11 evaluation 1
+principal sponsor 1
+economic practicability 1
+gao/ogc-96-11 section 1
+et seq 1
+other hand 1
+our report 1
+sharp increase 1
+federalism analysis 1
+commerce house 1
+it analysis 1
+such title 1
+telecommunication issue 1
+such action 1
+fundamental purpose 1
+underlying section 1
+federalism assessment 1
+l. no 1
+transportation page 1
+applicable standard 1
+it interpretation 1
+model year 1
+anticipated increase 1
+chief counsel 1
+
+ Trigram NP 
+initial regulatory flexibility 3
+final regulatory flexibility 3
+executive order no 3
+corporate average fuel 2
+dot appropriation act 1
+cost saving act 1
+government agency plan 1
+motor vehicle information 1
+same light truck 1
+other light truck 1
+small business administration 1
+henry r. wray 1
+administrative procedure act 1
+it economic impact 1
+it legal basis 1
+john h. anderson 1
+paperwork reduction act 1
+regulatory flexibility act 1
+significant regulatory action 1
+prior light truck 1
+other relevant information 1
+other possible interpretation 1
+only plausible approach 1
+sba chief counsel 1
+house appropriation committee 1
+
+ Unigram NP 
+section 48
+nhtsa 32
+rule 26
+standard 21
+year 20
+model 17
+u.s.c 16
+analysis 14
+cafe 12
+reg 9
+fed 9
+agency 9
+rulemaking 7
+b 7
+transportation 6
+economy 6
+certification 5
+title 5
+mpg 5
+level 5
+discretion 5
+sba 5
+act 5
+statement 5
+department 5
+executive 4
+respect 4
+information 4
+united 4
+code 3
+report 3
+secretary 3
+requirement 3
+notice 3
+april 3
+action 3
+enactment 3
+official 3
+preparation 3
+iv 3
+i 3
+interpretation 2
+office 2
+pursuant 2
+subsection 2
+practice 2
+provision 2
+january 2
+accordance 2
+seq 2
+evaluation 2
+consideration 2
+language 2
+connection 2
+addition 2
+f 2
+advocacy 2
+history 2
+delay 2
+stat 2
+gao/ogc-96-11 2
+congress 2
+effect 2
+order 2
+completion 1
+years.1 1
+fuel 1
+local 1
+lack 1
+nov. 1
+nation 1
+h7605 1
+mandate 1
+plain 1
+page 1
+work 1
+senate 1
+energy 1
+administrator 1
+§§ 1
+result 1
+et 1
+enclosure 1
+subject 1
+increase 1
+state 1
+rec 1
+avoidance 1
+participation 1
+ability 1
+use 1
+pub 1
+possibility 1
+table 1
+change 1
+stage 1
+512-8581 1
+substance 1
+exemption 1
+compliance 1
+context 1
+federalism 1
+whole 1
+purpose 1
+cc 1
+one 1
+motor 1
+conference 1
+publication 1
+.. 1
+basis 1
+gao's 1
+start 1
+regulation 1
+assumption 1
+vehicle 1
+length 1
+proposal 1
+assessment 1
+relationship 1
+advance 1
+regard 1
+policy 1
+part 1
+determination 1
+july 1
+iii 1
+ii 1
+none 1
+512-2834 1
+science 1
+maximum 1
+v 1
+outcome 1
+example 1
+cong 1
+rin 1
+phrase 1
+need 1
+gallon 1
+conserve 1
+floor 1
+discussion 1
+commerce 1
+id 1
+development 1
+fy 1
+collection 1
+director 1
+meaning 1
+issuance 1
+opportunity 1
+light 1
+time 1
+docket 1
+
+ Arbitary length NP 
+national environmental policy act 2
+final regulatory impact analysis 2
+truck average fuel economy standard 2
+unfunded mandate reform act 2
+ms. nancy e. mcfadden general counsel department 1
+honorable john d. dingell ranking minority member committee 1
+honorable larry pressler chairman 1
+light truck cafe standard rule under 1
+aggregate annual private sector 1
+general counsel b-271810.2 may 1
+accompany significant regulatory action 1
+honorable ernest f. hollings ranking minority member committee 1
+maximum feasible average fuel 1
+robert p. murphy general counsel enclosure 1
+gao/ogc-96-11 enclosure analysis of national highway traffic safety administration 1
+related agency appropriation act 1
+national highway traffic safety administration 1
+senior associate general counsel 1
+honorable thomas j. bliley 1

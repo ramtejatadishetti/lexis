@@ -1,0 +1,151 @@
+
+ Bigram NP 
+new jersey 5
+your bank 4
+legal service 3
+supreme court 2
+third quarter 2
+it interest 1
+legal triage 1
+atlantic-cape may 1
+interest-bearing trust 1
+substantial fund 1
+inexpensive money 1
+little effort 1
+volunteer organization 1
+high- water 1
+gross interest 1
+our court 1
+immediate access 1
+our attorney 1
+last date 1
+federal law 1
+legal aid 1
+our trust 1
+interest-free attorney 1
+single law 1
+average balance 1
+foster care 1
+their use 1
+easy answer 1
+iolta interest 1
+tiered account 1
+average interest 1
+first time 1
+educational lay 1
+monthly account 1
+other bank 1
+immediate need 1
+
+ Trigram NP 
+average daily balance 2
+average iolta interest 1
+positive net interest 1
+large commercial account 1
+third major bank 1
+it advertised passbook 1
+other public service 1
+
+ Unigram NP 
+iolta 27
+percent 18
+interest 14
+fund 10
+rate 9
+trust 6
+account 5
+money 3
+bank 3
+bar 3
+attorney 3
+ask 3
+client 3
+association 2
+half 2
+assistance 2
+november 2
+comparison 2
+amount 2
+program 2
+casa 2
+balance 2
+need 2
+deposit 2
+shop 1
+pursuant 1
+mission 1
+rest 1
+mercer 1
+justice 1
+better 1
+source 1
+disparity 1
+foster 1
+equity 1
+advantage 1
+refinance 1
+advocate 1
+morris-sussex 1
+now 1
+day 1
+loss 1
+public 1
+activity 1
+promise 1
+result 1
+lawyer 1
+year 1
+home 1
+indigent 1
+pittance 1
+state 1
+method 1
+participation 1
+sept. 1
+business 1
+conglomerate 1
+care 1
+voice 1
+r.1:28a-4 1
+essex 1
+thereof 1
+county 1
+decrease 1
+market 1
+use 1
+automobile 1
+mark 1
+spread 1
+privilege 1
+type 1
+firm 1
+shortterm 1
+rush 1
+windfall 1
+age 1
+it 1
+accounting 1
+education 1
+check 1
+information 1
+end 1
+instance 1
+variation 1
+purpose 1
+funding 1
+law 1
+data 1
+transaction 1
+average 1
+rule 1
+time 1
+representation 1
+fact 1
+
+ Arbitary length NP 
+covenant house youth advocacy program 1
+do you know your iolta 1
+new jersey state bar foundation 1
+high school mock trial competition 1
+new jersey state bar association 1
+court appointed special advocate program 1

@@ -1,0 +1,107 @@
+
+ Bigram NP 
+legal aid 9
+west virginia 6
+last year 2
+jackson kelly 2
+segal law 2
+adrienne worthy 1
+vocational training 1
+al emch 1
+west virginian 1
+three-year goal 1
+young woman 1
+fund-raising drive 1
+local government 1
+fund-raising goal 1
+scott segal 1
+general population 1
+entire population 1
+disabled child 1
+young mother 1
+our justice 1
+local community 1
+it work 1
+her agency 1
+federal poverty 1
+quarrier st. 1
+medical care 1
+executive director 1
+
+ Trigram NP 
+it average case 1
+previous federal funding 1
+
+ Unigram NP 
+campaign 3
+state 3
+bordas 2
+everyone 2
+welfare 2
+economy 2
+firm 2
+census 2
+wednesday 2
+attorney 1
+emch 1
+money 1
+nursing 1
+december 1
+household 1
+charleston 1
+mcdavid 1
+graff 1
+642-8279 1
+pamphlet 1
+violent 1
+lawyer 1
+need 1
+home 1
+peterson 1
+dementia 1
+thomas 1
+segal 1
+confidence 1
+le 1
+her 1
+justice 1
+ditrapano 1
+stake 1
+percent 1
+system 1
+access 1
+hill 1
+lot 1
+income 1
+include 1
+today 1
+woman 1
+way 1
+love 1
+importance 1
+wv 1
+gal 1
+poverty 1
+rice 1
+spouse 1
+deitzler 1
+barrett 1
+bowles 1
+bar 1
+hour 1
+battle 1
+work 1
+dipiero 1
+bee 1
+project 1
+spilman 1
+cost 1
+carper 1
+time 1
+aid 1
+husband 1
+
+ Arbitary length NP 
+west virginia state bar 1
+paul j. nyden thursday 1
+charleston gazette legal aid 1

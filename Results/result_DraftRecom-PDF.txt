@@ -1,0 +1,476 @@
+
+ Bigram NP 
+full spectrum 4
+primary care 4
+public health 3
+clinical setting 3
+second recommendation 2
+hazardous drinking 2
+important issue 2
+brief intervention 2
+great deal 2
+first recommendation 2
+risky drinking 2
+medical care 2
+high priority 2
+daniel pollock 2
+such collaboration 1
+social welfare 1
+it success 1
+his use 1
+total research 1
+screening research 1
+patricia perry 1
+strong case 1
+appropriate place 1
+reimbursable service 1
+clinic follow-up 1
+full protocol 1
+referral-to primary 1
+critical consideration 1
+ronald maio 1
+overall picture 1
+charles bombardier 1
+complex set 1
+standard practice 1
+pre-hospital care 1
+integral part 1
+mary dufour 1
+richard ries 1
+major impact 1
+low cut 1
+care research 1
+thomas babor 1
+final document 1
+relevant expert 1
+further care 1
+peter rostenberg 1
+referral aspect 1
+policy-relevant research 1
+well-described service 1
+their application 1
+jean shope 1
+broad implementation 1
+guohua li 1
+initial understanding 1
+professional community 1
+pat lenaghan 1
+ann mahoney 1
+david fiellin 1
+main point 1
+final session 1
+domestic violence 1
+robert lowe 1
+gordon smith 1
+larry gentilello 1
+alcohol-related injury 1
+whole range 1
+same way 1
+daniel hungerford 1
+academic research 1
+text list 1
+much intervention 1
+linda degutis 1
+academic organization 1
+large impact 1
+textual commentary 1
+following phrase 1
+parallel activity 1
+careful consideration 1
+catherine gordon 1
+edward bernstein 1
+important factor 1
+specific definition 1
+important way 1
+current research 1
+interventive effect 1
+other funding 1
+richard brown 1
+christopher dunn 1
+developmental work 1
+low cost 1
+total chaos 1
+new research 1
+political commitment 1
+broad range 1
+his support 1
+excessive drinking 1
+primary prevention 1
+technical research 1
+vital part 1
+explicit component 1
+social service 1
+janet williams 1
+medical realm 1
+herman diesenhaus 1
+whole continuum 1
+wide implementation 1
+healthy people 1
+new practice 1
+necessary frequency 1
+evaluated-the usefulness 1
+post-doctoral program 1
+high-risk environment 1
+marilyn sommers 1
+richard longabaugh 1
+complex health 1
+it place 1
+much responsibility 1
+clinical practice 1
+easy assumption 1
+whole system 1
+their job 1
+daily basis 1
+stephen hargarten 1
+general agreement 1
+gail d'onofrio 1
+significant health 1
+severe alcohol 1
+trauma care 1
+practitioner behavior 1
+large number 1
+robert woolard 1
+practical research 1
+general practice 1
+same time 1
+audio tape 1
+small institution 1
+effective screening 1
+ed-based research 1
+grant application 1
+recent survey 1
+extensive feedback 1
+ironclad case 1
+carl soderstrom 1
+unique role 1
+biological basis 1
+public record 1
+their focus 1
+elinor walker 1
+strong emphasis 1
+alcohol-related research 1
+alison moore 1
+uniform screening 1
+general discussion 1
+only contact 1
+multi-center trial 1
+it ability 1
+specialized treatment 1
+small business 1
+certain amount 1
+
+ Trigram NP 
+national advisory council 1
+it whole research 1
+issue-the moral imperative 1
+ultimate task-to create 1
+specific clinical setting 1
+their only opportunity 1
+need out-patient counseling 1
+specific medical care 1
+
+ Unigram NP 
+research 59
+recommendation 49
+ed 43
+alcohol 43
+screening 28
+emergency 22
+intervention 22
+hungerford 12
+treatment 11
+medicine 9
+care 9
+text 8
+conference 8
+hargarten 8
+screen 7
+use 7
+work 7
+problem 7
+department 7
+information 7
+brown 6
+niaaa 6
+pollock 6
+drinking 5
+effectiveness 5
+training 5
+sbir 5
+community 5
+section 5
+goal 5
+field 5
+longabaugh 5
+health 4
+success 4
+system 4
+phrase 4
+setting 4
+focus 3
+staff 3
+implementation 3
+li 3
+program 3
+bernstein 3
+gentilello 3
+term 3
+level 3
+evaluation 3
+issue 3
+patient 3
+component 3
+consideration 3
+context 3
+confidentiality 3
+promise 3
+privacy 3
+strategy 3
+priority 3
+statement 3
+topic 3
+part 3
+grant 3
+need 3
+technology 3
+discussion 3
+diesenhaus 3
+mechanism 3
+gordon 3
+abuse 3
+reimbursement 3
+agency 3
+walker 3
+wording 3
+demand 2
+abbreviation 2
+committee 2
+portfolio 2
+group 2
+clarification 2
+policy 2
+fiellin 2
+sooner 2
+burden 2
+word 2
+list 2
+reference 2
+surgery 2
+funding 2
+innovation 2
+importance 2
+upfront 2
+study 2
+area 2
+drug 2
+range 2
+medicare 2
+support 2
+family 2
+consumption 2
+addition 2
+hospital 2
+type 2
+way 2
+relationship 2
+influence 2
+delivery 2
+effort 2
+matter 2
+referral 2
+example 2
+prevalence 2
+process 2
+spectrum 2
+something 2
+role 2
+performance 2
+illness 2
+nih 2
+literature 2
+practitioner 2
+bombardier 2
+cost-effectiveness 2
+order 2
+place 2
+time 2
+notion 2
+prevention 2
+co-morbidity 1
+maintenance 1
+help 1
+precedence 1
+rest 1
+press 1
+pro-gram 1
+recidivism 1
+alternative 1
+data 1
+impact 1
+brown's 1
+unanimity 1
+babor 1
+facility 1
+smith 1
+state 1
+instrument 1
+charge 1
+communication 1
+continuity 1
+somebody 1
+government 1
+evaluate 1
+clinician 1
+expectation 1
+mention 1
+game 1
+fraud 1
+misuse 1
+vague 1
+look 1
+portion 1
+efficacy 1
+continuum 1
+harborview 1
+solution 1
+yield 1
+summary 1
+consensus 1
+withdrawal 1
+revision 1
+pharmocotherapy 1
+set 1
+sequence 1
+idea 1
+proportion 1
+woolard 1
+cost 1
+subcommittee 1
+manner 1
+endeavor 1
+concern 1
+category 1
+specific 1
+practice 1
+cover 1
+culture 1
+fact 1
+sum 1
+brief 1
+access 1
+enough 1
+trauma 1
+routing 1
+rn 1
+reading 1
+method 1
+nida 1
+ability 1
+barrier 1
+web 1
+journal 1
+possibility 1
+understanding 1
+efficiency 1
+plea 1
+phd 1
+likelihood 1
+linkage 1
+definition 1
+service 1
+package 1
+argument 1
+country 1
+dependence 1
+dependency 1
+referral-sbir 1
+poly-substance 1
+difficulty 1
+consequence 1
+distinction 1
+pancreatitis 1
+point 1
+problematic 1
+number 1
+satisfaction 1
+everyone 1
+adaptation 1
+message 1
+kind 1
+anyone 1
+beginning 1
+acceptance 1
+question 1
+approach 1
+injury 1
+lowe 1
+statute 1
+spirituality 1
+one-third 1
+link 1
+review 1
+provider 1
+rationale 1
+md 1
+financing 1
+imbalance 1
+slogan 1
+room 1
+isolation 1
+objective 1
+remain 1
+prioritization 1
+behavior 1
+visit 1
+divisiveness 1
+mistake 1
+alcohol-use 1
+money 1
+follow-up 1
+e.g. 1
+severity 1
+mind 1
+collaboration 1
+pharmacotherapy 1
+hypertension 1
+council 1
+sense 1
+soderstrom 1
+shift 1
+sir 1
+realm 1
+floor 1
+detail 1
+reality 1
+samhsa 1
+document 1
+counseling 1
+circuit 1
+advice 1
+lag 1
+tele-medicine 1
+psychiatry 1
+intent 1
+letter 1
+faculty 1
+% 1
+cpr 1
+structure 1
+booster 1
+audit 1
+task 1
+consternation 1
+expert 1
+neuropathy 1
+sepsis 1
+documentation 1
+explicit 1
+complexity 1
+contact 1
+site 1
+position 1
+addiction 1
+opinion 1
+
+ Arbitary length NP 
+draft recommendation daniel hungerford 1

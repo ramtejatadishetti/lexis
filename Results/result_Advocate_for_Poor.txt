@@ -1,0 +1,89 @@
+
+ Bigram NP 
+housing preservation 2
+commercial space 1
+new facade 1
+residential housing 1
+development department's 1
+nonprofit status 1
+rudy giuliani 1
+legal system 1
+first year 1
+bad faith 1
+carol abrams 1
+joe guzzo 1
+federal nonprofit 1
+legal work 1
+nonprofit practice 1
+tenant ownership 1
+last week 1
+julio montalvo 1
+development department 1
+chief prosecutor 1
+michael mazzariello 1
+bad news 1
+former bodega 1
+his family 1
+his radio 1
+former assistant 1
+fair market 1
+
+ Trigram NP 
+east new york 2
+storefront legal practice 1
+new lot ave 1
+
+ Unigram NP 
+mazzariello 9
+office 3
+program 3
+department 3
+building 3
+year 2
+city 2
+agency 2
+kind 2
+priority 2
+attorney 1
+help 1
+idea 1
+community 1
+month 1
+partner 1
+education 1
+mayor 1
+beef 1
+district 1
+space 1
+montalvo 1
+stint 1
+makeover 1
+application 1
+state 1
+board 1
+prosecutor 1
+status 1
+paperwork 1
+business 1
+may 1
+advocate 1
+specialty 1
+immigration 1
+phone 1
+rest 1
+tenant 1
+homeownership 1
+room 1
+hour 1
+bodega 1
+value 1
+spokeswoman 1
+abrams 1
+property 1
+bidder 1
+
+ Arbitary length NP 
+poor ha own obstacle greg wilson former 1
+brooklyn district attorney charles hynes 1
+new york daily news tuesday 1
+east new york legal service corp. 1

@@ -1,0 +1,578 @@
+
+ Bigram NP 
+energy plan 8
+public health 6
+human health 5
+acid rain 4
+new source 4
+global climate 4
+fine particle 4
+national academy 3
+ground-level ozone 3
+president bush 3
+hazardous air 3
+available control 2
+human activity 2
+our nation 2
+electric utility 2
+electric power 2
+particulate matter 2
+acid deposition 2
+episodic acidification 2
+man-made greenhouse 2
+full implementation 2
+southern california 2
+regional haze 2
+new legislation 2
+interstate transport 2
+nox sip 1
+power generation 1
+lengthy permit 1
+reduced growth 1
+coastal water 1
+particular significance 1
+acidic deposition 1
+it energy 1
+nitrate deposition 1
+their summertime 1
+reduced productivity 1
+possible solution 1
+acute respiratory 1
+particular source 1
+gulf coast 1
+joint research 1
+great progress 1
+administrative burden 1
+chronic and/or 1
+v. conclusion 1
+minimum amount 1
+25-50 % 1
+new pollution 1
+national ambient 1
+successful tool 1
+new air 1
+current forty 1
+various reduction 1
+up-to-date information 1
+their mother 1
+wide spectrum 1
+environmental benefit 1
+state-of-the-art air 1
+small staff 1
+new information 1
+infrared radiation 1
+certain quantity 1
+wet form 1
+wonderful model 1
+many freshwater 1
+state implementation 1
+full accounting 1
+their location 1
+low-level methylmercury 1
+regulatory determination 1
+global response 1
+mandated goal 1
+reduced drinking 1
+pm naaqs 1
+recent report 1
+nationwide cap 1
+significant deterioration 1
+second guessing 1
+criteria document 1
+key contributor 1
+sulfur deposition 1
+it source 1
+separate action 1
+fine particulate 1
+other wildlife 1
+commercial forest 1
+aggravated asthma 1
+only way 1
+clean coal 1
+environmental improvement 1
+emission banking 1
+our country 1
+our understanding 1
+their state 1
+new particulate 1
+important factor 1
+reliable energy 1
+their willingness 1
+significant portion 1
+problem-by-problem approach 1
+comprehensive science 1
+nitrogen deposition 1
+significant expansion 1
+sensitive time 1
+atmospheric deposition 1
+ozone nonattainment 1
+clean air 1
+key factor 1
+20-40 % 1
+low cost 1
+same interstate 1
+scientific research 1
+new england 1
+atmospheric nitrogen 1
+nitrogen oxide 1
+environmental effect 1
+western hemisphere 1
+mental retardation 1
+organic matter 1
+same level 1
+primary source 1
+total emission 1
+dry form 1
+adverse health 1
+needed emission 1
+high humidity 1
+consistent change 1
+cerebral palsy 1
+essential nutrient 1
+modern pollution 1
+public review 1
+efficient way 1
+cardiovascular illness 1
+next level 1
+east coast 1
+c mercury 1
+avoided premature 1
+resounding success 1
+available retrofit 1
+broad array 1
+ongoing cabinet-level 1
+continuous monitoring 1
+atmospheric chemical 1
+sharp contrast 1
+new nitrogen 1
+complex web 1
+national air 1
+individual program 1
+fish reproduce 1
+built-in market 1
+extensive peer 1
+other conclusion 1
+coming century 1
+large part 1
+ozone attainment 1
+increased nitrogen 1
+stationary gas 1
+brown cloud 1
+low risk 1
+ongoing review 1
+annualized cost 1
+new litigation 1
+nitrogenous greenhouse 1
+heavy duty 1
+downward trend 1
+responsible way 1
+advanced energy 1
+human exposure 1
+clean energy 1
+many air 1
+significant health 1
+long-term issue 1
+legislative approach 1
+oil-fired utility 1
+reasonable time 1
+environmental protection 1
+integrated approach 1
+proposed legislation 1
+significant source 1
+new car 1
+natural greenhouse 1
+significant contribution 1
+predatory fish 1
+same time 1
+substantial fraction 1
+allowance program 1
+air quality 1
+continued exposure 1
+american public 1
+fish consumption 1
+lost work 1
+regulatory certainty 1
+general area 1
+it boiler 1
+substantial body 1
+light extinction 1
+responsible manner 1
+unified approach 1
+industrial revolution 1
+c ozone 1
+annual amount 1
+unprecedented flexibility 1
+workable solution 1
+environmental monitoring 1
+comprehensive policy 1
+further regulation 1
+new york 1
+achievable emission 1
+large share 1
+it availability 1
+chronic bronchitis 1
+their concern 1
+el salvador 1
+man-made mercury 1
+their health 1
+atmosphere react 1
+scientific literature 1
+cost-effective experience 1
+pm2.5 naaqs 1
+complex challenge 1
+reasonable progress 1
+
+ Trigram NP 
+acid rain program 7
+clean air act 5
+significant public health 2
+climate research initiative 1
+power generation power 1
+iv climate change 1
+ozone transport region 1
+health-based 1-hour ozone 1
+technology-based numerical performance 1
+nox sip call 1
+national energy policy 1
+president's energy plan 1
+innovative market-based allowance 1
+our scientific understanding 1
+other available information 1
+state implementation plan 1
+it own purpose 1
+it seventh year 1
+national energy plan 1
+total light extinction 1
+new 8-hour ozone 1
+federal nox budget 1
+it own approach 1
+provide public health 1
+fine particle pollution 1
+significant environmental improvement 1
+president george h.w 1
+great smoky mountain 1
+
+ Unigram NP 
+nox 42
+so2 35
+power 25
+mercury 24
+program 18
+air 17
+epa 17
+president 16
+generation 14
+pollution 14
+ozone 12
+change 9
+energy 8
+trading 8
+visibility 8
+nitrogen 7
+industry 7
+control 7
+% 7
+percent 7
+result 6
+year 6
+health 6
+water 6
+climate 6
+quality 6
+technology 6
+rule 6
+sector 5
+environment 5
+deposition 5
+country 5
+example 5
+number 5
+pm2.5 5
+addition 5
+legislation 5
+reduction 5
+plant 5
+congress 5
+recovery 5
+atmosphere 4
+greenhouse 4
+sulfur 4
+risk 4
+emergency 4
+report 4
+compliance 4
+gas 4
+emission 4
+room 4
+matter 4
+mortality 4
+impairment 4
+development 4
+united 4
+administration 3
+earth 3
+methylmercury 3
+respiratory 3
+aggravation 3
+cost 3
+today 3
+increase 3
+state 3
+eutrophication 3
+approach 3
+u.s. 3
+standard 3
+carbon 3
+efficiency 3
+co 3
+conservation 3
+soil 3
+fish 3
+east 3
+science 3
+problem 3
+naaqs 3
+contribute 3
+goal 3
+variety 3
+equipment 3
+performance 3
+plan 3
+response 3
+part 3
+time 3
+review 3
+co2 2
+northeast 2
+group 2
+electricity 2
+monoxide 2
+source 2
+bush 2
+location 2
+government 2
+food 2
+damage 2
+nsps 2
+success 2
+regulation 2
+acid 2
+section 2
+dioxide 2
+construction 2
+public 2
+formation 2
+beginning 2
+caa 2
+consumption 2
+certainty 2
+implementation 2
+place 2
+act 2
+wilderness 2
+acidification 2
+flexibility 2
+lung 2
+nsr 2
+district 2
+west 2
+trend 2
+exposure 2
+type 2
+fuel 2
+case 2
+challenge 2
+rate 2
+premature 2
+surface 2
+concentration 2
+sip 2
+na 2
+oxygen 2
+amount 2
+supply 2
+columbia 2
+reporting 2
+rain 2
+phase 2
+opportunity 2
+age 2
+heat 2
+japan 1
+chain 1
+correlation 1
+cabinet-level 1
+trade 1
+functioning 1
+winter 1
+world 1
+regardless 1
+fear 1
+no2 1
+web 1
+field 1
+presence 1
+sulfate 1
+improvement 1
+study 1
+policy 1
+include 1
+swap 1
+texas 1
+promise 1
+saturation 1
+loss 1
+return 1
+dc 1
+period 1
+birth 1
+progress 1
+one 1
+smog 1
+u.s 1
+susceptibility 1
+school 1
+level 1
+january 1
+sequester 1
+summary 1
+weather 1
+trap 1
+activity 1
+inflamation 1
+steam 1
+methane 1
+work 1
+bart 1
+usage 1
+spring 1
+second 1
+transport 1
+category 1
+instance 1
+combustion 1
+capacity 1
+trace 1
+space 1
+federal 1
+research 1
+fog 1
+nitrate 1
+formula 1
+utility 1
+contrast 1
+particulate 1
+incidence 1
+hap 1
+pose 1
+consensus 1
+difficulty 1
+acadia 1
+element 1
+establishment 1
+temperature 1
+mobility 1
+freshwater 1
+defense 1
+precursor 1
+adirondacks 1
+experience 1
+range 1
+fruit 1
+context 1
+contribution 1
+whole 1
+reclaim 1
+exhibit 1
+.6 1
+facility 1
+washington 1
+hearing 1
+motor 1
+modeling 1
+pregnancy 1
+unit 1
+size 1
+decline 1
+debt 1
+marine 1
+snow 1
+cause 1
+system 1
+sunlight 1
+strategy 1
+pb 1
+call 1
+coarse 1
+speaking 1
+pm 1
+function 1
+human 1
+hospitalization 1
+form 1
+seagrass 1
+academy 1
+tool 1
+ecosystem 1
+gao 1
+effect 1
+cycle 1
+child 1
+iii 1
+hg 1
+pollutant 1
+majority 1
+account 1
+cap 1
+permit 1
+growth 1
+acidity 1
+issue 1
+address 1
+bearing 1
+illness 1
+e.g. 1
+nonattainment 1
+december 1
+ii 1
+celsius 1
+turn 1
+provide 1
+role 1
+forest 1
+objective 1
+vegetation 1
+mact 1
+may 1
+june 1
+aluminum 1
+shenandoah 1
+react 1
+adirondack 1
+degradation 1
+structure 1
+building 1
+everglades 1
+tracking 1
+inhalation 1
+pm10 1
+preconstruction 1
+italy 1
+playing 1
+wind 1
+deterioration 1
+region 1
+model 1
+prevention 1
+
+ Arbitary length NP 
+clean air act amendment 2
+such serious public health 1
+acid rain trading program 1
+fossil fuel-fired electric power 1
+ozone transport commission nox budget program 1
+national ambient air quality 1
+south coast air quality management district 1
+national climate change technology initiative 1
+visibility and regional haze impact 1
+maximum achievable control technology 1

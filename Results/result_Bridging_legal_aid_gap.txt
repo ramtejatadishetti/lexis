@@ -1,0 +1,129 @@
+
+ Bigram NP 
+legal aid 7
+equal access 3
+california commission 2
+our justice 2
+her landlord 2
+status report 1
+new government 1
+financial reach 1
+little funding 1
+top priority 1
+legal help 1
+lega l 1
+associate dean 1
+crooked loan 1
+efficient way 1
+experienced failure 1
+commission's report 1
+government-funded program 1
+federal government 1
+only apartment 1
+broken toilet 1
+fourthfloor landing 1
+domestic violence 1
+full report 1
+impossib le 1
+strong network 1
+proper documentation 1
+critical dearth 1
+statewide priority 1
+administrative hearing 1
+gray davis 1
+illegal eviction 1
+legal assistance 1
+borderline diabetic 1
+controversial issue 1
+poor person 1
+his home 1
+our society 1
+
+ Trigram NP 
+it new report 1
+35-year-old single mother 1
+fair legal system 1
+her year-long odyssey 1
+second district court 1
+complex legal system 1
+her abusive husband 1
+
+ Unigram NP 
+justice 12
+california 9
+access 7
+state 5
+funding 4
+percent 4
+government 4
+katherine 4
+rent 3
+investment 3
+system 3
+lash 3
+year 2
+community 2
+lawyer 2
+commission 2
+health 2
+appeal 2
+care 2
+johnson 2
+world 2
+population 1
+medication 1
+www.calbar.org 1
+help 1
+family 1
+restraining 1
+process 1
+december 1
+idea 1
+public/private 1
+karen 1
+promise 1
+railing 1
+need 1
+home 1
+education 1
+employment 1
+homeless 1
+addition 1
+lie 1
+courthouse 1
+housing 1
+assumption 1
+income 1
+safety 1
+public 1
+economy 1
+complaint 1
+someone 1
+transportation 1
+victim 1
+a. 1
+transaction 1
+aid 1
+report 1
+path 1
+gap 1
+effort 1
+goal 1
+legislature 1
+account 1
+gov 1
+join 1
+country 1
+university 1
+rat 1
+order 1
+turn 1
+amount 1
+support 1
+
+ Arbitary length NP 
+southern california law school 1
+earl johnson jr. tuesday 1
+san diego union-tribune bridging 1
+free civil legal aid 1
+california supreme court chief justice ronald george 1

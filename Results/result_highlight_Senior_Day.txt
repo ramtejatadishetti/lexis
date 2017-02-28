@@ -1,0 +1,113 @@
+
+ Bigram NP 
+senior day 2
+legal aid 2
+legal document 2
+important role 1
+effective representation 1
+richard ingham 1
+rights-monitoring process 1
+legal authority 1
+unheated apartment 1
+medical treatment 1
+legal classification 1
+their mother 1
+their use 1
+house chamber 1
+good news 1
+automatic loss 1
+guardianship program 1
+old parent 1
+her car 1
+economic status 1
+elderly patient 1
+their health 1
+financial burden 1
+medical care 1
+second thought 1
+
+ Trigram NP 
+boston medical center 1
+our judicial system 1
+walk-in legal clinic 1
+new york time 1
+regular medical care 1
+
+ Unigram NP 
+patient 4
+doctor 4
+attorney 3
+oklahoma 3
+care 3
+family 2
+permission 2
+state 2
+treatment 2
+march 2
+laso 2
+part 2
+home 2
+age 2
+example 2
+person 2
+right 1
+old 1
+capitol 1
+process 1
+manage 1
+sign 1
+evidence 1
+topic 1
+area 1
+lung 1
+contract 1
+year 1
+face 1
+pill 1
+custody 1
+ailment 1
+mailto 1
+use 1
+-john 1
+okdhs.org 1
+divorce 1
+discussion 1
+question 1
+system 1
+trip 1
+field 1
+program 1
+health 1
+way 1
+developer 1
+adoption 1
+preview 1
+roll 1
+dispute 1
+@ 1
+interest 1
+get 1
+may 1
+compilation 1
+nursing 1
+heat 1
+geography 1
+article 1
+debt 1
+albeit 1
+school 1
+accident 1
+prescription 1
+stranger 1
+work 1
+richard.ingham 1
+drug 1
+rock 1
+following 1
+hospital 1
+review 1
+procedure 1
+guardianship 1
+
+ Arbitary length NP 
+senior day richard ingham 1

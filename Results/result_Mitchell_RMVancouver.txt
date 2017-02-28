@@ -1,0 +1,697 @@
+
+ Bigram NP 
+postal service 76
+standard a 11
+first class 10
+zip code 7
+unaddressed mail 5
+private sector 5
+express mail 5
+michael a 4
+sustainable monopoly 4
+inverse price 4
+competitive system 3
+joint production 2
+such pressure 2
+priority mail 2
+considerable attention 2
+substantial portion 2
+competitive pressure 2
+economic matter 2
+incremental cost 2
+first-class mail 2
+same rate 2
+current system 2
+parcel area 2
+same dropship 2
+universal service 2
+low markup 2
+postmaster general 2
+robert h. 2
+delivery economics 2
+minor adjustment 2
+fraudulent use 2
+competitive environment 2
+alternative system 2
+actual service 2
+extra work 2
+their mail 2
+net revenue 2
+postal system 2
+everyday reality 1
+emery worldwide 1
+undoubtedly base 1
+fast pace 1
+higher-cost delivery 1
+other country 1
+technical efficiency 1
+criminal code 1
+extreme step 1
+incumbent administration 1
+net mailing 1
+it history 1
+single-piece third 1
+low-cost processing 1
+demanding schedule 1
+near-cost price 1
+productive efficiency 1
+mechanized processing 1
+poor alternative 1
+general population 1
+unfair competition 1
+it sale 1
+different form 1
+costly equipment 1
+separate in-county 1
+free forwarding 1
+efficient price 1
+service measurement 1
+parcel mail 1
+third change 1
+their ability 1
+central point 1
+their workforce 1
+high service 1
+little mail 1
+similar replacement 1
+unreasonable transportation 1
+moderate rate 1
+contracting one 1
+narrow product 1
+much contracting 1
+no-strike rule 1
+fundamental distinction 1
+wide latitude 1
+recent automation 1
+profit-maximizing firm 1
+expensive way 1
+single government 1
+competitive advantage 1
+same postage 1
+pareto optimality 1
+make-work scheme 1
+numerous cost 1
+new labor 1
+different way 1
+it service 1
+monopoly power 1
+political process 1
+first ounce 1
+adam smith 1
+postal parlance 1
+rural routes.17 1
+such knowledge 1
+further analysis 1
+solicit mail 1
+major restructuring 1
+serious study 1
+additional surcharge 1
+low-cost product 1
+general access 1
+it destination 1
+average price 1
+your handwriting 1
+viable option 1
+great deal 1
+large proportion 1
+future automation 1
+blind mail 1
+potential competitor 1
+many transportation 1
+inverse cap 1
+on-time delivery 1
+fifth section 1
+it degree 1
+entire organization 1
+first class.6 1
+breakeven requirement 1
+it mission 1
+assumed-in effect 1
+large portion 1
+following example 1
+such lowcost 1
+further study 1
+rate-setting factor 1
+reasonable level 1
+successful competitor 1
+sorting process 1
+increased similarity 1
+specific customers.9 1
+simple change 1
+substantial freedom 1
+postal worksharing 1
+specific post 1
+significant improvement 1
+such rate 1
+third bundle 1
+effective competition 1
+further volume 1
+receive review 1
+unmet mailer 1
+considerable extent 1
+rutgers university 1
+same vein 1
+got mail 1
+normal profit 1
+monopoly mail 1
+next section 1
+external measurement 1
+private enterprise 1
+detailed way 1
+small improvement 1
+basic product 1
+lost volume 1
+outside party 1
+competitive disadvantage 1
+such processing 1
+critical mass 1
+suitable reverence 1
+large mailing 1
+competitive entry 1
+separate entity 1
+same weight 1
+alaska bush 1
+extensive testimony 1
+computerized world 1
+limited circulation 1
+such adjustment 1
+low bidder 1
+effective way 1
+sufficient market 1
+docket no 1
+effective avenue 1
+outgoing letter 1
+universal service,7 1
+robert w. 1
+average income 1
+large cost 1
+general issue 1
+frightening range 1
+seventh conference 1
+handwritten correspondence 1
+present time 1
+related change 1
+focused sorting 1
+non-standard surcharge 1
+government provider 1
+library rate 1
+regional wage 1
+average rate 1
+high processing 1
+altered form 1
+high-demand mail 1
+same time 1
+unconstrained competition 1
+considerable degree 1
+such performance 1
+their rate 1
+common belief 1
+separate subclass 1
+additional revenue 1
+standard b 1
+acceptable base 1
+constrained framework 1
+low-cost mailstream 1
+real service 1
+rapid product 1
+irregular throughout 1
+present structure 1
+simple notion 1
+long-haul trucking 1
+third section 1
+certain classification 1
+special delivery 1
+competitive pricing 1
+low-volume city 1
+related service 1
+such freedom 1
+difficult issue 1
+usps need 1
+it revenue 1
+low-cost recipient 1
+change-of-address system 1
+defensible study 1
+regular basis 1
+current state 1
+voluminous testimony 1
+similar mail 1
+first step 1
+international perspective 1
+quantitative investigation 1
+change-of-address system,25 1
+special rate 1
+
+ Trigram NP 
+paul r. kleindorfer 5
+kluwer academic publisher 4
+private express statute 4
+postal rate commission 3
+spyros s. xenakis 2
+roadway package service 2
+william w. ferguson 2
+universal service obligation 2
+our new technology 1
+competitive postal service 1
+john d. waller 1
+discuss inverse price 1
+postal service.21 similarly 1
+independent regulatory commission 1
+private express statutes4 1
+postal reorganization act 1
+independent regulatory agency 1
+their extensive experience 1
+alternative postage payment 1
+certain inverse price 1
+it financial position 1
+essential first step 1
+cost by destination 1
+their own mail 1
+it detached address 1
+postal inspection service 1
+cost by customer 1
+extensive related testimony23 1
+john t. schmidt 1
+it own facility 1
+it high service 1
+several special rate 1
+inverse price cap 1
+it own system 1
+
+ Unigram NP 
+mail 36
+rule 17
+rate 16
+service 15
+contract 13
+competition 13
+cost 11
+delivery 10
+content 9
+postal 9
+subclass 9
+example 8
+order 8
+number 8
+air 8
+government 8
+paper 7
+system 7
+piece 7
+transportation 6
+customer 6
+crew 6
+mailbox 6
+mbmfc 6
+discount 6
+way 6
+time 6
+level 5
+inspection 5
+degree 5
+work 5
+framework 5
+weight 5
+note 5
+extent 5
+addition 5
+carrier 5
+question 5
+congress 5
+protection 4
+market 4
+destination 4
+united 4
+possibility 4
+priority 4
+boston 4
+cohen 4
+volume 4
+distinction 4
+commission 4
+bulk 4
+case 4
+value 4
+situation 4
+alternative 4
+business 4
+facility 4
+area 4
+emery 4
+difference 3
+box 3
+use 3
+product 3
+response 3
+first-class 3
+issue 3
+periodical 3
+kind 3
+matter 3
+equipment 3
+performance 3
+price 3
+fact 3
+report 3
+attention 3
+postage 3
+demand 3
+surface 3
+material 3
+markup 3
+traffic 3
+right 3
+scale 3
+provider 3
+standard-a 3
+post 3
+freedom 3
+range 3
+mailer 3
+innovation 2
+none 2
+ups 2
+cap 2
+design 2
+change 2
+amount 2
+advertising 2
+decrease 2
+today 2
+ecom 2
+effort 2
+figure 2
+worksharing 2
+ounce 2
+fourth 2
+answer 2
+fy 2
+law 2
+third 2
+complexity 2
+office 2
+policy 2
+day 2
+idea 2
+profit 2
+standard 2
+reason 2
+turn 2
+place 2
+first 2
+revenue 2
+one 2
+downside 2
+city 2
+management 2
+privacy 2
+judgment 2
+assumption 2
+option 2
+part 2
+distance 2
+second 2
+outcome 2
+tractor 2
+willingness 2
+dropship 2
+letter 2
+fifth 2
+knowledge 2
+writer 2
+crime 2
+concern 2
+review 2
+tolerance 2
+labor 2
+reduction 2
+haldi 2
+mitchell 2
+surcharge 2
+pay 2
+split 2
+opportunity 2
+transaction 2
+roundaboutness 2
+analysis 2
+money 2
+shape 2
+speed 2
+alignment 2
+pricing 2
+agreement 2
+statute 2
+monopoly 2
+evidence 2
+role 2
+conclusion 2
+june 2
+code 1
+consider 1
+content.13 1
+focus 1
+deadline 1
+welfare 1
+adjustment 1
+reasoning 1
+non-transportation 1
+increase 1
+one-half 1
+apartment 1
+iii 1
+environment 1
+program 1
+alternatives.8 1
+@ 1
+parcel 1
+void 1
+appropriation 1
+rationality 1
+posture 1
+michael 1
+functioning 1
+investment 1
+index 1
+power 1
+section 1
+eminent 1
+access 1
+toll 1
+non-merchandise 1
+full 1
+understanding 1
+free 1
+address 1
+extreme 1
+sender 1
+catch-up 1
+alaska 1
+permit 1
+¾-ounce 1
+addressee 1
+verge 1
+discus 1
+vehicle 1
+high-speed 1
+transient 1
+account 1
+anything 1
+making 1
+indicia 1
+process 1
+minimum 1
+sintra 1
+information 1
+monitoring 1
+discussion 1
+arrangement 1
+brian 1
+vancouver 1
+act 1
+collection 1
+lot 1
+end 1
+data 1
+classroom 1
+truck 1
+restriction 1
+maintenance 1
+in-house 1
+meter 1
+course 1
+tendency 1
+police 1
+correspondence 1
+return 1
+practice 1
+front 1
+provision 1
+onethird 1
+february 1
+workload 1
+truckload 1
+regulation 1
+trailer 1
+domain 1
+measure 1
+agriculture 1
+canada 1
+research 1
+belief 1
+estimate 1
+likelihood 1
+nonbulk 1
+route 1
+threat 1
+bargaining 1
+forwarding 1
+arbitration 1
+little 1
+publication 1
+introduction 1
+flimsy 1
+percentage 1
+john 1
+hub 1
+regulator 1
+sweden 1
+mitigating 1
+bidder 1
+prospect 1
+need 1
+processing.20 1
+agency 1
+emphasis 1
+effectiveness 1
+postmaster 1
+plan 1
+segment 1
+class 1
+alaskan 1
+face 1
+relation 1
+justice 1
+proportion 1
+incumbent,10 1
+assistant 1
+expectation 1
+oca/usps-84 1
+merchandise 1
+approach 1
+commercialization 1
+activity 1
+view 1
+requirement 1
+set 1
+machinability 1
+national 1
+see 1
+computer 1
+result 1
+fail 1
+jury 1
+closer 1
+familiarity 1
+label 1
+avoidance 1
+handwritten 1
+ability 1
+nature 1
+rate-setting 1
+job 1
+group 1
+configuration 1
+science-of- 1
+license 1
+roman 1
+stream 1
+point 1
+continuation 1
+regulated 1
+mail,11 1
+conference 1
+creativity 1
+cent 1
+subsidy 1
+higher-demand 1
+utilizing 1
+nontransportation 1
+budget 1
+suppose 1
+editorial 1
+portugal 1
+herein 1
+ii 1
+cluster 1
+distance.12 1
+productivity 1
+i-20878-2619 1
+week 1
+effect 1
+center 1
+scenario 1
+person 1
+position 1
+rule.5 1
+differentiation 1
+density 1
+investor 1
+setting 1
+bin 1
+saturation 1
+iname.com 1
+recipient 1
+loss 1
+sorting 1
+fortune 1
+evidencing 1
+lower-capacity 1
+creation 1
+motive 1
+recognition 1
+competitor 1
+decision 1
+barcode 1
+step 1
+routes,16 1
+testimony 1
+pollution 1
+cutoff 1
+bound 1
+registration 1
+watchdog 1
+r2000-1 1
+editorial.22 1
+placing 1
+spiral 1
+payment 1
+function 1
+interest 1
+form 1
+library 1
+elimination 1
+line 1
+count 1
+absent 1
+fraud 1
+circulation 1
+inside 1
+problem 1
+year 1
+one-third 1
+cream 1
+floor 1
+book 1
+income 1
+department 1
+immunity 1
+star 1
+a. 1
+chance 1
+reorganization 1
+portion 1
+mass 1
+
+ Arbitary length NP 
+recognition in rate design 1
+basic product offered except 1
+general guide line first 1

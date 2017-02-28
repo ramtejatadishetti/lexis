@@ -1,0 +1,107 @@
+
+ Bigram NP 
+carver academy 2
+prestigious law 1
+new community 1
+supreme court 1
+their time 1
+local bar 1
+my divorce 1
+north side 1
+new facet 1
+bexar meet 1
+south side 1
+paso hondo 1
+civil court 1
+it kind 1
+my life 1
+right hand 1
+executive director 1
+gloria aguirre 1
+legal help 1
+south texas 1
+their expertise 1
+community court 1
+pro-bono work 1
+federal poverty 1
+their lawyer 1
+much help 1
+new attorney 1
+first step 1
+levi strauss 1
+idolina pecina 1
+her divorce 1
+david hall 1
+
+ Trigram NP 
+free legal aid 1
+lawyer lamont jefferson 1
+free legal counseling 1
+community justice program 1
+it first day 1
+st. mary's school 1
+
+ Unigram NP 
+courthouse 6
+help 5
+community 5
+tuesday 4
+year 4
+divorce 4
+program 4
+law 4
+carver 3
+family 3
+pecina 3
+lawyer 3
+bexar 2
+court 2
+state 2
+texas 2
+week 2
+case 2
+pozza 2
+show 1
+spring 1
+month 1
+county 1
+course 1
+cost 1
+operator 1
+day 1
+hall 1
+machine 1
+eleven 1
+call 1
+city 1
+co. 1
+i've 1
+refresher 1
+who 1
+part 1
+poverty 1
+judge 1
+trouble 1
+response 1
+school 1
+october 1
+list 1
+brother 1
+person 1
+fact 1
+organization 1
+nonprofit 1
+oath 1
+filing 1
+road 1
+
+ Arbitary length NP 
+texas rural legal aid inc. 1
+bexar county district court 1
+san antonio bar association 1
+texas supreme court justice wallace b. jefferson 1
+district court judge phyllis speedlin 1
+judge karen h. pozza 1
+san antonio bar foundation 1
+pay manny gonzales friday 1
+san antonio express-news pro-bono 1

@@ -1,0 +1,129 @@
+
+ Bigram NP 
+trust fund 8
+legal aid 4
+high court 4
+supreme court 2
+high court's 2
+mental illness 2
+low interest 1
+big step 1
+disciplinary commission 1
+metropolitan chicago 1
+special state 1
+last year 1
+equal justice 1
+past president 1
+full court 1
+additional revenue 1
+overcome drug 1
+attorney registration 1
+supreme court's 1
+low- income 1
+executive director 1
+important step 1
+broad support 1
+lawyer trust 1
+additional funding 1
+their ability 1
+it outreach 1
+additional staff 1
+annual fee 1
+public confidence 1
+special committee 1
+current funding 1
+
+ Trigram NP 
+sheila m. murphy 1
+assistance program inc. 1
+legal assistance foundation 1
+illinois supreme court 1
+assistance program fund 1
+timothy l. bertschy 1
+leonard f. amari 1
+supreme court rule 1
+ruth ann schmitt 1
+
+ Unigram NP 
+fee 7
+illinois 6
+lap 6
+year 5
+increase 5
+lawyer 4
+state 4
+percent 3
+program 3
+friday 3
+release 3
+registration 2
+alcohol 2
+economy 2
+interest 2
+president 2
+law 2
+bar 2
+schmitt 2
+order 2
+attorney 1
+help 1
+money 1
+murphy 1
+commitment 1
+abuse 1
+latter 1
+judge 1
+result 1
+lap's 1
+chair 1
+trust 1
+treasury 1
+request 1
+funding 1
+substance 1
+justice 1
+opportunity 1
+support 1
+administration 1
+isba 1
+instance 1
+treatment 1
+statement 1
+income 1
+downturn 1
+roll 1
+springfield 1
+compassion 1
+peoria 1
+practice 1
+recommendation 1
+fund 1
+step 1
+base 1
+committee 1
+press 1
+relapse 1
+rockford 1
+mcmorrow 1
+land 1
+legislation 1
+iolta 1
+hike 1
+account 1
+drug 1
+aim 1
+turn 1
+jan. 1
+responsibility 1
+bertschy 1
+action 1
+addiction 1
+assistance 1
+
+ Arbitary length NP 
+illinois state bar association 1
+cook county circuit court 1
+chief justice mary ann g. mcmorrow 1
+lincoln legal assistance foundation inc. 1
+boost john flynn rooney october 1
+prairie state legal service 1

@@ -1,0 +1,241 @@
+
+ Bigram NP 
+new york 6
+public service 4
+federal government 4
+public law 4
+public interest 4
+money chase 3
+judge coffin 3
+paper chase 3
+dean harbaugh 2
+last month 1
+fort lauderdale 1
+our vision 1
+senior judge 1
+certain type 1
+it regulation 1
+high-paying job 1
+[ student 1
+only loan 1
+[ debt 1
+fresh anxiety 1
+institutional memory 1
+ral thesis 1
+first circuit 1
+loan repayment 1
+it report 1
+lawrence grosberg 1
+same time 1
+bar foundation 1
+first year 1
+doubledigit inflation 1
+big firm 1
+viable option 1
+] stafford 1
+legal education 1
+other realm 1
+u.s. court 1
+boomer population 1
+couch white 1
+my sense 1
+10-year plan 1
+it co-chair 1
+47-page report 1
+limited availability 1
+real obligation 1
+last summer 1
+corporate law 1
+dean glen 1
+federal job 1
+national survey 1
+current hiring 1
+next spring 1
+his problem 1
+student debt 1
+artificial wall 1
+general meeting 1
+bar committee 1
+large-firm practice 1
+enormous problem 1
+private practice 1
+significant interest 1
+mortgage-sized tuition 1
+third-year law 1
+comparable position 1
+[ loan 1
+law journal 1
+near horizon 1
+draft report 1
+national association 1
+city university 1
+law placement 1
+executive director 1
+personal safety 1
+percent increase 1
+past decade 1
+
+ Trigram NP 
+new york school 1
+joseph d. harbaugh 1
+american bar association 1
+equal justice work 1
+student loan assistance 1
+average monthly payment 1
+nova southeastern university 1
+frank m. coffin 1
+stephen m. aronson 1
+henry m. greenberg 1
+kristin booth glen 1
+
+ Unigram NP 
+law 19
+report 7
+school 7
+percent 7
+forgiveness 7
+state 6
+debt 6
+loan 6
+] 6
+government 5
+bar 5
+[ 5
+city 4
+problem 4
+student 4
+money 3
+program 3
+attorney 3
+year 3
+tuition 3
+• 3
+commission 3
+greenberg 3
+chair 2
+dean 2
+freeze 2
+lawyer 2
+aba 2
+poverty 2
+service 2
+interest 2
+campus 2
+future 2
+interview 2
+committee 1
+touch 1
+endowment 1
+staff 1
+retirement 1
+group 1
+thinking 1
+admission 1
+source 1
+cooperstown 1
+policy 1
+oversight 1
+case 1
+dec. 1
+food 1
+washington 1
+rise 1
+nation 1
+inflation 1
+difference 1
+association 1
+desire 1
+repayment 1
+grosberg 1
+view 1
+reference 1
+house 1
+competition 1
+society 1
+cost 1
+operation 1
+subject 1
+profit 1
+assistance 1
+health 1
+appeal 1
+public 1
+participation 1
+coordinator 1
+clerk 1
+difficulty 1
+job 1
+card 1
+care 1
+career 1
+country 1
+experience 1
+credit 1
+range 1
+administration 1
+survey 1
+skepticism 1
+whole 1
+profession 1
+perkins 1
+initiative 1
+fla. 1
+crisis 1
+eye 1
+fair 1
+district 1
+housing 1
+acceptance 1
+question 1
+cent 1
+high-paying 1
+war 1
+today 1
+firm 1
+aronson 1
+lot 1
+sort 1
+fund 1
+bidding 1
+me 1
+recruitment 1
+age 1
+heart 1
+tool-kit 1
+partnership 1
+telephone 1
+alarm 1
+expertise 1
+n.y. 1
+partner 1
+education 1
+portland 1
+dozen 1
+albany 1
+indebtedness 1
+agency 1
+graduate 1
+role 1
+development 1
+begin 1
+columbia 1
+phoenix 1
+upon 1
+workforce 1
+hand 1
+plan 1
+segment 1
+professor 1
+depth 1
+relief 1
+order 1
+
+ Arbitary length NP 
+new york law journal survey 1
+new york state bar association 1
+shepard broad law center 1
+new york city human 1
+law school debt diverts road 1
+new york law school 1
+afford public service thomas adcock 1
+city bar report a 1

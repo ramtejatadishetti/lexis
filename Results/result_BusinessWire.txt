@@ -1,0 +1,137 @@
+
+ Bigram NP 
+legal aid 10
+wayne county 3
+next year 2
+low interest 1
+reduced funding 1
+same amount 1
+last year 1
+criminal representation 1
+our service 1
+limited service 1
+legal system 1
+direct representation 1
+past year 1
+senior alliance 1
+u.s. court 1
+it kind 1
+wire state 1
+united way 1
+selfhelp training 1
+southeastern michigan 1
+alternative funding 1
+u.s. department 1
+defender association 1
+it funding 1
+executive director 1
+private practice 1
+10-year census 1
+social security 1
+administrative office 1
+business wire 1
+high impact 1
+much service 1
+legal service 1
+poor person 1
+federal funding 1
+recent bureau 1
+urban development 1
+past decade 1
+
+ Trigram NP 
+u.s. census bureau 2
+u.s census bureau 1
+legal aid society 1
+private nonprofit organization 1
+state's total loss 1
+deierdre l. weir 1
+detroit area agency 1
+legal aid wednesday 1
+their annual operating 1
+
+ Unigram NP 
+lsc 11
+state 10
+poverty 10
+funding 9
+weir 9
+michigan 6
+census 6
+staff 4
+lad 4
+number 3
+congress 3
+percent 3
+population 3
+u.s. 3
+service 2
+support 2
+provider 2
+today 2
+detroit 2
+addition 2
+portion 2
+assistance 1
+foreclosure 1
+show 1
+request 1
+half 1
+tract 1
+mortgage 1
+rate 1
+decrease 1
+brunt 1
+year 1
+need 1
+concentration 1
+adjustment 1
+technology 1
+custody 1
+bankruptcy 1
+decline 1
+cut 1
+twice-once 1
+corporation 1
+irony 1
+legal 1
+data 1
+increase 1
+bureau 1
+interest 1
+organization 1
+utility 1
+lending 1
+poor 1
+business 1
+living 1
+smarter 1
+million 1
+nation 1
+anticipation 1
+demand 1
+report 1
+november 1
+probate 1
+aging 1
+detroit- 1
+loss 1
+child 1
+spite 1
+level 1
+iolta 1
+country 1
+housing 1
+harder 1
+united 1
+future 1
+city 1
+circuit 1
+telephone 1
+consumer 1
+filing 1
+inc. 1
+predatory 1
+
+ Arbitary length NP 
+michigan state bar foundation 2

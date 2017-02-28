@@ -1,0 +1,844 @@
+
+ Bigram NP 
+postal service 73
+workshared mail 18
+basic mail 17
+basic category 15
+current level 12
+technical eff 10
+current position 8
+first-class mail 8
+technical gain 7
+zip code 7
+technical efficiency 7
+basic price 7
+same way 7
+exe model 6
+basic volume 6
+improved service 5
+drop-ship discount 5
+basic market 5
+los angeles 5
+their mail 4
+previous part 4
+postal system 4
+wide range 4
+worksharing program 4
+docket no 4
+current discount 4
+postal work 4
+current operating 4
+workshared product 4
+standard a 4
+thress model 3
+type-1 worksharing 3
+total revenue 3
+net income 3
+new york 3
+part ii 3
+other mail 3
+workshare shift 3
+original discount 3
+traditional model 3
+part iii 3
+new position 3
+final delivery 2
+optical character 2
+1,000-mile rate 2
+current point 2
+third-class mail 2
+overall volume 2
+no-shift elasticity 2
+his cost 2
+considerable attention 2
+next step 2
+workshared volume 2
+peter bernstein 2
+quantity supplied 2
+weighted average 2
+own-price elasticity 2
+same time 2
+mailer welfare 2
+optimal discount 2
+discount change 2
+marginal cost 2
+different way 2
+vb vb 2
+5-digit level 2
+current=.06 profit 2
+net gain 2
+new discount 2
+sorting machine 2
+simple cost 2
+per-piece cost 2
+postal cost 2
+d = 2
+econometric model 2
+natural question 2
+net welfare 2
+third class 2
+efficient discount 2
+insoluble algebra 1
+type-3 worksharing 1
+ws ceb 1
+fourth statement 1
+zipped form 1
+technical cost 1
+his volume 1
+initial position 1
+triangle figure 1
+noshift elasticity 1
+postal attention 1
+traditional elasticity 1
+large neighborhood 1
+nondiscriminatory downstream 1
+postal service's 1
+candidate mail 1
+excess money 1
+postal revenue 1
+natural outcome 1
+integrated network 1
+additional ounce 1
+entire discussion 1
+distant location 1
+actual cost 1
+postal service.10 1
+breakeven position 1
+universal service 1
+low cost 1
+pronounced e-cross-e 1
+efficient piece 1
+third part 1
+simple demand 1
+permanent income 1
+new volume 1
+second example 1
+fiscal year 1
+common service 1
+simultaneous solution 1
+introduction competition 1
+crosshatched trapezoid 1
+nationwide mail 1
+= pb 1
+net loss 1
+next section 1
+third statement 1
+his analysis 1
+constant appropriate 1
+¾ cent 1
+substantial welfare 1
+same-day entry 1
+substantial degree 1
+high discount 1
+average rate 1
+type-2 situation 1
+same amount 1
+constant term 1
+small side 1
+technical matter 1
+associated service 1
+average weight 1
+her route 1
+pb pws+ 1
+alternative estimate 1
+net increase 1
+non-workshared category 1
+strong cross 1
+top graph 1
+current cost 1
+additional worksharing 1
+worksharing notion 1
+much mail 1
+their character 1
+previous section 1
+attractive mail 1
+direct testimony 1
+overall worksharing 1
+considerable expense 1
+latter factor 1
+new discount.16 1
+appropriate barcode 1
+vws* vws 1
+certain date 1
+general welfare 1
+hard evidence 1
+total cost 1
+second part 1
+standard a4 1
+postal administration 1
+workshared result 1
+postal monopoly 1
+technical appendix 1
+main file 1
+=¶ pv 1
+traditional form 1
+former model 1
+v pb 1
+position- hence 1
+pb -p 1
+transitory income 1
+1-day loss 1
+absolute level 1
+minimum charge 1
+same mailing 1
+letter/flat differential 1
+first statement 1
+sixth conference 1
+vb = 1
+postal account 1
+letter/flat rate 1
+efficient provider 1
+broad-based government 1
+sufficient volume 1
+washington dc 1
+simple example 1
+original workshare 1
+first class 1
+1-cent increase 1
+low slope 1
+their decision 1
+primary example 1
+particular way 1
+private trucking 1
+private sector 1
+same effect 1
+optimal position 1
+non-presorted mail 1
+practical situation 1
+no-shift elasticities,7 1
+above section 1
+first glance 1
+40-billion-piece level 1
+workshare category 1
+absolute value 1
+ifthe discount 1
+= -¶vws/¶d 1
+microsoft word 1
+powerful profit 1
+first step 1
+following graph 1
+beyond ¾ 1
+above curve 1
+workshared condition 1
+shifting volume 1
+certain level 1
+type-5 situation 1
+other curve 1
+latter case 1
+=-1.1074 g 1
+second model 1
+positive slope 1
+various welfare 1
+horizontal axis 1
+p = 1
+associated drop-ship 1
+additional presorting 1
+nationwide price 1
+average piece 1
+former term 1
+full knowledge 1
+postal rate 1
+substantial gain 1
+make-or-buy decision 1
+postal parlance 1
+average price 1
+different behavior 1
+much work 1
+postal service2 1
+broader question 1
+upper limit 1
+natural result 1
+postal service.5 1
+following table 1
+certain dummy 1
+initial volume 1
+graphs decrease 1
+postal worksharing 1
+same contribution 1
+attendant cross 1
+higher-cost person 1
+small proportion 1
+empirical work 1
+workshare price 1
+his success 1
+it presort 1
+certain graph 1
+maximum welfare 1
+his behavior 1
+postal activity 1
+obvious example 1
+complete model 1
+first part 1
+unbalanced situation 1
+appropriate discount 1
+particular piece 1
+first ounce 1
+same mail 1
+letter-size piece 1
+our assumption 1
+pws0.7554 vb 1
+v = 1
+optimal move 1
+workshared category 1
+separate step 1
+different proportionate 1
+r97-1 rate 1
+low-cost carrier 1
+general net 1
+billion figure 1
+considerable discussion 1
+new price 1
+latter assumption 1
+type-2 discount 1
+directt testimony 1
+average user 1
+second statement 1
+certain quantity 1
+switzerland june 1
+it weight 1
+ownprice elasticity 1
+different discount 1
+difficult mail 1
+postal industry 1
+latter possibility 1
+welfare level 1
+type-4 discount 1
+same message 1
+formal matter 1
+above supply 1
+slight modification 1
+p -p 1
+mr. thress 1
+efficient component 1
+relative bargain 1
+long-distance mail 1
+bottom line 1
+implied elasticity 1
+his welfare 1
+additional work 1
+different approach 1
+vertical axis 1
+slutsky-schultz condition 1
+private firm 1
+actual model 1
+private delivery 1
+customary demand 1
+good deal 1
+above example 1
+delivery economics 1
+welfare loss 1
+various price 1
+basic product 1
+productive way 1
+private industry 1
+practical matter 1
+technical loss 1
+letter/flat differential.9 1
+ce w 1
+pb -d 1
+conservative starting 1
+electronic form 1
+next page 1
+weighted price 1
+low-cost provider 1
+discount elasticity 1
+new worksharing 1
+worksharing discount 1
+net revenue 1
+
+ Trigram NP 
+postal rate commission 6
+new workshare price 2
+total marginal cost 2
+government-run postal delivery 1
+d-0.164 vb = 1
+regular standard a 1
+doubled thress model 1
+robert w. mitchell 1
+thomas e. thress 1
+new workshared volume 1
+fixed basic price 1
+their average rate 1
+desired net revenue 1
+no-shift own-price elasticity 1
+other breakeven position 1
+optimal move-no one 1
+¶ p v 1
+crosshatched trapezoid area 1
+associated technical loss 1
+cross-hatched trapezoid area 1
+private express statute 1
+efficient component pricing 1
+rutgers university montreux 1
+reasonable attendant growth 1
+= ¶pws vb 1
+pure type-1 worksharing 1
+pareto optimality presented 1
+it current level 1
+remote video encoding 1
+zero thress model 1
+traditional constant elasticity 1
+slight upward slope 1
+it marginal cost 1
+calculated workshared volume 1
+
+ Unigram NP 
+discount 140
+cost 70
+mail 66
+volume 61
+price 44
+work 42
+mailer 38
+welfare 37
+workshare 30
+difference 28
+shift 28
+rate 27
+level 26
+model 26
+paper 25
+figure 23
+category 22
+equation 21
+worksharing 21
+gain 21
+curve 21
+united 20
+thress 20
+profit 19
+presort 19
+piece 18
+pb 17
+position 16
+situation 16
+pws 16
+cross 14
+% 14
+order 13
+note 13
+point 13
+w 12
+market 12
+program 11
+change 11
+increase 11
+example 10
+ecp 10
+b 10
+margin 10
+user 10
+cents/piece 10
+shifting 10
+delivery 10
+neighborhood 9
+cent 9
+demand 9
+welf 9
+supply 9
+service 8
+system 8
+part 8
+firm 8
+number 7
+kind 7
+approach 7
+value 7
+author 7
+d 7
+range 7
+elasticity 7
+passthrough 6
+destination 6
+drop 6
+base 6
+g 6
+assumption 6
+case 6
+vb 6
+pareto 6
+graph 5
+sum 5
+constraint 5
+process 5
+discussion 5
+first-class 5
+breakeven 5
+view 5
+computer 5
+¾ 5
+effect 5
+mailer/competitor 5
+provider 5
+question 5
+p 4
+index 4
+estimate 4
+advocacy 4
+course 4
+nation 4
+term 4
+reason 4
+automation 4
+size 4
+way 4
+= 4
+exe 4
+-0.189 4
+requirement 4
+basis 4
+reduction 4
+opportunity 4
+loss 4
+cleveland 4
+competitor 4
+subclass 4
+shipping 4
+address 3
+consideration 3
+decrease 3
+unit 3
+type 3
+sense 3
+information 3
+short 3
+third 3
+move 3
+machine 3
+magnitude 3
+purpose 3
+distance 3
+option 3
+lotus 3
+result 3
+markup 3
+mailstream 3
+shape 3
+candidate 3
+saturation 3
+sorting 3
+growth 3
+decision 3
+barcode 3
+step 3
+trucking 3
+carrier 3
+area 3
+* 3
+vws 3
+notion 3
+dollar 2
+advantage 2
+condition 2
+-0.289 2
+disk 2
+method 2
+exercise 2
+processing 2
+understanding 2
+diamond 2
+behalf 2
+printing 2
+absolute 2
+fourth 2
+collection 2
+office 2
+group 2
+framework 2
+square 2
+reader 2
+issue 2
+possibility 2
+standard 2
+route 2
+symmetry 2
+revenue 2
+quality 2
+second 2
+preparation 2
+matter 2
+latter 2
+incentive 2
+letter 2
+nothing 2
+consumer 2
+quantity 2
+text 2
+ratio 2
+writer 2
+express 2
+differential 2
+activity 2
+implication 2
+machinability 2
+avoidance 2
+nature 2
+attention 2
+efficiency 2
+country 2
+contract 2
+s 2
+distinction 2
+contribution 2
+estimation 2
+deaveraging 2
+interest 2
+basic 2
+behavior 2
+procedure 2
+va 2
+iv 2
+vp 2
+party 2
+hand 2
+entry 2
+transporting 2
+alternative 2
+ease 2
+treatment 2
+burden 2
+r97-1 2
+competition 2
+scale 2
+operation 2
+business 2
+limitation 2
+anything 2
+peak 2
+facility 2
+operator 2
+risk 2
+utility 2
+fraction 2
+g-p 2
+percent 2
+conclusion 2
+picture 2
+structure 2
+rule 2
+time 2
+pb1.2707 1
+focus 1
+line-of-travel 1
+adjustment 1
+@ 1
+fax 1
+parcel 1
+-2.5 1
+forth 1
+list 1
+-= 1
+margin.6 1
+consistent 1
+maximization 1
+sign 1
+video 1
+perspective 1
+contractor/agent 1
+appear 1
+brief 1
+uniform 1
+access 1
+costing 1
+net 1
+movement 1
+transportation 1
+degree 1
+makeup 1
+concluding 1
+sortation 1
+table 1
+amount 1
+backsolver 1
+classification 1
+apply 1
+use 1
+vi 1
+-1.1074 1
+ii 1
+none 1
+extension 1
+vws* 1
+cleveland-it 1
+arrangement 1
+delay 1
+ounce 1
+¶ 1
+optimal 1
+economy 1
+simplicity 1
+staying 1
+description 1
+horizontal 1
+response 1
+a 1
+light 1
+help 1
+prc.gov 1
+mailers.17 1
+mailers.15 1
+policy 1
+someone 1
+ceb 1
+half 1
+arriving 1
+name 1
+advent 1
+right-hand 1
+weight 1
+desirability 1
+product 1
+r971 1
+witness 1
+network 1
+research 1
+shipment 1
+nonletter 1
+given 1
+intermediate 1
+obligation 1
+likelihood 1
+no-shift 1
+place 1
+sack 1
+one 1
+guess 1
+percentage 1
+½ 1
+needle 1
+street 1
+outcome 1
+discounts.19 1
+viewed 1
+functioning 1
+zero 1
+potential 1
+finding 1
+printer 1
+beyond 1
+opposite 1
+cap 1
+achievement 1
+observation 1
+average 1
+face 1
+tech 1
+occasion 1
+section 1
+fact 1
+slope 1
+one-eighth 1
+competitors1 1
+fifth 1
+completion 1
+equilibrium 1
+presorting 1
+triangle 1
+beat 1
+assistant 1
+barcoding 1
+reference 1
+sensitivity 1
+relative 1
+concern 1
+exponent 1
+pattern 1
+onequarter 1
+bureau 1
+routine 1
+ability 1
+importance 1
+screen 1
+spray 1
+extent 1
+c 1
+presortation 1
+ce 1
+regulated 1
+own-price 1
+respect 1
+pp 1
+i.e. 1
+addition 1
+simplification 1
+due 1
+optimality 1
+representative 1
+evidence 1
+plain 1
+appearance 1
+error 1
+pound 1
+productivity 1
+make 1
+administration 1
+status 1
+strength 1
+tune 1
+off 1
+center 1
+analysis 1
+person 1
+-1.3328 1
+mailer's 1
+preference 1
+differentiation 1
+presumption 1
+thinking 1
+improvement 1
+d=4¢ 1
+usage 1
+d0.227 1
+government 1
+community 1
+postal 1
+disadvantage 1
+noshift 1
+benefit 1
+sequence 1
+pricing 1
+usps-t-1 1
+usps-t-7 1
+package 1
+freedom 1
+variables.11 1
+testimony 1
+additional 1
+support 1
+function 1
+form 1
+convergence 1
+line 1
+characteristic 1
+maximum 1
+b-pws 1
+constant 1
+ship 1
+check 1
+variety 1
+deserve 1
+reality 1
+application 1
+setting 1
+bundle 1
+meaning 1
+important 1
+graphically 1
+variable 1
+billion 1
+mailing 1
+portion 1
+
+ Arbitary length NP 
+final conference copy thress model 2
+u. s. government agency 1
+h st nw suite 1
+v pbeb =¶ pb 1
+vws vi vws where vi 1
+eb =-189.0 +-164.0 gpb 1
+pws vl va where vl 1
+u. s. postal rate commission 1
+basic price held constant 1
+enhanced carrier route standard a 1
+breakeven maintained thress model 1
+available become quite small.20 1

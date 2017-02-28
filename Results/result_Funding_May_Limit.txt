@@ -1,0 +1,86 @@
+
+ Bigram NP 
+salt lake 2
+executive director 2
+last month 1
+her organization 1
+such help 1
+short time 1
+skeleton staff 1
+grant denial 1
+her abuser 1
+workable support 1
+such assistance 1
+worthy cause 1
+utah legal 1
+stewart ralphs 1
+their vote 1
+child support 1
+u.s. department 1
+anne milne 1
+their focus 1
+legal aid 1
+additional funding 1
+third request 1
+enough collaboration 1
+federal grant 1
+
+ Trigram NP 
+legal aid society 2
+low-income domestic violence 1
+long-term legal help 1
+utah state bar 1
+utah legal service 1
+longer-term legal help 1
+
+ Unigram NP 
+funding 5
+milne 5
+board 5
+request 4
+custody 4
+cvr 4
+victim 3
+emergency 3
+ralphs 3
+grant 2
+justice 2
+effect 2
+property 2
+child-custody 1
+outlook 1
+office 1
+september 1
+tuesday 1
+child 1
+attrition 1
+coordination 1
+staff 1
+stopgap 1
+offering 1
+crime 1
+application 1
+state 1
+lot 1
+money 1
+department 1
+meeting 1
+loan 1
+refusal 1
+part 1
+relationship 1
+representation 1
+november 1
+likelihood 1
+october 1
+wednesday 1
+place 1
+abuser 1
+organization 1
+order 1
+
+ Arbitary length NP 
+crime victim reparation [ cvr ] 1
+salt lake tribune funding may limit legal aid 1
+domestic violence ashley broughton friday 1
+18-month civil legal assistance 1

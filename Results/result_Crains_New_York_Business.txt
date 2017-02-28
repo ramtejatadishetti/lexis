@@ -1,0 +1,118 @@
+
+ Bigram NP 
+legal aid 5
+mr. davol 3
+montague street 2
+her office 2
+half alone 1
+protective gear 1
+twin tower 1
+confidential client 1
+brown construction 1
+past month 1
+tenantwise.com inc. 1
+grade-school art 1
+steven bank 1
+her storage 1
+church st 1
+new emergency 1
+ms. baum 1
+temporary space 1
+clear plastic 1
+new york 1
+bendable toy 1
+uncomfortable company 1
+jennifer baum 1
+civil division 1
+brooklyn height 1
+good reason-in 1
+church st. 1
+wind-up chattering 1
+ms. benjamin 1
+leaky storage 1
+green thumb 1
+unused spaces-some 1
+old office 1
+associate attorney 1
+sam davol 1
+stephen gandel 1
+elisabeth benjamin 1
+
+ Trigram NP 
+legal aid society-the 1
+world trade center 1
+manhattan-based real estate 1
+new york business 1
+
+ Unigram NP 
+office 3
+sept. 3
+crain 2
+attorney 2
+year 2
+staff 2
+space 2
+part 2
+place 2
+nonprofit 2
+colleague 1
+facility 1
+september 1
+caretaker 1
+demand 1
+life 1
+rolodex 1
+sign 1
+drawer 1
+paper 1
+homeless 1
+room-turned-office 1
+mold 1
+pantyhose 1
+practice 1
+% 1
+wanderer 1
+leak 1
+storage 1
+access 1
+wood 1
+health 1
+finger 1
+suit 1
+new 1
+trash 1
+limbo 1
+economy 1
+linden 1
+ceiling 1
+sense 1
+ability 1
+monday 1
+rise 1
+squishy 1
+fed 1
+site 1
+water 1
+phone 1
+nomad 1
+half 1
+front 1
+brokerage 1
+basement 1
+law 1
+bargain 1
+mod 1
+stress 1
+squatter 1
+room 1
+work 1
+headquarters 1
+analysis 1
+chief 1
+motrin 1
+n.j. 1
+connoisseur 1
+paneling 1
+
+ Arbitary length NP 
+new york business legal aid 1

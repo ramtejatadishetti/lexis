@@ -1,0 +1,1038 @@
+
+ Bigram NP 
+adverse effect 13
+toxicant test 12
+probit analysis 12
+statistical analysis 11
+toxicant concentration 10
+rank test 7
+t test 6
+effluent toxicity 6
+within-test variability 5
+safe concentration 5
+chronic toxicity 5
+effluent test 5
+tap water 4
+sample collection 4
+biological standpoint 4
+minimum difference 4
+range-finding test 4
+graphical method 4
+spearman-karber method 4
+step-by-step example 4
+continuous dose-response 4
+linear response 3
+mineral water 3
+24-h period 3
+alpha level 3
+second set 3
+first use 3
+current control 3
+additional guidance 3
+composite sample 3
+green alga 3
+significant difference 3
+effluent sample 3
+perrier® water 3
+experimental design 3
+single grab 3
+dissolved oxygen 3
+receiving water 3
+no-observed-effect concentration 3
+normal distribution 2
+equivalent system 2
+quality assurance 2
+dose-response relationship 2
+standard deviation 2
+volatile toxic 2
+plastic carboy 2
+recommended test 2
+normal propagation 2
+toxicant testing 2
+appendix m 2
+appendix b 2
+test organism 2
+other test 2
+hypothesis test 2
+particular concentration 2
+acceptable dilution 2
+measured ph 2
+non-parametric method 2
+final bacteria 2
+it validity 2
+multiple comparison 2
+tabular value 2
+arc sine 2
+overall error 2
+particular shape 2
+adjusted ph 2
+upper bound 2
+statistical method 2
+sufficient sample 2
+dilution water 2
+reconstituted water 2
+full life-cycle 2
+total hardness 2
+deionized water 2
+uncontaminated receiving 2
+no-effect concentration 2
+partial life-cycle 2
+other point 2
+bonferroni adjustment 2
+regulatory authority 2
+dunnett's procedure 2
+valid test 2
+definitive test 2
+individual test 2
+express mail 2
+total ammonia 2
+appendix d. 1
+central tendency 1
+minimum head 1
+final dilution 1
+qualitative comparison 1
+frequent and/or 1
+full characterization 1
+the statistician 1
+unchlorinated effluent 1
+single effluent 1
+concentrated stock 1
+further investigation 1
+appendix c. 1
+algal growth 1
+ground water 1
+four-cartridge deionizer 1
+appropriate discharge 1
+final cartridge 1
+biological significance 1
+appropriate response 1
+associated reference 1
+case-by-case basis 1
+synthetic water 1
+required survival 1
+simultaneous acute 1
+contract laboratory 1
+organex-q® filter 1
+0.45-µm pore 1
+graphical form 1
+substantial magnitude 1
+lethal concentration 1
+prescribed test 1
+suitable control 1
+statistical flow 1
+point estimation 1
+calculated test 1
+average control 1
+their use 1
+steel's test 1
+second sample 1
+specific test 1
+algal slime 1
+concentration-response concept 1
+nonparametric test 1
+such precision 1
+appendix k 1
+appendix j 1
+appendix l 1
+appendix a 1
+water sample 1
+appendix c 1
+test method 1
+appendix d 1
+appendix g 1
+appendix f 1
+sufficient ice 1
+observed impact 1
+sufficient sodium 1
+valid concentration-response 1
+unknown quality 1
+their toxicity 1
+chi-square statistic 1
+and outlier 1
+multi-concentration test 1
+required toxicity 1
+first sample 1
+off-site toxicity 1
+overall relationship 1
+successive effluent 1
+infrequent basis 1
+possible retesting 1
+processed waste 1
+sampling period 1
+clear cut 1
+on-site toxicity 1
+standard dilution 1
+concentration-response curve 1
+low level 1
+inhibition concentration 1
+allowable sample 1
+significant toxicity 1
+sample receiving 1
+millipore® qpak™2 1
+effluent grab 1
+significant reduction 1
+alternative point 1
+data transformation 1
+oxygen demand 1
+important part 1
+open test 1
+60-µm plankton 1
+all-data approach 1
+representative set 1
+usepa regional 1
+philip lewis 1
+raw toxicity 1
+classical concentration-response 1
+potential problem 1
+sealed system 1
+alternative dilution 1
+final treatment 1
+maximum likelihood 1
+other response 1
+subsequent hypothesis 1
+inherent variability 1
+replicate test 1
+nonparametric method 1
+instantaneous toxicity 1
+plant operation 1
+static test 1
+intermediate concentration 1
+required test 1
+high precision 1
+anomalous test 1
+toxicity-free dilution 1
+synthetic dilution 1
+npdes program 1
+typical range 1
+lapsed time 1
+rigorous randomization 1
+effluent-receiving-water mixture 1
+from mount 1
+normal variate 1
+suitable receiving 1
+appropriate ph 1
+daily grab 1
+preliminary toxicity 1
+following manner 1
+magnetic stirrer 1
+improved quality 1
+unattended period 1
+aerated water 1
+strict threshold 1
+large floating 1
+particular analysis 1
+millipore® milli-q® 1
+good test 1
+observable effect 1
+manual specify 1
+composite receiving 1
+high ph 1
+and/or teratogenicity 1
+practical limit 1
+other wastewater 1
+large number 1
+general applicability 1
+effluent prior 1
+appropriate transformation 1
+other hand 1
+same test 1
+adequate time 1
+effluent sampling 1
+other variability 1
+representative sample 1
+inverse regression 1
+appendix f. 1
+last resort 1
+ongoing laboratory 1
+same number 1
+appendix b-f 1
+aquatic life 1
+common practice 1
+serious incapacitation 1
+hard water 1
+detailed discussion 1
+descriptive statistic 1
+36-h limit 1
+single toxicant 1
+sample randomization 1
+thiosulfatedechlorinated water 1
+new plastic 1
+appropriate dilution 1
+single reference 1
+logarithmic series 1
+prescribed range 1
+and shipping 1
+on-site time 1
+microbial degradation 1
+second test 1
+separate wastewater 1
+true threshold 1
+undiluted effluent 1
+mean response 1
+variability criterion 1
+sublethal hypothesis 1
+combined solution 1
+test variability 1
+new test 1
+rwc = 1
+unionized ammonia 1
+test review 1
+statistical test 1
+specified frequency 1
+non-contact cooling 1
+mg selenium 1
+overall quality 1
+statistical independence 1
+possible toxicity 1
+millipore® system 1
+additional sampling 1
+general laboratory 1
+expected range 1
+maximum precision 1
+recommended control 1
+it use 1
+total alkalinity 1
+synthetic freshwater 1
+shipped sample 1
+non-continuous dose-response 1
+large deviation 1
+critical assumption 1
+static renewal 1
+two-fold difference 1
+permitted receiving 1
+h elapse 1
+teresa norberg-king 1
+minimum number 1
+observed response 1
+sufficient information 1
+sample handling 1
+appendix e. 1
+observed mortality 1
+mathematical model 1
+same sample 1
+biological parameter 1
+previous concentration 1
+report preparation 1
+statistical flowchart 1
+recommended order 1
+definitive toxicity 1
+original number 1
+onsite testing 1
+associated test 1
+reliable indication 1
+tabulate qa 1
+interpolation method 1
+flow-through test 1
+recent reference 1
+suitable hardness 1
+natural variability 1
+municipal waste 1
+tabular form 1
+preliminary step 1
+short-term chronic 1
+error term 1
+dry weight 1
+important factor 1
+data analysis 1
+different toxicity 1
+substantial toxic 1
+calculated value 1
+same toxicant 1
+normal dilution 1
+the data 1
+concentration-response relationship 1
+different concentration-response 1
+equivalent water 1
+initial decision 1
+relative difference 1
+apparent toxicity 1
+biological concept 1
+appropriate test 1
+sub-chronic toxicity 1
+associated effluent 1
+and/or sorption 1
+alternative hypothesis 1
+possible build-up 1
+larval survival 1
+minimum test 1
+different time 1
+threshold concentration 1
+same terminology 1
+further discussion 1
+chi-square test 1
+pervasive one 1
+last grab 1
+downward trend 1
+appropriate procedure 1
+short period 1
+further hypothesis 1
+summary table 1
+control chart 1
+separate flask 1
+water test 1
+alternative variability 1
+static non-renewal 1
+third sample 1
+exact test 1
+regular basis 1
+extreme caution 1
+second reason 1
+powerful test 1
+
+ Trigram NP 
+linear interpolation method 6
+trimmed spearman-karber method 4
+total residual chlorine 3
+minimum significant difference 3
+other aquatic life 2
+short-term chronic toxicity 2
+diluted mineral water 2
+the bonferroni adjustment 2
+point estimation technique 2
+test acceptability criterion 2
+chronic aquatic toxicity 2
+synthetic dilution water 1
+24-h composite sampling 1
+recommended statistical analysis 1
+appendix c. pmsd 1
+grab sample advantage 1
+avoid excessive aeration 1
+non-quantal biological measurement 1
+undiluted effluent test 1
+[ inhibition concentration 1
+dilution water sample 1
+several widely-spaced sample 1
+conclusion and recommendation 1
+mean daily discharge 1
+observed adverse effect 1
+recommended alpha level 1
+abbreviated static acute 1
+alternate statistical method 1
+defined statistical procedure 1
+appropriate statistical analysis 1
+other toxicant concentration 1
+fullscale definitive test 1
+synthetic reconstituted water 1
+reference toxicant testing 1
+replication and sensitivity 1
+mg/l anhydrous sodium 1
+npdes permit program 1
+source of effluent 1
+receiving water sampling 1
+equivalent deionized water 1
+effluent sample type 1
+large upward adjustment 1
+specific flow chart 1
+and dilution water 1
+following general format 1
+choice of analysis 1
+effluent sampling recommendation 1
+single chronic toxicity 1
+effluent toxicity test 1
+wilcoxon rank sum 1
+recommended minimum significance 1
+significant toxic effect 1
+composite sample advantage 1
+no-observed- effect concentration 1
+practical biological viewpoint 1
+8-24 h. caution 1
+dilution water holding 1
+24-h composite sample 1
+observable adverse affect 1
+significant observed effect 1
+usepa regional administrator 1
+
+ Unigram NP 
+test 192
+water 88
+toxicity 56
+concentration 47
+sample 46
+control 40
+use 38
+dilution 30
+point 29
+hypothesis 28
+% 28
+pmsd 27
+time 25
+noec 24
+method 20
+collection 19
+receiving 19
+analysis 19
+growth 19
+usepa 18
+reference 18
+effluent 18
+estimate 17
+toxicant 17
+reproduction 16
+subsection 16
+do 15
+h 15
+variability 15
+procedure 15
+relationship 14
+testing 14
+amount 13
+data 13
+laboratory 13
+number 13
+temperature 13
+estimation 13
+loec 13
+organism 12
+sensitivity 12
+discharge 12
+adjustment 11
+dunnett 11
+section 11
+bonferroni 11
+ph 11
+aeration 11
+noecs 10
+steel 10
+objective 10
+variance 10
+treatment 10
+effect 10
+survival 10
+percent 10
+l 9
+result 9
+minimum 8
+response 8
+thiosulfate 8
+ec 8
+quality 8
+mortality 8
+hardness 8
+case 8
+source 8
+confidence 8
+permit 7
+lc50 7
+series 7
+container 7
+assumption 7
+dubia 7
+chart 7
+guidance 7
+review 7
+ic 7
+ceriodaphnia 7
+range 7
+renewal 7
+npdes 7
+program 6
+example 6
+date 6
+lc 6
+day 6
+mean 6
+daphnid 6
+grab 6
+culture 6
+outfall 6
+table 6
+precision 6
+value 6
+mg/l 6
+randomization 6
+flowchart 6
+interval 6
+downstream 5
+solution 5
+degree 5
+figure 5
+milli-q® 5
+measure 5
+filter 5
+preparation 5
+volume 5
+acceptability 5
+air 5
+ic50 5
+death 5
+chamber 5
+equivalent 5
+normality 5
+ic25 5
+deviation 5
+concept 4
+condition 4
+rate 4
+type 4
+validity 4
+e.g. 4
+provide 4
+chemical 4
+criterion 4
+rwc 4
+alkalinity 4
+standard 4
+g 4
+multi-concentration 4
+population 4
+b 4
+equipment 4
+threshold 4
+factor 4
+report 4
+summary 4
+computer 4
+reviewer 4
+conductivity 4
+carbon 4
+sampling 4
+reduction 4
+waste 4
+epa 4
+homogeneity 4
+wet 4
+loss 4
+authority 4
+shipping 4
+bound 4
+delivery 4
+al 4
+choice 3
+level 3
+independence 3
+fathead 3
+filtration 3
+understanding 3
+study 3
+deionizer 3
+monotonicity 3
+mg 3
+extension 3
+calculation 3
+caution 3
+pimephales 3
+information 3
+concentration-response 3
+a 3
+statistician 3
+minnow 3
+facility 3
+name 3
+space 3
+reason 3
+capricornutum 3
+appropriateness 3
+grade 3
+system 3
+loecs 3
+selenastrum 3
+performance 3
+nothing 3
+noec-loec 3
+equilibrium 3
+set 3
+period 3
+i.e. 3
+piecewise 3
+addition 3
+replicate 3
+model 3
+location 3
+reagent 3
+duration 3
+function 3
+msd 3
+assessment 3
+problem 3
+flow 3
+physical 3
+log 3
+debris 2
+zone 2
+heterogeneity 2
+kcl 2
+cubitainers® 2
+design 2
+above 2
+nahco3 2
+exchange 2
+change 2
+compliance 2
+millipore® 2
+apha 2
+process 2
+cubitainer® 2
+examination 2
+spike 2
+appendix 2
+endpoint 2
+longitude 2
+root 2
+f. 2
+discussion 2
+pure 2
+no-observed-effect-concentration 2
+interpretation 2
+charting 2
+sodium 2
+latitude 2
+oxygen 2
+parameter 2
+square 2
+fish 2
+applicable 2
+frequency 2
+pmsds 2
+difficulty 2
+chlorine 2
+definition 2
+place 2
+assurance 2
+percentage 2
+aerate 2
+need 2
+note 2
+persistence 2
+alpha 2
+assistance 2
+mid-depth 2
+dechlorination 2
+requirement 2
+arrival 2
+s 2
+life 2
+airstone 2
+handling 2
+volatilization 2
+site 2
+lcs 2
+ec50 2
+reporting 2
+ion 2
+instance 2
+add 2
+transformation 2
+saturation 2
+finding 2
+caco3/l 2
+and/or 2
+decision 2
+ice 2
+percentile 2
+permittee 2
+software 2
+presence 2
+fisher 2
+transfer 2
+approximate 2
+width 2
+mgso4 2
+medium 2
+dmw 2
+influence 2
+saturday 2
+ic25s 2
+curve 2
+milk 1
+retention 1
+synthetic 1
+pretreatment 1
+technique 1
+sulfate 1
+removal 1
+present 1
+life-cycle 1
+liter 1
+hodges 1
+corollary 1
+upstream 1
+mixing 1
+g. 1
+exact 1
+organex-q® 1
+cfr 1
+contingent 1
+pipet 1
+ammonia 1
+access 1
+conduct 1
+net 1
+contrast 1
+dunnett's 1
+operating 1
+aid 1
+[ 1
+sieve 1
+nylon 1
+diameter 1
+decrease 1
+causal 1
+direction 1
+hatchability 1
+taken 1
+scope 1
+stage 1
+multiconcentration 1
+glass 1
+deionized 1
+effort 1
+equation 1
+emerson 1
+erl 1
+compare 1
+tap 1
+tac 1
+sense 1
+reclosing 1
+absolute 1
+end 1
+advantage 1
+lowest-observed-effect-concentration 1
+sunday 1
+stir 1
+plant 1
+description 1
+non-toxic 1
+amenable 1
+light 1
+bootstrap 1
+departure 1
+order 1
+coarse-filter 1
+vary 1
+nitrogen 1
+group 1
+fit 1
+discharger 1
+precipitate 1
+food 1
+material 1
+immobility 1
+front 1
+term 1
+drop 1
+magnitude 1
+weight 1
+product 1
+ec1 1
+supersaturation 1
+event 1
+valve 1
+content 1
+health 1
+shipment 1
+evaluation 1
+hcl 1
+influent 1
+continental® 1
+approach 1
+remainder 1
+organic 1
+area 1
+length 1
+specification 1
+feed 1
+probability 1
+preservation 1
+array 1
+gpm 1
+service 1
+start 1
+introduction 1
+plastic 1
+indicate 1
+scheme 1
+williams 1
+option 1
+part 1
+fall 1
+kind 1
+i-l 1
+lc1s 1
+na2seo4 1
+bubbles/min 1
+lid 1
+chlorine/l 1
+fitting 1
+potential 1
+impairment 1
+plan 1
+rationale 1
+] 1
+placement 1
+request 1
+salinity 1
+d. 1
+selection 1
+random 1
+taxonomic 1
+ground 1
+title 1
+lc1 1
+minnesota 1
+herein 1
+mgd 1
+lehmann 1
+express 1
+truly 1
+dye 1
+conjunction 1
+culligan® 1
+norberg-king 1
+freshwater 1
+coefficient 1
+statistical 1
+immobilization 1
+alternative 1
+promelas 1
+state 1
+tolerance 1
+ability 1
+mid-stream 1
+carboy 1
+birge 1
+extent 1
+distribution 1
+exclusion 1
+contract 1
+etc 1
+otherwise 1
+key 1
+sigmoidal 1
+address 1
+lc50s 1
+cv 1
+non-renewal 1
+interest 1
+firm 1
+c. 1
+body 1
+determination 1
+input 1
+exception 1
+dose 1
+batch 1
+calcium 1
+error 1
+situation 1
+retesting 1
+surface 1
+casarett 1
+regression 1
+doull 1
+adverse 1
+schematic 1
+consultation 1
+interpolation 1
+week 1
+practice 1
+upon 1
+hand 1
+purpose 1
+toxicology 1
+lower 1
+intermittent 1
+inability 1
+/2 1
+biologist 1
+caso4•2h20 1
+emsl-cincinnati 1
+chain-of-custody 1
+ease 1
+supply 1
+anova 1
+valid 1
+easy 1
+warrant 1
+pair 1
+definitive 1
+thurston 1
+streamflow 1
+reuse 1
+cf 1
+breakage 1
+desire 1
+spigot 1
+message 1
+duluth 1
+indication 1
+t 1
+output 1
+quantal 1
+selenate 1
+understood 1
+respect 1
+dropwise 1
+rwc/2 1
+icp 1
+rwc/4 1
+qpak™2 1
+schedule 1
+acclimation 1
+rearranging 1
+comparison 1
+naoh 1
+oh 1
+trustworthy 1
+carrier 1
+logistical 1
+chronic 1
+h. 1
+female 1
+overadjustment 1
+question 1
+low 1
+way 1
+initiation 1
+head 1
+bus 1
+remote 1
+deionization 1
+statistic 1
+scientific 1
+goodness 1
+dawson 1
+face 1
+whereas 1
+cleanup 1
+role 1
+holding 1
+permitting 1
+variation 1
+concurrent 1
+exposure 1
+e 1
+phone 1
+portion 1
+wastewater 1
+
+ Arbitary length NP 
+wilcoxon rank sum test 6
+deionized water used to prepare standard 1
+and sample preparation for toxicity test 1
+effluent and receiving water sampling 1
+wet interlaboratory variability study 1
+upper and lower pmsd bound 1
+type of dilution water 1
+analysis of mortality data 1
+effluent and receiving water sample handling 1
+analysis of algal growth response data 1
+receiving water a dilution water 1
+of synthetic freshwater using mineral water1 approximate final water quality 1
+other uncontaminated natural water 1
+preparation of effluent and receiving water sample for toxicity test 1
+of synthetic freshwater using reagent grade chemicals1 1
+follow-up chronic definitive test 1
+the following effluent sampling method are recommended 1
+for sublethal hypothesis testing endpoint submitted under npdes permits.1 1
+of tap water a dilution water 1
+preliminary toxicity range-finding test 1
+persistence of effluent toxicity during sample shipment and holding 1
+sample used in on-site test 1
+sample shipped to off-site facility 1
+analysis of growth and reproduction data 1
+relationship between endpoint determined by hypothesis testing and point estimation technique 1
+a caution in the use of hypothesis testing 1
+chronic toxicity test endpoint and data analysis 1
+single 24-h composite sample 1
+report preparation and test review 1

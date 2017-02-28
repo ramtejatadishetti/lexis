@@ -1,0 +1,104 @@
+
+ Bigram NP 
+city council 3
+rental inspection 2
+rent-to-own contract 2
+walter erwin 1
+last summer 1
+tinbridge hill 1
+bedford ave. 1
+much activity 1
+ed mccann 1
+next year 1
+michael hewlett 1
+city attorney 1
+renae patrick 1
+bryant seek 1
+lynchburg virginia 1
+single-family residence 1
+housing authority 1
+other housing 1
+rent-to-own agreement 1
+lynchburg redevelopment 1
+preston bryant 1
+new tenant 1
+statewide issue 1
+college hill 1
+final action 1
+their budget 1
+general assembly 1
+their property 1
+rental program 1
+july news 1
+house bill 1
+their home 1
+financial arrangement 1
+
+ Trigram NP 
+white rock hill 1
+senate joint resolution 1
+virginia housing commission 1
+housing authority executive 1
+
+ Unigram NP 
+bryant 5
+payne 3
+program 3
+issue 3
+lynchburg 3
+advance 3
+resolution 3
+bill 3
+news 2
+city 2
+process 2
+tenant 2
+proposal 2
+article 2
+budget 2
+contract 2
+del 2
+editorial 2
+property 2
+inspection 2
+r-lynchburg 1
+attorney 1
+code 1
+ad 1
+statewide 1
+september 1
+money 1
+rivermont 1
+authority 1
+month 1
+area 1
+eviction 1
+result 1
+committee 1
+dozen 1
+everybody 1
+hoc 1
+advantage 1
+discussion 1
+split 1
+monday 1
+government 1
+mid-march 1
+attention 1
+june 1
+director 1
+part 1
+census 1
+report 1
+land 1
+attempt 1
+look 1
+council 1
+study 1
+housing 1
+time 1
+decision 1
+
+ Arbitary length NP 
+virginia legal aid society 2
+city manager kim payne 1

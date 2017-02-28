@@ -1,0 +1,151 @@
+
+ Bigram NP 
+his life 2
+judge bailey 2
+civil litigation 2
+private practice 2
+real surprise 1
+jennifer konomos 1
+their day 1
+frank o'bannon 1
+indiana court 1
+fast track 1
+competent counsel 1
+judiciary ] 1
+innovative development 1
+our system 1
+legal ladder 1
+his bachelor 1
+it kind 1
+his dedication 1
+indiana code 1
+their behalf 1
+his career 1
+his mission 1
+his example 1
+decent self 1
+his quick 1
+indiana university-indianapolis 1
+third branch 1
+chief justice 1
+hard time 1
+similar program 1
+his commitment 1
+hard work 1
+demonstrated dedication 1
+great compliment 1
+decatur county 1
+executive director 1
+first chair 1
+original chairman 1
+st. paul 1
+wonderful office 1
+
+ Trigram NP 
+decatur superior court 1
+our legal system 1
+it annual celebration 1
+his statewide vision 1
+lick spring spa 1
+l. mark bailey 1
+their social stature 1
+indiana supreme court 1
+randall t. shepard 1
+appeal first district 1
+their judicial system 1
+decatur county court 1
+
+ Unigram NP 
+bailey 12
+award 9
+judge 5
+indiana 5
+justice 2
+individual 2
+event 2
+state 2
+part 2
+work 2
+shepard 2
+process 2
+court 2
+ipbc 2
+money 1
+committee 1
+bench 1
+program 1
+board 1
+homeland 1
+equity 1
+maryland 1
+presentation 1
+konomos 1
+government 1
+framework 1
+day 1
+university 1
+excellence 1
+activity 1
+security 1
+someday 1
+everyone 1
+judgeship 1
+lawyer 1
+year 1
+jurisprudence 1
+gov 1
+cause 1
+ability 1
+degree 1
+joy 1
+legislature 1
+career 1
+country 1
+trial 1
+climb 1
+honor 1
+regardless 1
+commitment 1
+one 1
+system 1
+commission 1
+philanthropy 1
+we're 1
+lot 1
+today 1
+form 1
+regard 1
+delivery 1
+representative 1
+line 1
+volunteer 1
+october 1
+project 1
+praise 1
+doctorate 1
+gathering 1
+credit 1
+stake 1
+reality 1
+reelection 1
+indianapolis 1
+21-member 1
+farm 1
+implementation 1
+date 1
+law 1
+structure 1
+man 1
+lead 1
+person 1
+time 1
+position 1
+model 1
+dream 1
+
+ Arbitary length NP 
+indiana pro bono commission 5
+greensburg daily news from cornfield 1
+randall t. shepard dinner 1
+north decatur high school 1
+courtroom jim cummings november 1

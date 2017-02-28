@@ -1,0 +1,194 @@
+
+ Bigram NP 
+indigenous project 4
+my wife 1
+indigenous program 1
+willamette valley 1
+fair shake 1
+mixtec worker 1
+irma luna 1
+similar effort 1
+tri-lingual employee 1
+sexual harassment 1
+equal justice 1
+public indecency 1
+legal system 1
+extreme poverty 1
+economic hardship 1
+nargess shadbeh 1
+migrant worker 1
+his murder 1
+hispanic area 1
+front door 1
+substandard housing 1
+legal information 1
+legal research 1
+el oaxaqueo 1
+first fellowship 1
+his language 1
+outside world 1
+julie sample 1
+central valley 1
+pacificorp foundation 1
+mount angel 1
+mental hospital 1
+new program 1
+major stumbling 1
+mark wilk 1
+educational development 1
+same point 1
+valentin sanchez 1
+legal aid 1
+indian dialect 1
+indigenous population 1
+spanish-speaking farmworker 1
+david lopez 1
+central america 1
+legal news 1
+their time 1
+federal funding 1
+adolfo ruiz-alvarez 1
+their ancestry 1
+similar office 1
+mexican mainstream 1
+agricultural migrant 1
+indigenous community 1
+common source 1
+dramatic increase 1
+next door 1
+
+ Trigram NP 
+oregon law center 3
+santiago ventura morale 1
+el noticiero legal 1
+alex davis woodburn 1
+my fourth language 1
+their native country 1
+small legal office 1
+confidential legal aid 1
+woodburn high school 1
+clark law school 1
+
+ Unigram NP 
+oregon 8
+woodburn 6
+mixteco 6
+mixtecs 4
+oaxaca 4
+english 4
+office 3
+program 3
+state 3
+spanish 3
+language 3
+project 3
+sample 3
+mexican 2
+home 2
+handful 2
+sanchez 2
+number 2
+community 2
+downtown 2
+money 2
+mexico 2
+native 2
+united 2
+majority 2
+director 2
+shop 1
+summer 1
+lewis 1
+random 1
+mayor 1
+decade 1
+wage 1
+labor 1
+prison 1
+employee 1
+coffee 1
+day 1
+public 1
+team 1
+trend 1
+sign 1
+culture 1
+street 1
+lawyer 1
+ore. 1
+funding 1
+jewelry 1
+fellowship 1
+triqu 1
+clerk 1
+litigation 1
+transportation 1
+august 1
+u.s. 1
+difficulty 1
+california 1
+lopez 1
+working 1
+conviction 1
+bos 1
+drug 1
+place 1
+testament 1
+block 1
+farmworker 1
+campaign 1
+communication 1
+washington 1
+lettuce 1
+learning 1
+triqui 1
+table 1
+basketball 1
+service 1
+housing 1
+call 1
+today 1
+building 1
+shopping 1
+form 1
+influence 1
+zapotec 1
+worker 1
+phone 1
+part 1
+piecework 1
+spain 1
+volunteer 1
+town 1
+grocery 1
+october 1
+inside 1
+future 1
+wilk 1
+example 1
+stream 1
+share 1
+telephone 1
+ap 1
+bias 1
+north 1
+grant 1
+graduate 1
+academy 1
+answer 1
+monday 1
+center 1
+fruit 1
+paving 1
+letter 1
+law 1
+tomato 1
+salary 1
+i 1
+counter 1
+mixtec 1
+
+ Arbitary length NP 
+spirit mountain community fund 1
+california rural legal assistance 1
+oregon law center's woodburn 1

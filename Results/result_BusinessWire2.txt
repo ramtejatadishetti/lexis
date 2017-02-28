@@ -1,0 +1,69 @@
+
+ Bigram NP 
+legal aid 2
+tarrant county 2
+fort worth 2
+justice foundation 2
+dallas county 2
+texas wednesday 1
+main office 1
+business wire 1
+low-income resident 1
+afforded access 1
+supreme court 1
+legal assistance 1
+north texas 1
+following organization 1
+dallas total 1
+
+ Trigram NP 
+texas equal access 2
+justice foundation allocates 1
+dallas catholic charity 1
+u.s. census bureau 1
+dallas legal service 1
+
+ Unigram NP 
+dallas 4
+texas 3
+teajf 3
+grant 2
+percent 2
+program 2
+poverty 2
+population 2
+level 2
+county 1
+www.txiolta.org 1
+lawyer 1
+trust 1
+texas- 1
+bcls 1
+city 1
+court 1
+justice 1
+eleven 1
+cvcls 1
+interest 1
+foundation 1
+advice 1
+million 1
+plan 1
+november 1
+provision 1
+designation 1
+iolta 1
+addition 1
+tarrant 1
+representation 1
+austin 1
+
+ Arbitary length NP 
+city organization iolta bcls total 1
+crime victim civil legal service 1
+basic civil legal service 1
+dallas dallas bar association community service fund 1
+business wire texas equal access 1
+dallas dallas legal hospice 1
+dallas housing crisis center 1
+northwest texas service area 1

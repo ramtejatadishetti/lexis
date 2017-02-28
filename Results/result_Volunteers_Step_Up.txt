@@ -1,0 +1,109 @@
+
+ Bigram NP 
+law day 4
+our profession 2
+step up 1
+standing committee 1
+constant companion 1
+equal justice 1
+unscrupulous business 1
+frightening landscape 1
+full advantage 1
+200-year-old promise 1
+public understanding 1
+legal community 1
+our nation 1
+unyielding commitment 1
+organized bar 1
+hostile family 1
+major initiative 1
+legal work 1
+local bar 1
+voluntary estate 1
+child support 1
+substantial focus 1
+financial security 1
+defender association 1
+our work 1
+narrow slice 1
+legal aid 1
+new system 1
+low-income population 1
+their time 1
+legal profession 1
+domestic violence 1
+our democracy 1
+tangible evidence 1
+
+ Trigram NP 
+american bar association 2
+national legal aid 1
+u.s. supreme court 1
+local legal service 1
+sizable metropolitan area 1
+public service responsibility 1
+
+ Unigram NP 
+justice 3
+law 3
+everyone 2
+year 2
+reality 2
+comfort 2
+state 2
+safety 2
+aba 2
+nation 2
+volunteer 2
+aspiration 2
+attorney 1
+help 1
+family 1
+generation 1
+entrance 1
+site 1
+america 1
+infrastructure 1
+rule 1
+lawyer 1
+publico 1
+fear 1
+custody 1
+web 1
+fee 1
+constitution 1
+all 1
+percent 1
+theme 1
+www.dialogueonfreedom.org 1
+environment 1
+volunteerism 1
+public 1
+hope 1
+development 1
+dialogue 1
+good 1
+profession 1
+kind 1
+protection 1
+share 1
+world 1
+effort 1
+school 1
+success 1
+home 1
+freedom 1
+bill 1
+experience 1
+work 1
+planning 1
+salute 1
+time 1
+today 1
+certainty 1
+
+ Arbitary length NP 
+supreme court justice anthony m. kennedy 1
+chicago daily law bulletin april 1
+law day robert e. hirshon 1
+our great legal system 1

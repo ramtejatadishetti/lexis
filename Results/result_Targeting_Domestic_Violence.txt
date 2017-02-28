@@ -1,0 +1,148 @@
+
+ Bigram NP 
+domestic violence 10
+legal help 4
+new center 3
+probate court 3
+legal service 3
+executive director 2
+new bedford 1
+violence center 1
+resource center 1
+first time 1
+rented space 1
+huge need 1
+kenneth maciver 1
+near district 1
+ross dolloff 1
+new resource 1
+it location 1
+intake specialist 1
+said palazzolo 1
+civil court 1
+north shore 1
+her batterer 1
+legal representation 1
+other support 1
+family court 1
+statewide family 1
+traumatic prospect 1
+big plus 1
+important step 1
+candace waldron 1
+single project 1
+lynn-based agency 1
+new office 1
+whole lot 1
+chief probate 1
+our ability 1
+alternative house 1
+essex county 1
+action inc. 1
+vita palazzolo 1
+federal grant 1
+essex probate 1
+
+ Trigram NP 
+neighborhood legal service 1
+low-income domestic violence 1
+free legal assistance 1
+victim john laidler 1
+newburyport crisis center 1
+new england school 1
+old masonic building 1
+free legal representation 1
+u justice department 1
+my own backyard 1
+globe correspondent salem 1
+washington st. center 1
+somerville legal service 1
+violence against woman 1
+
+ Unigram NP 
+center 8
+office 5
+levesh 5
+salem 4
+court 4
+help 3
+palazzolo 3
+lawyer 3
+dolloff 3
+attorney 2
+lot 2
+work 2
+staff 2
+law 2
+grant 2
+graduate 2
+custody 2
+waldron 2
+woman 2
+lawrence 2
+hawc 2
+child 2
+cambridge 2
+gloucester 2
+control 1
+set 1
+neighborhood 1
+presence 1
+process 1
+money 1
+peabody 1
+salemwill 1
+county 1
+battle 1
+maciver 1
+victim 1
+need 1
+counseling 1
+coordination 1
+city 1
+service 1
+addition 1
+support 1
+batterer 1
+patricia 1
+merrimack 1
+everything 1
+program 1
+lowell 1
+boston 1
+board 1
+division 1
+force 1
+street 1
+way 1
+relationship 1
+collaboration 1
+a. 1
+director 1
+courtroom 1
+difference 1
+opportunity 1
+predicament 1
+kind 1
+task 1
+area 1
+region 1
+ordeal 1
+violent 1
+experience 1
+amount 1
+jan. 1
+context 1
+time 1
+district 1
+referral 1
+order 1
+
+ Arbitary length NP 
+merrimack valley legal service 4
+boston college law school 1
+north shore community action program 1
+essex county probate court 1
+essex county family legal aid center 1
+southeastern massachusetts legal servces 1
+greater boston legal service 1

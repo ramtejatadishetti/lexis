@@ -1,0 +1,1286 @@
+
+ Bigram NP 
+critical manufacturing 34
+critical design 27
+initial manufacturing 24
+new product 19
+statistical process 18
+limited production 12
+evolutionary approach 11
+ensure capture 10
+incentive is 10
+next phase 10
+new content 9
+knowledge-based process 9
+stable design 9
+manufacturing knowledge 9
+f/a-18 e/f 7
+specific design 7
+new weapon 6
+other hand 6
+full rate 6
+it acquisition 6
+total acquisition 5
+evolutionary acquisition 5
+air force 5
+key decision 5
+statistical control 5
+costly design 5
+commercial company 5
+significant cost 5
+final product 5
+timely capture 4
+first time 4
+their investment 4
+right time 4
+right knowledge 4
+current acquisition 4
+requisite knowledge 3
+defect rate 3
+fiscal year 3
+their engineering 3
+milestone c 3
+concurrent approach 3
+common missile 3
+good framework 3
+major weapon 3
+specific manufacturing 3
+critical decision 3
+interim progress 3
+specific knowledge 3
+knowledge-based product 3
+defense acquisition 3
+it weapon 3
+reliable product 3
+dod program 3
+successful cost 3
+their program 3
+cummins inc. 3
+full capability 3
+hewlett packard 3
+natural gas 2
+entire product 2
+continuous product 2
+relevant environment 2
+successful application 2
+executive level 2
+right policy 2
+several design 2
+high level 2
+it production 2
+final assembly 2
+current policy 2
+knowledge point 2
+will lead 2
+make decision 2
+key supplier 2
+initial production 2
+key system 2
+sufficient design 2
+large percentage 2
+their product 2
+their manufacturing 2
+low rate 2
+dod instruction 2
+improved capability 2
+similar decision 2
+successful production 2
+detailed design 2
+favor capture 2
+their cost 2
+disciplined design 2
+key measure 2
+procurement funding 2
+it goal 2
+insufficient knowledge 2
+future generation 2
+dod directive 2
+it signature 2
+program experience 2
+full production 2
+different path 2
+their production 2
+key reliability 2
+current weapon 2
+relevant product 2
+technology development 2
+major design 2
+traditional approach 2
+separate integration 2
+same time 2
+risky technology 2
+next generation 2
+design knowledge 2
+their process 2
+major acquisition 2
+critical knowledge 2
+successful product 2
+iterative design 2
+better management 2
+mandatory decision 2
+executive leadership 2
+agency comment 2
+major redesign 2
+fix process 2
+computer-aided design 2
+first product 2
+potential failure 2
+our analysis 2
+dod regulation 2
+independent review 2
+general electric 2
+early design 2
+it plan 2
+proven manufacturing 2
+commercial firm 2
+annual basis 2
+acquisition program 2
+gao report 2
+management support 2
+predicted cost 2
+appropriate knowledge 2
+new capability 2
+extensive use 2
+successful acquisition 2
+third knowledge 2
+tactical aircraft 2
+first knowledge 2
+capture design 2
+product's design 2
+significant amount 2
+it ability 2
+our review 2
+revised policy 1
+usual practice 1
+it success 1
+time-phased plan 1
+limited basis 1
+cost-effective time 1
+extensive upgrade 1
+significant lack 1
+knowledge-based exit 1
+defensive countermeasure 1
+hughes space 1
+air-to-air missile 1
+continued success 1
+gi00 united 1
+product-including key 1
+full requirement 1
+specific hardware 1
+post-assembly inspection 1
+single step 1
+single address 1
+manufacturing production 1
+major defense 1
+technical risk 1
+cpk index 1
+commercial process 1
+early manufacturing 1
+effective way 1
+their development 1
+balanced investment 1
+it investment 1
+bottom-up approach 1
+required engineering 1
+integrated system 1
+limited extent 1
+high probability 1
+key feature 1
+key indicator 1
+early achievement 1
+single-step approach 1
+797-truck design 1
+many design 1
+specific cost 1
+significant manufacturing 1
+funding-a key 1
+their design 1
+good sense 1
+small percentage 1
+8-year product 1
+fielded product 1
+gao-02-701 best 1
+specific program 1
+requisite design 1
+sufficient accuracy 1
+expected product 1
+schedule-driven process 1
+unsuccessful cost 1
+executive action 1
+company use 1
+overwhelming majority 1
+commercial model 1
+mean time 1
+it seeker 1
+possible application 1
+new component 1
+manufacturing decision 1
+critical investment 1
+reasonable plan 1
+military user 1
+drawings-21 percent 1
+acquisition outcome 1
+key product 1
+implementing best 1
+good return 1
+negative influence 1
+brief description 1
+f/a-18 c/d 1
+overall model 1
+short range 1
+key knowledge 1
+competitive marketplace 1
+similar knowledge 1
+initial development 1
+appropriate adjustment 1
+fifth company 1
+incremental improvement 1
+risk gao-02-298 1
+drawing completion 1
+good cost 1
+maximum incentive 1
+stable-knowledge point 1
+evolutionary product 1
+michael hazard 1
+little emphasis 1
+past product 1
+it development 1
+initial engineering 1
+prior knowledge 1
+sufficient time 1
+high-level decision 1
+available resources-technology 1
+• determine 1
+extra oversight 1
+same leap 1
+little incentive 1
+xerox corporation 1
+disciplined product 1
+critical component 1
+high confidence 1
+additional tooling 1
+cross-cutting perspective-one 1
+simulated performance 1
+concurrent environment 1
+it use 1
+f/a-18-e/f program 1
+our literature 1
+complete engineering 1
+important knowledge 1
+high value 1
+katrina taylor 1
+essential product 1
+our work 1
+minority member 1
+informed decision 1
+cross-functional design 1
+other weapon 1
+better match 1
+additional development 1
+commercial product 1
+address service 1
+interim reliability 1
+inadequate design 1
+it design 1
+affordable cost-knowledge 1
+overall product 1
+companies12 dod 1
+test approach 1
+federal government 1
+it purpose 1
+two-stage process-integration 1
+it funding 1
+phases-system integration 1
+interim goal 1
+notional comparison 1
+early part 1
+key investment 1
+timely way 1
+their performance 1
+prior work 1
+significant increase 1
+adequate sample 1
+operational test 1
+manageable task 1
+crossfunctional team 1
+innovative development 1
+product's reliability 1
+decision making 1
+various stage 1
+cross functional 1
+past experience 1
+demonstrated exit 1
+new york 1
+electrical system 1
+necessary knowledge 1
+detailed plan 1
+printed report 1
+further use 1
+former program 1
+limited cost 1
+jeff nelligan 1
+prohibitive-for decision 1
+advanced threat 1
+high premium 1
+senate committee 1
+aggressive risk 1
+extensive body 1
+investigative arm 1
+expected midpoint 1
+next day 1
+annual exercise 1
+operational use 1
+full reliability 1
+individual weapon 1
+first attempt 1
+bottom-up analysis 1
+additional investment 1
+development-system demonstration 1
+actual production 1
+product is 1
+difficult decision 1
+improved target 1
+timely manner 1
+first copy 1
+it-to make 1
+notional single-step 1
+overall system 1
+overall investment 1
+numerous design 1
+little premium 1
+congressional decision 1
+product reliability 1
+early capture 1
+overhead cam 1
+common practice 1
+high voltage 1
+disciplined framework 1
+operational environment 1
+heavy equipment 1
+specific weapon 1
+full responsibility 1
+improved awareness 1
+critical junctures-transition 1
+complex ink 1
+primary method 1
+industrial gas 1
+complex product 1
+f-22 program 1
+resources-proven technology 1
+good government 1
+great extent 1
+demonstrated reliability 1
+stakeholder agreement 1
+it core 1
+new system 1
+supplier contribute 1
+captured varying 1
+right level 1
+pilot production 1
+necessary engineering 1
+long-term evolution 1
+purpose demonstrate 1
+planned rate 1
+potential application 1
+hard way 1
+content letter 1
+high rate 1
+adam vodraska 1
+full knowledge 1
+separate technology 1
+stable product 1
+significant knowledge 1
+successive knowledge 1
+it framework 1
+component prototype 1
+key success 1
+manageable amount 1
+significant design 1
+detailed description 1
+major manufacturer 1
+high quality 1
+initial aircraft 1
+manageable level 1
+preliminary product 1
+informed oversight 1
+invite failure 1
+various system 1
+important indicator 1
+pac-3 program 1
+other program 1
+little knowledge 1
+complete perspective 1
+rolling wave 1
+it buying 1
+additional production 1
+program outcome 1
+iterative testing 1
+their method 1
+bombardier aerospace 1
+it product 1
+unmanageable task 1
+eventual engineering 1
+knowledgebased process 1
+good benchmark 1
+production a 1
+actual reliability 1
+vast experience 1
+our evaluation 1
+our case 1
+consistent information 1
+failure-the customer 1
+affordable product 1
+difficult challenge 1
+our report 1
+eventual design 1
+second knowledge 1
+dod training 1
+it manufacturing 1
+above recommendation-that 1
+major weakness 1
+milestone c. 1
+private use 1
+production-like tooling 1
+fighter program 1
+matthew lea 1
+critical program 1
+cristina chaplain 1
+commercial quality 1
+early supplier 1
+scarce funding 1
+same knowledge 1
+charged time 1
+next development 1
+decision making32 1
+it schedule 1
+costly environment 1
+total number 1
+real prospect 1
+gao web 1
+accepted government 1
+sufficient knowledge 1
+variant testing 1
+fa-18 e/f 1
+our recommendation 1
+it engineering 1
+primary contractor 1
+it predecessor 1
+military aircraft 1
+same degree 1
+key ingredient 1
+optimistic program 1
+combined system 1
+overall reliability 1
+main vehicle 1
+poor quality 1
+their ability 1
+their entirety 1
+motorola corporation 1
+substantial development 1
+limited array 1
+new engine 1
+smooth transition 1
+nelliganj @ 1
+such time 1
+good position 1
+quantum leap 1
+initial phase 1
+scheduledriven process 1
+fuselage-the rear 1
+basic capability 1
+www.gao.gov/fraudnet/fraudnet.htm e-mail 1
+knowledge-based approach 1
+achieving stability 1
+michael sullivan 1
+robust design 1
+general approach 1
+it foundation 1
+dominant concern 1
+overall modernization 1
+best commercial 1
+preestablished firm 1
+main landing 1
+it cost 1
+chrysler corporation 1
+good measure 1
+expected period 1
+early identification 1
+were better 1
+infrared countermeasure 1
+atircm/cmws program 1
+unstable design 1
+payload truck 1
+commercial sector 1
+specified period 1
+achieved success 1
+important manufacturing 1
+recent weapon 1
+timely design 1
+engine business 1
+512-2537 fax 1
+full-text document 1
+512-6061 contact 1
+aim-9x program 1
+basic product 1
+critical processes-those 1
+major milestone 1
+missile program 1
+specific time 1
+detailed process 1
+additive effect 1
+major part 1
+key tool 1
+contributing factor 1
+other assistance 1
+additional cost 1
+demonstrated stability 1
+competitive environment 1
+new concept 1
+their reliability 1
+reasonable approach 1
+initial design 1
+acceptable return 1
+our fieldwork 1
+poor cost 1
+major product 1
+better matching 1
+key program 1
+report fraud 1
+general literature 1
+subsequent development 1
+critical technology 1
+acceptable quality 1
+overall production 1
+capturing design 1
+significant investment 1
+annual program 1
+
+ Trigram NP 
+a better match 9
+it critical design 6
+defense acquisition system 4
+selected acquisition report 4
+enable timely capture 3
+product development process 2
+their critical manufacturing 2
+consistent high quality 2
+manufacturing knowledge dod 2
+manufacturing knowledge leading 2
+their critical design 2
+defense acquisition program 2
+aim-9x missile program 2
+it critical manufacturing 2
+weapon system outcome 2
+g street nw 2
+it new product 1
+atircm/cmws program experience 1
+manufacturing knowledge incentive 1
+current optional interim 1
+our overall objective 1
+product development figure 1
+engine business group 1
+second major model 1
+acquisition process source 1
+significant additional time 1
+3-hour mean time 1
+same basic product 1
+capture design knowledge 1
+pac-3 missile program 1
+background executive summary 1
+reliability goals-the ability 1
+it limited production 1
+reduce development risk 1
+manufacturing knowledge design 1
+product development15 dod 1
+were better43 chapter 1
+product development product 1
+program success knowledge 1
+low-rate initial production 1
+defective part cpk 1
+missile defense agency 1
+-the product's design 1
+their initial manufacturing 1
+gary acknowledgment middleton 1
+room lm washington 1
+capture manufacturing knowledge 1
+completed-a stable design 1
+their original cost 1
+program success chapter 1
+production prototype engineering 1
+patriot advanced capability 1
+u.s. senate july 1
+best practices16 objective 1
+their intended environment 1
+general accounting office 1
+entering product demonstration 1
+f/a-18 e/f program 1
+comprehensive summary reporting 1
+it current stage 1
+manufacturing knowledge table 1
+presorted standard postage 1
+it current acquisition 1
+dod's environment gao/nsiad-98-56 1
+management support committee 1
+new product source 1
+it advanced engineering 1
+their new product 1
+level critical design 1
+dod acquisition policy 1
+reduced total ownership 1
+key points-when transitioning 1
+ford motor company 1
+their competitive standing 1
+low-rate initial production-was 1
+official business penalty 1
+full desired capability 1
+stable-the second knowledge 1
+weapon system program 1
+development can take 1
+line-an extreme design 1
+it successful jet 1
+manufacturing knowledge early 1
+dod face challenge 1
+federal program automated 1
+selected acquisition reports3 1
+
+ Unigram NP 
+product 258
+design 257
+development 179
+program 162
+knowledge 162
+production 143
+manufacturing 130
+system 120
+dod 109
+demonstration 71
+process 69
+cost 67
+decision 67
+schedule 64
+reliability 63
+review 57
+control 53
+percent 52
+engineering 44
+policy 40
+phase 39
+acquisition 37
+integration 35
+point 34
+time 34
+gao 30
+quality 29
+f-22 28
+performance 27
+aircraft 27
+capture 25
+figure 23
+use 23
+best 22
+aim-9x 20
+environment 19
+missile 19
+d.c. 19
+growth 18
+washington 17
+risk 16
+example 15
+stability 15
+caterpillar 15
+defense 15
+chapter 15
+business 14
+customer 14
+funding 14
+weapon 14
+success 14
+company 13
+approach 13
+representative 13
+exit 13
+capability 12
+atircm/cmws 12
+addition 12
+analysis 12
+test 12
+level 11
+pac-3 11
+challenge 11
+• 11
+plan 11
+report 11
+ability 11
+department 11
+cpk 11
+information 10
+result 10
+maintenance 10
+engine 10
+case 10
+amount 9
+goal 9
+office 9
+probability 9
+part 9
+fighter 9
+team 8
+investment 8
+work 8
+end 8
+secretary 8
+tooling 8
+key 8
+basis 8
+start 8
+way 8
+building 8
+completion 7
+readiness 7
+transition 7
+failure 7
+producibility 7
+requirement 7
+testing 7
+prototype 7
+need 7
+supplier 6
+labor 6
+july 6
+product's 6
+guidance 6
+identification 6
+importance 6
+cummins 6
+source 6
+commitment 6
+form 6
+demonstrate 6
+manager 5
+immature 5
+experience 5
+effort 5
+date 5
+subsystem 5
+year 5
+navy 5
+diesel 5
+number 5
+fact 5
+contractor 5
+site 5
+build 5
+march 5
+maturity 5
+list 4
+conduct 4
+contrast 4
+agreement 4
+apr 4
+making 4
+minimum 4
+data 4
+order 4
+milestone 4
+series 4
+research 4
+increase 4
+estimate 4
+mining 4
+equipment 4
+impact 4
+predecessor 4
+set 4
+reduction 4
+meeting 4
+technology 4
+money 4
+web 4
+recommendation 4
+high-quality 4
+manufacturability 4
+congress 4
+concept 3
+lack 3
+testimony 3
+index 3
+degree 3
+history 3
+armed 3
+army 3
+hardware 3
+proof 3
+delay 3
+variant 3
+truck 3
+developer 3
+practice 3
+framework 3
+status 3
+operation 3
+standard 3
+management 3
+signature 3
+horsepower 3
+tool 3
+price 3
+average 3
+request 3
+executive 3
+adherence 3
+progress 3
+attention 3
+nature 3
+table 3
+budget 3
+director 3
+opportunity 3
+power 3
+stage 3
+simulation 3
+software 3
+repair 3
+facility 3
+accountability 3
+seeker 3
+analyze 3
+war 3
+complete 3
+patriot 3
+f/a-18 3
+firm 3
+marketplace 3
+quantum 3
+oct. 2
+advantage 2
+rate 2
+specification 2
+body 2
+component 2
+attainment 2
+flexibility 2
+unit 2
+confidence 2
+scope 2
+today 2
+phone 2
+appendix 2
+gao-01-288 2
+rework 2
+august 2
+december 2
+united 2
+how 2
+mar 2
+may 2
+philosophy 2
+machine 2
+mais 2
+combination 2
+february 2
+factory 2
+evaluation 2
+assurance 2
+difficulty 2
+reason 2
+service 2
+turn 2
+place 2
+user 2
+dod's 2
+introduction 2
+leading 2
+require 2
+preparation 2
+outcome 2
+function 2
+defect 2
+increment 2
+purchasing 2
+track 2
+f/a-18e/f 2
+ground 2
+indicator 2
+degradation 2
+gao/nsiad-99-162 2
+culture 2
+subcommittee 2
+stakeholder 2
+interface 2
+modeling 2
+contract 2
+april 2
+extent 2
+applicability 2
+strategy 2
+flight 2
+gas 2
+value 2
+air 2
+uncertainty 2
+effect 2
+hand 2
+fabrication 2
+cycle 2
+rest 2
+incentive 2
+adoption 2
+match 2
+sequence 2
+prototyping 2
+e-mail 2
+leap 2
+leader 2
+assembly 2
+illustration 2
+step 2
+predictability 2
+comparison 2
+package 2
+involvement 2
+support 2
+buy 2
+aim-9m 2
+xerox 2
+construction 2
+mature 2
+problem 2
+one-third 2
+authority 2
+mdaps 2
+visibility 2
+structure 2
+resistance 1
+sunk 1
+adjustment 1
+integrity 1
+e/f 1
+charge 1
+sound 1
+single-step 1
+sensor 1
+//www.gao.gov 1
+heading 1
+-reliability 1
+employing 1
+past 1
+www.gao.gov 1
+requirements-the 1
+brief 1
+new 1
+public 1
+protection 1
+operating 1
+fleet 1
+change 1
+search 1
+voice 1
+d.c 1
+base 1
+512-4841 1
+maker 1
+regardless 1
+family 1
+ninety 1
+motor 1
+gao/t-nsiad-00-137 1
+likelihood 1
+strike 1
+corvallis 1
+manufacturer 1
+assessment 1
+oregon 1
+none 1
+room 1
+@ 1
+discussion 1
+methodology 1
+criterion 1
+aft 1
+response 1
+attempt 1
+third 1
+element 1
+agenda 1
+correlation 1
+policy9 1
+september 1
+concurrence 1
+mission 1
+policy2 1
+radar 1
+committee 1
+group 1
+fix 1
+inclusion 1
+listing 1
+mail 1
+production-integration 1
+atircms 1
+correspondence 1
+finance 1
+inception 1
+pac-3-did 1
+day 1
+onethird 1
+mastercard 1
+quarter 1
+prevailing 1
+fixture 1
+contracting 1
+f/a-18-c/d 1
+agriculture 1
+profit 1
+methodology17 1
+internet 1
+feb. 1
+gao/nsiad-98-87 1
+alert 1
+marine 1
+training 1
+language 1
+evendale 1
+aim-9m-and 1
+gao/nsiad-96-162 1
+tier 1
+size 1
+jet 1
+cooling 1
+draft 1
+escort 1
+f-18 1
+percentage 1
+gear 1
+relationship 1
+peoria 1
+b 1
+process-when 1
+target 1
+accordance 1
+matter 1
+computer 1
+maintenance-that 1
+willingness 1
+higher-level 1
+rochester 1
+built 1
+reliance 1
+emphasis 1
+chairman 1
+accuracy 1
+printer 1
+specialty 1
+visa 1
+payment 1
+achievement 1
+industry 1
+selection 1
+certification 1
+design's 1
+inconsistent 1
+immaturity 1
+upgrade 1
+gao/nsiad-98-56 1
+factor 1
+fa-18-e/f 1
+do-continue 1
+ohio 1
+view 1
+sensitivity 1
+page 1
+f/a-18-e/f 1
+invention 1
+system's 1
+point.1 1
+gao/t-nsiad-98-123 1
+configuration 1
+fit 1
+reasonableness 1
+s 1
+canopy 1
+expense 1
+color 1
+community 1
+subscribe 1
+cost-type 1
+acceptance 1
+collected 1
+helicopter 1
+life 1
+fire 1
+persist 1
+pilot 1
+exception 1
+laser 1
+launcher 1
+align 1
+aim 1
+pace 1
+error 1
+situation 1
+atircms/cmws 1
+balance 1
+welding 1
+completed 1
+multifunction 1
+ii 1
+ready 1
+greater 1
+baseline 1
+drawings4 1
+check 1
+one-quarter 1
+schematic 1
+document 1
+oil 1
+http 1
+rail 1
+purpose 1
+expand 1
+task 1
+cancellation 1
+procurement 1
+approval 1
+command 1
+inability 1
+model 1
+meet 1
+half 1
+obtain 1
+identify 1
+gao/t-nsiad-99-116 1
+discipline 1
+supply 1
+improvement 1
+programs-had 1
+money-exist 1
+gao/nsiad-97-108 1
+survival 1
+background 1
+world 1
+gao.gov 1
+loss 1
+performing 1
+underway 1
+continue 1
+demonstration-it 1
+superintendent 1
+senate 1
+competition 1
+matching 1
+aim-9 1
+money-over 1
+judgment 1
+demonstrated 1
+five5 1
+core 1
+columbus 1
+tdd 1
+leadership 1
+certainty 1
+afternoon 1
+gao/nsiad-99-206 1
+revise 1
+outset 1
+communication 1
+determine 1
+producible 1
+area 1
+spending 1
+question 1
+gao-02-469t 1
+forward 1
+manufacture 1
+point-and 1
+regard 1
+overlapping 1
+delivery 1
+gain 1
+indiana 1
+line 1
+buying 1
+bf/a-18 1
+october 1
+processes-in 1
+official 1
+maximum 1
+fraudnet 1
+below 1
+limit 1
+hardware-a 1
+measure 1
+evidence 1
+archive 1
+floor 1
+illinois 1
+application 1
+conclusion 1
+delaminating 1
+missile's 1
+concurrent 1
+cpks 1
+gao/nsiad-00-199 1
+centerpiece 1
+starting 1
+
+ Arbitary length NP 
+u.s. general accounting office 5
+better weapon system outcome 2
+manufacturing knowledge is critical 2
+best practice model would apply 2
+general electric aircraft engine 2
+dod acquisition environment do 2
+advanced threat infrared countermeasures/common missile warning system 2
+general accounting office washington 2
+weapon acquisition requires change 2
+major automated information system 2
+defense acquisition executive summary 2
+manufacturing knowledge wa captured 2
+reduce development risks30 leading commercial company use 1
+sourcing management executive summary historically 1
+use evolutionary product development framework 1
+affordable cost-the third knowledge 1
+new products13 notional illustration 1
+honorable james inhofe ranking minority member subcommittee 1
+defense appendix ii gao staff acknowledgment cheryl andrew 1
+key program manufacturing junctures22 knowledge is critical 1
+design helped achieve stability a 1
+new products31 achieving stability 1
+weapon system development source 1
+f-22 program46 pac-3 design knowledge 1
+executive action9 agency comments10 1
+honorable daniel akaka chairman 1
+achieve stable design knowledge • limit 1
+brief4 principal findings6 recommendation 1
+critical design review49 illustration 1
+design knowledge should be captured 1
+acquisition process56 a united 1
+manufacturing knowledge early enough57 related gao product figure 1
+assurance practice offer improvement 1
+principal finding timely design 1
+development can take15 dod 1
+general accounting office report 1
+can shape better weapon system decision 1
+can improve program outcome 1
+much new unproven content 1
+program success dod program had better outcome 1
+manufacturing knowledge early enough 1
+lack specific implementation criteria53 1
+dod leading commercial company use evolutionary product development framework 1
+product reliability knowledge should be captured 1
+critical design review source 1
+better weapon system space outcome 1
+achieve manufacturing knowledge • identify 1
+delay indicate initial production 1
+weapon system development16 notional single-step 1
+fee paid gao permit no 1
+dod program had better outcome 1
+manufacturing knowledge acquisition policy lack specific implementation criterion 1
+executive level review are conducted 1
+executive level review were 1
+katherine v. schinasi director acquisition 1
+weapon system program implement best 1
+boeing commercial airplane group 1
+executive summary purpose2 background3 result 1
+program outcome are possible 1
+earned value management process 1

@@ -1,0 +1,565 @@
+
+ Bigram NP 
+postal service 23
+net income 4
+sufficient revenue 3
+postal reform 3
+fiscal year 3
+bottom line 3
+financial picture 2
+average increase 2
+last year 2
+my mom 2
+certified mail 2
+his mother 2
+institutional cost 2
+general public 2
+hard time 2
+large nothing 1
+recommended decision 1
+it decision 1
+same hill 1
+my summer 1
+it effect 1
+actual cost-of-living 1
+other way 1
+promised amount 1
+bipartisan appeal 1
+new cost 1
+-i try 1
+whose interest 1
+straight skinny 1
+public meeting 1
+current law 1
+concurring opinion 1
+initial package 1
+previous incarnation 1
+non-machinable surcharge 1
+additional labor 1
+small group 1
+bill hoyt 1
+-is rabid 1
+it future 1
+total amount 1
+differential put 1
+delivery confirmation 1
+institutional pie 1
+operating plan 1
+-please keep 1
+projected bottom 1
+his father's 1
+last time 1
+other mail 1
+first hand 1
+federal preemption 1
+horrific picture 1
+priority mail 1
+-first-class mail 1
+your meeting 1
+small matter 1
+major league 1
+-to lay 1
+postal rate 1
+last winter 1
+total volume 1
+-to cover 1
+dear santa 1
+good point 1
+recent information 1
+negative impact 1
+special mention 1
+old material 1
+second table 1
+r2000-1 postmortem 1
+-the length 1
+mandatory factor 1
+unexplained swing 1
+prior years' 1
+other reason 1
+low cost 1
+first base 1
+electronic bill 1
+norm scharf 1
+disproportionate share 1
+it request 1
+new material 1
+parcel post 1
+postmaster general 1
+our campaign 1
+reasonableness standard 1
+legislative reform 1
+updated assumption 1
+first table 1
+omnibus rate 1
+prompt consideration 1
+postal ratemaking 1
+our count 1
+illinois december 1
+requested amount 1
+pie chart 1
+ed gleiman 1
+entire time 1
+tired ammunition 1
+net loss 1
+coral gable 1
+total operating 1
+first class 1
+-the portion 1
+near-term rate 1
+equitable schedule 1
+informational value 1
+it delivery 1
+prc r2000-1 1
+-the loss 1
+new challenge 1
+high tech 1
+his pocket 1
+previous rate 1
+overhead burden 1
+third time 1
+increased fuel 1
+percent contribution 1
+r2000-1 game 1
+big slice 1
+passing interest 1
+rabid baseball 1
+real reason 1
+private sector 1
+pleasant prospect 1
+• talk 1
+updating effort 1
+medium mail 1
+evidentiary record 1
+such class 1
+-the hand 1
+erratic weather 1
+other hand 1
+restrictive privacy 1
+november board 1
+additional revenue 1
+past spring 1
+current ratemaking 1
+only opportunity 1
+bill henderson 1
+common ground 1
+u.s. capitol 1
+entire schedule 1
+postal community 1
+other day 1
+notice versus 1
+sizable cushion 1
+usps fy 1
+good morning 1
+federal level 1
+return receipt 1
+their mail 1
+formidable group 1
+john nolan 1
+tattered battle 1
+your billfold 1
+it case 1
+your mail 1
+postal system 1
+total contribution 1
+
+ Trigram NP 
+u postal service 1
+last minute legislation 1
+edward j. gleiman 1
+my last shot 1
+my old buddy 1
+it private sandbox 1
+includes priority mail 1
+it original cost 1
+overall average increase 1
+postal reorganization act 1
+h. l. mencken 1
+current fiscal year 1
+j. edward day 1
+perceive postal reform 1
+bound printed matter 1
+gene del polito 1
+percent institutional percent 1
+my first condition 1
+mr. cary baer 1
+graphic communication association 1
+postal rate commission 1
+different restrictive state 1
+general accounting office 1
+delayed rate implementation 1
+my other condition 1
+revenue cost total 1
+
+ Unigram NP 
+mail 24
+service 21
+usps 18
+commission 18
+• 15
+contingency 13
+case 11
+prc 10
+cost 9
+rate 8
+time 7
+type 6
+revenue 6
+update 6
+january 5
+year 5
+first-class 5
+system 5
+request 5
+conference 5
+delivery 5
+% 5
+percent 5
+norm 4
+gene 4
+share 4
+law 4
+everyone 4
+swing 4
+number 4
+target 4
+matter 4
+operating 4
+santa 4
+check 4
+dollar 3
+example 3
+december 3
+collection 3
+hill 3
+florida 3
+place 3
+tomorrow 3
+july 3
+plan 3
+letter 3
+volume 3
+factor 3
+meeting 3
+governor 3
+denton 3
+board 3
+couple 3
+bit 3
+postal 3
+class 3
+way 3
+line 3
+evidence 3
+difference 2
+impact 2
+hr22 2
+chicago 2
+boy 2
+amount 2
+action 2
+opinion 2
+classification 2
+benchmark 2
+figure 2
+process 2
+something 2
+gca 2
+fy 2
+playing 2
+john 2
+policy 2
+break 2
+february 2
+increase 2
+standard 2
+estimate 2
+anyone 2
+story 2
+transaction 2
+copy 2
+kind 2
+mind 2
+need 2
+issue 2
+nothing 2
+requirement 2
+jenkin 2
+august 2
+extent 2
+point 2
+simple 2
+proposal 2
+bill 2
+joke 2
+pound 2
+productivity 2
+week 2
+fy2001 2
+effect 2
+moment 2
+home 2
+subclass 2
+processing 2
+comparison 2
+package 2
+area 2
+legislation 2
+problem 2
+congress 2
+chance 2
+portion 2
+peacock 1
+chain 1
+bearthe 1
+program 1
+postmortem 1
+confirmation 1
+mid-july 1
+fan 1
+fall 1
+condition 1
+work-sharing 1
+cause 1
+solution 1
+cloudy 1
+item 1
+pmg 1
+occurrence 1
+past 1
+value 1
+sum 1
+decade 1
+pre-approval 1
+transportation 1
+degree 1
+clerk 1
+inter-league 1
+baseball 1
+excess 1
+november 1
+change 1
+box 1
+sender 1
+rethink 1
+suggestion 1
+fy2000 1
+criticism 1
+flexibility 1
+nalc 1
+prey 1
+bedrock 1
+ofmail 1
+panel 1
+diamond 1
+flag 1
+doom 1
+account 1
+duster 1
+challenge 1
+soul 1
+meet 1
+heart 1
+tan 1
+occur 1
+information 1
+end 1
+recovery 1
+mencken 1
+discussion 1
+methodology 1
+forest 1
+establishment 1
+economy 1
+simplicity 1
+lay 1
+response 1
+fleet 1
+departure 1
+think 1
+pleasure 1
+florida's 1
+helm 1
+absence 1
+holiday 1
+might 1
+someone 1
+mention 1
+provision 1
+gloom 1
+name 1
+mode 1
+quarter 1
+series 1
+idea 1
+insurance 1
+health 1
+forth 1
+goes- 1
+million 1
+divergence 1
+reason 1
+card 1
+thing 1
+consequence 1
+nonprofit 1
+mids 1
+one 1
+fantasy 1
+periodical 1
+array 1
+size 1
+arbitration 1
+temperature 1
+privacy 1
+fahrenheit 1
+statement 1
+man 1
+season 1
+explanation 1
+b 1
+accordance 1
+zero 1
+preparation 1
+future 1
+bet 1
+priority 1
+mailer 1
+recover 1
+saw 1
+mechanism 1
+clearwater 1
+chairman 1
+performance 1
+sure 1
+price 1
+reach 1
+breakpoint 1
+] 1
+payment 1
+camp 1
+mid-november 1
+consumer 1
+notion 1
+costing 1
+litigation 1
+title 1
+implementation 1
+institutional 1
+fuel 1
+plate 1
+hit 1
+cushion 1
+hedge 1
+view 1
+disaster 1
+frame 1
+result 1
+reform 1
+state 1
+score 1
+article 1
+debt 1
+r20001 1
+disdain 1
+fault 1
+ballpark 1
+april 1
+wringing 1
+passing 1
+celebre 1
+tuesday 1
+table 1
+basis 1
+stamp 1
+window 1
+cent 1
+interest 1
+head-start 1
+fire 1
+concerning 1
+sunshine 1
+look 1
+neal 1
+situation 1
+almost 1
+prognosticating 1
+surcharge 1
+speech 1
+split 1
+ball 1
+task 1
+framework 1
+shotgun 1
+oops 1
+mother 1
+money 1
+thanks 1
+flavor 1
+-afternoon 1
+death 1
+contractor 1
+game 1
+press 1
+world 1
+recipient 1
+crisp 1
+consensus 1
+nsos 1
+replacement 1
+deal 1
+dilbert 1
+recommendation 1
+snoring 1
+slice 1
+monday 1
+decision 1
+h.l 1
+deficit 1
+christmas 1
+trap 1
+business 1
+host 1
+stage 1
+chisox 1
+industry 1
+shipping 1
+carrier 1
+commission's 1
+washington 1
+commitment 1
+wrap 1
+r2000-1 1
+hew 1
+war 1
+head 1
+maintenance 1
+form 1
+two-fer 1
+hq 1
+incorporation 1
+heap 1
+ha 1
+feather 1
+assessment 1
+record 1
+jan. 1
+piece 1
+ah 1
+pie 1
+sharing 1
+ink 1
+-one 1
+field 1
+-and 1
+department 1
+june 1
+weekend 1
+structure 1
+rule 1
+presentment 1
+
+ Arbitary length NP 
+income prc r2000-1 rate decision 1
+financial posit ion unexplained change in usps fy2001 financial position 1
+graphic communication association chicago 1
+unexplained change in usps fy 1

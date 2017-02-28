@@ -1,0 +1,69 @@
+
+ Bigram NP 
+legal aid 8
+executive director 2
+last month 1
+bowling green 1
+jamie hamon 1
+larry york 1
+justice foundation 1
+great number 1
+federal funding 1
+current fee 1
+his measure 1
+increased poverty 1
+steep funding 1
+
+ Trigram NP 
+upcoming legislative session 1
+only potential source 1
+kentucky bar association 1
+deborah yetter sunday 1
+rep. charles geveden 1
+
+ Unigram NP 
+court 6
+money 4
+kentucky 4
+measure 3
+fee 3
+state 3
+bill 3
+filing 3
+geveden 2
+district 2
+program 2
+board 2
+circuit 2
+hamon 2
+share 1
+number 1
+hasn't 1
+member 1
+d-wickliffe 1
+lawyer 1
+year 1
+need 1
+crisis 1
+increase 1
+godsend 1
+access 1
+lot 1
+december 1
+public 1
+kba 1
+way 1
+endorsement 1
+catron 1
+poverty 1
+law 1
+association 1
+case 1
+resource 1
+center 1
+lexington 1
+portion 1
+
+ Arbitary length NP 
+kba president stephen catron 1
+appalachian regional defense fund 1

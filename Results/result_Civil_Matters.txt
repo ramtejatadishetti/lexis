@@ -1,0 +1,77 @@
+
+ Bigram NP 
+legal aid 2
+community affair 1
+dudley goodlette 1
+will kendrick 1
+same time 1
+fort lauderdale 1
+vast amount 1
+their determination 1
+domestic violence 1
+al lawson 1
+criminal trouble 1
+civil litigation 1
+legal representation 1
+transitional welfare 1
+richard mitchell 1
+civil matter 1
+our area 1
+short order 1
+such funding 1
+important florida 1
+2002-03 budget 1
+curtis richardson 1
+burt saunders 1
+
+ Trigram NP 
+civil legal aid 2
+florida bar foundation 1
+vital first step 1
+reps. bev kilmer 1
+
+ Unigram NP 
+florida 4
+legislation 3
+family 2
+senate 2
+money 2
+welfare 2
+year 2
+indigent 2
+availability 2
+house 2
+law 2
+budget 2
+reform 2
+work 1
+point 1
+whatever 1
+society 1
+committee 1
+sen 1
+employment 1
+crisis 1
+conference 1
+date 1
+duo 1
+housing 1
+revenue 1
+state's 1
+interest 1
+department 1
+type 1
+movement 1
+march 1
+way 1
+credit 1
+immigration 1
+part 1
+hb 1
+exemption 1
+bill 1
+person 1
+time 1
+
+ Arbitary length NP 
+florida bar president terry russell 1

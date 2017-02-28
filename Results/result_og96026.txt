@@ -1,0 +1,258 @@
+
+ Bigram NP 
+final rule 10
+federal register 5
+first year 3
+executive order 3
+burdensome alternative 2
+judicial review 2
+initial compliance 2
+economic impact 2
+release prevention 2
+supplemental notice 2
+cost-benefit analysis 1
+affected universe 1
+reasonable number 1
+private sector 1
+independent process 1
+regulatory affair 1
+our assessment 1
+general notice 1
+public awareness 1
+other statute 1
+u.s. district 1
+statutory authorization 1
+mr. guerrero 1
+federal mandate 1
+it list 1
+et seq 1
+it compliance 1
+other chemical 1
+columbia circuit 1
+program planning 1
+major rule 1
+potential burden 1
+jr. chairman 1
+public participation 1
+offsite consequence 1
+agricultural supply 1
+epa's office 1
+total number 1
+gao/ogc-96-26 section 1
+accident information 1
+our report 1
+huge paperwork 1
+supplementary information 1
+title ii 1
+commerce house 1
+low cost 1
+future compliance 1
+our review 1
+other trade 1
+detailed analysis 1
+on-site documentation 1
+intergovernmental partnership 1
+economic burden 1
+effective date 1
+indirect cost 1
+public hearing 1
+chief counsel 1
+
+ Trigram NP 
+regulatory flexibility act 3
+risk management program 2
+initial regulatory flexibility 2
+it final rule 2
+paperwork reduction act 2
+clean air act 2
+significant regulatory action 2
+other technological collection 1
+environmental protection agency 1
+significant adverse effect 1
+final regulatory flexibility 1
+kathleen e. wannisky 1
+environmental protection issue 1
+peter f. guerrero 1
+administrative procedure act 1
+it economic impact 1
+other hazard assessment 1
+other relevant information 1
+public work united 1
+general accounting office 1
+it first year 1
+small business administration 1
+associate general counsel 1
+
+ Unigram NP 
+epa 46
+rule 37
+analysis 17
+section 14
+information 14
+risk 11
+u.s.c 10
+r 9
+collection 9
+reg 8
+act 8
+fed 8
+management 8
+agency 8
+implementation 5
+state 5
+§ 4
+march 4
+burden 4
+summary 4
+oira 4
+percent 4
+june 4
+review 4
+office 3
+impact 3
+environment 3
+b 3
+rulemaking 3
+compliance 3
+air 3
+discussion 3
+response 3
+i 3
+prevention 3
+executive 2
+focus 2
+title 2
+guidance 2
+program 2
+list 2
+page 2
+cost 2
+evaluation 2
+public 2
+omb 2
+business 2
+industry 2
+gao/ogc-96-26 2
+publication 2
+reduction 2
+approval 2
+preparation 2
+process 2
+iv 2
+rin 2
+hazard 2
+plan 2
+code 1
+evidence 1
+pursuant 1
+trade 1
+labor 1
+source 1
+adoption 1
+treatment 1
+petition 1
+government 1
+propane 1
+dc 1
+report 1
+provision 1
+appeal 1
+d 1
+submission 1
+l. 1
+january 1
+promulgate 1
+benefit 1
+contrast 1
+requirement 1
+work 1
+senate 1
+briefly 1
+§§ 1
+result 1
+operation 1
+subject 1
+integration 1
+oira's 1
+order 1
+participation 1
+notice 1
+use 1
+pub 1
+water 1
+efficiency 1
+step 1
+consideration 1
+estimate 1
+preamble 1
+c 1
+rule's 1
+comment 1
+cc 1
+washington 1
+number 1
+registration 1
+respect 1
+district 1
+addition 1
+transfer 1
+support 1
+petroleum 1
+disapproval 1
+frl 1
+statement 1
+scope 1
+proposal 1
+type 1
+maintenance 1
+l,000 1
+epa's 1
+gao 1
+copy 1
+iii 1
+ii 1
+exception 1
+october 1
+accordance 1
+official 1
+budget 1
+512-5207 1
+v 1
+c.f.r 1
+technology 1
+united 1
+chemical 1
+entitled 1
+development 1
+fr 1
+512-6111 1
+reporting 1
+chart 1
+director 1
+meaning 1
+intent 1
+data 1
+goodwill 1
+filing 1
+contact 1
+
+ Arbitary length NP 
+clean air act section 2
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+risk management program under clean air act section 1
+small business regulatory enforcement act 1
+clean air act amendment 1
+gao/ogc-96-26 enclosure analysis under 1
+honorable john h. chafee chairman 1
+general counsel b-272247 july 1
+it final regulatory flexibility 1
+it updated regulatory flexibility 1
+robert p. murphy general counsel 1
+a major rule issued by the environmental protection agency 1
+gao/ogc-96-26 executive order no 1
+honorable max baucus ranking minority member committee 1
+accidental release prevention requirement 1
+craig matthiessen senior chemical engineer environmental protection agency page 1
+honorable thomas j. bliley 1
+cost and benefit of the final rule 1

@@ -1,0 +1,160 @@
+
+ Bigram NP 
+legal aid 3
+financial success 2
+large law 2
+legal profession 2
+healthy co-existence 1
+clear choice 1
+their day 1
+difficult year 1
+excess capacity 1
+slow economy 1
+top dollar 1
+billable credit 1
+equal number 1
+prospective law 1
+anonymous message 1
+polar opposite 1
+glaring example 1
+forth information 1
+tremendous amount 1
+public service 1
+their ranking 1
+same time 1
+positive association 1
+new york 1
+trial/court experience 1
+widespread support 1
+other profession 1
+smart firm 1
+legal information 1
+our profession 1
+of support 1
+recent review 1
+salary increase 1
+common perception 1
+american lawyer 1
+infinite amount 1
+transactional stuff 1
+significant work 1
+first glance 1
+slow right 1
+brief review 1
+other cause 1
+bottom line 1
+frequent visitor 1
+endless amount 1
+interesting contrast 1
+their firm 1
+much discussion 1
+ultimate success 1
+associate speaking 1
+
+ Trigram NP 
+legal aid society 2
+it original format 1
+
+ Unigram NP 
+law 9
+work 8
+site 8
+web 5
+generosity 4
+associate 4
+information 4
+money 3
+lack 3
+firm 3
+something 3
+board 2
+greedy 2
+country 2
+community 2
+message 2
+service 2
+area 2
+way 2
+biglaw 2
+chance 2
+student 2
+nothing 2
+greed 2
+donation 1
+forum 1
+month 1
+gossip 1
+litigation 1
+generous 1
+disparity 1
+program 1
+government 1
+read 1
+practice 1
+report 1
+world 1
+school 1
+greedyassociates.com 1
+rack 1
+interest 1
+individual 1
+lawyer 1
+year 1
+selfishness 1
+concern 1
+category 1
+aba 1
+network 1
+state 1
+email 1
+participation 1
+perception 1
+reason 1
+d.c 1
+career 1
+job 1
+experience 1
+thing 1
+survey 1
+testament 1
+support 1
+criticism 1
+vent 1
+washington 1
+total 1
+profession's 1
+addition 1
+top 1
+amlaw 1
+window 1
+anyone 1
+type 1
+today 1
+posting 1
+regard 1
+telephone 1
+bulk 1
+part 1
+ha 1
+anything 1
+matter 1
+feeling 1
+figure 1
+share 1
+evidence 1
+partner 1
+complexity 1
+book 1
+nyc 1
+advice 1
+generousassociates.com 1
+opportunity 1
+a 1
+person 1
+depth 1
+classmate 1
+model 1
+
+ Arbitary length NP 
+vice president dick cheney 1
+anthony perez cassino dec. 1

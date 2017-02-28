@@ -1,0 +1,98 @@
+
+ Bigram NP 
+legal service 2
+back rent 1
+additional time 1
+same landlord 1
+four-day project 1
+lewis liebler 1
+regular law 1
+goodwill tradition 1
+heather stimpson 1
+federal government 1
+my place 1
+new housing 1
+her son 1
+mackenzie hughes 1
+second woman 1
+last week 1
+her help 1
+larry bell 1
+new year 1
+columbus avenue 1
+edwina schleider 1
+poor condition 1
+vigorous representation 1
+
+ Trigram NP 
+free legal service 2
+west belden avenue 1
+his monthly rent 1
+their annual holiday 1
+syracuse city court 1
+it third year 1
+free legal help 1
+volunteer lawyer project 1
+
+ Unigram NP 
+eviction 7
+court 5
+liebler 5
+stimpson 4
+landlord 4
+bell 3
+wednesday 3
+portion 3
+thursday 2
+year 2
+december 2
+christmas 2
+lot 2
+government 2
+romeo 2
+residence 2
+rent 2
+firm 1
+help 1
+money 1
+number 1
+month 1
+kaufman 1
+lawyer 1
+home 1
+calendar 1
+fifth 1
+dozen 1
+practice 1
+group 1
+january 1
+assistance 1
+snow 1
+legal 1
+day 1
+way 1
+holiday 1
+friend 1
+week 1
+case 1
+dec. 1
+woman 1
+part 1
+half 1
+proceeding 1
+tradition 1
+gift-buying 1
+counsel 1
+work 1
+trial 1
+time 1
+situation 1
+outcome 1
+
+ Arbitary length NP 
+volunteer lawyer project director barbara romeo 1
+program lodge spirit december 1
+onondaga county bar association 1
+city judge jeffrey merrill 1
+central new york executive director dennis kaufman 1
+frank h. hiscock legal aid society 1

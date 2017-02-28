@@ -1,0 +1,103 @@
+
+ Bigram NP 
+high court 4
+assistance program 2
+separate state 2
+last year 2
+low interest 1
+mental health 1
+disciplinary commission 1
+normal funding 1
+house bill 1
+total amount 1
+available online 1
+legislative approval 1
+executive director 1
+attorney registration 1
+trust fund 1
+full roll 1
+pro-bono work 1
+enough money 1
+tough time 1
+
+ Trigram NP 
+illinois supreme court 1
+non-profit legal aid 1
+lawyer trust account 1
+ruth ann schmitt 1
+chicago bar association 1
+lawyer trust fund 1
+full annual registration 1
+
+ Unigram NP 
+money 6
+legislation 6
+interest 4
+lawyer 3
+registration 3
+fee 3
+illinois 3
+account 3
+year 2
+harrison 2
+court 2
+alcohol 2
+house 2
+support 2
+increase 2
+senate 2
+state 2
+way 2
+iolta 2
+hike 2
+drug 2
+auditor 2
+attorney 1
+bill 1
+deal 1
+point 1
+short 1
+measure 1
+general 1
+front 1
+initiative 1
+thursday 1
+www.legis.state.il.us 1
+trust 1
+service 1
+breaking 1
+mechanism 1
+income 1
+proposal 1
+cause 1
+economy 1
+stance 1
+office 1
+practice 1
+lobbyist 1
+probono 1
+escrow 1
+fund 1
+base 1
+shortfall 1
+nothing 1
+hearing 1
+change 1
+stage 1
+handling 1
+bar 1
+schmitt 1
+mark 1
+amount 1
+abuse 1
+responsibility 1
+dispute 1
+discussion 1
+fact 1
+mean 1
+
+ Arbitary length NP 
+chief justice moses w. harrison ii 1
+illinois state bar association 1
+high court seek higher registration fee daniel c. vock law bulletin staff writer springfield 1
+chicago daily law bulletin april 1

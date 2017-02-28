@@ -1,0 +1,110 @@
+
+ Bigram NP 
+legal aid 5
+her husband 2
+south dakota 2
+her job 2
+legal ally 1
+hackneyed punch 1
+right side 1
+virginia woolf 1
+my house 1
+her law 1
+stained glass 1
+davidson college 1
+two-year interim 1
+her sleep 1
+georgetown university 1
+proverbial water 1
+her training 1
+her hand 1
+english literature 1
+last week 1
+her child 1
+my art 1
+heavy demand 1
+cultural stereotype 1
+american pop 1
+amateur artist 1
+scott cohan 1
+her welding 1
+periodic disturbance 1
+my peace 1
+social justice 1
+their time 1
+particular message 1
+new mother 1
+lori rubenstein 1
+
+ Trigram NP 
+free legal aid 1
+sharon lee schwartz 1
+their first child 1
+normal eight-hour work 1
+nonprofit national organization 1
+sophia clare cohan 1
+
+ Unigram NP 
+schwartz 12
+attorney 5
+community 3
+roseburg 3
+law 3
+school 3
+end 2
+office 2
+degree 2
+charlotte 1
+n.c. 1
+low-cost 1
+december 1
+demand 1
+departure 1
+depiction 1
+culture 1
+maternity 1
+nonfiction 1
+manage 1
+clock 1
+conscience 1
+steel 1
+spite 1
+author 1
+tv 1
+housing 1
+window 1
+day 1
+process 1
+buddhism 1
+program 1
+call 1
+lot 1
+clay 1
+sort 1
+georgetown 1
+family 1
+torch 1
+fraction 1
+screen 1
+mother 1
+reason 1
+rubenstein's 1
+pulpy 1
+reservation 1
+line 1
+silver 1
+sound 1
+vacancy 1
+whether 1
+january 1
+tribal 1
+work 1
+bachelor 1
+cooler 1
+place 1
+need 1
+case 1
+time 1
+position 1
+
+ Arbitary length NP 

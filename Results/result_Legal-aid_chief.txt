@@ -1,0 +1,183 @@
+
+ Bigram NP 
+costa rica 3
+peace corp 2
+tom osborne 2
+private practice 2
+federal funding 2
+eric kleiman 1
+whistlestop tour 1
+recent pledge 1
+nebraska commission 1
+doug german 1
+skinny redhead 1
+legal-aid firm 1
+legal clinic 1
+bar association 1
+mechanical engineering 1
+first year 1
+new job 1
+hotel eustis 1
+friendly coffee 1
+criminal justice 1
+legal profession 1
+firm's effort 1
+new technology 1
+high school 1
+60-acre farm 1
+robert kennedy 1
+grand island 1
+his wife 1
+good work 1
+legal-aid work 1
+bob devaney 1
+first playbook 1
+public advocacy 1
+executive director 1
+local landmark 1
+connie koch 1
+legal help 1
+160-pound quarterback 1
+regional planning 1
+short career 1
+possible get 1
+legal service 1
+southeast nebraska 1
+his history 1
+early practice 1
+outstanding law 1
+their marriage 1
+
+ Trigram NP 
+nebraska legal service 4
+legal service corp. 2
+eustis pool hall 1
+robert f. kennedy 1
+staff writer taking 1
+statewide legal-aid law 1
+by julie anderson 1
+western legal service 1
+eustis-farnam high school 1
+legal aid society 1
+his new firm 1
+
+ Unigram NP 
+german 9
+firm 7
+nebraska 6
+year 5
+system 4
+degree 3
+state 3
+colombia 3
+farm 3
+football 3
+money 2
+access 2
+group 2
+coffee 2
+lincoln 2
+university 2
+cozad 2
+family 2
+statewide 2
+eustis 2
+law 2
+part 2
+goal 2
+percent 2
+koch 2
+neb. 2
+time 2
+coach 1
+rest 1
+committee 1
+fear 1
+graduate 1
+staff 1
+campaign 1
+merger 1
+point 1
+charge 1
+program 1
+cheyenne 1
+redhead 1
+hope 1
+assistant 1
+kleiman 1
+practice 1
+day 1
+sophomore 1
+kennedy 1
+lexington 1
+cornhusker 1
+team 1
+quarter 1
+attorney 1
+everyone 1
+generation 1
+nebraska-lincoln 1
+wyo. 1
+capacity 1
+spokesman 1
+formula 1
+run 1
+belief 1
+power 1
+web 1
+step 1
+basketball 1
+california 1
+obligation 1
+thrown 1
+advance 1
+standout 1
+restaurant 1
+career 1
+country 1
+devaney 1
+justice 1
+unl 1
+washington 1
+guard 1
+trust 1
+gateway 1
+newsmaker 1
+area 1
+addition 1
+master 1
+way 1
+store 1
+child 1
+copy 1
+budget 1
+friend 1
+fun 1
+century 1
+site 1
+player 1
+sense 1
+clothing 1
+trip 1
+april 1
+reality 1
+field 1
+role 1
+income 1
+briefly 1
+d.c. 1
+congress 1
+abuse 1
+plan 1
+freshman 1
+president 1
+america 1
+opportunity 1
+man 1
+omaha 1
+pennsylvania 1
+accountable 1
+position 1
+
+ Arbitary length NP 
+jose bravo coffee co. 1

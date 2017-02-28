@@ -1,0 +1,120 @@
+
+ Bigram NP 
+legal marketing 2
+long-term plan 1
+marketing group 1
+pat stankard 1
+coordinated advice 1
+social service 1
+back burner 1
+great need 1
+general public 1
+their work 1
+limited budget 1
+her position 1
+legal community 1
+your plan 1
+bare-bones budget 1
+strong mission 1
+long-term business 1
+legal aid 1
+great asset 1
+great opportunity 1
+her job 1
+referral program 1
+[ marketing 1
+executive director 1
+her experience 1
+former treasurer 1
+conflict resolution 1
+increased awareness 1
+little information 1
+legal service 1
+
+ Trigram NP 
+julia c. langfelder 1
+michael r. ralston 1
+chicago bar foundation 1
+leslie a. corbett 1
+their first priority 1
+legal marketing association 1
+
+ Unigram NP 
+marketing 10
+lma 5
+] 5
+[ 4
+law 3
+project 3
+something 2
+need 2
+recognition 2
+group 2
+chicago 2
+lot 2
+development 2
+stankard 2
+corbett 2
+legislature 2
+office 1
+foundation 1
+process 1
+year 1
+langfelder 1
+coordinator 1
+manager 1
+lawyer 1
+president 1
+education 1
+line 1
+staff 1
+sidley 1
+city 1
+seminar/reception 1
+justice 1
+opportunity 1
+guidance 1
+douglas 1
+p.m. 1
+access 1
+wood 1
+structure 1
+reason 1
+vedder 1
+carton 1
+advice 1
+brown 1
+direction 1
+lack 1
+business 1
+price 1
+practice 1
+reach 1
+bottom 1
+gardner 1
+legal 1
+director 1
+job 1
+thursday 1
+plan 1
+background 1
+organization 1
+volunteer 1
+chapter 1
+word 1
+center 1
+work 1
+public 1
+sake 1
+client 1
+bono 1
+advertising 1
+ccr 1
+aid 1
+austin 1
+misconception 1
+history 1
+
+ Arbitary length NP 
+kate schott law bulletin staff writer a 1
+chicago daily law bulletin may 1

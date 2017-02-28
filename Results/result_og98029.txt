@@ -1,0 +1,139 @@
+
+ Bigram NP 
+final rule 8
+auction rule 3
+cost-benefit analysis 2
+federal register 2
+25-percent bidding 1
+procedure act 1
+effective use 1
+minimum number 1
+35-percent bidding 1
+economic impact 1
+mr. anderson 1
+it report 1
+our report 1
+our assessment 1
+competitive bidding 1
+transportation issue 1
+statutory authorization 1
+basic trading 1
+computer-readable database 1
+et seq 1
+communication act 1
+transportation united 1
+major rule 1
+jr. chairman 1
+order no 1
+james vickers 1
+regulatory framework 1
+potential service 1
+legal basis 1
+commerce house 1
+exclusive license 1
+john anderson 1
+other compliance 1
+our review 1
+
+ Trigram NP 
+paperwork reduction act 3
+independent regulatory agency 2
+pp docket no 2
+et docket no 2
+ghz frequency band 2
+regulatory flexibility analysis 1
+total annual burden 1
+assistant general counsel 1
+other relevant information 1
+federal communication commission 1
+regulatory flexibility act 1
+executive order no 1
+
+ Unigram NP 
+fcc 14
+u.s.c 7
+rule 7
+service 5
+number 4
+i 4
+office 3
+fed 3
+reg 3
+iv 2
+ii 2
+nprm 2
+information 2
+title 2
+federal 2
+section 2
+agency 2
+commission 2
+ghz 2
+notice 2
+executive 2
+credit 2
+band 2
+j 2
+february 2
+b 2
+r 2
+gao/ogc-98-29 2
+comment 1
+code 1
+certification 1
+senate 1
+official 1
+competition 1
+licensing 1
+compliance 1
+respect 1
+work 1
+subject 1
+united 1
+response 1
+maintenance 1
+rulemaking 1
+evaluation 1
+diversity 1
+description 1
+reporting 1
+gao 1
+reason 1
+director 1
+authority 1
+reply 1
+report 1
+iii 1
+the 1
+cc 1
+review 1
+commerce 1
+512-8210 1
+512-2834 1
+mobile 1
+science 1
+area 1
+budget 1
+recordkeeping 1
+addition 1
+connection 1
+january 1
+management 1
+view 1
+discussion 1
+mean 1
+
+ Arbitary length NP 
+final regulatory flexibility analysis 2
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+record management federal communication commission page 1
+gao/ogc-98-29 enclosure analysis under 1
+honorable ernest f. hollings ranking minority member committee 1
+general counsel b-279213 february 1
+ghz frequency band pursuant 1
+honorable john mccain chairman 1
+robert p. murphy general counsel enclosure 1
+a major rule issued by the federal communication commission entitled 1
+honorable thomas j. bliley 1
+kathy fagan amd-performance evaluation 1

@@ -1,0 +1,530 @@
+
+ Bigram NP 
+program letter 5
+state planning 4
+private bar 4
+competitive basis 3
+their state 3
+our country 3
+world-class delivery 3
+my country 3
+civil justice 3
+great society 2
+our work 2
+our state 2
+technical assistance 2
+local bar 2
+our society 2
+additional information 2
+our government 2
+legal assistance 2
+mr. alinksy 2
+their service 2
+lsc board 2
+federal investment 1
+regular mean 1
+it success 1
+president nixon 1
+disfavored cousin 1
+statewide delivery 1
+neophyte attorney 1
+much gnashing 1
+important mechanism 1
+our literature 1
+your mouth 1
+creative planning 1
+our strategy 1
+big change 1
+such change 1
+central reality 1
+assess applicants' 1
+federal government 1
+our message 1
+real competition 1
+primary focus 1
+new system 1
+long time 1
+aside money 1
+initiative-at least 1
+define-common ground 1
+short one 1
+additional state 1
+your money 1
+massive change 1
+quantitative information 1
+human race 1
+my soul 1
+guide path 1
+defender association-was 1
+first job 1
+11-member board 1
+organizational psychology 1
+same age 1
+enduring legacy 1
+first draft 1
+special model 1
+new vision 1
+forward-looking document 1
+new intake 1
+your grandmother 1
+beautiful city 1
+their program 1
+same way 1
+high-quality delivery 1
+essential function 1
+lsc president 1
+collective entity 1
+last year 1
+multi-cultural staff 1
+good news 1
+her life 1
+similar client 1
+vigorous effort 1
+early planning 1
+general outline 1
+vital role 1
+your journey 1
+licensed attorney 1
+our funding 1
+important companion 1
+legal work 1
+your time 1
+their improvement 1
+high quality 1
+their progress 1
+my service 1
+long haul 1
+regulatory agency 1
+our grantee 1
+legal self-help 1
+president johnson 1
+it grantee 1
+expert assistance 1
+effective delivery 1
+federal funding 1
+significant emphasis 1
+sol alinksy 1
+programmatic effort 1
+huge paradigm 1
+difficult part 1
+supreme court 1
+multilingual computer 1
+entrenched culture 1
+energy-to make 1
+massive restructuring 1
+denied access 1
+potential client 1
+my lifetime 1
+it intent 1
+eligible client 1
+new jersey 1
+long-established system 1
+strategic direction 1
+large-scale reformation 1
+large organization 1
+critical mass 1
+midwestern part 1
+unsavory family 1
+new era 1
+tremendous change 1
+major tool 1
+rapid change 1
+wrong end 1
+parochial thinking 1
+fastest-growing client 1
+staff-including staff 1
+cost-effective use 1
+small sum 1
+local control 1
+enhanced understanding 1
+new visioni 1
+it place 1
+your eye 1
+seldom painless 1
+significant funding 1
+our mantra 1
+their mission 1
+my state 1
+effective state 1
+exemplary planning 1
+our adversary 1
+current approach 1
+economic opportunity 1
+ethnic bigotry 1
+your energy 1
+goal-a goal 1
+same time 1
+aggressive delivery 1
+needless competition 1
+huge shift 1
+it state 1
+your neck 1
+program division 1
+fundamental paradigm 1
+our future 1
+new measurement 1
+domestic violence 1
+initiatives-the quality 1
+important strategy 1
+civil litigation 1
+multi-cultural competency 1
+new world 1
+effective usage 1
+'the field 1
+sophisticated hardware 1
+expect resistance 1
+familiar part 1
+optimal configuration 1
+first step 1
+their fundraising 1
+program lettersii 1
+your staff 1
+cross-program advocacy 1
+wee bit 1
+equal opportunity 1
+legal landscape 1
+
+ Trigram NP 
+state planning initiative 4
+other equal justice 3
+national legal aid 1
+your own organization 1
+your own planning 1
+legal service act 1
+their federal investment 1
+lawyer trust account 1
+their eternal rest 1
+legal service community 1
+american equal justice 1
+high-quality legal assistance 1
+their vital role 1
+of randi youells 1
+our collective dream 1
+their federal funding 1
+idealistic lawyers-a whisper 1
+same consistent message 1
+our central mission 1
+their ultimate enforcement 1
+it statutory responsibility 1
+fair adversarial justice 1
+american bar association 1
+nationwide strategic planning 1
+my legal aid 1
+many other staff 1
+your wonderful country 1
+continued federal funding 1
+critical legal assistance 1
+state planning consideration 1
+our own organization 1
+it lasting legacy 1
+my professional life 1
+recent internal budget 1
+lsc program letter 1
+our professional lives-we 1
+afford legal aid 1
+project director association 1
+same political party 1
+
+ Unigram NP 
+lsc 53
+state 37
+planning 36
+system 25
+delivery 20
+today 17
+initiative 14
+competition 12
+justice 11
+quality 11
+access 10
+program 9
+funding 8
+client 8
+staff 7
+community 7
+process 7
+united 7
+development 7
+work 6
+grantee 6
+time 6
+creation 5
+fact 5
+congress 5
+law 5
+organization 5
+vision 4
+legal 4
+service 4
+area 4
+end 4
+resistance 3
+board 3
+iowa 3
+day 3
+business 3
+importance 3
+change 3
+training 3
+one 3
+promise 3
+way 3
+future 3
+need 3
+technology 3
+information 3
+canada 3
+journey 3
+class 3
+money 2
+idealism 2
+guidance 2
+number 2
+world 2
+school 2
+iolta 2
+night 2
+lawyer 2
+manner 2
+injustice 2
+core 2
+attention 2
+configuration 2
+shift 2
+funder 2
+plan 2
+statewide 2
+engagement 2
+life 2
+interest 2
+language 2
+effort 2
+october 2
+room 2
+budget 2
+example 2
+president 2
+share 2
+direction 2
+goal 2
+corporation 2
+reality 2
+director 2
+diversity 2
+person 2
+model 2
+submission 1
+office 1
+september 1
+lack 1
+judge 1
+deadline 1
+grayer 1
+talk 1
+brink 1
+decade 1
+announcement 1
+death 1
+thank 1
+field 1
+presence 1
+had 1
+venom 1
+spirit 1
+believing 1
+equity 1
+presentation 1
+planning-state 1
+hope 1
+jurisdiction 1
+moribund 1
+practice 1
+judiciary 1
+exception 1
+inclusion 1
+perfection 1
+performance 1
+report 1
+trouble 1
+walk 1
+condition 1
+loss 1
+bar 1
+prize 1
+success 1
+kennedy 1
+january 1
+bigotry 1
+july 1
+worldclass 1
+ozone 1
+oblivion 1
+progress 1
+response 1
+quarter 1
+mean 1
+respond 1
+profile 1
+everyone 1
+commitment 1
+pledge 1
+foundation 1
+passage 1
+series 1
+mid-1990 1
+attorney's 1
+cost 1
+design 1
+result 1
+year 1
+home 1
+operation 1
+midst 1
+forefront 1
+impact 1
+subject 1
+hand-in-glove 1
+living 1
+information-sharing 1
+ability 1
+radical 1
+integration 1
+coordination 1
+eligibility 1
+experiment 1
+cooperation 1
+drawn 1
+ground 1
+issue 1
+movement 1
+handful 1
+adversary 1
+belief 1
+february 1
+word 1
+u.s. 1
+directorsv 1
+standard 1
+host 1
+planning/competition 1
+poverty 1
+beginning 1
+piecemeal 1
+fifth 1
+obstacle 1
+reason 1
+implementation 1
+range 1
+prejudice 1
+grandchild 1
+action 1
+california 1
+whole 1
+honor 1
+person-be 1
+letter 1
+family 1
+relate 1
+period 1
+satisfaction 1
+set 1
+self-help 1
+lesson 1
+bench 1
+intervention 1
+america 1
+eradication 1
+union 1
+commit 1
+legislation 1
+strategy 1
+senate 1
+systems- 1
+scope 1
+territory 1
+insufficient 1
+firm 1
+intolerance 1
+door 1
+efficacy 1
+tool 1
+needle 1
+effect 1
+part 1
+link 1
+stick 1
+deeply 1
+line 1
+promote 1
+institution 1
+toronto 1
+intake 1
+high-quality 1
+isolation 1
+bill 1
+years-has 1
+advocacy 1
+transformation 1
+will 1
+era 1
+penultimate 1
+aid 1
+history 1
+addition 1
+century 1
+agent 1
+clients-and 1
+middle 1
+someone 1
+something 1
+partner 1
+promise-and 1
+native 1
+democracy 1
+turn 1
+percent 1
+s 1
+member 1
+anything 1
+emphasize 1
+fourth 1
+elephant 1
+place 1
+effectiveness 1
+establishment 1
+what's 1
+iowa-which 1
+repeat 1
+comprehensive 1
+advice 1
+english 1
+canadian-would 1
+companion 1
+membership 1
+purpose 1
+establish 1
+ethernet 1
+nothing 1
+court 1
+opportunity 1
+been-and 1
+value 1
+third 1
+non-lsc 1
+v 1
+overnight 1
+rule 1
+face 1
+chief 1
+se 1
+operate 1
+dream 1
+order 1
+prevention 1
+subgroup 1
+
+ Arbitary length NP 
+american legal services-quite revolutionary 1
+last twenty-seven years-the provision 1
+lsc vice president for program for the ontario legal aid speaker series thank 1
+high-quality civil legal assistance 1

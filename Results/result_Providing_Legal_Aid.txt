@@ -1,0 +1,82 @@
+
+ Bigram NP 
+legal aid 3
+legal assistance 2
+efficient network 1
+first amendment 1
+administrative framework 1
+specific representation 1
+compelling case 1
+commendable job 1
+florida access 1
+legal advice 1
+such assistance 1
+needy family 1
+poor family 1
+other help 1
+last year 1
+temporary assistance 1
+florida bar 1
+
+ Trigram NP 
+u.s. supreme court 1
+statewide not-for- profit 1
+annual legislative appropriation 1
+poor terry russell 1
+unused federal welfare 1
+
+ Unigram NP 
+state 5
+year 3
+russell 3
+funding 2
+act 2
+bar 2
+legislation 2
+bill 2
+help 1
+senate 1
+house 1
+welfare 1
+community 1
+group 1
+cost 1
+manner 1
+need 1
+light 1
+indigent 1
+question 1
+constitutionality 1
+network 1
+decision 1
+assistance 1
+class-action 1
+percent 1
+legal 1
+passage 1
+access 1
+program 1
+money 1
+department 1
+defeat 1
+congress 1
+advice 1
+key 1
+demand 1
+president 1
+post 1
+law 1
+lawsuit 1
+legislature 1
+conviction 1
+tanf 1
+florida 1
+contract 1
+place 1
+time 1
+representation 1
+review 1
+aid 1
+
+ Arbitary length NP 
+civil legal assistance act 1

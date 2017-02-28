@@ -1,0 +1,77 @@
+
+ Bigram NP 
+paralegal honored 1
+legal assistance 1
+dedicated employee 1
+national federation 1
+her office 1
+formal training 1
+public sector 1
+volunteer basis 1
+civil committee 1
+aiding homeless 1
+vicki powell 1
+her time 1
+defender association 1
+lofty goal 1
+low- income 1
+lancaster county 1
+enter drug 1
+my work 1
+paralegal association 1
+social security 1
+their dignity 1
+definite reward 1
+
+ Trigram NP 
+midpenn legal service 2
+lancaster interagency council 2
+national legal aid 1
+it 10-year plan 1
+valerie g. case 1
+excellence award tuesday 1
+
+ Unigram NP 
+case 11
+homeless 3
+paralegal 3
+council 2
+something 2
+lancaster 2
+housing 2
+agency 2
+member 2
+field 2
+board 2
+office 1
+manager 1
+year 1
+chair 1
+clothing 1
+goal 1
+employment 1
+state 1
+passion 1
+reading 1
+treatment 1
+development 1
+door 1
+government 1
+food 1
+award 1
+conestoga 1
+formation 1
+plan 1
+dedication 1
+alcohol 1
+dignity 1
+pennsylvania 1
+vicki 1
+homelessness 1
+york 1
+
+ Arbitary length NP 
+pennsylvania legal service center 1
+nationwide employee benefit organization 1
+lancaster legal service office 1
+pa. agency lauds conestoga woman p. j. reilly 1

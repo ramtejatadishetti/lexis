@@ -1,0 +1,282 @@
+
+ Bigram NP 
+postal service 24
+inbound mail 16
+domestic postage 15
+outbound mail 11
+reims ii 9
+international mail 6
+attributable cost 4
+air lc/ao 4
+weight distribution 3
+average weight 3
+net balance 3
+such mail 3
+institutional cost 3
+net terminal 2
+priority mail 2
+common pool 2
+overall cost 2
+current terminal 2
+specific study 2
+separate estimate 2
+average revenue 2
+our use 2
+weight interval 2
++ wt 2
+negative effect 2
+international postage 2
+proxy distribution 2
+reasonable proxy 2
+bulk mail 1
+postmaster general 1
+important policy 1
+individual country 1
+bob cohen 1
+l.1 / 1
+l.4 / 1
+net effect 1
+aggregate distribution 1
+medium mail 1
+reasonable approximation 1
+new zealand 1
+positive effect 1
+it outbound 1
+actual number 1
+inbound surface 1
+potential distortion 1
+total volume 1
+latter assumption 1
+actual distribution 1
+available inbound 1
+charles robinson 1
+extra ounce 1
+fpa domestic 1
+corresponding amount 1
+first class 1
+international volume 1
+net increase 1
+surface lc/ao 1
+u outbound 1
+cost coverage 1
+domestic bulk 1
+substantial overstatement 1
+much detail 1
+domestic mail 1
+profitable mail 1
+first improvement 1
+heavy mail 1
+further study 1
+plausible estimate 1
+dc fpas 1
+service first-class/priority 1
+our estimate 1
+u.s. international 1
+hard copy 1
+other contribution 1
+printed matter 1
+opposite effect 1
+meaningful impact 1
+ic fpas 1
+new terminal 1
+three-year period 1
+further work 1
+commission report 1
+
+ Trigram NP 
+domestic postage-based system 5
+domestic postage-based terminal 5
+actual net terminal 1
+u.s. postalservice domestic 1
+institutional cost contribution 1
+domestic postage-based payment 1
+domestic postagebased terminal 1
+universal postal union 1
+it annual submission 1
+available domestic bulk 1
+l.1 + col. 1
+
+ Unigram NP 
+mail 50
+u.s 28
+fy 24
+commission 23
+line 22
+distribution 22
+percent 22
+dc 18
+column 18
+ic 16
+u.s. 13
+weight 11
+effect 10
+service 10
+coverage 10
+terminal 9
+col. 9
+l. 9
+fpas 9
+outbound 9
+system 9
+surcharge 9
+analysis 9
+lc 8
+cost 8
+exchange 8
+wt 8
+contribution 8
+interval 8
+fpa 8
+canada 7
+inbound 7
+ao 7
+volume 7
+revenue 6
+% 6
+first-class 5
+piece 5
+amount 5
+data 5
++ 4
+/ 4
+increase 4
+change 4
+rate 4
+lc/ao 4
+course 3
+shape 3
+difference 3
+january 3
+study 3
+delivery 3
+selection 2
+proportion 2
+contibution 2
+surface 2
+business 2
+eligibility 2
+overstatement 2
+proxy 2
+table 2
+quality 2
+class 2
+reduction 2
+assumption 2
+time 2
+absence 2
+procedure 2
+field 2
+= 2
+congress 2
+show 1
+vary 1
+distortion 1
+subclass 1
+disk 1
+impact 1
+web 1
+ratio 1
+mailstream 1
+disparity 1
+envelope 1
+imbalance 1
+number 1
+report 1
+postal 1
+method 1
+magnitude 1
+mode 1
+implication 1
+upu 1
+packet 1
+see 1
+result 1
+future 1
+international 1
+issue 1
+price 1
+transportation 1
+million 1
+use 1
+possibility 1
+reason 1
+extent 1
+approach 1
+estimate 1
+p.42 1
+unique 1
+billing 1
+country 1
+reasonableness 1
+hence 1
+whole 1
+col 1
+adjusted 1
+letter 1
+elasticity 1
+applicability 1
+market 1
+confidence 1
+addition 1
+destination 1
+priority 1
+way 1
+percentage 1
+determinant 1
+relationship 1
+thousand 1
+regard 1
+benchmark 1
+gap 1
+part 1
+-to-one 1
+effort 1
+none 1
+include 1
+third 1
+air 1
+shift 1
+balance 1
+mexico 1
+l.5 1
+l.4 1
+l.6 1
+l.1 1
+israel 1
+l.3 1
+reliability 1
+information 1
+pay 1
+fourth 1
+explanation 1
+european 1
+profile 1
+calculation 1
+col.3 1
+understatement 1
+june 1
+col.4 1
+account 1
+law 1
+payment 1
+scenario 1
+iv-1 1
+flow 1
+switch 1
+extrapolation 1
+service's 1
+convenient 1
+destinating 1
+
+ Arbitary length NP 
+incremental outbound inbound cost total 2
+service net terminal due 2
+effect of replacing terminal due with domestic postage on international mail 1
+inbound mailby weight interval 1
+george omas vice chairman 1
+foreign origin inbound mail 1
+contribution to institutional cost and cost coverage 1
+assuming domestic postage replaces current terminal due 1
+fpa = foreign postal administration 1
+reflect terminal due system 1
+effect of replacing terminal due with domestic postage on the finance of industrialized and developing country and the postal service 1

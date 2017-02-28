@@ -1,0 +1,83 @@
+
+ Bigram NP 
+same time 1
+dumb mistake 1
+twyla sketchley 1
+his assistant 1
+his life 1
+former president 1
+nonprofit organization 1
+fine person 1
+his cousin 1
+retired state 1
+his volunteer 1
+his dedication 1
+foolish question 1
+his shoulder 1
+my brain 1
+his time 1
+real proud 1
+chesterfield smith 1
+north florida 1
+legal service 1
+beatrice jackson 1
+kris knab 1
+
+ Trigram NP 
+smith williams center 2
+american bar association 1
+richard m. smith 1
+real good job 1
+tallahassee democrat attorney 1
+
+ Unigram NP 
+smith 8
+attorney 3
+law 3
+jackson 2
+saint 2
+control 1
+cane 1
+commitment 1
+help 1
+estate 1
+december 1
+executive 1
+number 1
+community 1
+month 1
+planning 1
+lawyer 1
+work 1
+living 1
+richard 1
+assistance 1
+crawfordville 1
+charge 1
+chairman 1
+firm 1
+someone 1
+power 1
+tallahasseean 1
+worker 1
+quit 1
+wednesday 1
+director 1
+state 1
+emeritus 1
+building 1
+school 1
+holland 1
+country 1
+university 1
+dog 1
+florida 1
+hasn't 1
+cat 1
+knight 1
+bond 1
+sketchley 1
+
+ Arbitary length NP 
+wakulla county senior citizen council 1
+james l. rosica thursday 1

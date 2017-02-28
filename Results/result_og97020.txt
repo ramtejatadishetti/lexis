@@ -1,0 +1,161 @@
+
+ Bigram NP 
+final rule 4
+federal register 3
+exchange commission 3
+small business 3
+cost-benefit analysis 2
+it report 2
+complete disclosure 2
+safe harbor 2
+exchange act 2
+our review 2
+security act 1
+market issue 1
+enhanced disclosure 1
+our assessment 1
+increased market 1
+statutory authorization 1
+public comment 1
+new control 1
+et seq 1
+legal basis 1
+new rule 1
+major rule 1
+jr. chairman 1
+proposed rulemaking 1
+order no 1
+succinct statement 1
+complete information 1
+quantitative information 1
+expected impact 1
+our report 1
+corporate audit 1
+meaningful information 1
+commerce house 1
+it reaction 1
+regulation s-b 1
+entire analysis 1
+statutory mandate 1
+derivative commodity 1
+executive order 1
+financial institution 1
+qualitative information 1
+inappropriate burden 1
+additional recordkeeping 1
+additional information 1
+
+ Trigram NP 
+independent regulatory agency 2
+regulatory flexibility analysis 2
+derivative financial instrument 2
+jean gleason stromberg 1
+administrative procedure act 1
+other relevant information 1
+kathleen e. wannisky 1
+initial regulatory flexibility 1
+paperwork reduction act 1
+robert w. gramling 1
+regulation s-k. gao/ogc-97-20 1
+regulatory flexibility act 1
+urban affair united 1
+derivative commodity instrument 1
+associate general counsel 1
+exchange commission page 1
+
+ Unigram NP 
+rule 16
+commission 13
+u.s.c 9
+market 9
+risk 9
+disclosure 7
+accounting 6
+section 6
+sec 5
+fed 5
+reg 5
+february 4
+b 4
+analysis 4
+item 3
+executive 3
+agency 3
+omb 3
+office 2
+telephone 2
+competition 2
+iv 2
+rin 2
+ii 2
+rulemaking 2
+impact 2
+information 2
+title 2
+response 2
+policy 2
+notice 2
+review 2
+director 2
+accordance 2
+i 2
+january 2
+compliance 2
+comment 1
+code 1
+cost 1
+senate 1
+control 1
+report 1
+512-5207 1
+respect 1
+need 1
+operation 1
+work 1
+registrant 1
+subject 1
+united 1
+implementation 1
+housing 1
+cc 1
+paragraph 1
+bookkeeping 1
+issuer 1
+evaluation 1
+act 1
+standard 1
+gao 1
+efficiency 1
+clearance 1
+protection 1
+understand 1
+aggregate 1
+iii 1
+gao/ogc-97-20 1
+commodity 1
+summary 1
+banking 1
+contact 1
+budget 1
+action 1
+management 1
+security 1
+application 1
+result 1
+
+ Arbitary length NP 
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+final regulatory flexibility analysis 1
+initial regulatory flexibility analysis 1
+derivative commodity instrument pursuant 1
+honorable alfonse m. d'amato chairman 1
+gao/ogc-97-20 enclosure analysis under 1
+disclosure of accounting policy for derivative financial instrument and derivative commodity instrument 1
+honorable jonathan g. katz secretary 1
+gao/ogc-97-20 paperwork reduction act 1
+honorable paul s. sarbanes ranking minority member committee 1
+robert p. murphy general counsel enclosure 1
+a major rule issued by the security and exchange commission entitled 1
+general counsel b-276130 february 1
+honorable thomas j. bliley 1

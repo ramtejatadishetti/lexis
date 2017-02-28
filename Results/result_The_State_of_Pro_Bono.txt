@@ -1,0 +1,253 @@
+
+ Bigram NP 
+new york 3
+robin maher 1
+firm's stance 1
+high priority 1
+award winner 1
+financial support 1
+coudert brother 1
+information act 1
+steve hale 1
+betsy alaniz 1
+don paradis 1
+reed smith 1
+la vega 1
+last year 1
+his equity 1
+medical student 1
+perkins coie 1
+esther lardent 1
+muslim sept. 1
+alan sullivan 1
+trial lawyer 1
+judicial scrutiny 1
+legal community 1
+donna doblick 1
+billable time 1
+terry walsh 1
+john mazzan 1
+sharp decline 1
+teenie harris 1
+elderly couple 1
+federal aid 1
+under-represented group 1
+cindy kernick 1
+local bar 1
+executive director 1
+david richman 1
+mauricio vivero 1
+real crisis 1
+middle eastern 1
+300-lawyer firm 1
+pressing need 1
+max soffar 1
+high point 1
+karen gievers 1
+david lubitz 1
+small percentage 1
+big law 1
+eleanor newhoff 1
+billable-hour parity 1
+pepper hamilton 1
+colleen lynch 1
+hard-working lawyer 1
+important figure 1
+public interest 1
+new jersey 1
+legal profession 1
+nancy kelly 1
+his release 1
+sohail mohammed 1
+jonell thomas 1
+
+ Trigram NP 
+american bar association 2
+albert ronnie burrell 1
+kathleen t. zellner 1
+truancy intervention project 1
+pro bono institute 1
+it remarkable involvement 1
+charles j. lloyd 1
+national law journal 1
+steven m. pincus 1
+salt lake city 1
+pro bono challenge 1
+james h. schropp 1
+her own money 1
+legal service corp. 1
+immigration lawyer association 1
+
+ Unigram NP 
+work 9
+death 6
+number 5
+% 5
+row 4
+solo 4
+award 4
+winner 3
+drop 3
+aila 3
+capital 3
+behalf 3
+year 3
+office 2
+asylum 2
+penalty 2
+texas 2
+detention 2
+commitment 2
+measure 2
+nlj 2
+conviction 2
+lardent 2
+washington 2
+law 2
+murder 2
+immigration 2
+cia 2
+aclu 2
+practitioner 2
+d.c. 2
+harris 2
+representation 2
+president 2
+burrell 1
+tallahassee 1
+lsc 1
+newhoff 1
+welfare 1
+wilmer 1
+nevada 1
+litigation 1
+police 1
+lsc-affiliated 1
+proportion 1
+minnesota 1
+charge 1
+prison 1
+case 1
+needy 1
+clifton 1
+end 1
+utah 1
+vennum 1
+difference 1
+association 1
+jeanne 1
+execute 1
+level 1
+mohammed 1
+zellner 1
+verdict 1
+immunity 1
+release 1
+overstayer 1
+butterfield 1
+latham 1
+pall 1
+lawyer 1
+jury 1
+cold 1
+minority 1
+shriver 1
+chicago 1
+assistance 1
+settlement 1
+state 1
+watkins 1
+appeal 1
+issue 1
+bird 1
+discovery 1
+sept. 1
+md. 1
+associate 1
+frank 1
+court 1
+ill. 1
+key 1
+group 1
+freedom 1
+small-business 1
+florida 1
+snell 1
+drug 1
+gievers 1
+visa 1
+action 1
+community 1
+height 1
+muslim 1
+paradis 1
+forefront 1
+fla. 1
+crisis 1
+naperville 1
+city 1
+dna 1
+area 1
+judgment 1
+partnership 1
+philadelphia 1
+inmate 1
+interest 1
+volunteerism 1
+louisiana 1
+record 1
+life 1
+pittsburgh 1
+confinement 1
+atlanta 1
+count 1
+georgia 1
+project 1
+cast 1
+fried 1
+claim 1
+estate 1
+alston 1
+boston 1
+pro 1
+evidence 1
+file 1
+partner 1
+seattle 1
+archive 1
+rape 1
+information 1
+goal 1
+person 1
+ordinance 1
+annapolis 1
+jacobson 1
+idaho 1
+phoenix 1
+demanding 1
+a. 1
+director 1
+n.j. 1
+student 1
+america 1
+data 1
+class 1
+chiefly 1
+vice 1
+light 1
+lindquist 1
+failing 1
+request 1
+philadelphia's 1
+time 1
+kelly 1
+she's 1
+alabama 1
+lubitz' 1
+
+ Arbitary length NP 
+american civil liberty union 1
+edwin s. matthew jr. 1
+elizabeth amon staff reporter sept. 1
+swidler berlin shereff friedman 1
+greater boston legal service 1

@@ -1,0 +1,1311 @@
+
+ Bigram NP 
+fips pub 21
+contracting officer 13
+information technology 10
+open competition 9
+fips publication 8
+procurement authority 7
+overview guide 7
+audit step 7
+system acquisition 6
+senior management 6
+far part 6
+technical representative 6
+timely manner 5
+source selection 5
+wide range 5
+• acquisition 4
+computer program 4
+key project 4
+user involvement 4
+audit objective 3
+operational use 3
+lifecycle validation 3
+need determination 3
+phase ii 3
+computer software 3
+related audit 3
+overall strategy 3
+new system 3
+phase iii 3
+user support 3
+requirement analysis 3
+initiation phase 3
+planned acquisition 3
+technical risk 2
+sufficient authority 2
+sensitive information 2
+reasonable cost 2
+sole source 2
+project management 2
+relative importance 2
+clear definition 2
+federal information 2
+other performance 2
+total number 2
+significant software 2
+other agency 2
+current system 2
+firm price 2
+federal government 2
+rapid prototyping 2
+appendix iii 2
+computer application 2
+audit guide 2
+related step 2
+acceptable performance 2
+technical verification 2
+related question 2
+it mission 2
+it design 2
+software maintenance 2
+other project 2
+professional judgment 2
+firmr part 2
+priority level 2
+• test 2
+economic analysis 2
+competitive range 2
+it acquisition 2
+• solicitation 2
+formal change 2
+appropriate mix 2
+projected work 2
+other publication 2
+related information 2
+senior project 2
+project staff 2
+considerable information 1
+ofrequired acquisition 1
+improved service 1
+estimated system 1
+technical leveling 1
+second phase 1
+k. accountability 1
+new information 1
+unauthorized use 1
+satisfying agency 1
+corrective action 1
+general assessment 1
+language sql 1
+senior program 1
+database management 1
+organizational image 1
+vendor certification 1
+full-scale system 1
+national bureau 1
+configuration management 1
+prototyping methodology 1
+logical framework 1
+software size 1
+guide glossary 1
+leveling helping 1
+their configuration 1
+adverse impact 1
+primary responsibility 1
+financial management 1
+standard format 1
+primary function 1
+successful bid 1
+high level 1
+foreign business 1
+appropriate acquisition 1
+surplus property 1
+defined environment 1
+management guide 1
+key information 1
+damage page 1
+budgetary process 1
+fixed-price contract 1
+benchmark test 1
+intermodule communication 1
+software prototyping 1
+other information 1
+different system 1
+formal establishment 1
+approved acquisition 1
+documentation required 1
+logic flow 1
+data processing 1
+• agency 1
+single address 1
+acquiring maintenance 1
+brief description 1
+information processing 1
+system interface 1
+it medium 1
+overall vision 1
+establish responsibility 1
+review technique 1
+acquisition schedule 1
+500-133-technology assessment 1
+theprogram manager 1
+preliminary version 1
+acquired equipment 1
+it development 1
+other testing 1
+full operation 1
+corporate capability 1
+unauthorized access 1
+dc order 1
+90-day test 1
+it likelihood 1
+low turnover 1
+other government 1
+different environment 1
+formal process 1
+further consideration 1
+follow-on implementation 1
+benchmarking adp 1
+figure ii.3 1
+figure ii.2 1
+figure ii.1 1
+overall architecture 1
+figure ii.5 1
+define information 1
+trail bos 1
+formal training 1
+information resource 1
+valid user 1
+internal control 1
+unnecessary cost 1
+high turnover 1
+user feedback 1
+h. privacy 1
+agency's generaldelegation 1
+draft rfps 1
+accurate description 1
+continual basis 1
+specific audit 1
+special contract 1
+appendix appendix 1
+500-193-software reengineering 1
+national dictionary 1
+resulting contract 1
+toverify system 1
+overall assessment 1
+specific period 1
+different development 1
+other report 1
+comprehensive list 1
+realistic testing 1
+plan evaluation 1
+it contractor 1
+• guide 1
+security consideration 1
+other correspondence 1
+g. security 1
+enough knowledge 1
+following address 1
+brook act 1
+actual number 1
+same hardware 1
+specific acquisition 1
+implementation agreement 1
+technical skill 1
+new software 1
+lesson learned 1
+it information 1
+initial funding 1
+further slippage 1
+overall security 1
+increased economy 1
+appendix describes 1
+commercial market 1
+integrity assurance 1
+• management 1
+personal computer 1
+expected magnitude 1
+software verification 1
+official government 1
+requirement exist 1
+new york 1
+uniform acquisition 1
+software documentation 1
+omb circular 1
+single entity 1
+existinglimited information 1
+early feedback 1
+defense standard 1
+successful vendor 1
+specific make 1
+related in-house 1
+specified time 1
+senior agency 1
+significant user 1
+interconnection profile 1
+unexpected schedule 1
+and/or terminate 1
+it price 1
+their documentation 1
+update processing 1
+software reuse 1
+provide guidance 1
+short time 1
+grand design 1
+individual code 1
+d. maintainability 1
+overall cost 1
+effective acquisition 1
+strategic information 1
+first copy 1
+historical data 1
+program manager 1
+contract-proposal evaluation 1
+contractor'sliquidated failure 1
+current start/completion 1
+financial risk 1
+portability profile 1
+it software 1
+it resolution 1
+other progress 1
+significant risk 1
+encryption standard 1
+software engineering 1
+valuable background 1
+procurement terminology 1
+executive agenciesacquisition 1
+functional unit 1
+acquisition profile 1
+new delegation 1
+their usefulness 1
+functional requirement 1
+cost-effectively meeting 1
+final selection 1
+specific delegation 1
+such information 1
+bythe software 1
+continuous control 1
+case study 1
+computer environment 1
+anindependent organization 1
+other support 1
+present audit 1
+specific time 1
+representative set 1
+much turnover 1
+new technologymust 1
+complete version 1
+capability validation 1
+data administration 1
+overall agency 1
+expected system 1
+portable operating 1
+further information 1
+anticipated growth 1
+electronic engineer 1
+abbreviation chapter 1
+overall impact 1
+previous experience 1
+government information 1
+final acceptance 1
+operational life 1
+contract page 1
+software acceptance 1
+it proposal 1
+such training 1
+daily list 1
+standard solicitation 1
+u.s. government 1
+adequate project 1
+representative mix 1
+proposed system 1
+major objective 1
+overall reasonableness 1
+further development 1
+specify type 1
+next point 1
+simulated operating 1
+procurement initiator 1
+fax number 1
+final opportunity 1
+private sector 1
+contract appeal 1
+rough estimate 1
+discrepant project 1
+critical path 1
+specific risk 1
+operational need 1
+formal demonstration 1
+database administration 1
+• user 1
+private use 1
+business daily 1
+quarterly basis 1
+software engineering-case 1
+such performance 1
+realistic alternative 1
+above audit 1
+computer assurance 1
+improved system 1
+staffing • 1
+high uncertainty 1
+acceptance testing 1
+cost-reimbursement contract 1
+determine page 1
+late reference 1
+appropriate agency 1
+work load 1
+users' organization 1
+technical information 1
+evolutionary development 1
+well acquisition 1
+long-term funding 1
+daily publication 1
+senior oversight 1
+monthly and/or 1
+u.s. general 1
+rapid feedback 1
+accepted government 1
+publicized evaluation 1
+good performance 1
+final decision 1
+overall structure 1
+similar size 1
+table i.1 1
+primary contractor 1
+contracting officerestablished 1
+uncertain future 1
+description/specifications/work statement 1
+critical element 1
+efficient manner 1
+management regulation 1
+approved system 1
+current version 1
+their comment 1
+determine feasibility 1
+requirescorrective maintenance 1
+entire system 1
+development progress 1
+comprehensive plan 1
+interested party 1
+appendix ii 1
+appendix iv 1
+nominal charge 1
+senior official 1
+stated period 1
+it relationship 1
+it functionaland 1
+independent government 1
+agency-determined performance 1
+other capability 1
+g sts 1
+spiral model 1
+management support 1
+agency's information 1
+essential information 1
+future capacity 1
+national security 1
+necessary support 1
+ieee guide 1
+their acceptability 1
+validatedagainst mission 1
+contract action 1
+recent milestone 1
+potential impact 1
+sufficient funding 1
+feasible acquisition 1
+future reference 1
+senior manager 1
+successful acquisition 1
+e. expandability 1
+final offer 1
+purchase description 1
+specified product 1
+incremental purchasing 1
+unrealistic schedule 1
+current configuration 1
+funding commitment 1
+computer security 1
+private industry 1
+further experience 1
+other guidance 1
+economical acquisition 1
+entire process 1
+preliminary type 1
+withthe delegation 1
+thatproposed engineering 1
+feasible alternative 1
+their impact 1
+unmet user 1
+contract documentation 1
+sufficient detail 1
+specific user 1
+projected growth 1
+preaward audit 1
+appropriate contract 1
+technology division 1
+st. nw 1
+designated authority 1
+expected progress 1
+actual progress 1
+a guide 1
+federal acquisition 1
+applicable reference 1
+outside organization 1
+key management 1
+federal agency 1
+
+ Trigram NP 
+assessing acquisition risk 19
+commerce business daily 4
+automated data system 4
+requirement / specification 4
+firmr bulletin c-5 4
+omb circular a-109 3
+government auditing standard 2
+acquiring commercial software 2
+required • record 2
+computer security certification 2
+omb circular a-130 2
+fourth generation language 2
+alternative • guide 1
+their overall impact 1
+alternative toallow system 1
+• initial operation 1
+planning audit step 1
+appendix ii management 1
+adp contingency planning 1
+full andopen competition 1
+official business penalty 1
+editor glossary acquisition 1
+competitive procurement environment 1
+it initial test 1
+source selection authority 1
+jack l. brock 1
+similar functional capability 1
+appendix iv major 1
+audit guide table 1
+a charging system 1
+technical andcompetitive cost 1
+security training guideline 1
+acquisition planning acquisition 1
+it authorized level 1
+their evaluationsof security 1
+software conversion service 1
+proper technical advice 1
+• original start/completion 1
+federal acquisition regulation 1
+contract management contract 1
+federal information resources-under 1
+standard fips pub 1
+documentation • need 1
+interconnection profile user 1
+solicitation documentation required 1
+management audit step 1
+adp system acquisition 1
+roger s. pressman 1
+omb circular a-76 1
+constructive cost model 1
+data dictionary system 1
+a. operational capability 1
+other federal guidance 1
+it basic description 1
+acquisition documentation required 1
+user interface component 1
+agency's historical experience 1
+office automation system 1
+acceptance audit step 1
+computer security official 1
+arange reasonable possibility 1
+document audit step 1
+requirement / audit 1
+• commercial off-the-shelf 1
+software conversion management 1
+solicitation document a 1
+alternative audit objective 1
+application portability profile 1
+market survey attempt 1
+change development progress 1
+approach assignment planning 1
+system operational concept 1
+change control a 1
+software development tool 1
+general accounting office 1
+relevant federal acquisition 1
+federal information resource 1
+federal information processing 1
+distributed database management 1
+agency procurement request 1
+software requirement specification 1
+
+ Unigram NP 
+agency 159
+acquisition 130
+system 80
+contract 80
+cost 72
+information 68
+project 64
+software 63
+• 51
+determine 50
+process 48
+management 44
+development 42
+model 39
+guide 35
+audit 35
+plan 34
+review 33
+auditor 33
+b 32
+gsa 30
+chapter 30
+analysis 29
+test 29
+schedule 29
+evaluation 27
+program 25
+performance 25
+contractor 25
+solicitation 25
+documentation 24
+selection 24
+gao 24
+technology 24
+rfp 23
+source 23
+ch 22
+step 22
+manager 21
+document 21
+configuration 20
+risk 19
+staff 19
+use 18
+example 18
+c. 18
+authority 18
+support 18
+government 17
+time 16
+award 15
+hardware 15
+planning 15
+computer 15
+far 14
+size 14
+accordance 14
+acceptance 14
+alternative 14
+security 14
+validation 14
+team 13
+august 13
+procurement 13
+vendor 13
+order 12
+part 12
+phase 12
+basis 12
+proposal 12
+equipment 11
+level 11
+need 11
+gao/imtec-8.1.6 11
+number 10
+design 10
+experience 10
+figure 10
+work 10
+description 10
+request 10
+status 10
+user 10
+organization 10
+protest 9
+firmr 9
+benchmark 9
+section 9
+ability 9
+officer 9
+/ 9
+competition 9
+effort 8
+methodology 8
+life 8
+statement 8
+d. 8
+approach 8
+page 8
+processing 8
+industry 8
+code 7
+component 7
+apr 7
+assessment 7
+control 7
+capability 7
+contracting 7
+indicator 7
+guidance 7
+resource 7
+official 7
+identify 7
+point 7
+verification 7
+presolicitation 6
+profile 6
+e. 6
+ssa 6
+testing 6
+progress 6
+extent 6
+budget 6
+ensure 6
+scope 6
+type 6
+environment 5
+oversight 5
+specification 5
+comparison 5
+purpose 5
+responsibility 5
+postaward 5
+involvement 5
+training 5
+coding 5
+accuracy 5
+report 5
+identification 5
+approval 5
+load 5
+strategy 5
+administration 5
+i 5
+success 5
+decision 5
+problem 5
+role 5
+list 4
+consideration 4
+change 4
+action 4
+market 4
+appendix 4
+agency's 4
+account 4
+complexity 4
+office 4
+slippage 4
+sponsor 4
+operation 4
+ass 4
+accountability 4
+privacy 4
+compatibility 4
+draft 4
+aug. 4
+conversion 4
+note 4
+impact 4
+implementation 4
+requirement 4
+are 4
+federal 4
+theacquisition 4
+maintenance 4
+direction 4
+value 4
+contact 4
+board 4
+prototyping 4
+confirm 4
+appropriate 4
+function 4
+j 4
+department 4
+structure 4
+staffing 3
+preaward 3
+public 3
+reporting 3
+completion 3
+e.g. 3
+significance 3
+interview 3
+mar 3
+may 3
+response 3
+feedback 3
+mission 3
+committee 3
+name 3
+open 3
+feb. 3
+estimate 3
+invitation 3
+probability 3
+priority 3
+regulation 3
+cycle 3
+defense 3
+cost/benefit 3
+objective 3
+effectiveness 3
+availability 3
+knowledge 3
+title 3
+architecture 3
+release 3
+omb 3
+uncertainty 3
+fips 3
+co 3
+addition 3
+prototype 3
+representative 3
+reasonableness 3
+telephone 3
+ii 3
+make 3
+validate 3
+judgment 3
+sept. 3
+negotiation 3
+sseb 3
+ease 3
+price 3
+agreement 3
+range 3
+way 3
+b. 3
+failure 3
+delegation 3
+jan. 3
+thesolicitation 3
+reliability 3
+june 3
+a. 3
+subpart 3
+lack 2
+dollar 2
+focus 2
+integrity 2
+inspection 2
+government's 2
+rate 2
+accreditation 2
+access 2
+version 2
+justification 2
+degree 2
+understanding 2
+address 2
+compliance 2
+amount 2
+charge 2
+flexibility 2
+obsolescence 2
+phone 2
+integrating 2
+ii.4 2
+sample 2
+f. 2
+provide 2
+product 2
+a 2
+preproposal 2
+turnover 2
+paper 2
+toprocurement 2
+conformance 2
+transmission 2
+funding 2
+space 2
+ssac 2
+offeror 2
+standard 2
+contractor's 2
+length 2
+contingency 2
+theirexperience 2
+quality 2
+publication 2
+relationship 2
+were 2
+result 2
+demonstration 2
+mix 2
+operate 2
+announcement 2
+participate 2
+current 2
+guideline 2
+volatility 2
+whether 2
+activity 2
+todetermine 2
+reference 2
+sensitivity 2
+see 2
+expertise 2
+preparation 2
+capacity 2
+nature 2
+interface 2
+c 2
+relevant 2
+overview 2
+community 2
+pp 2
+bidding 2
+survey 2
+testing-e.g. 2
+iv 2
+coordinate 2
+obtain 2
+instance 2
+input 2
+format 2
+bid 2
+output 2
+replacement 2
+recommendation 2
+and/or 2
+lead 2
+refer 2
+losing 2
+package 2
+worksheet 2
+testimony 2
+h. 2
+adequacy 2
+form 2
+offer 2
+regard 2
+limit 2
+m 2
+measure 2
+field 2
+revision 2
+congress 2
+e 2
+opencompetition 1
+a-130 1
+gsa/irms 1
+milestonesand 1
+500-120-security 1
+computation 1
+preface 1
+retention 1
+clarification 1
+cyclecost 1
+technique 1
+removal 1
+systemperformance 1
+include 1
+ii.5 1
+isconfiguration 1
+advantage 1
+md 1
+choice 1
+floorloading 1
+g. 1
+osi 1
+did 1
+issue 1
+item 1
+delegate 1
+prevent 1
+charter 1
+debriefing 1
+trend 1
+sign 1
+enhancement 1
+discus 1
+theevaluation 1
+conduct 1
+pricingsupport 1
+satisfy 1
+following 1
+operating 1
+canbe 1
+ii.1 1
+throughput 1
+relatedofficer 1
+secure 1
+a-1 1
+auditing 1
+fee 1
+consistingconfiguration 1
+visit 1
+programhave 1
+theuser 1
+andcertification 1
+examination 1
+512-6406 1
+manufacturer 1
+authorization 1
+adescription 1
+jr. 1
+company 1
+a-11 1
+room 1
+science 1
+v 1
+meet 1
+ii.2 1
+ii.3 1
+compare 1
+accept 1
+vulnerability 1
+scheduling 1
+jensen 1
+united 1
+monitoring 1
+verify 1
+arrangement 1
+delay 1
+how 1
+input/output 1
+isavailability 1
+guarantee 1
+establishment 1
+map 1
+alternativebalancing 1
+date 1
+data 1
+ombudsman 1
+prenegotiation 1
+concern 1
+light 1
+element 1
+fortran 1
+discussion 1
+benchmarking 1
+hypertext 1
+entity 1
+timing 1
+treateditem 1
+affect 1
+existence 1
+le 1
+group 1
+fit 1
+chosen 1
+responsibleand 1
+policy 1
+mail 1
+correspondence 1
+dec. 1
+obtaining 1
+material 1
+nation 1
+framework 1
+publicizing 1
+day 1
+administer 1
+term 1
+tampering 1
+january 1
+magnitude 1
+ifb 1
+p 1
+ed 1
+receipt 1
+frequency 1
+year 1
+processinginformation 1
+network 1
+profit 1
+research 1
+method 1
+201-20.1 1
+barrier 1
+government/contractor 1
+thatis 1
+disposition 1
+likelihood 1
+card 1
+definition 1
+language 1
+programming 1
+place 1
+assign 1
+itsreliability 1
+clause 1
+nonrecurring 1
+restrict 1
+set 1
+service 1
+introduction 1
+gao's 1
+occupancy 1
+master 1
+lease 1
+option 1
+purchase 1
+explanation 1
+population 1
+kind 1
+matter 1
+compensation 1
+inventiveness 1
+resourcesdelegation 1
+correction 1
+diligence 1
+manner 1
+any 1
+99-guideline 1
+ornetwork 1
+person 1
+throughoutmanagement 1
+k. 1
+mechanism 1
+emphasis 1
+comment 1
+interconnection 1
+competence 1
+aslippage 1
+personnelevaluation 1
+assist 1
+500-175-management 1
+evaluator 1
+delivery 1
+managing 1
+effect 1
+fact 1
+quantity 1
+certification 1
+memorandum 1
+securityand 1
+corner 1
+upgrade 1
+menu 1
+governmentalpolicy 1
+continuity 1
+cotr 1
+requests.determine 1
+nov. 1
+financing 1
+interoperability 1
+neededinformation 1
+conjunction 1
+comply 1
+oncomment 1
+summary 1
+dpa 1
+therequired 1
+nist 1
+mandatory 1
+module 1
+qualityassurance 1
+best 1
+expert 1
+timeliness 1
+cooperation 1
+theagency 1
+g100 1
+importance 1
+attention 1
+subject 1
+efficiency 1
+job 1
+electrical 1
+installation 1
+etc 1
+context 1
+gantt 1
+developmentprototyping 1
+key 1
+supply 1
+proposedinformation 1
+period 1
+modeling 1
+clearlyunderstood 1
+respect 1
+conference 1
+initiation 1
+make-up 1
+recurring 1
+isaudit 1
+box 1
+orcontrol 1
+offeror's 1
+lostthe 1
+determination 1
+effectiveaudit 1
+quotation 1
+commerce 1
+governmentwide 1
+glossary 1
+losswould 1
+situation 1
+mistake 1
+managerto 1
+binding 1
+500-109-overview 1
+march 1
+projectstaff 1
+tothe 1
+check 1
+modification 1
+thedegree 1
+memoranda 1
+practitioner 1
+d.c. 1
+assignment 1
+his/her 1
+negotiate 1
+director 1
+waterfall 1
+toensure 1
+completeness 1
+413-0006 1
+destruction 1
+cocomo 1
+database 1
+system'sconfiguration 1
+inc. 1
+money 1
+coordination 1
+adding 1
+anddetermine 1
+internal 1
+ada 1
+putnam 1
+emergency 1
+aggregation 1
+thetechnology 1
+contractorreimbursement 1
+a-109 1
+submission 1
+workingrelationship 1
+nw 1
+backlog 1
+reimbursement 1
+functional 1
+mcgraw-hill 1
+500-147-guidance 1
+particularand 1
+economic 1
+recognition 1
+integration 1
+unit 1
+compute-off 1
+core 1
+power 1
+tdd 1
+panel 1
+ansi/ieee 1
+limitation 1
+fringe 1
+simulation 1
+towhom 1
+washington 1
+commitment 1
+solicitationidentify 1
+fixed-price 1
+superintendent 1
+transfer 1
+question 1
+disapproval 1
+custom 1
+call 1
+interest 1
+volume 1
+heat 1
+construction 1
+method/program 1
+88-guideline 1
+whoare 1
+record 1
+marketplace 1
+accessibility 1
+general 1
+touchtone 1
+examine 1
+theiravailability 1
+file 1
+organizational 1
+programmer 1
+postimplementation 1
+variety 1
+objection 1
+credibility 1
+individual 1
+percent 1
+forspecific 1
+picture 1
+programstaff 1
+frominformation 1
+update 1
+review-committee 1
+intent 1
+peak 1
+dissipation 1
+andverification 1
+thechoice 1
+contractor'sperformance 1
+understand 1
+
+ Arbitary length NP 
+manager decrease acquisition risk 12
+assessing acquisition risk chapter 9
+gao/imtec-8.1.4 assessing acquisition risk 5
+requirement / specification audit 4
+assessing acquisition risk a 2
+automatic data processing risk analysis 2
+assessing acquisition risk audit 2
+gao audit guidance • information technology 1
+system development life cycle approach 1
+automated risk analysis tool 1
+contracting officer's technical representative 1
+representative/contracting officer's technical representative 1
+acquisition profile appendix ii 1
+american national standard institute/institute 1
+audit guide information management 1
+system integration service national institute 1
+fee paid gao permit no 1
+assessing acquisition risk k. participate 1
+source selection advisory council 1
+u.s. general accounting office p.o 1
+software project figure ii.2 1
+information resource management regulation 1
+open system environment profile ose/1 version 1
+appendix iii reference material federal regulation 1
+senior evaluator peter c. wade 1
+assessing acquisition risk management organization 1
+evaluator-in-charge bernard r. anderson 1
+assessing acquisition risk certification 1
+general accounting office washington 1
+software product management standard 1
+senior evaluator trinh n. hoang 1
+requirement / specification • far part 1
+u.s. general accounting officewashington 1
+source selection documentation required 1
+ralph v. carlone assistant comptroller general information management 1
+need / documentation required 1
+budget estimate gsa acquisition guide series • overview guide • guide 1
+assistant director david r. turner 1
+gao/imtec-8.1.4 assessing acquisition risk appeal 1
+development progress software size 1
+assessing acquisition risk baseline 1
+federal information resource management reference regulation 1
+software size estimate personnel stability 1
+assessing acquisition risk • source 1
+month unresolved software volatility software 1
+policy content preface chapter 1
+information resource management service 1
+source selection evaluation board 1
+gao/imtec-8.1.4 assessing acquisition risk maintainability 1
+address correction requested bulk mail postage 1
+technology division werner grosshans assistant comptroller general 1
+contracting officer's representative/contracting officer 1
+adp backup processing alternative 1
+mission element need statement 1
+federal information processing standard 1
+gsa • federal acquisition regulation 1
+gao/imtec-8.1.4 assessing acquisition risk application 1
+d.c. mark e. heatwole 1
+technical representative • guide 1
+technical reviewer shane d. hartzler 1
+• federal information processing standard 1
+open system interconnection protocol 1
+assessing acquisition risk organization 1
+project staffing documentation required 1
+computer programmer david chao 1
+acquiring commercial software • guide 1

@@ -1,0 +1,216 @@
+
+ Bigram NP 
+legal aid 11
+executive director 3
+public housing 2
+legal service 2
+other health 1
+abell foundation 1
+their ability 1
+bread-and-butter work 1
+referral system 1
+public access 1
+his death 1
+his email 1
+migrant farm 1
+sub-standard housing 1
+college creek 1
+state-of-the-art intake 1
+centralized intake 1
+onestop shopping 1
+dorsey co 1
+academic recognition 1
+george soros 1
+individual achievement 1
+economic stability 1
+creative advocacy 1
+former parking 1
+affordable housing 1
+increased staff 1
+new housing 1
+it leadership 1
+general public 1
+janet labella 1
+statewide law 1
+senior vice 1
+contentious custody 1
+lead player 1
+annual budget 1
+remote area 1
+it staff 1
+u.s. department 1
+defender association 1
+20-year representation 1
+national demonstration 1
+private consultant 1
+chief attorney 1
+joe surkiewicz 1
+historic-area building 1
+bottom line 1
+martha bergmark 1
+legal hotline 1
+above-ground economy 1
+national leader 1
+former deputy 1
+nonprofit law 1
+front rank 1
+current child 1
+legal information 1
+loyola college 1
+private bar 1
+public transportation 1
+baltimore symphony 1
+piper rudnick 1
+multnomah county 1
+former vice 1
+urban development 1
+
+ Trigram NP 
+legal aid bureau 7
+last black neighborhood 1
+robert j. rhudy 1
+equal justice council 1
+it remarkable sense 1
+national legal aid 1
+legal aid service 1
+open society institute 1
+first black attorney 1
+anne arundel county 1
+people law library 1
+john a. tull 1
+john hopkins university 1
+new waterfront housing 1
+decatur h. miller 1
+law examiner co 1
+legal service corp. 1
+it annual revenue 1
+first black graduate 1
+michael a. millemann 1
+
+ Unigram NP 
+bureau 11
+co 9
+maryland 6
+state 6
+justice 5
+baltimore 4
+project 4
+director 4
+joseph 3
+grant 3
+money 2
+access 2
+@ 2
+loss 2
+society 2
+year 2
+foundation 2
+web 2
+dorsey 2
+country 2
+housing 2
+commitment 2
+support 2
+lot 2
+today 2
+firm 2
+example 2
+site 2
+percent 2
+president 2
+law 2
+organization 2
+office 1
+executive 1
+stability 1
+bring 1
+staff 1
+bloomsbury 1
+disability 1
+tull 1
+mdlab.org 1
+board 1
+equity 1
+enthusiasm 1
+congressional 1
+government 1
+mlan 1
+practice 1
+preservation 1
+world 1
+difference 1
+www.mdjustice.org 1
+bar 1
+success 1
+rhudy 1
+shopping 1
+january 1
+university 1
+list 1
+indication 1
+victory 1
+www.peoples-law.org 1
+mlsc.org 1
+force 1
+generation 1
+house 1
+result 1
+operation 1
+intact 1
+employment 1
+saturday 1
+ore. 1
+funding 1
+driving 1
+managing 1
+assistance 1
+legal 1
+millemann 1
+mlsc 1
+innovation 1
+preserve 1
+mediacoall 1
+u.s. 1
+leadership 1
+poverty 1
+cornerstone 1
+change 1
+colorado 1
+washington 1
+community 1
+respect 1
+forefront 1
+city 1
+service 1
+relocation 1
+diversity 1
+what's 1
+delivery 1
+effort 1
+advocacy 1
+ongoing 1
+aid 1
+partnership 1
+tenor 1
+partner 1
+annapolis 1
+terps 1
+bergmark 1
+d.c. 1
+shelter 1
+building 1
+downtown 1
+professor 1
+variety 1
+headquarters 1
+person 1
+chief 1
+block 1
+
+ Arbitary length NP 
+maryland legal assistance network 1
+maryland legal service corp. 1
+charles h. dorsey jr. 1
+hannah e. m. lieberman 1
+maryland legal service corp 1
+wilhelm h. joseph jr. 1

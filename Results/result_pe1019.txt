@@ -1,0 +1,2713 @@
+
+ Bigram NP 
+good case 30
+new york 30
+case study 23
+critical instance 11
+san francisco 11
+science quarterly 11
+beverly hill 10
+cumulative case 10
+participant observation 7
+illustrative case 6
+educational research 6
+program evaluation 6
+content analysis 6
+comprehensive understanding 6
+ray c. 5
+special interest 5
+complex instance 5
+single case 5
+educational evaluation 4
+it context 4
+other information 4
+education quarterly 4
+purposive selection 4
+not-good case 4
+exploratory case 4
+human organization 4
+data analysis 4
+small number 4
+qualitative data 4
+extensive description 4
+single instance 4
+detailed information 3
+adequate information 3
+policy research 3
+their appropriateness 3
+in-depth information 3
+different evaluation 3
+communication manual 3
+single site 3
+norman k. 3
+grounded theory 3
+home start 3
+secondary analysis 3
+multisite case 3
+particular concern 3
+block grantactivity 3
+economic policy 3
+san diego 3
+evaluation review 3
+evaluation research 3
+complex question 3
+louis m. 3
+ethnographic research 3
+international security 3
+robert k. 3
+naturalistic inquiry 3
+rand mcnally 3
+college park 3
+great deal 3
+robert e. 3
+william h. 3
+new jersey 3
+behavioral scientist 3
+los angeles 3
+unique interest 3
+qualitative research 2
+final report 2
+federal program 2
+evaluation quarterly 2
+cooperative science 2
+critical test 2
+thomas d. 2
+chesapeake bay 2
+specific question 2
+edwin a. 2
+appropriate instance 2
+particular interest 2
+etienne s. 2
+5-year period 2
+considerable diversity 2
+are u.s. 2
+plausible explanation 2
+comparative method 2
+evaluation synthesis 2
+santa monica 2
+chicago press 2
+their meaning 2
+good research 2
+our work 2
+booby trap 2
+evaluation design 2
+complex case 2
+data reduction 2
+american journal 2
+david cohen 2
+matthew b 2
+donald t. 2
+key element 2
+vocational education 2
+considerable uncertainty 2
+empirical basis 2
+north carolina 2
+appendix iii 2
+mitre corp. 2
+our report 2
+data collection 2
+qualitative information 2
+science education 2
+first evaluator 2
+criminal program 2
+large number 2
+social research 2
+same time 2
+second tier 2
+appropriate method 2
+qualitative method 2
+frequent application 2
+program implementation 2
+first phase 2
+natural setting 2
+strong inference 2
+characteristic evaluation 2
+scientific research 2
+national survey 2
+common pitfall 2
+third phase 2
+brazilian market 2
+industrial innovation 2
+world bank 2
+in-depth case 2
+comparative research 2
+medical malpractice 2
+it function 2
+other case 2
+strong chain 2
+their implementation 2
+direct observation 2
+head start 2
+other evaluation 2
+study question 2
+authentic information 2
+representative sample 2
+manageable number 2
+data synthesis 2
+other method 2
+relevant science 2
+national study 2
+hypothetical data 2
+on-site observation 2
+van maanen 2
+public interest 2
+john wiley 2
+single number 2
+egon g. 2
+federal manager 2
+second round 2
+their sequence 2
+aesthetic education 2
+limited number 2
+service-oriented group 1
+technical how-tos 1
+narrative mode 1
+science teaching 1
+our location 1
+holland pub 1
+anecdotal information 1
+retrospective cumulation 1
+it integrity 1
+brookings institution 1
+rental assistance 1
+initial information 1
+long time 1
+their design 1
+on-site investigation 1
+local unemployment 1
+next element 1
+barney g. 1
+balanced view 1
+mandating collaboration 1
+valid meaning 1
+low-risk supplement 1
+new information 1
+relevant legislation 1
+it strength 1
+same condition 1
+individual team 1
+overall report 1
+matrix fashion 1
+residential care 1
+closed set 1
+corporate tax 1
+much concern 1
+comprehensive analysis 1
+robert m. 1
+patricia l. 1
+institutional innovation 1
+main report 1
+sound basis 1
+effective way 1
+disputed authorship 1
+complex innovation 1
+specific problem 1
+pergamon press 1
+reviewing research 1
+such housing 1
+appropriate scope 1
+incomplete use 1
+development test 1
+s. e. 1
+data storage 1
+effective evaluation 1
+bigeye bomb 1
+morris j 1
+specific environment 1
+lucien morissens 1
+similar assurance 1
+academic research 1
+american association 1
+four jurisdiction 1
+in- depth 1
+their work 1
+first type 1
+high technology 1
+extant data 1
+particular job 1
+martha a 1
+nonexperimental research 1
+federal detention 1
+public housing 1
+their impartiality 1
+school review 1
+personal experience 1
+adequate accuracy 1
+curriculum evaluation 1
+questionable merit 1
+richard goldstein 1
+michael j 1
+their life 1
+constrained experience 1
+rapid spread 1
+first volume 1
+our choice 1
+michael a 1
+uniform system 1
+qualitative time 1
+actual achievement 1
+ethnographic paradigm 1
+good sense 1
+bilingual education 1
+important requirement 1
+adequate population 1
+natural way 1
+conscientious use 1
+such demand 1
+erwin c. 1
+efficient strategy 1
+extensive detail 1
+wide variety 1
+fishing expedition 1
+single reality 1
+environmental assessment 1
+first strategy 1
+underlying question 1
+insurance cost 1
+adequate generalizability 1
+nonstatistical approach 1
+our definition 1
+same type 1
+external validity 1
+evaluation data 1
+report edt5 1
+second example 1
+heavy industry 1
+working definition 1
+new collection 1
+brazilian export-import 1
+little point 1
+national generalizability 1
+discernible effect 1
+extensive field 1
+eleanor chelimsky 1
+good program 1
+james g. 1
+following paragraph 1
+large organization 1
+initial cut 1
+inadequate attention 1
+federal involvement 1
+appropriate training 1
+popular remedy 1
+early case 1
+principal investigator 1
+typical site 1
+m. rein 1
+7-percent problem 1
+multiple data 1
+higher-paying job 1
+common set 1
+first instance 1
+sufficient comparability 1
+methodological meaning 1
+purpose-program evaluation-beyond 1
+social relation 1
+same conclusion 1
+william j. 1
+bureaucratic failure 1
+congressional intent 1
+chapel hill 1
+analyze policy 1
+measurement today 1
+survey method 1
+state alaska 1
+educational ethnography 1
+same year 1
+evaluative use 1
+separate job 1
+u.s. agency 1
+systematic analysis 1
+naturalistic approach 1
+1-in-16 chance 1
+appropriate evaluation 1
+j. r. 1
+such study 1
+firsthand observation 1
+aaron wildavsky 1
+analytical information 1
+john stuart 1
+analytic model 1
+plausible reason 1
+low rate 1
+gail weinberger 1
+modern researcher 1
+eveleen bingham 1
+qualitative sense 1
+nonquantitative time 1
+common benefit 1
+self-conscious effort 1
+special initiative 1
+insufficient specification 1
+low-income housing 1
+high-the case 1
+ferdinand marcos 1
+public expenditure 1
+selection imagine 1
+high end 1
+j. l. 1
+qualitative net 1
+physical setting 1
+james b. 1
+focal information 1
+complex situation 1
+careful organization 1
+their attention 1
+firm attribution 1
+project effectiveness 1
+organizational ethnography 1
+basic information 1
+qualitative evaluation 1
+instructional research 1
+behavior change 1
+dc order 1
+nonnormative research 1
+standard practice 1
+iterative process 1
+in-depth analysis 1
+nonthreatening environment 1
+evaluative question 1
+research sponsored 1
+considerable flexibility 1
+west virginia 1
+private ownership 1
+general helpfulness 1
+evaluation issue 1
+in-depth study 1
+their research 1
+evaluation network 1
+typical beneficiary 1
+large-scale investigation 1
+causal search 1
+only basis 1
+new method 1
+documentary evidence 1
+only researcher 1
+next site 1
+ethnographic data 1
+foreign aid 1
+appropriate basis 1
+r. osborn 1
+technology assessment 1
+detainee mix 1
+frequent page 1
+j. p. 1
+low problem 1
+such inquiry 1
+considerable assurance 1
+national interest 1
+investigator's sensitivity 1
+unique feature 1
+new town 1
+puerto rico 1
+accurate description 1
+key decision 1
+deviant case 1
+concurrent case 1
+harwin l. 1
+next step 1
+bureaucratic politics 1
+common guidance 1
+specific information 1
+appendix appendix 1
+probabilistic sampling 1
+george j. 1
+inductive technique 1
+valid measure 1
+regional office 1
+pattern matching 1
+local service 1
+naturalization service 1
+early immersion 1
+henry teune 1
+nonjudgmental information 1
+modest help 1
+great care 1
+our examination 1
+internal management 1
+enough time 1
+computerized order 1
+aging parent 1
+prompt review 1
+robert t. 1
+important variation 1
+such interest 1
+year report 1
+policy process 1
+one-sentence summary 1
+our documentation 1
+case book 1
+purposive site 1
+supplementary guidance 1
+inferential logic 1
+popular idea 1
+dennis w. 1
+potential problem 1
+equal weight 1
+same job 1
+handicapped child 1
+main point 1
+following address 1
+satisfactory progress 1
+qualitative case 1
+jai press 1
+sufficient structure 1
+atlanta region 1
+technical appendix 1
+estimated speed 1
+richard j 1
+reporting actual 1
+sample survey 1
+their topic 1
+qualitative perspective 1
+michael quinn 1
+new society 1
+margaret d. 1
+thorough identification 1
+open-ended interview 1
+timely filing 1
+next closest 1
+ernest r. 1
+true explanation 1
+uneven experience 1
+familiar method 1
+implementation case 1
+slippery disease 1
+purposive instance 1
+good study 1
+south dakota 1
+conventional wisdom 1
+first possibility 1
+pitfall inappropriate 1
+t. cerva 1
+h. kirk 1
+unknown credibility 1
+military base 1
+school evaluation 1
+general self-awareness 1
+special type 1
+american sociologist 1
+survey data 1
+janet e. 1
+evidence a 1
+underlying concern 1
+organizational theory 1
+limiting factor 1
+cumulative use 1
+daniel lerner 1
+formal assessment 1
+pertinent information 1
+their generalizability 1
+kenneth j 1
+management review 1
+further refine 1
+such case 1
+pertti j. 1
+mini-cross-site analysis 1
+school program 1
+investigative team 1
+richard e. 1
+wide number 1
+empirical literature 1
+further information 1
+pilot trial 1
+two-stage mailing 1
+official government 1
+second solution 1
+good practice 1
+positive view 1
+further evidence 1
+atmospheric temperature 1
+drinkable water 1
+similar request 1
+different payment 1
+-physical information 1
+detailed guide 1
+household income 1
+loved one 1
+next set 1
+ingrid heinsohn 1
+such testing 1
+school international 1
+individual value 1
+rich array 1
+policy manual 1
+simultaneous study 1
+second pair 1
+their applicability 1
+report bibliography 1
+particular attention 1
+particular program 1
+second type 1
+equal chance 1
+j. sasfy 1
+whole begin 1
+three multi-site 1
+union democracy 1
+exact uniformity 1
+insufficient attention 1
+naturalistic generalizability 1
+annual meeting 1
+10-percent rate 1
+research act 1
+comprehensive picture 1
+technology journal 1
+urban setting 1
+using questionnaire 1
+purposive sample 1
+policy development 1
+north dakota 1
+mary ann 1
+trade law 1
+plausible story 1
+sharpened understanding 1
+simple tabulation 1
+reasonable fix 1
+active opposition 1
+minimal information 1
+exploratory phase 1
+enough detail 1
+good effect 1
+efficient combination 1
+many case 1
+extensive case 1
+naturalistic generalization 1
+administrative arrangements-in 1
+descriptive case 1
+transportation service 1
+sufficient protection 1
+public information 1
+experimental school 1
+his framework 1
+ineffective instance 1
+general pattern 1
+their experience 1
+methodological problem 1
+sociological association 1
+federal guidance 1
+diane well 1
+training program 1
+measurement case 1
+probabilistic basis 1
+john desanctis 1
+vicarious experience 1
+ceta-school linkage 1
+adequate attention 1
+l. sechrest 1
+our causal 1
+internal consistency 1
+their perspective 1
+r. e. 1
+measurement validity 1
+category a 1
+our method 1
+personal method 1
+diane brannon 1
+quantitative hook 1
+approved study 1
+judgmental sample 1
+appropriate site 1
+such observation 1
+loosely coupled 1
+out-of-state comparison 1
+their usefulness 1
+realistic sense 1
+m. b 1
+september 30-october 1
+past experience 1
+s. schumacher 1
+detailed research 1
+worst case 1
+in-depth understanding 1
+howard s. 1
+suburban setting 1
+it inconsistency 1
+late page 1
+harold g. 1
+common situation 1
+wide range 1
+individual state 1
+same issue 1
+direct assessment 1
+function retrospective 1
+social control 1
+close yoking 1
+internal validity 1
+marcel dekker 1
+ethnographic method 1
+qualitative measurement 1
+high degree 1
+shortened case 1
+particular area 1
+traditional case 1
+evolving logic 1
+considerable contrast 1
+robert s. 1
+comparative analysis 1
+considerable effort 1
+research technique 1
+scientific study 1
+premature closure 1
+same group 1
+proper care 1
+case survey 1
+thematic review 1
+standard income 1
+several water 1
+communication research 1
+careful attention 1
+northwestern university 1
+rhode island 1
+visual evidence 1
+d.c. october 1
+inadequate interpretation 1
+key unanswered 1
+st. louis 1
+nuclear-weapon-equipped submarine 1
+pitfall bias 1
+reduce cost 1
+important part 1
+sufficient flexibility 1
+little effort 1
+studies-another example 1
+perform jointly 1
+detailed explanation 1
+other extreme 1
+thomas s. 1
+literature review 1
+it consistency 1
+real issue 1
+economic development 1
+economic assistance 1
+high government 1
+changes-to multiple 1
+objective experience 1
+ill-understood source 1
+ethnographic case 1
+further improvement 1
+last cluster 1
+reliable data 1
+complete documentation 1
+it examination 1
+little depth 1
+hubert m. 1
+evaluation descriptive 1
+different way 1
+major airline 1
+pitfall temptation 1
+much effort 1
+dod chemical 1
+methodological detail 1
+random sample 1
+uncertain quality 1
+universal assertion 1
+attention-getting quality-and 1
+technological innovation 1
+insufficient supply 1
+small college 1
+william spangar 1
+peggy r. 1
+insightful recognition 1
+national institute 1
+task orientation 1
+respondent validation 1
+field setting 1
+-participant observation 1
+edward s. 1
+j. easley 1
+qualitative data-that 1
+federal legislation 1
+second site 1
+unique event 1
+allen g. 1
+specific situation 1
+national conference 1
+separate report 1
+clean air 1
+social inquiry 1
+tabulation cross-tabulations 1
+rural setting 1
+sample probabilistic 1
+right match 1
+right number 1
+last page 1
+comprehensive assurance 1
+low end 1
+national projection 1
+research design 1
+limited value 1
+educational researcher 1
+overview report 1
+lois-ellin datta 1
+opposite concern 1
+appropriate balance 1
+5-minute discourse 1
+school view 1
+attractive nuisance 1
+describe site 1
+original report 1
+e-mail message 1
+paul f. 1
+interest any 1
+specific community 1
+modest expense 1
+their application 1
+surrogate site 1
+military procurement 1
+satisfactory graphic 1
+industry researcher 1
+promising method 1
+considerable period 1
+their explanation 1
+mill valley 1
+fax number 1
+large state 1
+thick description 1
+m. g. 1
+cluster except 1
+private sector 1
+average amount 1
+valid measure-that 1
+college record 1
+seymour martin 1
+their incidence 1
+fourth phase 1
+stand-alone method 1
+full picture 1
+qualitative description 1
+accurate representation 1
+data-base formation 1
+particular emphasis 1
+normative question 1
+a. m. 1
+diligent search 1
+second approach 1
+systematic presentation 1
+national-level evaluation 1
+meaningful cluster 1
+inappropriate basis 1
+our analysis 1
+non-gao case 1
+individual case 1
+flexible series 1
+unique value 1
+drug abuse 1
+same company 1
+first graphic 1
+timely issue 1
+different language 1
+true value 1
+fair objection 1
+many reference 1
+organizational setting 1
+sample instance 1
+block grant 1
+combine case 1
+field research 1
+your answer 1
+wendy p. 1
+cross-site aggregation 1
+participant-observer approach 1
+much detail 1
+few case 1
+high standard 1
+palo alto 1
+implementation issue 1
+paul lazarsfeld 1
+bad news 1
+limited time 1
+international development 1
+upper middle 1
+gilbert shapiro 1
+large case 1
+many evaluation 1
+last chapter 1
+average sailor 1
+their site 1
+minimum standard 1
+unduly delay 1
+similar approach 1
+steven maynard-moody 1
+maximum consistency 1
+unusable case 1
+different company 1
+other transfer 1
+much time 1
+t. martin 1
+mixing qualitative 1
+matthew b. 1
+main study 1
+policy analysis 1
+15-percent problem 1
+pre-election poll 1
+similar application 1
+daily list 1
+sociological theory 1
+selected child 1
+structured evaluation 1
+anthropological page 1
+it completion 1
+actual basis 1
+triangulation assurance 1
+valid way 1
+table i.2 1
+case extensive 1
+emerging strategy 1
+same informant 1
+observational data 1
+multiple site 1
+disproving-proving evidence 1
+taxpayer assistance 1
+answer yes 1
+not-so-good case 1
+following question 1
+short site 1
+private use 1
+interested reader 1
+independent flowchart 1
+specific job 1
+m. massaglia 1
+first copy 1
+in-depth description 1
+philadelphia inquirer 1
+lead question 1
+j. dahmann 1
+other research 1
+quantitative cul-de-sac 1
+modern school 1
+their location 1
+policy making 1
+prior system 1
+arthur j. 1
+additional testing 1
+potential relevance 1
+major audit 1
+good specification 1
+construct validity 1
+analysis issue 1
+much energy 1
+descriptive sense 1
+increase productivity 1
+corporate responsibility 1
+socioeconomic status 1
+not-case study 1
+local experience 1
+ethnographic inquiry 1
+analytic strategy 1
+second possibility 1
+first adaptation 1
+second group 1
+preface gao 1
+subsequent analysis 1
+joint test 1
+appendix ii 1
+richard j. 1
+useful information 1
+large-scale collection 1
+self-reported compliance 1
+enough information 1
+expert panel 1
+considerable adaptation 1
+special discussion 1
+jeffrey l. 1
+mental health 1
+evaluative argument 1
+balanced picture 1
+senior official 1
+such assessment 1
+basic model 1
+stylistic choice 1
+instances-the inability 1
+bilateral trade 1
+nonprofit organization 1
+fine balance 1
+inadequate coverage 1
+metropolitan area 1
+g sts 1
+cornell university 1
+second cut 1
+mary m. 1
+international institute 1
+new mexico 1
+west germany 1
+statistical inference 1
+understanding cause 1
+toward reform 1
+well-known case 1
+our time 1
+full information 1
+internal change 1
+pemd afdc 1
+public administration 1
+it complexity 1
+yvonna s. 1
+gerald a 1
+diverse program 1
+untrained field 1
+terry e. 1
+charles c. 1
+analytic method 1
+frank stanton 1
+oscar lewis 1
+my instructor 1
+voluntary organization 1
+qualitative way 1
+extensively-for example 1
+federal assistance 1
+central georgia 1
+preliminary guidance 1
+single address 1
+late investigation 1
+particular circumstance 1
+d. a 1
+david c. 1
+dissimilar information 1
+various case 1
+national center 1
+immediate context 1
+full data 1
+random house 1
+strong generalizability 1
+convenience sample 1
+conceptual framework 1
+evaluability assessment 1
+careful investigator 1
+enrollment decline 1
+low-communication spot 1
+versus qualitative 1
+adequate supervisory 1
+low plausibility 1
+inverse procedure 1
+judith a 1
+loose relationship 1
+nested case 1
+human service 1
+observable measure 1
+close runner-up 1
+analytic plan 1
+their frequency 1
+their inquiry 1
+california press 1
+prospective cumulation 1
+graham t. 1
+social security 1
+nationwide company 1
+todd d. 1
+wrong basis 1
+same phenomenon 1
+untried-for example 1
+short-term situation 1
+their quality 1
+sociology press 1
+similar purpose 1
+eight-hour course 1
+exploratory page 1
+current system 1
+r. corwin 1
+call case 1
+political research 1
+white house 1
+social choice 1
+social problem 1
+enough generalizability 1
+costly endeavor 1
+specific understanding 1
+longitudinal examination 1
+frequent question 1
+m. lipsky 1
+systematic ruling 1
+nuclear power 1
+sufficient detail 1
+significant actor 1
+last section 1
+real situation 1
+elapsed time 1
+spruce budworm 1
+methodology division 1
+careful specification 1
+atypical situation 1
+same distribution 1
+nuclear science 1
+right amount 1
+anthropological research 1
+final product 1
+instance selection 1
+structured interview 1
+rural schooling 1
+st. nw 1
+marion lundy 1
+scarvia b. 1
+your program 1
+sam d. 1
+senior investigator 1
+evaluation method 1
+different case 1
+independent evaluator 1
+considerable agreement 1
+extreme variability 1
+their examination 1
+basic research 1
+their importance 1
+random a 1
+further examination 1
+national potential 1
+technological attention 1
+steven d. 1
+educational attainment 1
+fatal error 1
+junior staff 1
+urban institute 1
+dual need 1
+our review 1
+cumulative application 1
+federal agency 1
+
+ Trigram NP 
+case study evaluation 20
+case study method 5
+appendix iii guideline 5
+national science foundation 5
+three mile island 4
+case study report 4
+are case study 3
+general policy manual 3
+case survey method 2
+social security administration 2
+case study research 2
+harcourt brace jovanovich 2
+national park service 2
+case study application 2
+financial integrity act 2
+american sociological review 2
+analyzing written material 2
+retrospective cumulative case 1
+their overall appro-priateness 1
+many critical instance 1
+airline personnel say 1
+allen h. barton 1
+harvard university press 1
+comparative social inquiry 1
+characteristic pitfall publication 1
+k. j. ross 1
+karl e. weick 1
+marian a. solomon 1
+harold d. lasswell 1
+gretel h. pelto 1
+david c. hoaglin 1
+select important measurement 1
+research triangle park 1
+estimate their validity 1
+gao project manual 1
+case study no 1
+ray c. earning 1
+his final chapter 1
+applied poverty research 1
+same study-to collect 1
+carson national forest 1
+robert k. yin 1
+new york city 1
+valid cause-and-effect design-that 1
+henry f. graff 1
+stephen m. sachs 1
+instance case study 1
+worst case texas 1
+john e. turner 1
+case study a 1
+their specific question 1
+description technique methodology 1
+syracuse university press 1
+national weather service 1
+official business penalty 1
+case study summary 1
+analysis data collection 1
+karen s. louis 1
+certain former government 1
+case study study 1
+case study table 1
+implementation case aspect 1
+julian c. stanley 1
+major methodological concern 1
+many individual case 1
+m. d. lecompte 1
+prospective cumulative case 1
+t. j. marx 1
+tax return arizona 1
+north carolina press 1
+rural school improvement 1
+only such instance 1
+our own case 1
+three case study 1
+better assure compliance 1
+egon g. toward 1
+particular methodological note 1
+aggregating case experience 1
+interim report v 1
+john r. gilbert 1
+appropriate professional association 1
+rann utilization experience 1
+situation technique characteristic 1
+longitudinal data sometimes 1
+interim report ia 1
+unfiled state number 1
+evaluation design mismatch 1
+harvard educational review 1
+international monograph series 1
+trade-related industrial policy 1
+cuban missile crisis 1
+our work-the immediacy 1
+overall federal funding 1
+delaware water gap 1
+stanford university press 1
+single-case experimental design 1
+richard h. p. 1
+essential methodological feature 1
+inter-university case program 1
+specific presidential campaign 1
+are data collection 1
+broad aim program 1
+jr. causal inference 1
+construction grant program-case 1
+rich in-depth nature 1
+convenience sample instance 1
+general methodological framework 1
+reasonable geographic representativeness 1
+industry/university cooperative research 1
+a. m. huberman 1
+using statistical sampling 1
+further how-to information 1
+general accounting office 1
+special congressional interest 1
+administration science quarterly 1
+interest new york 1
+katherine m. wolf 1
+design longitudinal assurance 1
+r. studying behavior 1
+numerous new case 1
+his personal benefit 1
+bail reform act 1
+special systematic way 1
+w. l. continuity 1
+their initial story 1
+bert g. hickman 1
+dorene d. ross 1
+same federal agency 1
+crucial next step 1
+william h. yeaton 1
+donald t. campbell 1
+environmental protection agency 1
+case study crisis 1
+emergency job actof 1
+program effectiveness evaluation 1
+reasonable worst-case choice 1
+glacier national park 1
+such illustrative use 1
+large scale-for example 1
+multiple case study 1
+data analysis technique 1
+our initial definition 1
+time-the longitudinal feature 1
+omb circular a-76 1
+evaluation table i.1 1
+l. g. thomas 1
+david h. barlow 1
+j. l. simmons 1
+robert b. tabachnick 1
+it ongoing work 1
+career criminal program 1
+second key element 1
+example characteristic a 1
+judith p. goetz 1
+cambridge university press 1
+many areas-urban housing 1
+possible-with appropriate instance 1
+robert f. boruch 1
+denver regional office 1
+trained full-time field 1
+george washington university 1
+third key element 1
+charles s. reichardt 1
+van leer report 1
+interim report iii 1
+not-good case study 1
+their deliberative process 1
+howard e. freeman 1
+national pooled aggregrate 1
+duane r. ireland 1
+result through responsive 1
+street level bureaucrat 1
+case cluster method 1
+construction grant program-methodology 1
+their superior ability 1
+swine flu affair 1
+ray c. rist 1
+big eye bomb 1
+quantitative data information 1
+evaluation research society 1
+eva l. resmovic 1
+their explanatory power 1
+last key element 1
+case study methodology 1
+qualitative data information 1
+anselm l. strauss 1
+yvonna s. lincoln 1
+david b. pillemer 1
+h. v. fineberg 1
+world bank education 1
+it appropriate application 1
+15-percent unfiled rate 1
+adequate on-the-shelf set 1
+james s. coleman 1
+youth employment program 1
+research triangle institute 1
+d. l. wallace 1
+structured interviewing technique 1
+raymond j. struyk 1
+annual substantive report 1
+political science review 1
+mental health program 1
+paul m. wortman 1
+much congressional interest 1
+site selection example 1
+independent second evaluator 1
+operatingand staffing practice 1
+
+ Unigram NP 
+case 356
+study 289
+evaluation 90
+program 88
+information 75
+site 66
+analysis 66
+example 64
+method 62
+instance 53
+collection 48
+gao 48
+evidence 45
+d.c. 44
+washington 44
+time 43
+paper 40
+selection 39
+design 37
+generalizability 36
+quality 36
+research 33
+question 32
+data 31
+implementation 29
+percent 29
+number 28
+page 28
+report 26
+methodology 23
+application 23
+purpose 21
+evaluator 20
+job 20
+basis 20
+situation 20
+calif. 19
+transfer 19
+series 18
+ed 17
+training 17
+review 16
+way 16
+regard 16
+survey 15
+use 15
+staff 15
+state 15
+impartiality 14
+order 14
+population 14
+problem 14
+april 14
+field 14
+diversity 14
+sample 13
+university 13
+event 13
+size 13
+exploratory 13
+inquiry 13
+education 13
+base 12
+work 12
+assurance 12
+management 12
+pp 12
+detail 12
+type 11
+december 11
+california 11
+generalization 11
+issue 11
+examination 11
+al 11
+technique 10
+validity 10
+september 10
+probability 10
+part 10
+kind 10
+b 10
+pattern 10
+sage 10
+whole 10
+table 10
+effect 10
+chapter 10
+rate 9
+experience 9
+criterion 9
+investigator 9
+reader 9
+yin 9
+audit 9
+phase 9
+observation 9
+irs 9
+extent 9
+interest 9
+bias 9
+march 9
+chicago 9
+department 9
+mass 9
+water 8
+process 8
+interview 8
+description 8
+may 8
+policy 8
+definition 8
+* 8
+explanation 8
+relation 8
+guidance 8
+pitfall 8
+are 8
+meeting 8
+compliance 8
+cluster 8
+reporting 8
+triangulation 8
+center 8
+fieldwork 8
+decision 8
+meaning 8
+cambridge 8
+housing 8
+jossey-bass 7
+cost 7
+trail 7
+customer 7
+control 7
+something 7
+interpretation 7
+group 7
+challenger 7
+relationship 7
+need 7
+agency 7
+ohio 7
+ability 7
+importance 7
+anthropology 7
+logic 7
+input 7
+effectiveness 7
+security 7
+sociology 7
+comparison 7
+distribution 7
+reliability 7
+rist 6
+convenience 6
+abt 6
+understanding 6
+ggd 6
+change 6
+account 6
+history 6
+sense 6
+discussion 6
+office 6
+texas 6
+cause 6
+theory 6
+construct 6
+draft 6
+july 6
+causality 6
+ssa 6
+observer 6
+approach 6
+attention 6
+context 6
+smith 6
+representative 6
+person 6
+output 6
+variation 6
+lack 5
+focus 5
+maryland 5
+rced 5
+kansa 5
+degree 5
+vol 5
+august 5
+feature 5
+product 5
+ottr 5
+ill. 5
+researcher 5
+day 5
+eleanor 5
+matrix 5
+safety 5
+u.s. 5
+request 5
+knowledge 5
+set 5
+addition 5
+strategy 5
+in 5
+development 5
+pemd 5
+nation 5
+press 5
+book 5
+measurement 5
+aggregation 5
+employment 5
+legislation 5
+synthesis 5
+chelimsky 5
+% 5
+credibility 5
+nasa 5
+chain 4
+health 4
+science 4
+perspective 4
+specification 4
+tragedy 4
+search 4
+room 4
+challenge 4
+a 4
+author 4
+revise 4
+insight 4
+authenticity 4
+quantitative 4
+checklist 4
+result 4
+documentation 4
+equipment 4
+productivity 4
+theme 4
+child 4
+disaster 4
+individual 4
+arkansas 4
+nature 4
+region 4
+contract 4
+nsiad 4
+reduction 4
+life 4
+value 4
+organization 4
+money 4
+coordination 4
+source 4
+bank 4
+sequence 4
+representativeness 4
+export 4
+integration 4
+illustration 4
+step 4
+range 4
+failure 4
+indiana 4
+analyst 4
+october 4
+variety 4
+role 4
+june 4
+concurrent 4
+massachusetts 4
+building 4
+al. 3
+risk 3
+detention 3
+school 3
+mich. 3
+list 3
+overgeneralization 3
+conduct 3
+exercise 3
+november 3
+justice 3
+action 3
+identification 3
+inference 3
+flexibility 3
+ypsilanti 3
+unit 3
+holt 3
+missile 3
+tax 3
+democracy 3
+turn 3
+place 3
+r. 3
+supervision 3
+allison 3
+complexity 3
+responsibility 3
+course 3
+setting 3
+scene 3
+february 3
+realism 3
+england 3
+hawaii 3
+frequency 3
+operation 3
+oklahoma 3
+investigation 3
+md. 3
+reason 3
+care 3
+anevaluation 3
+florida 3
+• 3
+service 3
+guba 3
+chain-of-evidence 3
+culture 3
+computer 3
+dallas 3
+port 3
+finding 3
+performance 3
+concern 3
+competence 3
+accuracy 3
+reality 3
+test 3
+montana 3
+neustadt 3
+cuban 3
+fact 3
+phenomenon 3
+lee 3
+availability 3
+impact 3
+hrd 3
+michigan 3
+herriott 3
+college 3
+subject 3
+progress 3
+ease 3
+point 3
+heald 3
+community 3
+improvement 3
+air 3
+technology 3
+journal 3
+document 3
+completeness 3
+judgment 3
+dimension 3
+miami 3
+illinois 3
+a. 3
+census 3
+universe 3
+n.y. 3
+block 3
+berger 3
+facility 3
+usefulness 3
+span 3
+area 3
+construction 3
+assessment 3
+official 3
+check 3
+hoaglin 3
+chance 3
+yeaton 3
+structure 3
+depth 3
+searle 2
+manager 2
+welfare 2
+jerome 2
+effort 2
+institute 2
+end 2
+choice 2
+cook 2
+difference 2
+syracuse 2
+steve 2
+info 2
+planning 2
+trustworthiness 2
+occurrence 2
+bock 2
+feasibility 2
+winston 2
+investment 2
+brief 2
+public 2
+john 2
+explosion 2
+berkeley 2
+consideration 2
+permit 2
+opinion 2
+criticism 2
+lucas 2
+subjectivity 2
+andrecreation 2
+crisis 2
+visit 2
+glaser 2
+procurement 2
+call 2
+scope 2
+cumulation 2
+finsterbush 2
+appendix 2
+flu 2
+denzin 2
+claim 2
+monitoring 2
+agent 2
+in-depth 2
+f. 2
+concept 2
+united 2
+patton 2
+someone 2
+priori 2
+outlier 2
+advice 2
+director 2
+stress 2
+johnson 2
+light 2
+essence 2
+london 2
+mosteller 2
+fit 2
+noncase 2
+mail 2
+team 2
+combination 2
+richness 2
+framework 2
+canada 2
+preschool 2
+competitiveness 2
+name 2
+january 2
+mean 2
+generation 2
+et 2
+objectivity 2
+convincingness 2
+common 2
+arizona 2
+confidence 2
+language 2
+swine 2
+anecdote 2
+consequence 2
+appropriateness 2
+user 2
+rand 2
+revenue 2
+coding 2
+cronbach 2
+president 2
+city 2
+story 2
+publication 2
+introduction 2
+opportunity 2
+system 2
+interviewing 2
+statement 2
+compromise 2
+rinehart 2
+pittsburgh 2
+sourcebook 2
+matter 2
+briefing 2
+outcome 2
+boston 2
+head 2
+have 2
+utility 2
+wilson 2
+latter 2
+note 2
+clearwater 2
+analogy 2
+thermometer 2
+multiple 2
+firsthand 2
+price 2
+prematurity 2
+formation 2
+section 2
+quantity 2
+salida 2
+n.c. 2
+henry 2
+halpern 2
+inconsistent 2
+trow 2
+meant 2
+dependent 2
+summary 2
+contrast 2
+detection 2
+desegregation 2
+corroboration 2
+addison-wesley 2
+timeliness 2
+praeger 2
+favor 2
+bureau 2
+reading 2
+variability 2
+organizing 2
+maine 2
+data-collection 2
+brown 2
+career 2
+country 2
+campbell 2
+distinction 2
+mid-1970 2
+ethnography 2
+sampling 2
+karen 2
+kirschen 2
+absence 2
+proposal 2
+sufficient 2
+argument 2
+coherent 2
+commerce 2
+pierce 2
+georgia 2
+p. 2
+procedure 2
+seattle 2
+examine 2
+belle 2
+administration 2
+iowa 2
+consistency 2
+alabama 2
+mclean 2
+rocket 2
+kentucky 2
+aspect 2
+skill 2
+contractor 2
+huberman 2
+credit 2
+interior 2
+unesco 2
+ii.i 2
+success 2
+qualitative 2
+benefit 2
+martin 2
+conclusion 2
+spring 2
+mcgraw-hill 2
+competition 2
+recognition 2
+casuality 2
+everything 2
+market 2
+period 2
+core 2
+biology 2
+business 2
+agreement 2
+vaccine 2
+stage 2
+testimony 2
+colorado 2
+fineberg 2
+son 2
+appropriate 2
+attribute 2
+intervention 2
+house 2
+judith 2
+illustrative 2
+va. 2
+social 2
+record 2
+verification 2
+display 2
+bearing 2
+year 2
+influence 2
+ph.d 2
+dawson 2
+m. 2
+stake 2
+insurance 2
+cleanup 2
+little 2
+revision 2
+picture 2
+michael 2
+missouri 2
+demand 2
+phone 2
+connecticut 2
+inaccuracy 2
+diss. 2
+breadth 1
+eda 1
+montgomery 1
+bproblem 1
+rev 1
+berman 1
+laura 1
+mile 1
+broader 1
+hazard 1
+selectivity 1
+captain 1
+integrity 1
+reasoning 1
+row 1
+responsiveness 1
+crisis1 1
+elizabeth 1
+mimeograph 1
+environment 1
+charge 1
+award 1
+e. 1
+gao/hrd-86-30 1
+so-it 1
+inform 1
+gao/hrd-85-90 1
+gideon 1
+advantage 1
+md 1
+paige 1
+worst 1
+fall 1
+u.s 1
+glencoe 1
+level 1
+array 1
+solution 1
+apprehension 1
+quick 1
+well-being 1
+becker 1
+barbara 1
+logistics 1
+samoa 1
+trend 1
+consistent 1
+frederick 1
+roncek 1
+burger 1
+gao/pemd-86-12br 1
+depression 1
+belief 1
+reconciliation 1
+nevada 1
+power 1
+abert 1
+lawrence 1
+vanderputten 1
+anthropological 1
+thickness 1
+christoph 1
+version 1
+theevaluation 1
+gao/hrd-87-21 1
+bedfellow 1
+ground 1
+body 1
+completion 1
+justification 1
+behavior 1
+prone 1
+component 1
+richest 1
+gao/ggd-86-136 1
+gao/hrd-85-98 1
+protection 1
+variance 1
+yetanother 1
+bogdan 1
+respect 1
+vividness 1
+arend 1
+different-agency 1
+bop 1
+shift 1
+marcos 1
+rehabilitation 1
+eds. 1
+airport 1
+hargrove 1
+spirer 1
+proof 1
+montreal 1
+struggle 1
+family 1
+ufo 1
+minnesota 1
+county 1
+decrease 1
+vols 1
+thick 1
+establish 1
+goetz 1
+before-and-after 1
+gao/pemd-84-3 1
+from 1
+life-threatening 1
+uniformity 1
+levine 1
+distinct 1
+lijphart 1
+socialization 1
+france 1
+plog 1
+ced-82-72 1
+assistance 1
+timing 1
+today 1
+more 1
+israel 1
+advance 1
+nebraska 1
+fiedler 1
+teaching 1
+iii 1
+resemblance 1
+acland 1
+markham 1
+hour 1
+middle 1
+recall 1
+louisiana 1
+worth 1
+obstacle 1
+thin 1
+v 1
+meet 1
+e.g. 1
+division 1
+then-they-did-this 1
+lecompte 1
+rise 1
+special-education 1
+david 1
+cause-and-effect 1
+ratio 1
+court 1
+goal 1
+gao/rced 1
+chemical 1
+furnace 1
+zelditch 1
+bracketing 1
+airline 1
+bloor 1
+sussex 1
+aoa 1
+philosophy 1
+spot 1
+internet 1
+plausibility 1
+lot 1
+adventure 1
+idaho 1
+date 1
+salina 1
+wadsworth 1
+law 1
+sieber 1
+hoc 1
+readiness 1
+wei 1
+attempt 1
+chiefly 1
+stein 1
+departure 1
+element 1
+gao/hrd-85-59 1
+correlation 1
+representation 1
+participant-observer 1
+operate 1
+michel 1
+travel 1
+feedback 1
+lewy 1
+trade 1
+derthick 1
+attitude 1
+referencing 1
+japan 1
+gao/rced-83-21 1
+tendency 1
+waterquality 1
+monitor 1
+chosen 1
+inclusion 1
+denver 1
+labor 1
+production 1
+ii.1 1
+condition 1
+datta 1
+listing 1
+economic 1
+columbus 1
+ced 1
+return 1
+greater 1
+ceo 1
+material 1
+hamilton 1
+inception 1
+capacity 1
+ced-82-52 1
+installment 1
+l. 1
+amethodology 1
+academy 1
+implementationstatus 1
+reproducibility 1
+mead 1
+truth 1
+ensuring-if 1
+circular 1
+yedpa 1
+gao/ggd-84-13 1
+theenvironment 1
+everyone 1
+weight 1
+receipt 1
+plant 1
+undertake 1
+touchtone 1
+beyond 1
+collector 1
+category 1
+freedom 1
+funding 1
+@ 1
+gao/nsiad-85-121 1
+urbana 1
+inadequacy 1
+subquestion 1
+sjoberg 1
+lois-ellin 1
+gao/pemd-87-4a 1
+auditing 1
+harold 1
+circumstance 1
+statisticalsampling 1
+divergence 1
+mississippi 1
+possibility 1
+standard 1
+difficulty 1
+unfiled 1
+imagine 1
+elements-or 1
+fienberg 1
+detecting 1
+beginning 1
+gao/ced-81-10 1
+przeworski 1
+district 1
+dobbert 1
+severity 1
+thing 1
+length 1
+prejudice 1
+qualification 1
+caim 1
+austin 1
+think 1
+kendall 1
+feel 1
+hearing 1
+river 1
+carry 1
+scoping 1
+clarity 1
+barzun 1
+fuller 1
+caught 1
+fiction 1
+priority 1
+'direct 1
+convention 1
+kidder 1
+cycle 1
+militancy 1
+lease 1
+gao/rced-85-56 1
+mcgowan 1
+allanheld 1
+wax 1
+park 1
+competenceand 1
+telephone 1
+inexport 1
+deborah 1
+elderly 1
+toronto 1
+relative 1
+iceberg 1
+slack 1
+boring 1
+iteration 1
+second 1
+bed 1
+project 1
+oregon 1
+mccall 1
+recency 1
+hypothetical 1
+theissue 1
+motivation 1
+lateness 1
+adifferent 1
+philippine 1
+farrar 1
+randomly 1
+medical 1
+rent 1
+turner 1
+demonstration 1
+forhousing 1
+gathering 1
+gao/nsiad-86-175br 1
+efficient 1
+thoroughly 1
+cleveland 1
+snow 1
+urge 1
+gao/pemd-86-6 1
+incidence 1
+compare 1
+spread 1
+betterassess 1
+plan 1
+undertaken 1
+sasfy 1
+future 1
+payment 1
+achievement 1
+analysis-that 1
+calif 1
+placement 1
+rosalie 1
+lawrence-haverhill 1
+confinement 1
+camp 1
+retrieval 1
+principle 1
+-exploratory 1
+moberg 1
+d. 1
+impression 1
+participants' 1
+text 1
+foreignrepresentation 1
+random 1
+lipset 1
+session 1
+corner 1
+cheaply 1
+decade 1
+access 1
+indicator 1
+kraft 1
+gao/ggd-85-85 1
+cargo 1
+assertion 1
+alternative 1
+413-0006 1
+screening 1
+rich 1
+employee 1
+adequate 1
+voss 1
+hedrick 1
+stabilization 1
+particularity 1
+financing 1
+platt 1
+alcohol 1
+n.j. 1
+farley 1
+subroutine 1
+cumulate 1
+conjunction 1
+target 1
+joanne 1
+measure 1
+stanford 1
+median 1
+encyclopedia 1
+greene 1
+characteristic 1
+rationale 1
+hersen 1
+where 1
+broadhead 1
+view 1
+green 1
+wall-space 1
+art 1
+w. 1
+sensitivity 1
+testing 1
+emergent 1
+edition 1
+ced-82-60 1
+vidich 1
+best 1
+brazil 1
+kurt 1
+scriven 1
+reform 1
+khadduri 1
+score 1
+box 1
+discovery 1
+g100 1
+infrastructure 1
+invention 1
+marvin 1
+flow 1
+glenn 1
+efficiency 1
+harper 1
+hypothesis 1
+modeling 1
+scheirer 1
+federalist 1
+gao/rced-87-24br 1
+disdain 1
+annual 1
+blalock 1
+s 1
+countertrade 1
+appropriate-according 1
+stream 1
+loan 1
+solvency 1
+illness 1
+kratochwill 1
+learning 1
+the1981 1
+described 1
+willingness 1
+help 1
+multimethod 1
+political 1
+workshop 1
+initiation 1
+certain 1
+marsh 1
+treatment 1
+flight 1
+efficacy 1
+beforehand 1
+coherence 1
+comprehensiveness 1
+precision 1
+gao/hrd-85-86 1
+latitude 1
+observe 1
+flowchart 1
+sechrest 1
+backfilling 1
+atlanta 1
+general 1
+self-esteem 1
+sound 1
+look 1
+formalization 1
+decisionmakers 1
+glossary 1
+tip 1
+portrayal 1
+budget 1
+aim 1
+explicitness 1
+diverse 1
+suppose 1
+inefficiency 1
+none 1
+eugene 1
+manner 1
+anderson 1
+ripe 1
+robert 1
+pool 1
+studies-or 1
+mill 1
+belmont 1
+discrepancy 1
+garry 1
+ii 1
+regularity 1
+pelto 1
+comparative 1
+conditioner 1
+inspector 1
+methodologist 1
+confirmed 1
+righthand 1
+program1 1
+afdc 1
+grant 1
+cumulative 1
+cross 1
+fluency 1
+cemrel 1
+writer 1
+popkewitz 1
+complex 1
+vandalism 1
+reminder 1
+mastercard 1
+literature 1
+columbia 1
+companion 1
+average 1
+strength 1
+senator 1
+booster 1
+grants-to 1
+innortheast 1
+surrogate 1
+pennsylvania 1
+floor 1
+kyle 1
+contact 1
+temperature 1
+format 1
+chemistry 1
+mcclintock 1
+comment 1
+mind 1
+birth 1
+unemployment 1
+shapiro 1
+aldine 1
+counterevidence 1
+valuable 1
+homogeneity 1
+shape 1
+differentiation 1
+love 1
+reliance 1
+ithaca 1
+myron 1
+bibliography 1
+classification 1
+ineffective 1
+totawa 1
+admission 1
+supply 1
+character 1
+emphasis 1
+evanston 1
+concurrent-that 1
+adoption 1
+sanday 1
+prison 1
+plenty 1
+administrative 1
+match 1
+akin 1
+pair 1
+complaint 1
+emergency 1
+government 1
+amarillo 1
+game 1
+netherlands 1
+structuring 1
+scheme 1
+dependability 1
+supervisory 1
+emergence 1
+ib 1
+anti-terrorism 1
+loss 1
+lincoln 1
+subsequent 1
+kennedy 1
+co. 1
+manual 1
+comparability 1
+specific 1
+collect 1
+officer 1
+filstead 1
+webb 1
+wyoming 1
+superintendent 1
+deal 1
+www.gao.gov 1
+reclamation 1
+privatization 1
+note-taking 1
+growth 1
+election 1
+jill 1
+escape 1
+home 1
+questionnaire 1
+gao/rced-86-6 1
+ain 1
+combat 1
+delaware 1
+hrd-82-69 1
+causal 1
+exit 1
+gao/pemd-87-4b 1
+innovation 1
+lazarsfeld 1
+crosstabulation 1
+mode 1
+pressman 1
+arrow 1
+gao/pemd-84-6 1
+equivalent 1
+processing 1
+tdd 1
+dahmann 1
+substitution 1
+ced-82-75 1
+alkin 1
+anything 1
+industry 1
+violence 1
+graduation 1
+adequacy 1
+immediacy 1
+nothing 1
+isn't 1
+insufficient 1
+jacques 1
+detente 1
+arieh 1
+same-agency 1
+promise 1
+determine 1
+narration 1
+amsterdam 1
+high-communication 1
+gao/hrd-85-42 1
+clustering 1
+on-paper 1
+hew 1
+support 1
+stenhouse 1
+submit 1
+class 1
+redirection 1
+threat 1
+downey 1
+data-reduction 1
+brandt 1
+function 1
+jones 1
+economics 1
+form 1
+diligence 1
+instrument 1
+mccutchan 1
+immigration 1
+bulmer 1
+delivery 1
+heat 1
+authority 1
+subsidiary 1
+glazer 1
+ha 1
+mintzberg 1
+volume 1
+chronology 1
+society 1
+theforest 1
+a-76 1
+exploration 1
+rowman 1
+dittman 1
+lofland 1
+interval 1
+ad 1
+inadequate 1
+engineering 1
+organizational 1
+visa 1
+self-protection 1
+nw 1
+menu 1
+supplementing 1
+often-and 1
+mulhauser 1
+node 1
+congress 1
+worker 1
+outreach 1
+partiality 1
+restoration 1
+intent 1
+coverage 1
+requester 1
+psychology 1
+catchment 1
+land 1
+resolution 1
+sounder 1
+gao/rced-86-21 1
+narrative 1
+adam 1
+cadillacs 1
+validation 1
+starting 1
+wastewater 1
+
+ Arbitary length NP 
+u.s. general accounting office 50
+gao/pemd-91-10.1.9 case study evaluation 37
+american educational research association 5
+emergency job appropriation act 5
+state evaluation network newsletter 3
+gao/pemd-91-10.1.9 case study evaluation u.s. general accounting office 3
+u.s. government printing office 3
+high/scope educational research foundation 3
+chris h. national home start evaluation study 2
+head start planned variation 2
+gao/pemd-91-10.1.9 case study evaluation method 2
+specific problem-for decisive testing 2
+jean lafitte national historical park 2
+are case study appropriately 2
+address correction requested bulk rate postage 1
+u.s. general accounting office p.o 1
+gao/pemd-91-10.1.9 case study evaluation maryland 1
+major unresolved issue remain 1
+sea island comprehensive health care corporation 1
+dod's joint test-and-evaluation program provides few credible answer 1
+franklin c. fetter family health center 1
+national home start evaluation study 1
+gao/pemd-91-10.1.9 case study evaluation tabulating event frequency 1
+question example characteristic a 1
+improved telephone accessibility would better serve 1
+evaluation research society newsletter 1
+cluster representative typical special 1
+national park service action 1
+robert e. federal initiative 1
+corporate income tax alabama 1
+gao/pemd-91-10.1.9 case study evaluation internal validity 1
+case study report design 1
+u.s. general accounting officewashington 1
+common benefit expected from case study evaluation 1
+delaware water gap national recreation 1
+budget circular a-76 program 1
+robert k. case study research 1
+relation between educational research paradigm 1
+case study report impartiality 1
+gao/pemd-91-10.1.9 case study evaluation philadelphia inquirer 1
+difference that quality make 1
+case study report abbreviation chapter 1
+gao/pemd-91-10.1.9 case study evaluation appendix iii guideline 1
+policy eleanor chelimsky assistant comptroller general 1
+six case study show claim 1
+gao/pemd-91-10.1.9 case study evaluation examining 1
+data collection data analysis 1
+time series analysis organization 1
+gao/pemd-91-10.1.9 case study evaluation jick 1
+gao/pemd-91-10.1.9 case study evaluation general accounting office 1
+glossary backfill technique technique 1
+state income tax return table iii.1 1
+case study report yes no 1
+case study evaluation impartiality 1
+lakechelan national recreation area 1
+corporate income tax return 1
+case study evaluation • 1
+common benefit expected from case study evaluation study 1
+j. analyzing social setting 1
+social science research council bulletin 1
+louise h. research method 1
+gao/pemd-91-10.1.9 case study evaluation rist 1
+thomas r. single subject research 1
+bay area research group 1
+gao/pemd-91-10.1.9 case study evaluation denzin 1
+iii.1 appendix iii guideline 1
+case study evaluation basic model 1
+john m. doing field research 1
+high-level federal official representing foreign interest 1
+robert e. case study method 1
+case study table ii.i 1
+career criminal program national evaluation 1
+gao/pemd-91-10.1.9 case study evaluation paul m. wortman 1
+social science research policy unit 1
+gao/pemd-91-10.1.9 case study evaluation graphic data display 1
+small school serving rural area 1
+evaluation study review annual 1
+fee paid gao permit no 1
+case study evaluation appendix iii guideline 1
+case study evaluation where 1
+from case study evaluation table 1
+gao/pemd-91-10.1.9 case study evaluation design 1
+major national evaluation study 1
+appendix ii site selection example question 1
+case study report table iii.1 1
+general accounting office washington 1
+werner grosshans assistant comptroller general office 1
+his government-required anti-terrorist training 1
+gao/pemd-91-10.1.9 case study evaluation overgeneralization 1
+barney g. theoretical sensitivity 1
+method summary table i.2 1
+analysis handling multisite data set 1
+gao/pemd-91-10.1.9 case study evaluation table 1
+gao/pemd-91-10.1.9 case study evaluation high/scope educational research foundation 1
+case study report data base formation 1
+synthesis can resolve better than single 1
+methodology content preface chapter 1

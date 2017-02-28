@@ -1,0 +1,126 @@
+
+ Bigram NP 
+last year 2
+bexar county 2
+legal hotline 1
+poor population 1
+legal assistance 1
+wide range 1
+positive move 1
+st. mary 1
+battered woman 1
+national organization 1
+local coordinator 1
+it fearless 1
+controversial advocacy 1
+central texas 1
+south texas 1
+legal arm 1
+his plan 1
+southwest texas 1
+san antonio 1
+same computer 1
+richard loza 1
+legal representation 1
+litigious style 1
+last week 1
+corpus christi 1
+good thing 1
+legal aid 1
+former executive 1
+diverse landscape 1
+super-sized law 1
+high impact 1
+their ability 1
+joyce coleman 1
+el paso 1
+david hall 1
+brendan gill 1
+
+ Trigram NP 
+analisa nazareno july 1
+val verde county 1
+rio grande valley 1
+legal service worker 1
+texas law school 1
+ku klux klan 1
+
+ Unigram NP 
+hall 8
+law 4
+merger 3
+director 3
+trla 3
+attorney 2
+number 2
+group 2
+staff 2
+board 2
+texas 2
+gill 2
+change 2
+name 2
+time 2
+organization 2
+firm 1
+representation 1
+september 1
+executive 1
+concern 1
+county 1
+elder 1
+clinic 1
+expertise 1
+lawyer 1
+controversy 1
+letterhead 1
+indigent 1
+access 1
+court 1
+network 1
+area 1
+ballot 1
+support 1
+bargaining 1
+absentee 1
+member 1
+state 1
+interview 1
+input 1
+technology 1
+territory 1
+issue 1
+leader 1
+correspondence 1
+pay 1
+commissioner 1
+someone 1
+congress 1
+shelter 1
+advice 1
+team 1
+counsel 1
+chance 1
+poverty 1
+unit 1
+end 1
+post 1
+training 1
+natalia 1
+university 1
+larger 1
+kentucky 1
+harlingen 1
+amount 1
+hope 1
+austin 1
+coleman 1
+making 1
+
+ Arbitary length NP 
+bexar county legal aid 3
+texas rural legal aid 2
+st. mary's university law school 1
+area legal aid entity merge 1
+family violence prevention service 1
+new 68-county legal aid 1

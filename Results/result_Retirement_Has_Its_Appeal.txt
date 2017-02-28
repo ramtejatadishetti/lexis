@@ -1,0 +1,157 @@
+
+ Bigram NP 
+his cousin 2
+70th birthday 1
+his trademark 1
+herbert hershfang 1
+important need 1
+full time 1
+initial reaction 1
+jack reilly 1
+cape cod 1
+sixtyfive percent 1
+wonderful job 1
+retired judge 1
+probate court 1
+their case 1
+carter ] 1
+right time 1
+intellectual experience 1
+legal community 1
+first case 1
+his response 1
+marital law 1
+same problem 1
+his presidency 1
+our court 1
+retirement ha 1
+foreign country 1
+judge ginsburg 1
+full-time venture 1
+executive director 1
+mandatory retirement 1
+red sox 1
+her program 1
+right idea 1
+legal merit 1
+federal poverty 1
+91-year-old lawyer 1
+[ ginsburg 1
+longtime friend 1
+meg connolly 1
+longfellow place 1
+new hampshire 1
+long-standing family 1
+lawyer @ 1
+other family 1
+former newton 1
+expert tapper 1
+
+ Trigram NP 
+boston municipal court 1
+volunteer lawyer project 1
+boston bar association 1
+thomas b. concannon 1
+expert legal service 1
+president jimmy carter 1
+offer legal aid 1
+
+ Unigram NP 
+ginsburg 9
+judge 5
+court 5
+day 4
+hershfang 3
+group 3
+family 3
+summer 2
+office 2
+month 2
+justice 2
+reilly 2
+wednesday 2
+divorce 2
+system 2
+case 2
+] 2
+concannon 2
+age 2
+help 1
+newton 1
+mayor 1
+retirement 1
+disconnect 1
+wayland 1
+program 1
+board 1
+personality 1
+lowell 1
+executive 1
+fan 1
+courtroom 1
+term 1
+january 1
+cachet 1
+vision 1
+force 1
+house 1
+idea 1
+andover 1
+individual 1
+lawyer 1
+year 1
+expert 1
+pattern 1
+everything 1
+cause 1
+[ 1
+region 1
+bow 1
+conversation 1
+amount 1
+place 1
+retired 1
+number 1
+date 1
+initiative 1
+custody 1
+city 1
+lot 1
+friend 1
+part 1
+demand 1
+effort 1
+aol.com 1
+guide 1
+resident 1
+boston 1
+influence 1
+weston 1
+someone 1
+something 1
+lifetime 1
+need 1
+pond 1
+information 1
+end 1
+agency 1
+voltaire 1
+diehard 1
+reality 1
+edge 1
+role 1
+director 1
+chance 1
+nothing 1
+law 1
+senior 1
+'been 1
+client 1
+model 1
+opportunity 1
+
+ Arbitary length NP 
+massachusetts continuing legal education inc 1
+middlesex county judge edward ginsburg 1
+appeal lawyer form group 1
+indigent client christine mcconville sunday 1

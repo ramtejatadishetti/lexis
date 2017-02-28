@@ -1,0 +1,73 @@
+
+ Bigram NP 
+community foundation 4
+nonprofit law 2
+legal community 2
+last year 2
+third year 1
+legal aid 1
+equal access 1
+new focus 1
+annual budget 1
+our community 1
+it impact 1
+gid smith 1
+their expertise 1
+short-term challenge 1
+greater memphis 1
+our funding 1
+
+ Trigram NP 
+memphis area legal 1
+nonprofit capacity building 1
+three-year fund-raising plan 1
+
+ Unigram NP 
+mals 6
+grant 5
+program 3
+foundation 3
+executive 2
+year 2
+firm 2
+director 2
+bridge 1
+help 1
+campaign 1
+trend 1
+money 1
+share 1
+number 1
+month 1
+growth 1
+crisis 1
+needy 1
+assistance 1
+agency 1
+performance 1
+analyze 1
+public 1
+match 1
+attention 1
+ability 1
+survival 1
+nashville 1
+effect 1
+drew 1
+commitment 1
+part 1
+plan 1
+census 1
+mals's 1
+october 1
+level 1
+drop 1
+justice 1
+fund-raising 1
+cfgm 1
+organization 1
+
+ Arbitary length NP 
+appeal memphis grant help optimize nonprofit 1
+aid community program deborah m clubb saturday 1
+harrison d. mciver iii 1

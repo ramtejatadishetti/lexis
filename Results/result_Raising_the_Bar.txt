@@ -1,0 +1,152 @@
+
+ Bigram NP 
+grand rapid 4
+legal aid 2
+general law 2
+corporate lawyer 1
+legal support 1
+michigan court 1
+michael chielens 1
+latin phrase 1
+necessary service 1
+good living 1
+their heart 1
+secure childhood 1
+poor side 1
+john cummiskey 1
+top priority 1
+legal circle 1
+other bar 1
+one-third reduction 1
+public good 1
+north carolina 1
+new courthouse 1
+small law 1
+hank bornheimer 1
+outstanding service 1
+jon muth 1
+full-time homemaker 1
+promising career 1
+trust building 1
+michael barnes 1
+his middle-class 1
+big law 1
+newt gingrich 1
+his schoolteacher 1
+thomas waalkes 1
+his influence 1
+mike barnes 1
+hard work 1
+carl verspoor 1
+federal funding 1
+low-income community 1
+legal service 1
+local attorney 1
+paul abrahamsen 1
+
+ Trigram NP 
+michigan legal service 3
+his first year 2
+central michigan university 1
+robert lalley jr. 1
+american bar association 1
+his own contribution 1
+free legal help 1
+michigan bar association 1
+donation robert lalley 1
+pro bono committee 1
+legal assistance center 1
+
+ Unigram NP 
+lalley 18
+law 7
+bar 7
+lawyer 6
+time 4
+wmls 3
+year 3
+money 2
+state 2
+school 2
+meeting 2
+firm 2
+president 2
+center 2
+job 2
+attorney 1
+old 1
+help 1
+office 1
+grant 1
+idea 1
+agent 1
+wife 1
+jest 1
+society 1
+everyone 1
+variety 1
+need 1
+partner 1
+fbi 1
+lansing 1
+quality 1
+co-founder 1
+exam 1
+ceremony 1
+management 1
+court 1
+wealth 1
+saginaw 1
+area 1
+justice 1
+behalf 1
+cutback 1
+labor 1
+access 1
+anything 1
+board 1
+way 1
+congress 1
+linda 1
+appeal 1
+michigan 1
+field 1
+family 1
+downtown 1
+collapse 1
+degree 1
+loss 1
+clerk 1
+practice 1
+upbringing 1
+award 1
+director 1
+meaning 1
+shortfall 1
+rotation 1
+day 1
+coordinator 1
+town 1
+kind 1
+kudos 1
+waalkes 1
+verspoor 1
+'50s 1
+university 1
+work 1
+side 1
+project 1
+liability 1
+organization 1
+model 1
+association 1
+playing 1
+halfway 1
+
+ Arbitary length NP 
+grand rapid bar association 2
+grand rapid press grand rapid 1
+his own public service 1
+michael s. barnes award 1
+western michigan legal service 1
+catholic central high school 1

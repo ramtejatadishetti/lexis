@@ -1,0 +1,106 @@
+
+ Bigram NP 
+equal access 2
+legal aid 2
+our board 2
+metropolitan chicago 1
+central issue 1
+whole board 1
+extraordinary leadership 1
+long-time member 1
+same time 1
+his work 1
+real challenge 1
+sheldon roodman 1
+his law 1
+excellent position 1
+complex litigation 1
+annual budget 1
+it money 1
+active role 1
+good person 1
+it work 1
+federal money 1
+private practice 1
+mr. hilliker 1
+past come 1
+
+ Trigram NP 
+free legal aid 1
+his first job 1
+legal assistance foundation 1
+reginald heber smith 1
+donald b. hilliker 1
+northwestern university school 1
+lawyer trust account 1
+pro bono committee 1
+legal service corp. 1
+his entire career 1
+
+ Unigram NP 
+hilliker 7
+foundation 4
+laf 4
+interest 3
+organization 3
+money 2
+year 2
+board 2
+justice 2
+roodman 2
+ability 1
+everyone 1
+lsc 1
+demand 1
+executive 1
+mission 1
+entity 1
+society 1
+zero 1
+fund-raising 1
+need 1
+partner 1
+market 1
+staff 1
+mcdermott 1
+cut 1
+funding 1
+service 1
+recruit 1
+addition 1
+system 1
+reality 1
+member 1
+importance 1
+state 1
+program 1
+formula 1
+worth 1
+stock 1
+firm 1
+way 1
+degree 1
+fellow 1
+practice 1
+fore 1
+director 1
+wake 1
+vise 1
+president 1
+law 1
+effort 1
+change 1
+term 1
+census 1
+january 1
+work 1
+chairman 1
+emery 1
+will 1
+distribution 1
+economy 1
+order 1
+
+ Arbitary length NP 
+chicago daily law bulletin donald hilliker step 1
+legal aid organization julia brunt september 1

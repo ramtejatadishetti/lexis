@@ -1,0 +1,201 @@
+
+ Bigram NP 
+u. s. 4
+first amendment 3
+governmental speech 2
+indigent client 2
+private speech 2
+independent bar 2
+statutory validity 2
+limited forum 2
+full advice 1
+impermissible viewpoint 1
+programmatic message 1
+current welfare 1
+supreme court 1
+judicial function 1
+vital respect 1
+constitutional scrutiny 1
+district court 1
+instant restriction 1
+independent judiciary 1
+fundamental restriction 1
+it program 1
+alternative source 1
+severe impairment 1
+truncated representation 1
+complete analysis 1
+lsc act 1
+legal system 1
+arkansas ed 1
+wis. system 1
+federal judiciary 1
+point-based funding 1
+substantial restriction 1
+private nature 1
+stark contrast 1
+it discretion 1
+the united 1
+attorney's advice 1
+vital information 1
+proper performance 1
+second circuit 1
+private expression 1
+constitutional authority 1
+same way 1
+dissenting opinion 1
+traditional role 1
+proper presentation 1
+it rationale 1
+their nature 1
+preliminary injunction 1
+insufficient basis 1
+instant speech 1
+local grantee 1
+judicial inquiry 1
+argued october 1
+nongovernmental speech 1
+generous understanding 1
+little doubt 1
+other counsel 1
+c. j. 1
+same court 1
+prudential judgment 1
+velazquez syllabus 1
+governmental message 1
+
+ Trigram NP 
+rosenberger v. rector 2
+it own program 1
+free legal assistance 1
+it usual functioning 1
+it own message 1
+velazquez et al 1
+u. s. ____ 1
+serious statutory validity 1
+legal service corporation 1
+
+ Unigram NP 
+lsc 13
+restriction 10
+government 10
+rust 6
+court 6
+attorney 5
+pp 5
+program 4
+welfare 4
+congress 4
+funding 3
+univ 3
+speech 2
+inter 2
+j. 2
+expression 2
+suit 2
+statute 2
+jj. 2
+va. 2
+alia 2
+challenge 2
+advocacy 2
+claim 2
+counseling 2
+v. 2
+representation 2
+client 2
+thomas 1
+concept 1
+supra 1
+souter 1
+fairness 1
+scalia 1
+litigation 1
+regent 1
+board 1
+latitude 1
+velazquez 1
+al. 1
+ginsburg 1
+8-12 1
+judiciary 1
+condition 1
+february 1
+d 1
+kennedy 1
+view 1
+o'connor 1
+reference 1
+result 1
+functioning 1
+decision 1
+comm'n 1
+legal 1
+state 1
+appeal 1
+public 1
+exercise 1
+patient 1
+circumstance 1
+extent 1
+c 1
+petitioner 1
+act 1
+opinion 1
+withdraws 1
+family 1
+stevens 1
+sullivan 1
+southworth 1
+message 1
+kind 1
+publication 1
+discrimination 1
+breyer 1
+adequacy 1
+subsidy 1
+syllabus 1
+regulation 1
+forbes 1
+way 1
+certiorari 1
+scheme 1
+cite 1
+medium 1
+broadcast 1
+determination 1
+effort 1
+behalf 1
+case 1
+television 1
+b 1
+instruction 1
+abortion 1
+matter 1
+restrictionharmless 1
+f. 1
+information 1
+united 1
+no 1
+corporation 1
+invalid 1
+instance 1
+speaker 1
+consultation 1
+province 1
+rehnquist 1
+advice 1
+effect 1
+purpose 1
+student 1
+law 1
+12-14 1
+rosenberger 1
+attempt 1
+organization 1
+order 1
+
+ Arbitary length NP 
+legal service corporation act 1
+certiorari to the united state court of appeal for the second circuit no 1
+syllabus legal service corporation 1

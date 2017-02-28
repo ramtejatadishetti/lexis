@@ -1,0 +1,95 @@
+
+ Bigram NP 
+migrant program 2
+legal help 2
+a street 2
+long-term plan 1
+last year 1
+basic program 1
+jose padilla 1
+santos gomez 1
+local funding 1
+central valley 1
+next year 1
+great honor 1
+poor community 1
+main funding 1
+federal government 1
+orange county 1
+ventura county 1
+social injustice 1
+my life 1
+statewide organization 1
+first building 1
+sole provider 1
+worker-related aid 1
+former justice 1
+long-term presence 1
+new endeavor 1
+statewide director 1
+
+ Trigram NP 
+california supreme court 1
+one-stop legal service 1
+
+ Unigram NP 
+organization 11
+building 9
+oxnard 5
+community 5
+center 5
+farm 4
+padilla 4
+office 3
+justice 3
+money 2
+house 2
+county 2
+gomez 2
+reynoso 2
+group 2
+service 2
+labor 2
+program 2
+part 2
+model 2
+purchase 2
+attorney 1
+facility 1
+loan 1
+share 1
+idea 1
+migrant 1
+year 1
+rest 1
+decade 1
+information 1
+family 1
+space 1
+assistance 1
+intention 1
+provider 1
+latino 1
+dialogue 1
+worker 1
+immigration 1
+mission 1
+crla 1
+poverty 1
+ownership 1
+mortgage 1
+article 1
+apart 1
+professor 1
+example 1
+project 1
+housing 1
+block 1
+
+ Arbitary length NP 
+california rural legal assistance 4
+it migrant-worker legal assistance 1
+uc davis law school 1
+jose cardenas time staff writer december 1
+cruz reynoso justice center 1
+channel county legal service 1

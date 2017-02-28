@@ -1,0 +1,492 @@
+
+ Bigram NP 
+postal service 29
+rural delivery 22
+possible delivery 16
+rural route 11
+rural carrier 10
+docket r90-1 7
+universal service 6
+first quintile 6
+average number 5
+actual labor 5
+average revenue 4
+possible city 4
+standard deviation 4
+average bargaining 4
+postal system 4
+evaluated time 3
+average city 3
+average labor 3
+populated quintile 3
+postal operation 2
+rural vehicle 2
+total number 2
+postal labor 2
+total cost 2
+united nation 2
+comprehensive statement 2
+rural box 2
+new york 2
+rural mail 2
+retail service 2
+ubiquitous service 2
+total city 2
+residential delivery 2
+their post 2
+serve city 2
+attributable cost 2
+census bureau 2
+urban delivery 1
+recent analysis 1
+wide variation 1
+recommended decision 1
+ongoing work 1
+national report 1
+t value 1
+their cost 1
+extensive list 1
+overall surplus 1
+out-of-office delivery 1
+real difference 1
+-rural delivery 1
+certain city 1
+constant elasticity 1
+sizeable deficit 1
+social affair 1
+general population 1
+average time 1
+average profit 1
+many deliver 1
+national total 1
+same direction 1
+appendix f. 1
+curbline city 1
+-the cost 1
+similar edit 1
+see footnote 1
+direct labor 1
+international economic 1
+certain labor 1
+foot route 1
+virtual equality 1
+standard time 1
+independent estimate 1
+postal monopoly 1
+-27.45 percent 1
+postal rate 1
+actual cost 1
+different route 1
+usps delivery 1
+relevant data 1
+previous section 1
+further analysis 1
+overnight delivery 1
+important factor 1
+residential route 1
+curbside delivery 1
+total labor 1
+collective bargaining 1
+different delivery 1
+their compensation 1
+great deal 1
+large percentage 1
+our attention 1
+average length 1
+functional equivalent 1
+rate commission 1
+-the transaction 1
+total time 1
+corresponding time 1
+federal express 1
+technical analysis 1
+in-office costs.13 1
+it time 1
+attributable cost28 1
+close proximity 1
+appendix f 1
+ten percent 1
+daily vehicle 1
+routine cost 1
+large difference 1
+delivered piece 1
+major explanation 1
+early version 1
+annual salary 1
+city delivery 1
+-78.60 percent 1
+other city 1
+direct comparison 1
+annual profit 1
+small post 1
+out-of-office time 1
+large office 1
+important effect 1
+efficient form 1
+separate labor 1
+cost-per-piece basis 1
+many city 1
+parcel post 1
+-the revenue 1
+appendix d 1
+selective averagesa 1
+new england 1
+actual compensation 1
+their level 1
+per box 1
+six-day-a-week delivery 1
+1-the revenue 1
+other hand 1
+small difference 1
+it city 1
+low end 1
+their route 1
+recent rate 1
+ordinary rate 1
+different composition 1
+profitable volume 1
+complex issue 1
+rural service 1
+monitoring report 1
+planning july 1
+population division 1
+full-time city 1
+urban locations.5,6,7 1
+usps fy 1
+detailed comparison 1
+major finding 1
+fifth quintile 1
+residential city 1
+same revenue 1
+third type 1
+2-rural delivery 1
+weight report 1
+
+ Trigram NP 
+national mail count 4
+average possible delivery 2
+see appendix a 2
+postal rate commission 2
+rural area table 2
+daily evaluated time 1
+rural delivery route 1
+business all businessb 1
+-the average city 1
+carrier time required 1
+in-office cost system 1
+prc library reference 1
+recent omnibus rate 1
+dr. john haldi 1
+their total profit 1
+usps city delivery 1
+estimated daily vehicle 1
+see appendix c. 1
+average annual cost 1
+docket r90-1 opinion 1
+see appendix b 1
+world population trend 1
+carrier cost system 1
+mixed rural park 1
+united parcel service 1
+total residential delivery 1
+unsubsidized postal system 1
+average attributable cost27 1
+-the total loss 1
+total annual profit 1
+city delivery all 1
+major long distance 1
+their total time 1
+evaluated rural route 1
+it simple structure 1
+population density a 1
+data source a.1 1
+their per- box 1
+
+ Unigram NP 
+city 57
+cost 55
+delivery 48
+box 34
+percent 30
+time 29
+carrier 23
+mail 21
+labor 18
+service 18
+route 17
+density 16
+day 16
+piece 15
+paper 11
+business 11
+vehicle 11
+united 11
+mile 9
+profit 9
+section 9
+profitability 9
+population 9
+volume 8
+difference 6
+comparison 6
+work 6
+analysis 6
+model 6
+requirement 5
+contract 5
+revenue 5
+respect 5
+percentage 5
+elasticity 5
+quintile 5
+loss 4
+mean 4
+line 4
+b 4
+compensation 4
+curb 4
+week 4
+letter 4
+foot 4
+average 4
+relation 3
+nondelivery 3
+factor 3
+d 3
+level 3
+fuel 3
+table 3
+transportation 3
+variability 3
+processing 3
+c 3
+census 3
+cc 3
+total 3
+figure 3
+basis 3
+system 3
+function 3
+maintenance 3
+hour 3
+e.g. 3
+receptacle 3
+information 3
+data 3
+usps-t-13 3
+order 3
+office 2
+residential 2
+proportion 2
+source 2
+employee 2
+number 2
+minute 2
+rate 2
+network 2
+case 2
+highway 2
+coefficient 2
+perception 2
+reason 2
+post 2
+remainder 2
+country 2
+alaska 2
+contribution 2
+allowance 2
+-city 2
+use 2
+scope 2
+building 2
+remark 2
+part 2
+e 2
+account 2
+distribution 2
+example 2
+year 2
+sample 2
+six 2
+revenue/cost 2
+a 2
+telephone 2
+rural 2
+fact 2
+rating 1
+bush 1
+fy 1
+surplus 1
+areas22 1
+september 1
+money 1
+-it 1
+deliveries,10 1
+detail 1
+course 1
+shape 1
+minute.14,15 1
+october 1
+costing 1
+impact 1
+ratio 1
+truism 1
+curbline 1
+point 1
+contractor 1
+firm 1
+costs.25 1
+do 1
+dec. 1
+parcel 1
+dependent 1
+exception 1
+piece13.24 1
+finding 1
+workload 1
+background 1
+press 1
+explanatory 1
+pearson 1
+resource 1
+edit 1
+h 1
+differential 1
+w/s 1
+summary 1
+contrast 1
+release 1
+output 1
+mean.20 1
+page 1
+development 1
+drop 1
+force 1
+allowance.18 1
+-266.22 1
+result 1
+a.2 1
+indirect 1
+balance 1
+living 1
+scale 1
+proceeding 1
+f-8 1
+subclass 1
+increase 1
+bureau 1
+billion.32 1
+intersect 1
+profitability23,24 1
+simplifying 1
+evaluation 1
+-in 1
+agreement 1
+wisconsin 1
+belief 1
+accident 1
+payroll 1
+cb91-334 1
+differ 1
+deliveries11.5 1
+delivery11 1
+variation 1
+address 1
+quite 1
+change 1
+extreme 1
+derivation 1
+g 1
+package 1
+column 1
+fringe 1
+ups 1
+union 1
+whole 1
+family 1
+continuation 1
+l.4/l.5 1
+scale.31 1
+.30 1
+set 1
+motor 1
+unit 1
+denominator 1
+introduction 1
+support 1
+question 1
+occupancy 1
+-because 1
+commission 1
+assumption 1
+overhead 1
+minute.16 1
+relationship 1
+thus 1
+explanation 1
+minute.17 1
+usps-lr-f-342 1
+full-time 1
+spectrum 1
+policy 1
+input 1
+fifth 1
+logarithm 1
+accordance 1
+l.6/l.7 1
+air 1
+points.8,9 1
+depreciation 1
+perspective 1
+bearing 1
+-as 1
+l.1/l.6 1
+calculation 1
+household 1
+mind 1
+argument 1
+cluster 1
+minimum 1
+sense 1
+l.1/l.2 1
+pay 1
+postage 1
+priori 1
+roadside 1
+department 1
+l.7/l.4 1
+mileage 1
+description 1
+l.8/5.01 1
+delivery.1 1
+correlation 1
+effect 1
+collection 1
+statisticsa 1
+purpose 1
+route.19 1
+variable 1
+in-office 1
+class 1
+l.3/l.4 1
+hoursa 1
+salary 1
+bargaining 1
+portion 1
+quantity 1
+
+ Arbitary length NP 
+the universal service obligation 1
+city delivery national total report 1
+simple log- linear model 1
+direct labor plus vehicle cost 1
+investigation robert h. cohen william w. ferguson spyros s. xenakis postal rate commission office 1
+foot curb loop city residential 1
+demographically designated rural area 1
+delivery carrier data most 1
+city delivery carrier data 1
+.29 .37 .44 .53 .57 .44 thus 1
+delivery vehicle cost rural 1
+city item residential park 1
+total all foot curb loop total 1
+rural carrier national mail count 1

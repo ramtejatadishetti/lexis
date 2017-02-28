@@ -1,0 +1,709 @@
+
+ Bigram NP 
+primary care 11
+ideal test 8
+clinical practice 7
+high sensitivity 5
+screening test 5
+carbohydrate-deficient transferrin 3
+at-risk drinking 3
+j trauma 3
+high case 3
+werner m 3
+single question 3
+harmful drinking 3
+primary health 3
+problematic consumption 3
+psychiatric press 2
+other drug 2
+alcohol depend 2
+alcohol abuse 2
+aasland o 2
+acute intoxication 2
+davis l 2
+peter j 2
+sokol r 2
+martier s 2
+brief intervention 2
+clinical staff 2
+chronic alcohol 2
+adger h 2
+shortened version 2
+brooker c 2
+weissman m 2
+miller m 2
+leon a 2
+kufera ja 2
+williams j 2
+multiple screening 2
+acute alcohol 2
+general practice 2
+dsm-iv diagnosis 2
+mccabe c 2
+national institute 2
+walker l 2
+schellenberg f 1
+smith gh 1
+clinical care 1
+it success 1
+masked alcohol 1
+heck e. 1
+raymond a 1
+further evaluation 1
+spring w 1
+any ed 1
+audit > 1
+research staff 1
+joffe a 1
+hazardous drinking 1
+moderate specificity 1
+routine screening 1
+nicolet j-f 1
+successful implementation 1
+final aim 1
+dsm iii-r 1
+conventional versus 1
+guilt question 1
+low case 1
+morse r 1
+kreisberg j 1
+gentilello l 1
+prior health 1
+sparadeo f 1
+mayfield d 1
+ed staff 1
+pregnant clinic 1
+their blood 1
+repke j 1
+lowenstein s 1
+chinnis a 1
+burke t. 1
+emergency physician 1
+brief mast 1
+burman ml 1
+mean corpuscular 1
+kokotailo p 1
+christensen k 1
+fink a 1
+mcleod g 1
+unimpaired patient 1
+duggan a 1
+important subgroup 1
+alsafar j 1
+boyd-wickizer j 1
+non-dependent drinkers.36 1
+national council 1
+general health 1
+strain j 1
+wartman s. 1
+9-item version 1
+hall p. 1
+new instrument 1
+geriatric medicine 1
+tanner a 1
+white emergency 1
+reid a 1
+ja w 1
+computer-based screening 1
+positive test 1
+thompson m 1
+decrey h 1
+clinical impression 1
+desirable parameter 1
+brief saast 1
+international classification 1
+devera-sales a 1
+low income.17 1
+aspartate aminotransferase 1
+high specificity 1
+economic impact 1
+barry k. 1
+inadequate training 1
+practical test 1
+immediate feedback 1
+routine sequence 1
+naughton b 1
+aithal g 1
+minugh p 1
+bradley ka 1
+their cost 1
+further research 1
+early identification 1
+rivara f 1
+drunk-driver population 1
+minugh a 1
+three-sample test 1
+greene j 1
+moore aa 1
+limited alcohol 1
+warburg m 1
+dawson d 1
+ed.7 structured 1
+olfson m 1
+prenatal population 1
+kaplan h. 1
+hurt r 1
+amundsen a 1
+reynaud m 1
+alterman a 1
+volunteer staff 1
+beck jc 1
+yee a 1
+alternative screening 1
+first study 1
+screening procedure 1
+insufficient education 1
+sensitive test 1
+u.s. department 1
+taj n 1
+clinical tool 1
+thornes h 1
+female college 1
+new alcohol 1
+clifford p 1
+saliva alcohol 1
+their performance 1
+longabaugh r 1
+fulop g 1
+vinson dc 1
+patient self-report 1
+further testing 1
+bush b 1
+accurate test 1
+efficient approach 1
+koziol-mclain j 1
+willems j 1
+cherpitel c 1
+espi f 1
+reinhardt j 1
+perceived value 1
+considerable part 1
+gamma-glutamyl transferase 1
+adequate volume 1
+current use 1
+melle g 1
+burner m 1
+dsm-iii-r. washington 1
+major trauma 1
+heavy drinking 1
+broadhead w 1
+stand-alone screen 1
+medical history 1
+jurkovich g 1
+brickner p 1
+comparative value 1
+tzelepis a 1
+paris b 1
+icd-10 diagnosis 1
+hazardous/harmful drinking 1
+computerized format 1
+selzer m. 1
+problematic consumption.7 1
+inner-city population 1
+saliva testing 1
+woolard rh 1
+lengthy list 1
+efficacious research 1
+powell sh 1
+aalto m 1
+gastrointestinal bleeding 1
+acute illness 1
+collins m 1
+alanine aminotransferase 1
+self-reported drinking.7 1
+gale t 1
+sanson-fisher r 1
+multisite survey 1
+inadequate time 1
+specific alcohol 1
+stand-alone test.35 1
+pecoud a 1
+assaults,72 depression 1
+selzer m 1
+same test 1
+conventional alcohol 1
+poor morale 1
+smith g 1
+bernstein e 1
+current evidence 1
+bercsi s 1
+cyr m 1
+other consumption 1
+poor screen 1
+physical examination 1
+volpicelli j 1
+reid mc 1
+little sense 1
+diverse population 1
+fiellin da 1
+michigan alcoholism 1
+specific screen 1
+clinical judgement 1
+lifetime alcohol 1
+mental disorder 1
+sillanaukee p 1
+isaacson j 1
+second study 1
+criterion-oriented validation 1
+whelan g 1
+cleary p 1
+d'onofrio g 1
+american college 1
+vinokur a 1
+test performance 1
+wilkins r. 1
+sobel l 1
+sobel m 1
+hay rd 1
+large number 1
+becker b 1
+reduced risk 1
+loisequx-meunier m-n 1
+dwarakanath a 1
+babor t 1
+nirenberg td 1
+moran m 1
+martin s 1
+multi-center trial 1
+clinical analysis 1
+motivational screening 1
+high alcohol 1
+poor outcome 1
+smith d 1
+short n. 1
+past use 1
+several alcohol 1
+structured questionnaires.10 1
+butler r 1
+rydon p 1
+injured patient 1
+screening measure 1
+gibbon m 1
+redman s 1
+nurse documentation 1
+delbanco t 1
+ries rr 1
+systematic review 1
+md many 1
+gurney j 1
+gibb k 1
+miller b 1
+spitzer r 1
+systematic approach 1
+alcohol problem 1
+soderstrom ca 1
+different case 1
+ager j 1
+soderstrom c 1
+objective diagnosis 1
+further assessment 1
+bernstein j 1
+insensitive screen 1
+o'connor pg 1
+excessive alcohol 1
+additional staff 1
+first step 1
+early detection 1
+major limit 1
+social work 1
+zacharek m 1
+escobar f 1
+past year 1
+i. addiction 1
+russell m 1
+
+ Trigram NP 
+j stud alcohol 6
+acad emerg med 4
+am j psychiatry 4
+arch intern med 3
+ann emerg med 3
+mean corpuscular volume 2
+american psychiatric association 2
+am j med 2
+brief screening tool 2
+alcoholism screening test 2
+br j addict 1
+canteras m. diagnostic 1
+grant m. development 1
+cherpitel c. screening 1
+grant m. alcohol 1
+klas p. identifying 1
+rooijen m. a 1
+archer l. relative 1
+such low sensitivity 1
+west virginia chapter 1
+seppa k. carbohydrate-deficient 1
+barry k. a 1
+greene j. longitudinal 1
+their general impression 1
+practical prenatal detection 1
+o'brien p. discriminant 1
+cherpitel c. difference 1
+our own design 1
+welty t. difference 1
+clifford p. alcohol 1
+likely prompt referral 1
+cherpitel c. analysis 1
+alcohol problem screen 1
+broad demographic mix 1
+little additional intervention 1
+new diagnostic instrument 1
+further direct testing 1
+world health organization 1
+fillit h. identification 1
+gutman d. health 1
+structured clinical interview 1
+general medical clinic 1
+arch fam med 1
+important subgroups.41 evidence 1
+short n. problem 1
+who collaborative project 1
+south dakota journal 1
+saha d. alcohol 1
+vanderspeck r. relationship 1
+national criterion committee 1
+little additional training 1
+med j aust 1
+rasmussen r. alcoholism 1
+harmful alcohol consumption 1
+clark w. ethnic 1
+nih publication no 1
+michigan alcohol-screening test 1
+hughes s. screening 1
+cherpitel c. comparison 1
+j fam pract 1
+gibb k. serum 1
+j adolesc health 1
+cherpitel c. a 1
+aronson m. prevalence 1
+
+ Unigram NP 
+alcohol 70
+ed 47
+% 35
+cage 24
+use 24
+screening 23
+test 19
+abuse 18
+emergency 17
+audit 17
+drinking 16
+dependence 16
+al 14
+alcoholism 13
+problem 13
+tweak 12
+staff 10
+bac 10
+sensitivity 9
+department 8
+research 8
+patient 8
+screen 8
+care 8
+intoxication 8
+cut 7
+trauma 7
+risk 7
+consumption 7
+counseling 7
+cherpitel 6
+sequence 6
+detection 6
+raps4 6
+approach 6
+population 6
+niaaa 6
+lifetime 6
+center 6
+questionnaire 5
+study 5
+intervention 5
+breath 5
+room 5
+performance 5
+blood 5
+mast 5
+feedback 4
+lack 4
+impact 4
+implementation 4
+disorder 4
+jama 4
+point 4
+specificity 4
+computer 4
+spectrum 4
+trial 4
+bmast 4
+jr. 4
+accuracy 4
+addiction 4
+cdt 3
+presence 3
+program 3
+dc 3
+b 3
+level 3
+t-ace 3
+college 3
+concern 3
+net 3
+addition 3
+a 3
+binge 3
+question 3
+treatment 3
+self-report 3
+physician 3
+j 3
+analysis 3
+concentration 3
+information 3
+ideal 3
+effectiveness 3
+m 3
+curve 3
+protocol 2
+course 2
+group 2
+drinks/occasion 2
+evaluation 2
+combination 2
+practice 2
+transferrin 2
+yes/no 2
+ggt 2
+drinks/week 2
+depression 2
+interview 2
+brief 2
+gamma-glutamyltransferase 2
+identification 2
+analyzer 2
+accident 2
+drug 2
+guide 2
+washington 2
+risk-drinking 2
+operator 2
+score 2
+area 2
+icd-10 2
+interest 2
+function 2
+instrument 2
+motivational 2
+patient's 2
+advantage 2
+example 2
+process 2
+saast 2
+rap 2
+development 2
+stress 2
+age 2
+disease 2
+diagnosis 2
+validation 2
+impression 1
+dependence,42 1
+accurate 1
+trade 1
+clinic 1
+session 1
+frequency 1
+frail 1
+aspect 1
+alt 1
+adjustment 1
+dependence.37 1
+disorder.43 1
+alcohol-ism 1
+ease 1
+emphasis 1
+improvement 1
+j. 1
+van 1
+health 1
+fiellin 1
+do 1
+loss 1
+format 1
+question- 1
+.44 1
+opener 1
+g/dl 1
+three-question 1
+sequencing 1
+difference 1
+nurse 1
+ascertainment 1
+acute 1
+efficacy 1
+deficient 1
+gender 1
+performance.40 1
+manual 1
+registration 1
+follow-up 1
+race 1
+isolation 1
+smast 1
+work 1
+england 1
+human 1
+bradley 1
+pregnancy 1
+intensity 1
+questionnaires.7 1
+usefulness 1
+abuse.5,36 1
+measurement 1
+laboratory 1
+morning 1
+capacity 1
+ast 1
+access 1
+case 1
+dsm 1
+provider 1
+drawn 1
+avoidance 1
+tolerance 1
+equivalent 1
+time.54,55 1
+variability 1
+profiling 1
+opening 1
+standard 1
+-10 1
+jr 1
+beginning 1
+d'onofrio 1
+onsite 1
+definition 1
+training 1
+interaction 1
+adolescent 1
+language 1
+disdain 1
+many 1
+transition 1
+guilty 1
+survey 1
+context 1
+receiver 1
+consequence 1
+toxicology 1
+injury.9 1
+user 1
+patients.39 1
+gentilello 1
+platelet 1
+primary 1
+freshman 1
+hore 1
+medicine 1
+eye 1
+disinterest 1
+prevalence 1
+submit 1
+yersin 1
+reduction 1
+clinical 1
+brevity 1
+computer-should 1
+injury 1
+cyr 1
+testing 1
+form 1
+ed.10 1
+tool 1
+one-third 1
+volume 1
+outcome 1
+part 1
+setting- 1
+mcv 1
+translation 1
+two-question 1
+count 1
+anxiety 1
+characteristic 1
+efficiency.35 1
+value 1
+quest 1
+behavior 1
+behavioral 1
+biochemical 1
+country 1
+impracticality 1
+acculturation 1
+e.g. 1
+icd-9 1
+universal 1
+pessimism 1
+examine 1
+ed.7,8 1
+soderstrom 1
+ethnicity 1
+sdds-pc 1
+issue 1
+conduct 1
+patients.13 1
+school-age 1
+member 1
+majority 1
+setting 1
+recognition 1
+literature 1
+minority 1
+who 1
+driver 1
+variation 1
+outpatient 1
+cigarette 1
+develops 1
+iv2 1
+improving 1
+end 1
+comparison 1
+dependence.7 1
+promotion 1
+task 1
+attempt 1
+stereotypic 1
+disorder.5 1
+variety 1
+dependence.3 1
+annoyed 1
+person 1
+time 1
+occasion 1
+ambulatory 1
+clinician 1
+gain 1
+
+ Arbitary length NP 
+alcohol clin exp re 7
+alcohol use disorder identification test 5
+j gen intern med 3
+j am geriatr soc 2
+j am coll health 2
+arch pediatr adolesc med 2
+michigan alcoholism screening test 1
+brief michigan alcoholism screening test 1
+am j obstet gynecol 1
+am j emerg med 1
+alcohol problem robert woolard 1
+j consult clin psychol 1
+brief michigan alcohol screening test 1
+short michigan alcoholism screening test 1
+int j nurs stud 1
+northern plain indian reservation 1
+rapid alcohol assessment screen 1
+morse r. self-administered alcoholism 1
+de la fuente j 1

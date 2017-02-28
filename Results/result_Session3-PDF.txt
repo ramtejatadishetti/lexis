@@ -1,0 +1,1393 @@
+
+ Bigram NP 
+brief intervention 27
+primary care 27
+gentilello lm 6
+j trauma 6
+rivara fp 5
+bernstein j 5
+bernstein e 5
+alcohol alcohol 5
+severe alcohol 5
+cherpitel cj 5
+teachable moment 5
+his study 4
+national survey 4
+maio rf 4
+d'onofrio g 4
+miller wr 4
+soderstrom ca 4
+systematic review 4
+new york 4
+dyehouse jm 4
+motivational interviewing 4
+donovan dm 4
+dunn cw 3
+urgent care 3
+barry kl 3
+zink bj 3
+blow fc 3
+chang g 3
+mental status 3
+brief alcohol 3
+future research 3
+their drinking 3
+u.s. department 3
+great deal 3
+physician behavior 3
+ann surg 3
+clifford pr 2
+emergency physician 2
+many risk 2
+howe sr 2
+recommended screening 2
+young adult 2
+general nursing 2
+clinical practice 2
+degutis lc 2
+their alcohol 2
+astrachan bm 2
+moran l 2
+medical treatment 2
+nirenberg td 2
+guilford press 2
+fast-paced environment 2
+alcohol problem 2
+west virginia 2
+hill em 2
+project match 2
+important outcome 2
+project assert 2
+dinh-zarr t 2
+medical care 2
+chick j 2
+large number 2
+same time 2
+other hand 2
+diclemente cc 2
+craig sa 2
+first step 2
+wide range 2
+lloyd g 2
+physician advice 2
+kern tj 2
+meyrick m 2
+standard practice 2
+screening procedure 2
+lemmink j 2
+manwell lb 2
+first question 2
+diguiseppi c 2
+spontaneous remission 2
+becker b 2
+mccarthy m 2
+motivational enhancement 2
+brewer pa 2
+jurkovich gj 2
+small business 2
+heitman e 2
+dischinger pc 2
+marital therapy 2
+follow-up visit 2
+single intervention 2
+johnson k 2
+wright s 2
+early intervention 2
+alcohol-related motor 2
+controlled trial 2
+woolard rh 2
+o'connor r 2
+internal medicine 2
+medical education 2
+mean score 2
+alcohol-related trauma 2
+alcoholic anonymous 2
+russlee ac 2
+unique opportunity 2
+important role 1
+recent survey 1
+mary dufour 1
+samet jh 1
+gurney jg 1
+mccullough d 1
+stocking cb 1
+valid intervention 1
+critical end 1
+level staff 1
+initial period 1
+final report 1
+alcohol use 1
+ultimate effectiveness 1
+medical practice 1
+two-week follow-up 1
+healthcare research 1
+auerbach di 1
+chin mh 1
+problematic alcohol 1
+transtheoretical model 1
+hazardous level 1
+real challenge 1
+trauma population 1
+kreuter mw 1
+strecher vj 1
+longabough r 1
+same physician 1
+standard control 1
+heeren t 1
+minugh a 1
+intensive intervention 1
+directive treatment 1
+same result 1
+many problem 1
+olsen cg 1
+misguided attempt 1
+gordon lt 1
+minor injury 1
+appropriate referral 1
+edward bernstein 1
+improving health 1
+motivational intervention 1
+company production 1
+small change 1
+dangerous behaviors-and 1
+ries r 1
+appropriate alcohol 1
+patient progress 1
+other funding 1
+your alcohol 1
+mazmanian p 1
+high trait 1
+influential factor 1
+behavioral risk 1
+recent study 1
+medical setting 1
+her project 1
+extended treatment 1
+smith g 1
+zimmerman gl 1
+rhodes kv 1
+their role 1
+jaffe aj 1
+saitz r 1
+cupples la 1
+davis da 1
+powerful event 1
+severe problem 1
+exact intervention 1
+ideal world 1
+first challenge 1
+patient readiness 1
+preliminary screen 1
+their use 1
+baby boom 1
+at-risk drinking 1
+patient-centered alcohol 1
+six-month follow-up 1
+alcohol-related emergency 1
+daranciang e 1
+follow-up contact 1
+his sense 1
+reyna tm 1
+gail d'onofrio 1
+injury control 1
+her belief 1
+single session 1
+professional resistance 1
+doctoral-level psychologist 1
+fuller mg 1
+late time 1
+added cost 1
+empirical testing 1
+hollis mw 1
+dailey jt 1
+substance abuse 1
+porter jm 1
+continuous quality 1
+good news 1
+trained professional 1
+our inquiry 1
+md excessive 1
+significant policy 1
+drug screening 1
+linear method 1
+brief monitoring 1
+wirtz pw 1
+other emergency 1
+residential treatment 1
+captive audience 1
+follow-up study 1
+phd reducing 1
+measurable blood 1
+american emergency 1
+monti pm 1
+their research 1
+effective treatment.42 1
+fast pace 1
+charles bombardier 1
+six-month follow 1
+ronald maio 1
+critical defining 1
+brief negotiation 1
+limited time 1
+significant assistance 1
+inconclusive evidence 1
+integral part 1
+readiness-to-change instrument 1
+sullivan lm 1
+difficult part 1
+guohua li 1
+* presenter 1
+readiness scale 1
+scientific question 1
+their manuscript 1
+carlo diclemente 1
+inpatient trauma 1
+colby sm 1
+rode s 1
+new study 1
+carroll k 1
+schottenfeld r 1
+other risk 1
+davis d 1
+davis k 1
+hospers hj 1
+computer-based screening 1
+individualized feedback 1
+feasible program 1
+robert lowe 1
+important issue 1
+his research 1
+large expectation 1
+hurley tg 1
+first visit 1
+our thinking 1
+real life 1
+scalea tm 1
+injured crash 1
+evaluate fidelity 1
+hemphill c 1
+fligner cl 1
+other problem 1
+hoffman r 1
+many treatment 1
+drummond d 1
+bien th 1
+levenson sm 1
+immediate entry 1
+hodgkin dc 1
+intensive treatment 1
+natural history 1
+brief workbook 1
+motivational level 1
+notre dame 1
+medical emergency 1
+weissberg mp 1
+copass m. 1
+gorelick da 1
+graham dm 1
+multiple health 1
+severe dependence 1
+national sample 1
+current situation 1
+hodgson rj 1
+current practice 1
+phase ii 1
+excessive drinking 1
+computer-based intervention 1
+additional treatment 1
+liver disease 1
+seguin d 1
+few exceptions.29,30 1
+howard g 1
+medical condition 1
+herman diesenhaus 1
+primary health 1
+eligible patients.19 1
+proven alcohol 1
+interactive computer 1
+walsh dc 1
+alcohol-positive older 1
+adverse consequence 1
+successful connection 1
+nurse workforce 1
+kufera ja 1
+lauderdale d 1
+data collection 1
+risky behaviors.20,32,33 1
+specific intervention 1
+scientific community 1
+much attention 1
+efficient intervention 1
+alcohol-specific intervention.18 1
+tonigan j 1
+continuous care 1
+walter mc 1
+17-year-old group 1
+previous research 1
+chaotic nature 1
+vicious cycle 1
+low end 1
+injured patient 1
+clinical trial 1
+duggan p 1
+their visit 1
+alcohol-related morbidity 1
+buerhaus pi 1
+goldfrank lr 1
+hired staff 1
+elinor walker 1
+short-term memory 1
+potential opportunity 1
+taylor-vaisy a 1
+change behavior 1
+seminal interest 1
+drug problem 1
+their practice 1
+minimal intervention 1
+multi-site effectiveness 1
+silver bullet 1
+primary screen 1
+gordon smith 1
+new setting 1
+weil u 1
+addiction behavior 1
+social science 1
+successful referral 1
+tesh e 1
+their paperwork 1
+original goal 1
+sobel mb 1
+friedman pd 1
+post-treatment period 1
+physician/patient interaction 1
+freemantle n 1
+multiple risk 1
+kristen barry 1
+significant change 1
+mcduff dr 1
+successful dissemination 1
+recent review 1
+individual patient 1
+hazardous drinker 1
+state-of-the-art article 1
+singer km 1
+public health 1
+senior emergency 1
+waller pf 1
+first contact 1
+post-discharge follow-up 1
+her readiness 1
+normal drinker 1
+post-discharge period 1
+effective intervention 1
+strong evidence 1
+brief health 1
+rounsaville b 1
+certain proportion 1
+alcoholic client 1
+other health 1
+exact time 1
+several emergency 1
+which provider 1
+hazardous drinking 1
+daniel hungerford 1
+further research 1
+different way 1
+public hospital 1
+billable service 1
+our research 1
+abuse evaluation 1
+new technology 1
+her prevention 1
+epstein ee 1
+heather n 1
+separate protocol 1
+heavy drinking 1
+high risk 1
+oxman ad 1
+mitchell ka 1
+prochaska jo 1
+post-discharge contact 1
+minugh pa 1
+appropriate time 1
+longabaugh r 1
+treat-able disease 1
+fatal disease 1
+jordan ml 1
+denboer dj 1
+feasible referral 1
+chronic alcohol 1
+initial contact 1
+ed bernstein 1
+particular setting 1
+their injury 1
+madden c 1
+appropriate venue 1
+psychological science 1
+dewey ke 1
+todd kh 1
+sophisticated research 1
+ockene jk 1
+self-change treatment 1
+legal aspect 1
+full advantage 1
+ed-based brief 1
+residential substance 1
+urban health 1
+diamond dl 1
+adam a 1
+tertiary care 1
+gurman a 1
+interactive voice 1
+medical center 1
+in-depth assessment 1
+zuska jj 1
+average reduction 1
+drunken driving 1
+hulsebus rc 1
+skinner c 1
+shepherd jp 1
+large challenge 1
+recurrent injury 1
+easy assumption 1
+hebel jr 1
+unintentional injury 1
+alcohol-related harm 1
+bosworth mf 1
+heather n. 1
+upcoming chapter 1
+ideal place 1
+national health 1
+thomas babor 1
+dependent drinker 1
+it consequences.38 1
+medical problem 1
+net cast 1
+am fam 1
+short-lived effect 1
+staiger do 1
+alcohol-related event 1
+contact consisting 1
+wolf fm 1
+12-step approach 1
+well-controlled intervention 1
+patient openness 1
+mean reduction 1
+o'malley s 1
+their time 1
+r-03 program 1
+patient's perception 1
+anonymous session 1
+important technique 1
+david lewis 1
+treatable disease 1
+meyer re 1
+howe d 1
+brief report 1
+serum gamma 1
+arch surg 1
+consistent contact 1
+great importance 1
+jean shope 1
+initial visit 1
+dr. diclemete's 1
+dr. diclementi 1
+real world 1
+robert woolard 1
+critical health 1
+additional research 1
+prominent place 1
+her work 1
+sleeper effect 1
+dietary intake 1
+obrien mat 1
+extensive counseling 1
+her drinking 1
+nich c 1
+tollefson s 1
+ed-based intervention 1
+department-based screening 1
+peter monti 1
+follow-up phone 1
+haynes rb 1
+risky behavior 1
+joseph zuska 1
+new zealand 1
+cole fj 1
+mental health 1
+davise k 1
+babor tf 1
+delayed emergency 1
+patricia perry 1
+smith aj 1
+thamson ma 1
+real-time production 1
+interactive headphone 1
+his work 1
+clear evidence 1
+sanchez vc 1
+initial openness 1
+lifestyle change 1
+single case 1
+richard brown 1
+christopher dunn 1
+hungerford dw 1
+sobel lc 1
+harm reduction 1
+major injury 1
+kobrin sc 1
+motivational mechanism 1
+physician performance 1
+sizeable reduction 1
+legal responsibility 1
+important setting 1
+bennett be 1
+emergency medicine 1
+coffman ga 1
+cartwright akj 1
+cole tb 1
+traditional motivational 1
+alcohol-impaired drivers.41 1
+post-discharge alcohol 1
+non-injured harmful 1
+possible identification 1
+three-year follow-up 1
+raisys va 1
+second session 1
+psychoactive substance 1
+our help 1
+effective method 1
+barnett np 1
+whiteman pj 1
+marilyn sommers 1
+standard intake 1
+her group 1
+relative efficacy 1
+entire process 1
+intense scrutiny 1
+patient behavior 1
+computer-tailored smoking 1
+differential effect 1
+lowenstein sr 1
+american college 1
+rounsaville bj 1
+their impact 1
+merrigan dm 1
+seminal study 1
+armstrong sj 1
+pollock da 1
+alcohol-related problem 1
+positive effect 1
+serious shortage 1
+jacobson n 1
+risk-taking behavior 1
+female high-risk 1
+clinical intervention 1
+busy venue 1
+her study 1
+intensive day 1
+wheeler ev 1
+individualized plan 1
+prev med 1
+roizen mf 1
+her experience 1
+hingson rw 1
+12-month follow-up 1
+regular basis 1
+physician buy-in 1
+formal treatment 1
+strategic approach 1
+controlled chaos 1
+inpatient hospital 1
+second intervention 1
+basic research 1
+nursing staff 1
+
+ Trigram NP 
+acad emerg med 9
+ann emerg med 7
+academic emergency medicine 3
+dhhs publication no 2
+crombie e. counseling 2
+woolard r. injury 2
+j subst abuse 2
+london r. brief 2
+j stud alcohol 2
+sommers ms. brief 2
+arch gen psychiatry 2
+their primary care 2
+j addict dis 2
+br med j 2
+community-based primary care 2
+few formal follow-up 1
+bryant k. reporting 1
+br j addict 1
+lengthy follow-up period 1
+presentation gail d'onofrio 1
+primary health care 1
+other medical setting 1
+world health organization 1
+terry d. alcohol 1
+violence prevention committee 1
+gawin f. one-year 1
+change.3 actual ed 1
+his irb clearance 1
+touquet r. intervention 1
+same metropolitan area 1
+] south natick 1
+their new study 1
+referral ◆motivational enhancement 1
+harborview medical center 1
+unaided salutary effect 1
+hebert jr. brief 1
+tourquet r. intervention 1
+possible decreased delivery 1
+injury.3-10 several compelling 1
+general health-needs survey 1
+his second point 1
+randomized clinical trial 1
+dr. carlo diclemente 1
+nurse practitioner-delivered counseling 1
+j fam pract 1
+levinson w. better 1
+ulster med j 1
+cognitive behavioral therapy 1
+other medical settings.11 1
+enter appropriate treatment 1
+notre dame press 1
+dr. linda degutis 1
+their hazardous drinking 1
+grant m. project 1
+significant public health 1
+treatment improvement protocol 1
+recent evidence-based review 1
+other medical problem 1
+similar motivational intervention 1
+hand-held computerized screening 1
+15-minute ed-based intervention 1
+am j surg 1
+arch intern med 1
+single motivational interview 1
+many single-visit alcohol 1
+substance abuse treatment 1
+hospitalized trauma patient 1
+violent incident-facilitates intervention 1
+automated computerized screening 1
+phd* carl soderstrom 1
+saitz r. screening 1
+next logical step 1
+poikilainen k. effectiveness 1
+extensive motivational interview 1
+new york state 1
+
+ Unigram NP 
+alcohol 116
+emergency 114
+intervention 108
+ed 74
+drinking 60
+treatment 44
+department 41
+use 34
+problem 34
+setting 30
+injury 29
+% 29
+time 27
+research 26
+patient 25
+abuse 23
+trauma 21
+care 21
+substance 19
+study 19
+change 18
+visit 18
+health 18
+consumption 14
+type 13
+diclemente 13
+staff 13
+effect 13
+center 12
+variety 12
+risk 11
+control 11
+readiness 11
+screening 11
+efficacy 11
+jama 10
+practice 10
+need 10
+alcoholism 10
+advice 9
+number 9
+part 9
+barry 9
+reduction 9
+feedback 8
+trial 8
+family 8
+system 8
+brief 8
+technology 8
+evidence 8
+program 7
+process 7
+project 7
+motivation 7
+issue 7
+bac 7
+physician 7
+d'onofrio 7
+opportunity 7
+dependence 7
+support 7
+level 6
+group 6
+medicine 6
+sbi 6
+booster 6
+session 6
+implementation 6
+review 6
+importance 6
+addition 6
+severity 6
+follow-up 6
+discharge 6
+assessment 5
+re-injury 5
+compliance 5
+room 5
+interview 5
+responsibility 5
+help 5
+year 5
+training 5
+outcome 5
+seat 5
+connection 5
+conference 5
+literature 5
+protocol 5
+admission 5
+involvement 5
+interventionist 5
+al 5
+brown 4
+surgeon 4
+decrease 4
+hospital 4
+stage 4
+work 4
+figure 4
+information 4
+blood 4
+date 4
+response 4
+gender 4
+fidelity 4
+gentilello 4
+policy 4
+r-01 4
+message 4
+future 4
+letter 4
+perspective 4
+extent 4
+case 4
+behavior 4
+procedure 4
+prevention 4
+human 4
+provider 4
+range 4
+longabaugh 4
+role 4
+referral 4
+age 4
+soderstrom 4
+attribution 3
+none 3
+condition 3
+access 3
+new 3
+survey 3
+prevalence 3
+vehicle 3
+mortality 3
+agenda 3
+combination 3
+washington 3
+everyone 3
+society 3
+driving 3
+standard 3
+interaction 3
+promotion 3
+drinker 3
+size 3
+are 3
+spectrum 3
+concentration 3
+payment 3
+fact 3
+adherence 3
+smast 3
+bundling 3
+testing 3
+individual 3
+nature 3
+belt 3
+triage 3
+accident 3
+psychotherapy 3
+development 3
+model 3
+cherpitel 3
+couple 3
+question 3
+consultation 3
+abuse/dependence 3
+maintenance 3
+delivery 3
+intoxication 3
+ny 3
+lack 2
+month 2
+environment 2
+pilot 2
+presentation 2
+helmet 2
+cause 2
+team 2
+rate 2
+cost 2
+power 2
+degree 2
+component 2
+:93-104 2
+experience 2
+amount 2
+action 2
+motor 2
+bike 2
+call 2
+scope 2
+phone 2
+md 2
+mf 2
+challenge 2
+example 2
+nursing 2
+recovery 2
+baseline 2
+a 2
+goal 2
+report 2
+exclusion 2
+window 2
+return 2
+g/dl 2
+misuse 2
+association 2
+randomized 2
+university 2
+shortage 2
+mean 2
+status 2
+harm 2
+insurance 2
+funding 2
+robert 2
+rivara 2
+evaluation 2
+dunn 2
+difficulty 2
+re-admission 2
+place 2
+exam 2
+management 2
+privacy 2
+statement 2
+percentage 2
+morbidity 2
+target 2
+second 2
+mechanism 2
+effectiveness 2
+most 2
+volume 2
+observation 2
+m 2
+disease 2
+section 2
+fear 2
+impact 2
+factor 2
+dc 2
+detection 2
+intensity 2
+college 2
+result 2
+irb 2
+approach 2
+screen 2
+monitor 2
+drug 2
+context 2
+watkins 2
+direction 2
+worker 2
+smoking 2
+balance 2
+alcoholic 2
+telephone 2
+ivr 2
+crash 2
+denial 2
+grant 2
+week 2
+cessation 2
+necessity 2
+chang 2
+cycle 2
+weapon 2
+analysis 2
+client 2
+skill 2
+motivating 2
+success 2
+benefit 2
+authority 2
+venue 2
+recognition 2
+scale 2
+business 2
+confidence 2
+abstinence 2
+rationale 2
+presence 2
+:651-6 2
+failure 2
+education 2
+champion 2
+event 2
+motivator 2
+repeat 2
+stay 2
+tetanus 2
+coverage.51 1
+concept 1
+focus 1
+monti 1
+study.26 1
+competition 1
+content 1
+one-half 1
+disability 1
+gentillelo 1
+woman 1
+self-efficacy 1
+:1200-9 1
+practicing 1
+difference 1
+school 1
+list 1
+handout 1
+planning 1
+application 1
+cap 1
+force 1
+recidivism 1
+feasibility 1
+video 1
+enhancement 1
+depression 1
+index 1
+intervention.48 1
+assistance 1
+patient.35 1
+template 1
+nurse 1
+non-payment 1
+contrast 1
+body 1
+ggt 1
+ma 1
+understanding 1
+eergency 1
+bachelor 1
+consideration 1
+[ 1
+detoxification 1
+arena 1
+self-report 1
+precursor 1
+shift 1
+opiate 1
+implement 1
+pancreatitis 1
+regardless 1
+plenum 1
+:181-9 1
+total 1
+crisis 1
+everybody 1
+recurrence 1
+e.g. 1
+:21-40 1
+guideline 1
+anger 1
+cocaine 1
+:171-3 1
+sort 1
+door 1
+pooling 1
+site 1
+carrying 1
+must 1
+account 1
+:1409-16 1
+:2948-54 1
+recall 1
+recurrance 1
+appendage 1
+closing 1
+male 1
+history 1
+bennett 1
+sample 1
+caution 1
+partner 1
+counseling 1
+occur 1
+trials-who 1
+united 1
+discussion 1
+cadre 1
+risk-taking 1
+delay 1
+pure 1
+:989-94 1
+aging 1
+epidemiologic 1
+multitude 1
+mesh 1
+law 1
+third 1
+documentation 1
+life 1
+complexity 1
+non-cooperation 1
+addiction 1
+order 1
+houston 1
+essence 1
+paper 1
+committee 1
+rapport 1
+adolescence 1
+goal.1,2 1
+pharmacotherapy 1
+texas 1
+someone 1
+greater 1
+therapy 1
+half 1
+one 1
+provision 1
+rockville 1
+intervene 1
+glutamyl 1
+mode 1
+subset 1
+england 1
+generation 1
+idea 1
+concaine 1
+increase 1
+surprise 1
+sma 1
+refusal 1
+wisconsin 1
+u.s. 1
+reason 1
+marino 1
+likelihood 1
+advance 1
+service 1
+route 1
+appropriateness 1
+◆substance 1
+center6,7 1
+improving 1
+revolution 1
+hurdle 1
+quality 1
+:287-96 1
+facilitation 1
+district 1
+automobile 1
+priority 1
+boating 1
+assumption 1
+master 1
+national 1
+enforcement 1
+option 1
+geneva 1
+institution 1
+population 1
+b 1
+rebound 1
+matter 1
+:627-38 1
+illness 1
+clip 1
+inpatient 1
+substantial 1
+agency 1
+majority 1
+emphasis 1
+contact 1
+province 1
+self-change45 1
+multiple 1
+reality 1
+piggy-back 1
+panel 1
+interventions.43 1
+:1210-7 1
+rigor 1
+america 1
+diclementi 1
+medical 1
+sober 1
+prototypic 1
+refining 1
+hindrance 1
+co-factor 1
+phenomenon 1
+intervention.9,26,35,36 1
+acceptability 1
+availability 1
+menu 1
+proportion 1
+readmission 1
+employer 1
+identification 1
+awareness 1
+inclusion 1
+timing 1
+hours/day 1
+behavior.49,50 1
+activity 1
+frame 1
+surgery 1
+concern 1
+youth 1
+studies.1 1
+programs.37 1
+state 1
+score 1
+various 1
+progress 1
+ability 1
+subject 1
+science 1
+retirement 1
+hypothesis 1
+ja 1
+counselor 1
+prescription 1
+reverse 1
+many 1
+baltimore 1
+distress 1
+point 1
+period 1
+community 1
+self-esteem 1
+obstetrics-gynecology 1
+naltrexone 1
+acceptance 1
+creativity 1
+hitting 1
+dinh-zarr 1
+interest 1
+ph 1
+prototype 1
+sobriety 1
+volunteer 1
+sommers 1
+:817-25 1
+enrollment 1
+n 1
+:14-6 1
+defeatism 1
+exist 1
+drs 1
+p.3-24 1
+orientation 1
+shame 1
+programs.29,30 1
+at-risk 1
+in 1
+seattle 1
+:177-9 1
+cohort 1
+different 1
+government 1
+administration 1
+surveillance 1
+member 1
+o'malley 1
+modification 1
+reminder 1
+composition 1
+carroll,11,12 1
+columbia 1
+reporting 1
+driver 1
+program.21 1
+audit 1
+no 1
+position 1
+subgroup 1
+care.8 1
+clinic 1
+:1-12 1
+behavior.17 1
+irbs 1
+death 1
+:663-7 1
+providing 1
+field 1
+cage 1
+smith 1
+ideal 1
+improvement 1
+instrument 1
+book 1
+adoption 1
+input 1
+east 1
+format 1
+evaluate 1
+condemnation 1
+test 1
+emergence 1
+setting,20 1
+desire 1
+acute 1
+candidness 1
+:1039-45 1
+:58-62 1
+◆post-discharge 1
+deal 1
+include 1
+bacs 1
+recommendation 1
+duration 1
+home 1
+questionnaire 1
+sommer 1
+employment 1
+depart-ment1-5 1
+bottom 1
+decision 1
+magnitude 1
+meta-analysis 1
+referral.10 1
+bl 1
+step 1
+confrontation 1
+transpeptidase 1
+preventative 1
+noisy 1
+comparison 1
+limitation 1
+headsets19 1
+extension 1
+package 1
+immediacy 1
+messaging 1
+binge 1
+conceptualization 1
+communication 1
+profession 1
+:762-6 1
+administer 1
+chronic 1
+female 1
+hemphill 1
+attrition 1
+lesson 1
+breath 1
+computer 1
+transfer 1
+problem.2 1
+handbook 1
+editor 1
+way 1
+series 1
+interventions.25 1
+form 1
+motivational 1
+promote 1
+consent 1
+counsel 1
+consist 1
+characteristic 1
+:115-23 1
+astrachan 1
+hungerford 1
+piece 1
+r-21 1
+influence 1
+warning 1
+expertise 1
+groups.18,19 1
+campus 1
+casualty 1
+:209-13 1
+~30 1
+tip 1
+ed.12-17 1
+conclusion 1
+briefly 1
+mammography.18 1
+variation 1
+computerized 1
+and/or 1
+psychology 1
+tailored 1
+post-discharge 1
+titration 1
+patient's 1
+mast 1
+videocassette 1
+urgency 1
+
+ Arbitary length NP 
+maryland shock trauma center 2
+am j crit care 2
+saem substance abuse task force 2
+nurs clin north am 2
+levenson s. project assert 2
+alcohol clin exp re 2
+emergency setting carlo c. diclemente 1
+br j oral maxillofac surg 1
+robert wood johnson foundation 1
+j gen intern med 1
+u.s. government printing office 1
+j consult clin psychol 1
+j geriatr psychiatry neurol 1
+substance abuse task force 1
+emergency setting intervention ◆brief advice 1
+intervention screening evaluation referral counseling follow-up response 1
+soderstrom article kristen lawton barry 1
+general discussion richard longabaugh 1
+bull am coll surg 1

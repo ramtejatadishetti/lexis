@@ -1,0 +1,199 @@
+
+ Bigram NP 
+final rule 7
+open access 5
+substantial number 3
+interstate commerce 3
+federal register 3
+order no 3
+docket no 3
+electric energy 2
+public utility 2
+small business 2
+our inquiry 2
+same-time information 2
+cost-benefit analysis 1
+joint resolution 1
+mr. rezendes 1
+separate certification 1
+proposed rulemaking 1
+it field 1
+our assessment 1
+same time 1
+conduct pursuant 1
+available transmission 1
+separate report 1
+et seq 1
+senior attorney 1
+science issue 1
+major rule 1
+jr. chairman 1
+it submission 1
+non-discriminatory service 1
+wholesale power 1
+it certification 1
+our report 1
+separate transmission 1
+other statute 1
+commerce house 1
+same meaning 1
+undue prejudice 1
+third party 1
+explanatory statement 1
+our review 1
+chief counsel 1
+
+ Trigram NP 
+significant economic impact 3
+regulatory flexibility act 3
+paperwork reduction act 2
+small business act 2
+regulatory flexibility analysis 2
+agency action relevant 2
+independent regulatory agency 1
+it burden estimate 1
+natural resource united 1
+final regulatory flexibility 1
+victor s. rezendes 1
+federal power act 1
+initial regulatory flexibility 1
+representative bob frank 1
+forth significant information 1
+small business administration 1
+standard of conduct 1
+helen t. desaulniers 1
+
+ Unigram NP 
+commission 36
+rule 23
+reg 20
+fed 20
+information 17
+u.s.c 13
+oasis 10
+section 9
+collection 9
+omb 6
+sba 6
+title 5
+burden 5
+b 5
+gao/ogc-96-12 5
+may 5
+requirement 4
+c 4
+response 4
+certification 3
+transmission 3
+energy 3
+concern 3
+companion 3
+analysis 3
+code 2
+office 2
+§ 2
+term 2
+public 2
+conduct 2
+notice 2
+business 2
+standard 2
+april 2
+comment 2
+respect 2
+utility 2
+system 2
+rm95-9-000 2
+official 2
+iv 2
+ii 2
+need 2
+united 2
+i 2
+clearance 2
+transmitting 1
+512-4740 1
+jurisdiction 1
+pursuant 1
+staff 1
+tariff 1
+merchant 1
+executive 1
+practice 1
+b-271810.4 1
+report 1
+disadvantage 1
+resource 1
+commenter 1
+work 1
+senate 1
+competition 1
+frequency 1
+operation 1
+subject 1
+capacity 1
+access 1
+rec 1
+use 1
+estimate 1
+definition 1
+compliance 1
+act 1
+cc 1
+512-3841 1
+period 1
+clarity 1
+quality 1
+management 1
+publication 1
+rm94-7-001 1
+statement 1
+requirement's 1
+today 1
+addition 1
+gao 1
+determination 1
+iii 1
+accordance 1
+budget 1
+advocacy 1
+authorization 1
+nondiscriminatory 1
+h4397 1
+process 1
+december 1
+cong 1
+recovery 1
+agency 1
+department 1
+accuracy 1
+description 1
+gao/ogc-96-13 1
+reporting 1
+effect 1
+director 1
+meaning 1
+letter 1
+light 1
+stranded 1
+sale 1
+resale 1
+person 1
+order 1
+
+ Arbitary length NP 
+access same-time information system 2
+unfunded mandate reform act 2
+open access non-discriminatory transmission 1
+general counsel b-271810.3 may 1
+honorable frank h. murkowski chairman 1
+honorable elizabeth a. moler chair federal energy regulatory commission page 1
+honorable john d. dingell ranking minority member committee 1
+executive order administrative procedure act 1
+a major rule issued by the federal energy regulatory commission entitled 1
+gao/ogc-96-12 enclosure analysis under 1
+open access same-time information system 1
+robert p. murphy general counsel enclosure 1
+federal energy regulatory commission 1
+honorable j. bennett johnston ranking minority member committee 1
+honorable thomas j. bliley 1

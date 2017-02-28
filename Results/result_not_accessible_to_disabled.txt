@@ -1,0 +1,100 @@
+
+ Bigram NP 
+justice department 4
+legal aid 2
+gary allenbrand 1
+148-unit complex 1
+loren drew 1
+ridgeview apartment 1
+their work 1
+kansa city 1
+ridgeview road 1
+civil engineer 1
+high priority 1
+dominium olathe 1
+insufficient space 1
+384-unit complex 1
+meadow apartment 1
+u.s. department 1
+dominium management 1
+michael norris 1
+second brought 1
+blois olson 1
+federal court 1
+dan margolies 1
+davis co. 1
+civil engineering 1
+whole process 1
+large apartment 1
+urban development 1
+our day 1
+
+ Trigram NP 
+fair housing act 2
+kansa city star 2
+black bob road 2
+porta-mccurdy development co. 1
+dominium kansa one 1
+nhg olathe partner 1
+homestead apartment home 1
+wyncroft hill apartment 1
+nationwide housing group 1
+summit contractor inc. 1
+
+ Unigram NP 
+housing 7
+suit 5
+olathe 5
+allenbrand-drews 4
+lnl 3
+street 3
+apartment 3
+firm 2
+court 2
+r.l 2
+department 2
+accessibility 2
+lawsuit 2
+inc. 2
+requirement 1
+everyone 1
+meadow 1
+clubhouse 1
+apr 1
+money 1
+ridgeview 1
+attorney 1
+general 1
+ii 1
+manager 1
+lawyer 1
+market 1
+spokesman 1
+area 1
+justice 1
+rental 1
+fri 1
+disability 1
+access 1
+statement 1
+party 1
+east 1
+kan. 1
+jury 1
+government 1
+may 1
+assistant 1
+company 1
+act 1
+remedy 1
+judge 1
+dominium 1
+order 1
+compensation 1
+architect 1
+missouri 1
+davis 1
+property 1
+
+ Arbitary length NP 
+ralph f. boyd jr. 1

@@ -1,0 +1,175 @@
+
+ Bigram NP 
+final rule 12
+occupational safety 4
+health administration 3
+respiratory protection 3
+regulatory action 1
+exposure reduction 1
+cost-benefit analysis 1
+major rule 1
+procedure act 1
+private sector 1
+final rulemaking 1
+regulatory affair 1
+ms. joyner 1
+our assessment 1
+protection pursuant 1
+labor page 1
+workforce house 1
+statutory authorization 1
+compensation act 1
+significant impact 1
+chronic respiratory 1
+small entity 1
+et seq 1
+federal register 1
+health act 1
+order no 1
+james vickers 1
+average burden 1
+harbor worker 1
+osha department 1
+cardiovascular disease 1
+our report 1
+general industry 1
+employment issue 1
+final respiratory 1
+statutory authority 1
+carlotta joyner 1
+osha-ordered study 1
+first year 1
+advanced notice 1
+public hearing 1
+executive order 1
+annual training 1
+economic analysis 1
+medical evaluation 1
+fit testing 1
+entire record 1
+our review 1
+intergovernmental mandate 1
+substantial number 1
+
+ Trigram NP 
+assistant general counsel 1
+other relevant information 1
+contract work hour 1
+paperwork reduction act 1
+safety standard act 1
+final economic analysis 1
+regulatory flexibility act 1
+annual fit testing 1
+small business administration 1
+osha state plan 1
+
+ Unigram NP 
+osha 11
+reg 9
+fed 9
+u.s.c 9
+labor 6
+office 5
+estimate 5
+year 5
+rule 5
+percent 5
+section 4
+information 4
+november 3
+protection 3
+b 3
+department 3
+title 2
+program 2
+january 2
+omb 2
+notice 2
+use 2
+industry 2
+compliance 2
+respirator 2
+management 2
+reduction 2
+budget 2
+oira 2
+iv 2
+rin 2
+education 2
+united 2
+agency 2
+act 2
+collection 2
+i 2
+analysis 2
+code 1
+administration 1
+executive 1
+selection 1
+human 1
+employee 1
+burden 1
+mandate 1
+report 1
+respiratory 1
+512-8210 1
+summary 1
+secretary 1
+work 1
+senate 1
+cost 1
+512-7014 1
+subject 1
+rulemaking 1
+state 1
+evaluation 1
+longshoring 1
+training 1
+g 1
+gao/ogc-98-24 1
+action 1
+whole 1
+comment 1
+repair 1
+cancer 1
+cc 1
+shipyard 1
+respect 1
+maintenance 1
+firm 1
+c 1
+gao 1
+construction 1
+iii 1
+ii 1
+accordance 1
+official 1
+record 1
+aversion 1
+control 1
+need 1
+discussion 1
+longshore 1
+description 1
+may 1
+june 1
+director 1
+cleaning 1
+transcript 1
+inhalation 1
+order 1
+comprise 1
+
+ Arbitary length NP 
+gao/ogc-98-24 executive order no 1
+honorable charles n. jeffress assistant secretary 1
+general counsel b-278931 january 1
+occupational safety and health administration entitled 1
+gao/ogc-98-24 enclosure analysis under 1
+honorable james m. jeffords chairman 1
+honorable edward m. kennedy ranking minority member committee 1
+a major rule issued by the department of labor 1
+honorable william f. goodling chairman 1
+robert p. murphy general counsel enclosure 1
+honorable william l. clay ranking minority member committee 1
+unfunded mandate reform act 1

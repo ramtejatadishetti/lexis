@@ -1,0 +1,201 @@
+
+ Bigram NP 
+microwave relocation 3
+federal register 3
+final rule 3
+secondary status 3
+cost-benefit analysis 2
+proposed rulemaking 2
+first report 2
+further notice 2
+final rulemaking 2
+statutory authorization 1
+full text 1
+private land 1
+such approval 1
+mr. anderson 1
+feasible number 1
+special consideration 1
+our assessment 1
+final analysis 1
+commission's rule 1
+unnecessary analysis 1
+public safety 1
+effective use 1
+complete copy 1
+industry-supported clearinghouse 1
+required report 1
+senior attorney 1
+legal basis 1
+special status 1
+major rule 1
+jr. chairman 1
+communication act 1
+efficient manner 1
+severe impact 1
+et seq 1
+expected impact 1
+our report 1
+our office 1
+transportation united 1
+supplementary information 1
+commerce house 1
+telecommunication issue 1
+public interest 1
+it submission 1
+our review 1
+chief counsel 1
+
+ Trigram NP 
+regulatory flexibility analysis 2
+independent regulatory agency 2
+wt docket no 2
+paperwork reduction act 2
+james w. vickers 1
+their public safety 1
+initial regulatory flexibility 1
+enclosure analysis under 1
+final regulatory flexibility 1
+relevant federal rule 1
+their own relocation 1
+administrative procedure act 1
+non-profit public utility 1
+john h. anderson 1
+of microwave relocation 1
+it regulatory flexibility 1
+federal communication commission 1
+personal communication service 1
+regulatory flexibility act 1
+executive order no 1
+other relevant information 1
+extended voluntary negotiation 1
+small business administration 1
+
+ Unigram NP 
+commission 23
+rule 20
+section 11
+u.s.c 8
+analysis 8
+information 7
+reg 5
+fed 5
+relocation 5
+b 5
+paragraph 5
+plan 5
+microwave 4
+date 4
+i 4
+f 3
+cost 3
+federal 3
+c 3
+act 3
+pc 3
+g 3
+iv 3
+agency 3
+gao/ogc-96-14 3
+order 3
+office 2
+title 2
+band 2
+amendment 2
+licensee 2
+r 2
+omb 2
+notice 2
+use 2
+agreement 2
+estimate 2
+comment 2
+period 2
+respect 2
+november 2
+type 2
+preparation 2
+spectrum 2
+ii 2
+collection 2
+fcc 2
+sunset 2
+code 1
+certification 1
+executive 1
+pursuant 1
+radio 1
+competition 1
+oversight 1
+burden 1
+report 1
+512-8210 1
+public 1
+mhz 1
+contain 1
+replacement 1
+status 1
+requirement 1
+work 1
+senate 1
+subject 1
+rulemaking 1
+interference 1
+internet 1
+avoidance 1
+evaluation 1
+participation 1
+transportation 1
+approval 1
+likelihood 1
+license 1
+compliance 1
+action 1
+commission's 1
+cc 1
+management 1
+publication 1
+addition 1
+system 1
+head 1
+gao 1
+authority 1
+review 1
+iii 1
+commerce 1
+512-2834 1
+accordance 1
+science 1
+official 1
+budget 1
+advocacy 1
+mobile 1
+prompt 1
+need 1
+technology 1
+conversion 1
+united 1
+ie 1
+equipment 1
+incumbent 1
+department 1
+conflict 1
+may 1
+june 1
+director 1
+attempt 1
+broadband 1
+
+ Arbitary length NP 
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+honorable larry pressler chairman 1
+first report and order and further notice of proposed rule making 1
+gao/ogc-96-14 executive order no 1
+honorable ernest f. hollings ranking minority member committee 1
+a major rule issued by the federal communication commission entitled amendment to the commission 1
+american public power association 1
+robert p. murphy general counsel enclosure 1
+general counsel b-271810.5 june 1
+mr. andrew s. fishel managing director federal communication commission page 1
+honorable thomas j. bliley 1

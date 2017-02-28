@@ -1,0 +1,1074 @@
+
+ Bigram NP 
+technical assistance 10
+high quality 10
+lsc board 8
+legal work 7
+national center 7
+new york 6
+program letter 5
+our work 5
+legal information 4
+new jersey 4
+world-class delivery 4
+orange county 3
+basic field 3
+cyber café 3
+equal justice 3
+past year 3
+puerto rico 3
+south dakota 3
+brief service 3
+advocate component 3
+private bar 3
+north dakota 3
+strategic direction 3
+legal assistance 3
+legal education 3
+equal opportunity 3
+state court 3
+new statewide 2
+our technology 2
+tig conference 2
+statewide program 2
+on-site program 2
+eligible client 2
+it capacity 2
+substantive poverty 2
+previous year 2
+civil justice 2
+west virginia 2
+closed case 2
+poverty law 2
+lsc staff 2
+legal research 2
+our country 2
+their delivery 2
+new configuration 2
+civil legal 2
+strategic planning 2
+private attorney 2
+executive leadership 2
+competition process 2
+statewide funding 2
+effective state 2
+lsc act 2
+information management 2
+third report 2
+south carolina 2
+diverse staff 2
+effective delivery 2
+lsc-funded program 2
+vice president 2
+equal access 2
+new mexico 2
+supreme court 2
+justice meeting 2
+many program 2
+our grant 1
+missouri bar 1
+effective representation 1
+major component 1
+experienced consultant 1
+public access 1
+substantive area 1
+their area 1
+our message 1
+great country 1
+tig staff 1
+coordinated fundraising 1
+their vision 1
+section xii 1
+new information 1
+ongoing contact 1
+public support 1
+powerful tool 1
+brief review 1
+national practice 1
+effective way 1
+grant award 1
+their utility 1
+underwrote assistance 1
+tig visit 1
+extended service 1
+their work 1
+president erlenborn 1
+overall planning 1
+society institute 1
+self-inspection certification 1
+new service 1
+additional knowledge 1
+primary strategy 1
+our grantee 1
+recent study 1
+referral information 1
+specialized expertise 1
+substantial assistance 1
+efficient use 1
+combined campaign 1
+direct result 1
+national committee 1
+their growth 1
+intake enhancement 1
+well-received panel 1
+delivery system 1
+related tax 1
+current process 1
+inexperienced staff 1
+four-year grant 1
+equitable service 1
+kick-off retreat 1
+substantial information 1
+national poverty 1
+lsc program 1
+first time 1
+democratic way 1
+national voice 1
+randi youells 1
+washington state 1
+jeanne charn 1
+pro se 1
+grant application 1
+legal community 1
+it focus 1
+facilitative assistance 1
+give advice 1
+similar merger 1
+our executive 1
+statewide technology 1
+professional growth 1
+their email 1
+progress report 1
+first function 1
+entire state 1
+judicature society 1
+virgin island 1
+aba standard 1
+seamless intake 1
+intake information 1
+internal review 1
+rural delivery 1
+it name 1
+it use 1
+civil court 1
+significant staff 1
+website containing 1
+regular board 1
+next decade 1
+due diligence 1
+uniform delivery 1
+total number 1
+veteran claim 1
+action agenda 1
+our examination 1
+electronic archive 1
+it goal 1
+our objective 1
+delivery symposium 1
+program meeting 1
+mie journal 1
+permanent planning 1
+their access 1
+nlada update 1
+twelve lsc-funded 1
+program introduction 1
+innovative project 1
+new software 1
+configuration change 1
+legal representation 1
+diversity data 1
+second half 1
+v. managing 1
+program-wide intake 1
+applicant's capacity 1
+legal service 1
+successful self 1
+new delivery 1
+poverty population 1
+effective use 1
+their percentage 1
+statewide service 1
+new cadre 1
+personal case 1
+north carolina 1
+effective tool 1
+need guidance 1
+critical training 1
+daylong meeting 1
+our report 1
+broad participation 1
+income credit 1
+chief justice 1
+our study 1
+world-class justice 1
+annual meeting 1
+first access 1
+program provide 1
+urban setting 1
+our quality 1
+our website 1
+accurate information 1
+further progress 1
+key strategy 1
+full representation 1
+thirty-one program 1
+national collaboration 1
+last year 1
+same time 1
+primary mission 1
+u.s. court 1
+advisory committee 1
+full range 1
+legal action 1
+domestic violence 1
+website renewal 1
+dramatic funding 1
+inclusion early 1
+important consulting 1
+immediate access 1
+self-help assistance 1
+fee funding 1
+possible participation 1
+local practice 1
+integrated state 1
+first step 1
+median law 1
+statewide training 1
+administrative cost 1
+overlooked client 1
+their service 1
+effective justice 1
+easy access 1
+other consolidation 1
+national technology 1
+referral system 1
+technical expertise 1
+deep interest 1
+bellow-sacks symposium 1
+particular area 1
+low-income community 1
+diverse corp 1
+their analysis 1
+critical component 1
+chief justices-conference 1
+small group 1
+st. louis 1
+increased access 1
+remarkable stability 1
+future growth 1
+sepda conference 1
+economic development 1
+annual funding 1
+well-qualified state 1
+other stakeholder 1
+national conference 1
+permanent access 1
+single county 1
+rural setting 1
+our process 1
+their intake 1
+public forum 1
+stand-alone device 1
+section vii 1
+website resource 1
+top quality 1
+supervision one 1
+national organization 1
+new orleans 1
+maximum level 1
+our commitment 1
+effective supervision 1
+justice commission 1
+justice conference 1
+unified operation 1
+legal aid 1
+justice committee 1
+nuanced approach 1
+new leadership 1
+aba commission 1
+talented staff 1
+hands-on technology 1
+particular emphasis 1
+healthy state 1
+special expertise 1
+permanent statewide 1
+section xi 1
+o conference 1
+our analysis 1
+legal clinic 1
+vibrant state 1
+prime strategy 1
+opp staff 1
+nlada mid-year 1
+post-reconfiguration visit 1
+historical statewide 1
+outcome development 1
+their technology 1
+linchpin member 1
+it plan 1
+underfunded situation 1
+aba techshow 1
+multicultural diversity 1
+other justice 1
+timely information 1
+annual self-inspection 1
+valuable asset 1
+georgia access 1
+it effectiveness 1
+timely manner 1
+federal register 1
+annual conference 1
+representative sample 1
+critical element 1
+leading role 1
+member-driven listservs 1
+current news 1
+special knowledge 1
+training consortium 1
+our feedback 1
+my capacity 1
+their diversity 1
+substantial amount 1
+service opp 1
+sophisticated intake 1
+alternative dispute 1
+justice commission-a 1
+productive twelve 1
+free number 1
+territory-wide recipient 1
+combined conference 1
+essential role 1
+hard copy 1
+password-protected practice 1
+true picture 1
+comprehensive statewide 1
+final funding 1
+state bar 1
+available information 1
+premier justice 1
+diverse client 1
+popular resource 1
+it intent 1
+new england 1
+substantial time 1
+single program 1
+last fall 1
+national platform 1
+summary form 1
+federal funding 1
+litigant support 1
+successful completion 1
+critical measure 1
+other technology 1
+available online 1
+bar president 1
+their support 1
+polk county 1
+effective utilization 1
+consistent application 1
+common request 1
+current configuration 1
+true today 1
+designated state 1
+effective method 1
+loan repayment 1
+periodic submission 1
+efficient transmittal 1
+gender distribution 1
+final implementation 1
+new area 1
+low income 1
+and/or counsel 1
+comprehensive delivery 1
+multi-culturally competent 1
+electronic access 1
+low-income person 1
+section ix 1
+professional facilitator 1
+third progress 1
+multi-year development 1
+level lsc 1
+voluntary exchange 1
+competitive grant 1
+referral assistance 1
+reconfigured service 1
+community lsc 1
+program performance 1
+schedule eic 1
+program-inquiry visit 1
+merging program 1
+our goal 1
+statewide context 1
+experienced leadership 1
+three-day symposium 1
+
+ Trigram NP 
+program randi youells 4
+new york city 3
+lsc vice president 3
+legal aid society 3
+civil equal justice 3
+legal work management 3
+management information exchange 2
+new statewide program 2
+state justice institute 2
+nlada annual meeting 2
+harvard law school 2
+state court administrator 2
+pro se enhancement 2
+case service report 2
+effective legal service 2
+equal justice conference 2
+technology initiative grant 2
+state court judge 2
+poverty law manual 2
+nlada annual conference 2
+significant structural change 1
+atlanta legal aid 1
+library resource initiative 1
+it expanded service 1
+it fourth program 1
+improve grant administration 1
+aba national conference 1
+colorado bar association 1
+state court justice 1
+available high quality 1
+civil legal service 1
+defender association lsc 1
+legal resource library 1
+technical assistance visit 1
+national civil justice 1
+her peripatetic proselytizing 1
+collecting diversity data 1
+significant technical staff 1
+colorado supreme court 1
+integrated statewide justice 1
+statewide lsc-funded program 1
+it initial phase 1
+technology strategic direction 1
+it competitive grant 1
+efficient high quality 1
+change • assistance 1
+three-year private bar 1
+high-quality legal assistance 1
+planning body development 1
+corporation strategic direction 1
+grant renewal application 1
+iowa legal aid 1
+change • massachusetts 1
+other critical diversity 1
+georgia legal service 1
+their special expertise 1
+state planning initiative 1
+poverty law lsc 1
+brief legal advice 1
+quality visit legal 1
+digital grant award 1
+underwrote professional facilitation 1
+our joint goal 1
+lsc performance criterion 1
+internal revenue service 1
+our limited funding 1
+appropriate corrective action 1
+ohio statewide website 1
+resource development substantial 1
+our technical assistance 1
+program quality lsc 1
+it on-site program 1
+technology evaluation project 1
+significant technical assistance 1
+free legal assistance 1
+puerto rico access 1
+grant application process 1
+additional undergraduate debt 1
+it initial call 1
+second website function 1
+reginald heber smith 1
+national legal aid 1
+aarp legal counsel 1
+northwest justice project 1
+large southwestern program 1
+case review form 1
+virginia court system 1
+self help office 1
+their joint courts/legal 1
+innovative full-service intake 1
+appropriate legal assistance 1
+civil legal aid 1
+american bar association 1
+their current technology 1
+our on-site program 1
+our first progress 1
+native american area 1
+resource library initiative 1
+leadership mentoring effort 1
+their re-energized state 1
+arkansas bar association 1
+intake enhancement efficient 1
+our second report 1
+
+ Unigram NP 
+lsc 107
+state 70
+program 41
+planning 39
+staff 39
+technology 32
+tig 32
+system 29
+delivery 25
+community 23
+access 21
+quality 21
+justice 20
+information 19
+process 18
+diversity 18
+law 17
+service 16
+client 14
+• 13
+work 12
+training 12
+website 12
+statewide 11
+intake 11
+conference 11
+opp 11
+assistance 10
+project 10
+case 10
+area 10
+year 10
+lri 9
+poverty 9
+csr 9
+applicant 9
+funding 9
+development 9
+director 9
+leadership 9
+management 8
+grant 8
+creation 8
+percent 8
+office 7
+iowa 7
+number 7
+january 6
+measurement 6
+plan 6
+configuration 6
+document 6
+legal 6
+mississippi 6
+support 6
+effort 5
+team 5
+merger 5
+supervision 5
+day 5
+california 5
+request 5
+report 5
+resource 5
+review 5
+initiative 5
+addition 5
+louisiana 5
+telephone 5
+grantee 5
+oim 5
+model 5
+arkansas 4
+example 4
+share 4
+data 4
+order 4
+practice 4
+internet 4
+ncpl 4
+accuracy 4
+alabama 4
+availability 4
+conjunction 4
+calendar 4
+implementation 4
+opportunity 4
+organization 4
+improvement 4
+board 4
+aarp 4
+building 4
+focus 3
+maryland 3
+consolidation 3
+feedback 3
+alaska 3
+action 3
+use 3
+site 3
+advice 3
+representation 3
+texas 3
+event 3
+research 3
+evaluation 3
+arizona 3
+wisconsin 3
+guam 3
+self-help 3
+mie 3
+montana 3
+section 3
+module 3
+result 3
+capacity 3
+progress 3
+importance 3
+country 3
+contract 3
+tennessee 3
+debt 3
+commission 3
+proposal 3
+center 3
+coordination 3
+virginia 3
+burden 3
+reconfiguration 3
+attorney 3
+competition 3
+delaware 3
+host 3
+panel 3
+range 3
+software 3
+education 3
+award 3
+missouri 3
+assessment 2
+school 2
+list 2
+hawaii 2
+enhancement 2
+nlada 2
+body 2
+impact 2
+eligibility 2
+i-can 2
+change 2
+amount 2
+type 2
+curriculum 2
+behalf 2
+challenge 2
+end 2
+goal 2
+court 2
+committee 2
+milwaukee 2
+group 2
+inclusion 2
+platform 2
+mandate 2
+provision 2
+canada 2
+content 2
+florida 2
+place 2
+purpose 2
+city 2
+engagement 2
+tool 2
+matter 2
+outcome 2
+gathering 2
+online 2
+effectiveness 2
+letter 2
+volume 2
+pursuant 2
+michigan 2
+activity 2
+concern 2
+extent 2
+assure 2
+relevant 2
+workshop 2
+territory 2
+direction 2
+fund 2
+iv 2
+partner 2
+inquiry 2
+companion 2
+pennsylvania 2
+summer 2
+illinois 2
+egal 2
+format 2
+core 2
+assembly 2
+involvement 2
+october 2
+expertise 2
+corporation 2
+self-inspection 2
+field 2
+apalrc 2
+congress 2
+june 2
+outreach 2
+limited 1
+concept 1
+cincinnati 1
+wyoming 1
+passage 1
+tampa 1
+volunteer 1
+midwest 1
+southwest 1
+innovation 1
+fall 1
+difference 1
+voip 1
+www.ohiolegalservices.org 1
+iolta 1
+gender 1
+kansa 1
+race 1
+asp 1
+massachusetts 1
+charter 1
+force 1
+consistent 1
+kaivo 1
+recruitment 1
+second 1
+cost 1
+design 1
+aba 1
+chicago 1
+anniversary 1
+maine 1
+template 1
+toll 1
+net 1
+appeal 1
+public 1
+understanding 1
+situation 1
+november 1
+forum 1
+compliance 1
+experience 1
+secure 1
+campaign 1
+vii 1
+county 1
+fee 1
+visit 1
+centrality 1
+ip 1
+indiana 1
+stage 1
+sharing 1
+oregon 1
+iii 1
+webmaster 1
+topic 1
+tokyo 1
+pursue 1
+presentation 1
+nebraska 1
+meet 1
+closing 1
+trial 1
+sample 1
+united 1
+travel 1
+fruition 1
+march 1
+interview 1
+farm 1
+expectation 1
+date 1
+response 1
+hoc 1
+life 1
+chief 1
+geographic 1
+cross-fertilization 1
+september 1
+over 1
+entity 1
+course 1
+cle 1
+labor 1
+absence 1
+permanent 1
+speaker 1
+combination 1
+nation 1
+hale 1
+promise 1
+series 1
+spanish 1
+thirteen 1
+n-ten 1
+special 1
+network 1
+space 1
+xv 1
+oklahoma 1
+health 1
+trade-most 1
+contain 1
+standard 1
+reason 1
+x 1
+language 1
+launch 1
+american 1
+promotion 1
+south 1
+xi 1
+message 1
+size 1
+post-reconfiguration 1
+district 1
+xii 1
+indicate 1
+brevity 1
+xiv 1
+percentage 1
+enforcement 1
+hotdocs 1
+relationship 1
+//www.lsc.gov/websitedocs/mr080802.pdf 1
+institution 1
+population 1
+distance 1
+computer 1
+fashion 1
+boston 1
+pro 1
+partnership 1
+need 1
+strength 1
+self 1
+consortium 1
+mechanism 1
+appellate 1
+plas 1
+english 1
+donation 1
+vibrancy 1
+lexis 1
+area's 1
+mobile 1
+clear 1
+mediation 1
+se 1
+merit 1
+hard-to-reach 1
+endowment 1
+completion 1
+northeast 1
+spite 1
+guidance 1
+minnesota 1
+maturation 1
+equity 1
+hand-in-glove 1
+conduct 1
+account 1
+hiring 1
+summary 1
+ohio 1
+xiii 1
+vision 1
+sho 1
+set 1
+lion 1
+individual 1
+best 1
+superb 1
+xvi 1
+approach 1
+keynote 1
+columbia 1
+ability 1
+opening 1
+attention 1
+harvard 1
+mentoring 1
+diminution 1
+news 1
+probono.net 1
+advocate's 1
+comment 1
+color 1
+hardworking 1
+village 1
+table 1
+ntap 1
+basis 1
+acceptance 1
+community/state 1
+strategy 1
+reduction 1
+location 1
+efficacy 1
+government 1
+worker 1
+gap 1
+wake 1
+demand 1
+atlanta 1
+pilot 1
+georgia 1
+budget 1
+kentucky 1
+diverse 1
+viii 1
+aid 1
+voice 1
+guide 1
+ix 1
+preeminent 1
+vi 1
+ii 1
+eighteen 1
+surcharge 1
+forgiveness 1
+http 1
+reporting 1
+workforce 1
+www.lri.lsc.gov 1
+user 1
+forth 1
+vermont 1
+database 1
+vice-president 1
+person 1
+consistency 1
+inc. 1
+money 1
+executive 1
+relevancy 1
+family 1
+ease 1
+help 1
+instrument 1
+adoption 1
+input 1
+survival 1
+lsc- 1
+success 1
+manual 1
+specific 1
+conclusion 1
+page 1
+planning-at 1
+spring 1
+lsnv 1
+cleveland 1
+provider 1
+participation 1
+business 1
+expansion 1
+session 1
+census 1
+outset 1
+colorado 1
+presence 1
+washington 1
+commitment 1
+selfinspection 1
+ontario 1
+accountability 1
+way 1
+function 1
+north 1
+form 1
+immigration 1
+vitality 1
+link 1
+elderly 1
+high-quality 1
+meeting 1
+problem 1
+issue 1
+ad 1
+dialogue 1
+self-representation 1
+variety 1
+detail 1
+insurance 1
+poor 1
+category 1
+time 1
+www.ohiodvresources.org 1
+lens 1
+structure 1
+zorza 1
+filing 1
+portion 1
+summit 1
+resolution 1
+
+ Arbitary length NP 
+high-quality civil legal assistance 3
+international legal aid group 2
+lsc resource library initiative 2
+state justice community planning initiative evaluation instrument 2
+aba/nlada equal justice conference 1
+interactive community assistance network 1
+state planning evaluation instrument 1
+technology initiative grant program lsc 1
+legal service technology funders group lsc 1
+bay area legal service 1
+technology technical assistance day 1
+other merger-related legal work 1
+veteran consortium pro bono program 1
+• board training module 1
+greater orlando area legal service 1
+program providing civil pro bono legal 1
+self evaluation process pending 1
+delaware state bar association 1
+ontario legal aid speaker series 1
+southeast project director association conference 1
+electronic grant award letter 1
+case closing data program 1
+american bar association lsc 1
+vice president randi youells 1
+virginia annual legal aid conference 1
+nonprofit technology enterprise network 1
+national technology assistance project 1
+lsc board provision committee 1
+chinese legal aid delegation 1
+technology initiative grant program 1
+virginia statewide planning assembly 1
+separate native american service 1
+ohio domestic violence resource center 1
+legal work management review 1
+united states-china relation • lsc 1
+new lawyer training project pursuant 1
+montana o community legal 1
+quality review visit intake 1
+outreach southeast project director association 1
+legal aid speaker series 1
+legal service law line 1
+lsc board member maria luisa mercado 1
+tig pro se effort 1
+change • technical assistance 1
+colorado legal service planning group 1
+virginia state planning assembly 1
+asian pacific american legal resource center 1
+potomac legal aid society 1
+their own personal web 1
+puerto rico bar association 1
+dorr legal service center 1
+quality review visit lsc 1

@@ -1,0 +1,134 @@
+
+ Bigram NP 
+equal access 3
+civil justice 3
+mauricio vivero 2
+legal aid 2
+pro-bono service 2
+many law 1
+georgia school 1
+corporate practice 1
+legal profession 1
+underpublicized struggle 1
+election day 1
+laudable act 1
+lawyers' responsibility 1
+unjust outcome 1
+private citizen 1
+child support 1
+atlanta metropolitan 1
+new job 1
+professional oath 1
+our country 1
+legal system 1
+fair play 1
+legal community 1
+average revenue 1
+cobb county 1
+president bush's 1
+civic virtue 1
+domestic violence 1
+hard reality 1
+legal representation 1
+front line 1
+successful law 1
+roy barnes 1
+pro- bono 1
+his place 1
+legal help 1
+access-to-justice crisis 1
+poignant reminder 1
+pro-bono participation 1
+fleet finance 1
+private practice 1
+new development 1
+nonprofit corporation 1
+improbable casualty 1
+last decade 1
+frequent volunteer 1
+annual income 1
+our democracy 1
+competent counsel 1
+
+ Trigram NP 
+funded legal assistance 1
+his new job 1
+american bar association 1
+unflattering public image 1
+it widespread predatory 1
+our first responsibility 1
+washington-based nonprofit corporation 1
+his long-standing commitment 1
+atlanta journal-constitution barnes 1
+his first day 1
+our national creed 1
+legal service corporation 1
+georgia state bar 1
+
+ Unigram NP 
+percent 6
+justice 5
+barnes 4
+state 4
+u.s. 3
+georgia 3
+attorney 2
+lending 2
+lawyer 2
+decision 2
+system 2
+congress 2
+president 2
+law 2
+vice 2
+country 2
+washington-americans 1
+office 1
+uphill 1
+aftermath 1
+need 1
+cold 1
+price 1
+courthouse 1
+living 1
+america 1
+monday 1
+mortgage 1
+area 1
+corporation 1
+legal 1
+fight 1
+inaccessibility 1
+time 1
+gov 1
+national 1
+sept. 1
+door 1
+aba 1
+practice 1
+possibility 1
+poverty 1
+competent 1
+november 1
+judgment 1
+goal 1
+census 1
+hour 1
+language 1
+january 1
+university 1
+bill 1
+governor 1
+lead 1
+benefit 1
+part 1
+admission 1
+defeat 1
+problem 1
+commencement 1
+predatory 1
+
+ Arbitary length NP 
+atlanta legal aid society 2
+by mauricio vivero friday 1
+our nation's poor continue 1

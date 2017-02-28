@@ -1,0 +1,197 @@
+
+ Bigram NP 
+public safety 4
+final report 4
+federal register 4
+ensure compatibility 3
+cost-benefit analysis 2
+communication act 2
+fcc rcd 2
+projected reporting 2
+further notice 2
+basic wireless 2
+gao/ogc-96-34 section 2
+other compliance 2
+detailed discussion 1
+fcc record 1
+title ii 1
+mr. anderson 1
+proposed rulemaking 1
+emergency calling 1
+mobile radio 1
+our assessment 1
+same time 1
+general public 1
+commission's rule 1
+5-year period 1
+universal applicability 1
+it belief 1
+automatic exclusion 1
+small entity 1
+the commission 1
+et seq 1
+wireless service 1
+legal basis 1
+major rule 1
+jr. chairman 1
+it submission 1
+final rule 1
+our report 1
+transportation united 1
+supplementary information 1
+direct response 1
+commerce house 1
+telecommunication issue 1
+commission-developed set 1
+personal communication 1
+full text 1
+two-way voice 1
+our review 1
+john anderson 1
+
+ Trigram NP 
+regulatory flexibility analysis 3
+emergency calling system 3
+wireless e911 rule 3
+independent regulatory agency 1
+paperwork reduction act 1
+other relevant information 1
+kathleen e. wannisky 1
+commercial mobile voice 1
+federal communication commission 1
+specific geographical location 1
+administrative procedure act 1
+regulatory flexibility act 1
+specialized mobile radio 1
+associate general counsel 1
+cc docket no 1
+
+ Unigram NP 
+commission 28
+order 22
+report 14
+notice 10
+rulemaking 8
+u.s.c 8
+analysis 7
+rule 7
+section 6
+reg 5
+fed 5
+b 5
+information 5
+federal 4
+r 4
+number 4
+revision 4
+code 3
+implementation 3
+enhanced 3
+compliance 3
+office 2
+executive 2
+title 2
+fcc-96-264 2
+identification 2
+participation 2
+august 2
+authorization 2
+gao 2
+iv 2
+agency 2
+recordkeeping 2
+collection 2
+response 2
+wireless 2
+i 2
+tty 1
+pursuant 1
+trade 1
+impact 1
+location 1
+caller 1
+period 1
+framework 1
+october 1
+burden 1
+provision 1
+submission 1
+pbx 1
+summary 1
+requirement 1
+work 1
+cost 1
+senate 1
+512-5207 1
+year 1
+operation 1
+subject 1
+proceeding 1
+smr 1
+cell 1
+evaluation 1
+transportation 1
+use 1
+base 1
+estimate 1
+c 1
+industry 1
+place 1
+action 1
+commission's 1
+comment 1
+ability 1
+cc 1
+respect 1
+market 1
+management 1
+service 1
+area 1
+regulation 1
+station 1
+call 1
+form 1
+gao/ogc-96-34 1
+phone 1
+july 1
+iii 1
+commerce 1
+512-2834 1
+accordance 1
+science 1
+official 1
+budget 1
+future 1
+process 1
+recommendation 1
+site 1
+ii 1
+need 1
+united 1
+recovery 1
+mechanism 1
+equipment 1
+description 1
+effect 1
+director 1
+statutory 1
+purpose 1
+opportunity 1
+contact 1
+organization 1
+validation 1
+
+ Arbitary length NP 
+initial regulatory flexibility analysis 2
+unfunded mandate reform act 2
+honorable john d. dingell ranking minority member committee 1
+final regulatory flexibility analysis 1
+gao/ogc-96-34 enclosure analysis under 1
+honorable larry pressler chairman 1
+honorable ernest f. hollings ranking minority member committee 1
+general counsel b-274091 august 1
+rule to ensure compatibility with enhanced 1
+robert p. murphy general counsel enclosure 1
+a major rule issued by the federal communication commission entitled 1
+mr. andrew s. fishel managing director federal communication commission page 1
+honorable thomas j. bliley 1

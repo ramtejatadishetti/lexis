@@ -1,0 +1,155 @@
+
+ Bigram NP 
+final rule 5
+cost-benefit analysis 2
+federal register 2
+safe harbor 2
+procedure act 1
+full text 1
+unlicensed equipment 1
+mr. anderson 1
+proposed rulemaking 1
+new category 1
+our assessment 1
+statutory authorization 1
+effective use 1
+complete copy 1
+et seq 1
+communication act 1
+legal basis 1
+high speed 1
+major rule 1
+jr. chairman 1
+it submission 1
+order no 1
+james vickers 1
+amateur radio 1
+new information 1
+immediate future 1
+expected impact 1
+our report 1
+unlicensed basis 1
+transportation united 1
+final rulemaking 1
+commerce house 1
+mobile satellite 1
+john anderson 1
+public interest 1
+wireless access 1
+sufficient spectrum 1
+our review 1
+telecommunication issue 1
+future rulemaking 1
+
+ Trigram NP 
+regulatory flexibility analysis 2
+independent regulatory agency 2
+national information infrastructure 2
+ghz frequency range 2
+et docket no 2
+paperwork reduction act 2
+assistant general counsel 1
+other relevant information 1
+initial regulatory flexibility 1
+federal communication commission 1
+regulatory flexibility act 1
+executive order no 1
+
+ Unigram NP 
+fcc 18
+rule 10
+u.s.c 7
+analysis 5
+fed 4
+section 4
+reg 4
+b 4
+i 4
+spectrum 3
+radio 3
+agency 3
+megahertz 3
+rulemaking 3
+executive 3
+office 2
+iv 2
+ii 2
+ghz 2
+information 2
+title 2
+federal 2
+interference 2
+u-nii 2
+commission 2
+r 2
+incumbent 2
+notice 2
+nii 2
+f 2
+may 2
+g 2
+report 2
+c 2
+paragraph 2
+gao/ogc-97-19 2
+january 2
+comment 1
+code 1
+internet 1
+point 1
+senate 1
+creation 1
+gao 1
+respect 1
+work 1
+subject 1
+united 1
+service 1
+equipment 1
+adoption 1
+time 1
+reply 1
+evaluation 1
+conflict 1
+transportation 1
+reporting 1
+use 1
+wireless 1
+director 1
+review 1
+approval 1
+iii 1
+cc 1
+official 1
+commerce 1
+512-8210 1
+short-range 1
+512-2834 1
+management 1
+science 1
+feasibility 1
+compliance 1
+budget 1
+recordkeeping 1
+april 1
+action 1
+situation 1
+issue 1
+order 1
+participation 1
+
+ Arbitary length NP 
+unfunded mandate reform act 2
+ghz frequency range pursuant 1
+honorable john d. dingell ranking minority member committee 1
+final regulatory flexibility analysis 1
+gao/ogc-97-19 enclosure analysis under 1
+unlicensed nii device in the 1
+honorable ernest f. hollings ranking minority member committee 1
+new wireless local area 1
+a major rule issued by the federal communication commission entitled 1
+honorable john mccain chairman 1
+robert p. murphy general counsel enclosure 1
+general counsel b-276123 february 1
+mr. andrew s. fishel managing director federal communication commission page 1
+honorable thomas j. bliley 1

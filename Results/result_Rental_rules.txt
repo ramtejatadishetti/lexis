@@ -1,0 +1,98 @@
+
+ Bigram NP 
+mobile home 3
+oakwood height 2
+trailer trash 1
+rural renter 1
+lee county 1
+weak water 1
+balky water 1
+john bohlen 1
+robb goedicke 1
+iowa association 1
+disposal health 1
+rental property 1
+his attention 1
+fort madison 1
+karen fraise 1
+mark anderson 1
+judy johnson 1
+polk county 1
+iowa coalition 1
+robert simmons 1
+william peterson 1
+their health 1
+outside city 1
+terry nelson 1
+bad wiring 1
+
+ Trigram NP 
+many mobile home 1
+their local government 1
+westside trailer park 1
+his mobile home 1
+nearby septic lagoon 1
+legal aid society 1
+
+ Unigram NP 
+iowa 4
+county 3
+shelter 3
+property 3
+owner 2
+fraise 2
+anderson 2
+state 2
+lot 2
+park 2
+pressure 2
+president 2
+tenant 2
+care 2
+problem 2
+attorney 1
+disaster 1
+bohlen 1
+enforcement 1
+resident 1
+lack 1
+sewage 1
+month 1
+rent 1
+homeless 1
+helpless 1
+goedicke 1
+city 1
+america 1
+housing 1
+agency 1
+someplace 1
+health 1
+association 1
+issue 1
+body 1
+smell 1
+complaint 1
+storm 1
+thousand 1
+nobody 1
+protection 1
+court 1
+law 1
+none 1
+johnson 1
+vice 1
+oversight 1
+turn 1
+simmons 1
+place 1
+road 1
+landlord 1
+ankeny 1
+example 1
+trailer 1
+
+ Arbitary length NP 
+manufactured home owner association 1
+jason clayworthregister staff writer 1
+oakwood height mobile home community 1

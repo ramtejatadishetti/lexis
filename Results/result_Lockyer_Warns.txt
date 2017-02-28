@@ -1,0 +1,104 @@
+
+ Bigram NP 
+legal aid 8
+los angeles 3
+elena popp 1
+profit-seeking businessman 1
+his use 1
+walter moore 1
+unfair business 1
+gary rhoades 1
+shasta county 1
+firm posing 1
+jeff simmons 1
+their case 1
+executive director 1
+lead attorney 1
+state atty 1
+attorney general 1
+minimal fee 1
+statewide injunction 1
+
+ Trigram NP 
+legal aid foundation 2
+housing right center 1
+their local district 1
+legitimate legal aid 1
+gen. bill lockyer 1
+public inquiry unit 1
+legitimate nonprofit organization 1
+dangerous domestic violence 1
+false advertising law 1
+legal service corp. 1
+
+ Unigram NP 
+moore 8
+court 6
+attorney 4
+office 4
+alert 3
+case 3
+general 2
+business 2
+california 2
+judge 2
+term 2
+aid 2
+help 1
+lockyer 1
+certain 1
+malice 1
+yellow 1
+popp 1
+modesto 1
+lawyer 1
+need 1
+jury 1
+trust 1
+litigation 1
+web 1
+fee 1
+support 1
+brief 1
+legal 1
+resident 1
+charge 1
+www.lsc.gov/fundprog.htm 1
+appeal 1
+internet 1
+restitution 1
+public 1
+friend 1
+foundation 1
+someone 1
+paperwork 1
+state 1
+may 1
+oppression 1
+online 1
+february 1
+director 1
+organization 1
+law 1
+document 1
+reaction 1
+fraud 1
+name 1
+license 1
+eviction 1
+rhoades 1
+http 1
+trial 1
+warning 1
+verdict 1
+advertising 1
+site 1
+consumer 1
+assistance 1
+
+ Arbitary length NP 
+jocelyn y. stewart friday july 1
+unlawful detainer assistance act 1
+local nonprofit legal aid 1
+los angeles time lockyer warns 1
+indispensable free legal assistance 1

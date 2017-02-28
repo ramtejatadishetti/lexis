@@ -1,0 +1,134 @@
+
+ Bigram NP 
+good thing 2
+your money 2
+legal service 2
+it distribution 1
+legal hotline 1
+main requirement 1
+sudden concern 1
+broad latitude 1
+nice surprise 1
+basic advice 1
+many aid 1
+lauren green-caldwell 1
+last year 1
+their money 1
+indianapolis-based insurer 1
+their payout 1
+recent mailing 1
+real danger 1
+jess williams 1
+glenda harrison 1
+kentucky department 1
+potential effect 1
+average payout 1
+supplement health-insurance 1
+good news 1
+amy turner 1
+anthem inc. 1
+executive director 1
+prepaid burial 1
+negative impact 1
+insurer's conversion 1
+mutual company 1
+medical transportation 1
+christopher holly 1
+legal-aid lawyer 1
+lee richardson 1
+justice foundation 1
+particular restriction 1
+
+ Trigram NP 
+their particular situation 1
+other state-administered aid 1
+legal aid society 1
+frequent statewide conference 1
+jaime odle harmon 1
+
+ Unigram NP 
+medicaid 9
+anthem 8
+money 6
+kentucky 5
+indiana 4
+company 4
+attorney 3
+stock 3
+eligibility 3
+aid 3
+month 2
+threshold 2
+home 2
+staff 2
+louisville 2
+policy 2
+distribution 2
+value 2
+car 2
+windfall 2
+unspent 1
+medicaid-paid 1
+agency 1
+nursing 1
+office 1
+manna 1
+fair-market 1
+elder 1
+manager 1
+downside 1
+trust 1
+saturday 1
+blue 1
+anyone 1
+conversion 1
+position 1
+end 1
+medicare 1
+expert 1
+poorest 1
+paralegal 1
+legal 1
+check 1
+access 1
+to 1
+state 1
+program 1
+way 1
+answer 1
+issue 1
+worth 1
+advice 1
+bloomington 1
+someone 1
+branch 1
+surprise 1
+spot 1
+hand 1
+hamon 1
+part 1
+covington 1
+half 1
+bit 1
+law 1
+response 1
+advance 1
+property 1
+phone 1
+january 1
+official 1
+cash 1
+christmas 1
+spokeswoman 1
+jefferson 1
+team 1
+action 1
+problem 1
+counselor 1
+half-million 1
+example 1
+result 1
+
+ Arbitary length NP 
+northern kentucky legal aid society 1
+anthem payout pose problem 1

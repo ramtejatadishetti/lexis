@@ -1,0 +1,151 @@
+
+ Bigram NP 
+professional assistance 2
+low-income taxpayer 1
+it success 1
+rival army 1
+exact situation 1
+volunteer division 1
+valid complaint 1
+economic development 1
+private sector 1
+legal assistance 1
+vital income 1
+low-income family 1
+broad cross-section 1
+lawyer account 1
+new round 1
+vital role 1
+innovative way 1
+new york 1
+incentive program 1
+my aversion 1
+equal treatment 1
+twenty-eight percent 1
+rare opportunity 1
+nationwide program 1
+concerted attempt 1
+little bit 1
+stated mission 1
+their tax 1
+corporate tax 1
+lowincome taxpayer 1
+political spectrum 1
+it funding 1
+reform act 1
+critical need 1
+unusual step 1
+stepped-up basis 1
+irs restructuring 1
+meant litigation 1
+tax time 1
+steady stream 1
+extensive training 1
+past decade 1
+
+ Trigram NP 
+anthony perez cassino 1
+south brooklyn legal 1
+successful anti-poverty program 1
+internal revenue service 1
+income taxpayer clinic 1
+my usual stack 1
+legal aid society 1
+
+ Unigram NP 
+tax 10
+irs 7
+program 4
+taxpayer 3
+funding 3
+basis 3
+volunteer 3
+law 3
+concept 2
+course 2
+clinic 2
+code 2
+government 2
+school 2
+assistance 2
+importance 2
+interest 2
+work 2
+eitc 2
+refund 1
+lack 1
+mission 1
+fairness 1
+integrity 1
+litigation 1
+mail 1
+awareness 1
+advantage 1
+washington 1
+nation 1
+half 1
+press 1
+level 1
+supplement 1
+multitude 1
+activity 1
+release 1
+mid-1990 1
+welfare 1
+year 1
+living 1
+america's 1
+clock 1
+legal 1
+426-3094 1
+state 1
+ammunition 1
+participation 1
+mentoring 1
+area 1
+credit 1
+poverty 1
+point 1
+profession 1
+number 1
+quality 1
+service 1
+accountant 1
+statement 1
+proposal 1
+life 1
+fund 1
+part 1
+effort 1
+case 1
+project 1
+situation 1
+problem 1
+example 1
+prospect 1
+tap 1
+process 1
+expertise 1
+need 1
+partner 1
+education 1
+april 1
+corporation 1
+percent 1
+junk 1
+congress 1
+collaboration 1
+audit 1
+rule 1
+push 1
+representation 1
+model 1
+fact 1
+
+ Arbitary length NP 
+earned income tax credit 3
+brooklyn low-income taxpayer clinic 2
+low income taxpayer clinic 1
+irs commissioner charles o. rossotti 1
+south brooklyn legal service 1
+legal aid society's volunteer division 1

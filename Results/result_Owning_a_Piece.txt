@@ -1,0 +1,83 @@
+
+ Bigram NP 
+legal aid 8
+new building 2
+new office 2
+hotel theresa 2
+modern law 1
+first building 1
+it attention 1
+first year 1
+practical significance 1
+church street 1
+lower manhattan 1
+legal education 1
+new home 1
+it board 1
+phillips group 1
+next fall 1
+legal library 1
+last year 1
+madison avenue 1
+harlem built 1
+domestic violence 1
+
+ Trigram NP 
+world trade center 2
+it contaminated office 1
+daniel l. greenberg 1
+it fund-raising campaign 1
+industrial development agency 1
+five-year fund-raising effort 1
+legal aid society 1
+elaine m. kurtz 1
+
+ Unigram NP 
+building 6
+harlem 6
+agency 4
+neighborhood 2
+office 2
+community 2
+technology 2
+space 2
+ground 2
+center 2
+development 1
+street 1
+president 1
+corner 1
+staff 1
+resemblance 1
+fate 1
+employment 1
+housing 1
+width 1
+greenberg 1
+lot 1
+brick 1
+meeting 1
+officer 1
+firm 1
+division 1
+campaign 1
+monday 1
+theresa 1
+preservation 1
+director 1
+playroom 1
+leon 1
+funding 1
+law 1
+fivestory 1
+goal 1
+piece 1
+building's 1
+advocacy 1
+architect 1
+architecture 1
+support 1
+
+ Arbitary length NP 
+harlem tom perrotta september 1
+our first permanent office 1

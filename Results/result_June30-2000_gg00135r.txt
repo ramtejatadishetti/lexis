@@ -1,0 +1,668 @@
+
+ Bigram NP 
+federal register 16
+public participation 14
+gpo access 13
+it home 7
+unified agenda 6
+electronic rulemaking 5
+electronic comment 4
+web site 4
+current system 4
+federal government 4
+interactive participation 3
+standardized approach 3
+public interest 3
+regulatory information 3
+interactive comment 2
+dot regulation 2
+separate web 2
+subsequent analysis 2
+electronic system 2
+consistent organization 2
+administrative simplification 2
+public comment 2
+their home 2
+electronic access 2
+other hand 2
+small business 2
+our review 2
+electronic government 1
+current hardware 1
+strategic planning 1
+first page 1
+chat room 1
+wide range 1
+easy access 1
+receive email 1
+visible information 1
+effective manner 1
+regulatory program 1
+private communication 1
+uniform reporting 1
+senate committee 1
+deregulatory action 1
+passive information 1
+federal regulation 1
+governmentwide web 1
+it innovation 1
+disease registry 1
+electronic docket 1
+common data 1
+their rulemaking 1
+online policy 1
+further agency 1
+possible-in essence 1
+last minute 1
+dot legislative 1
+good approach 1
+limited scope 1
+business advisor 1
+radiation docket 1
+new participation 1
+related literature 1
+executive order 1
+rule all 1
+innovative design 1
+accountability act 1
+regulatory compliance 1
+compact disc 1
+regulatory action 1
+regulatory background 1
+customized information 1
+house committee 1
+such information 1
+it health 1
+marketing service 1
+regulatory impact 1
+congressional record 1
+following address 1
+standardized us 1
+particular audience 1
+structured way 1
+it docket 1
+publish information 1
+agencies' home 1
+effective use 1
+particular rule 1
+detailed information 1
+local government 1
+information source 1
+hypertext link 1
+governmentwide site 1
+g sts 1
+gao report 1
+appropriate docket 1
+recent edition 1
+epa's office 1
+abuseinfederal program 1
+gao fraudnet 1
+toxic substance 1
+public review 1
+government reform 1
+brief all 1
+it rulemaking 1
+g100 united 1
+interested public 1
+environmental fate 1
+appropriate rulemaking 1
+similar information 1
+currently open 1
+email message 1
+such upgrade 1
+web page 1
+unpublished report 1
+customized dissemination 1
+facilitate access 1
+daily list 1
+single rule 1
+information center 1
+omb director 1
+it application 1
+special review 1
+touch tone 1
+traditional governmentwide 1
+federal regulatory 1
+proactive notification 1
+solid waste 1
+imagebased database 1
+particular search 1
+narrative description 1
+rule published 1
+many rulemaking 1
+proactive mechanism 1
+superfund docket 1
+public awareness 1
+others several 1
+extensive docket 1
+their use 1
+regulatory taxonomy 1
+regular access 1
+fax number 1
+particular target 1
+curtis copeland 1
+common structure 1
+full text 1
+current lack 1
+further distribution 1
+ultimate adoption 1
+digital divide 1
+business gateway 1
+common look 1
+environmental information 1
+single portal 1
+special interest 1
+expensive effort 1
+public and/or 1
+large traffic 1
+large number 1
+greater diffusion 1
+agency web 1
+his review 1
+substantial number 1
+related government 1
+//www.gao.gov/fraudnet/fraudnet.htm email 1
+p. l. 1
+rulemaking document 1
+private use 1
+responding comment 1
+dc order 1
+his agency 1
+relevant information 1
+electronic information 1
+nonregulatory area 1
+regulatory context 1
+federal rulemaking 1
+electronic form 1
+federal management 1
+emergency response 1
+their web 1
+small entity 1
+first copy 1
+public view 1
+web interface 1
+simple way 1
+widespread adoption 1
+health administration 1
+local gateway 1
+proprietary software 1
+information service 1
+such link 1
+official rulemaking 1
+st. nw 1
+regulatory participation 1
+interoperable infrastructure 1
+adjudicatory information 1
+electronic clearinghouse 1
+it publishing 1
+occupational safety 1
+itbased participation 1
+u.s. state 1
+printed version 1
+general rulemaking 1
+microsoft word 1
+second page 1
+such coordination 1
+calendar year 1
+your staff 1
+regulatory agenda 1
+federal information 1
+transportation legislation 1
+federal agency 1
+
+ Trigram NP 
+government printing office 2
+good first step 2
+special program administration 2
+itbased public participation 2
+gao/ggd00135r federal rulemaking 2
+other federal agency 1
+their own web 1
+current fragmented system 1
+free online access 1
+their deliberative process 1
+honorable dan glickman 1
+underground storage tank 1
+it regulatory impact 1
+widespread public interest 1
+significant economic impact 1
+federal aviation administration 1
+address correction requested 1
+standardized electronic approach 1
+senator fred thompson 1
+agencies' particular context 1
+multidimensional electronic rulemaking 1
+facilitate public participation 1
+such related link 1
+current flexible arrangement 1
+single regulatory portal 1
+toxic release inventory 1
+public comment all 1
+paperwork reduction act 1
+substantial public access 1
+official electronic record 1
+regulatory flexibility act 1
+u.s. coast guard 1
+it economic analysis 1
+representative dan burton 1
+customized regulatory notification 1
+developed electronic docket 1
+bulk rate postage 1
+national organic program 1
+health insurance portability 1
+federal laws/regs/presidential document 1
+it administrative simplification 1
+official business penalty 1
+small business administration 1
+their public participation 1
+commerce business daily 1
+
+ Unigram NP 
+agency 43
+information 38
+public 35
+rule 32
+site 31
+page 31
+dot 30
+epa 29
+example 27
+comment 27
+system 25
+it 24
+rulemaking 21
+e.g. 20
+docket 19
+web 19
+standardization 19
+link 19
+management 16
+process 15
+home 15
+am 15
+department 15
+user 14
+participation 14
+access 12
+use 12
+state 12
+usda 11
+hhs 10
+email 9
+http 9
+internet 8
+representative 8
+list 7
+osha 7
+year 7
+dol 7
+review 7
+program 6
+order 6
+office 6
+paper 6
+quality 6
+• 6
+part 6
+official 6
+address 5
+search 5
+group 5
+listing 5
+receipt 5
+number 5
+need 5
+letter 5
+secretary 5
+omb 5
+extent 5
+initiative 5
+gao 5
+aphis 5
+problem 5
+facsimile 4
+none 4
+document 4
+keyword 4
+text 4
+staff 4
+period 4
+air 4
+database 4
+coordination 4
+communication 4
+nprms 4
+time 4
+manager 3
+risc 3
+commenter 3
+video 3
+box 3
+gateway 3
+assessment 3
+law 3
+administration 3
+agriculture 3
+research 3
+content 3
+feel 3
+copy 3
+result 3
+federal 3
+approach 3
+parte 3
+washington 3
+record 3
+variety 3
+lack 2
+presentation 2
+button 2
+degree 2
+water 2
+action 2
+wealth 2
+visit 2
+call 2
+december 2
+room 2
+centralization 2
+share 2
+topic 2
+sense 2
+end 2
+agencies' 2
+date 2
+response 2
+retrieval 2
+policy 2
+mail 2
+correspondence 2
+food 2
+day 2
+development 2
+solution 2
+ex 2
+health 2
+place 2
+regulation 2
+viewer 2
+chairman 2
+online 2
+regs 2
+scarce 2
+menu 2
+money 2
+info 2
+report 2
+usda/ams 2
+computer 2
+calendar 2
+nature 2
+commission 2
+look 2
+radiation 2
+several 2
+wheel 2
+spent 2
+consistency 2
+organization 2
+server 2
+proceeding 2
+notification 2
+onesizefitsall 2
+acf 2
+testimony 2
+way 2
+medium 2
+interest 2
+form 2
+october 2
+type 2
+sbrefa 2
+percent 2
+all 1
+code 1
+dynamic 1
+disk 1
+//www.hhs.gov 1
+division 1
+fax 1
+risk 1
+advantage 1
+level 1
+hawaii 1
+laws/regulations 1
+www.gao.gov 1
+corner 1
+click 1
+index 1
+section 1
+overload 1
+contrast 1
+body 1
+transportation 1
+dropdown 1
+understanding 1
+consideration 1
+november 1
+epa- 1
+credit 1
+shorterterm 1
+family 1
+statewide 1
+apa 1
+select 1
+duplicate 1
+scope 1
+hhssponsored 1
+phone 1
+communications,8 1
+word 1
+following 1
+figure 1
+@ 1
+sublink 1
+phrase 1
+aging 1
+united 1
+varied 1
+discussion 1
+feature 1
+arrangement 1
+chemical 1
+animal 1
+toxic 1
+administrator 1
+may 1
+advice 1
+president 1
+register 1
+hhs/acf 1
+chief 1
+agenda 1
+hypertext 1
+trade 1
+agricultural 1
+labor 1
+someone 1
+families/children 1
+nation 1
+half 1
+mode 1
+mastercard 1
+series 1
+network 1
+space 1
+electronic 1
+reader 1
+suggesting 1
+receiving 1
+issue 1
+independence 1
+standard 1
+//www.usda.gov 1
+gpo 1
+interaction 1
+route 1
+size 1
+daunting 1
+one 1
+array 1
+dol/osha 1
+observer 1
+service 1
+intention 1
+anyone 1
+draft 1
+statement 1
+percentage 1
+option 1
+dot's 1
+constituent 1
+diffusion 1
+hhs' 1
+//www.dol.gov 1
+efficient 1
+//reginfo.gov 1
+note 1
+listserver 1
+collaboration 1
+donation 1
+visa 1
+request 1
+face 1
+mailing 1
+quantity 1
+relation 1
+explicitly 1
+dc 1
+conjunction 1
+rules.7 1
+well.6 1
+activity 1
+release 1
+reportingfraud 1
+mandatory 1
+reference 1
+frame 1
+forthcoming 1
+please 1
+identification 1
+cooperation 1
+notice 1
+ability 1
+country 1
+april 1
+pdf 1
+whole 1
+nprm 1
+censorship 1
+storing 1
+//www.epa.gov 1
+applicability 1
+youthinfo 1
+i.e. 1
+maintenance 1
+proposal 1
+waste 1
+diversity 1
+pesticide 1
+child 1
+pilot 1
+case 1
+governmentwide 1
+gao.gov 1
+procedure 1
+format 1
+material 1
+d.c. 1
+//www.gao.gov 1
+director 1
+portal 1
+task 1
+center 1
+telephone 1
+model 1
+prevention 1
+toxics 1
+generally 1
+accurate 1
+human 1
+airbag 1
+dol's 1
+contractor 1
+source 1
+governmental 1
+crossagency 1
+march 1
+government 1
+press 1
+decisionmaking 1
+specific 1
+nw 1
+therein 1
+superintendent 1
+lead 1
+innovation 1
+business 1
+marketing 1
+tdd 1
+peer 1
+usda/aphis 1
+panel 1
+standalone 1
+//www.dot.gov 1
+software 1
+appropriate 1
+utility 1
+area 1
+legislation 1
+.9 1
+thesaurus 1
+delivery 1
+announcement 1
+line 1
+count 1
+fraudnet 1
+influence 1
+//www.access.gpo.gov 1
+general 1
+file 1
+check 1
+again 1
+detail 1
+application 1
+role 1
+conclusion 1
+congress 1
+realtime 1
+portion 1
+fact 1
+
+ Arbitary length NP 
+regulatory supporting material regulatory 1
+federal depository library program 1
+gao/ggd00135r federal rulemaking local gateway 1
+plant health inspection service 1
+gao/ggd00135r federal rulemaking federal register 1
+acf regulation currently open 1
+gao/ggd00135r federal rulemaking figure 1
+michael brostek associate director 1
+u.s. general accounting office p.o 1
+facilitate rulemaking participation several 1
+epa small business gateway 1
+general accounting office washington 1
+workforce issue ordering copy 1
+honorable alexis m. herman 1
+adobe portable document format 1
+honorable donna e. shalala 1
+regulatory information service center 1
+government printing office electronic information access enhancement act 1
+worldwide web home page 1
+government paperwork elimination act 1
+honorable rodney e. slater 1
+honorable carol m. browner 1
+small business regulatory enforcement fairness act 1
+fee paid gao permit no 1
+honorable jacob j. lew 1
+u.s. general accounting office washington 1

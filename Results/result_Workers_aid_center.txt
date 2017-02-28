@@ -1,0 +1,95 @@
+
+ Bigram NP 
+mission college 2
+his employer 1
+david jordan 1
+north hill 1
+minimum wage 1
+self-help center 1
+other center 1
+important thing 1
+nonprofit organization 1
+my bos 1
+legal information 1
+legal representation 1
+30-year-old father 1
+state bar 1
+legal help 1
+edgar villatoro 1
+nancy cervantes 1
+same construction 1
+their residency 1
+their job 1
+open today 1
+van nuys 1
+unpaid labor 1
+
+ Trigram NP 
+neighborhood legal service 3
+monroe high school 1
+san fernando valley 1
+
+ Unigram NP 
+center 6
+workplace 5
+cervantes 4
+education 3
+college 2
+pay 2
+anyone 2
+overtime 2
+sunday 2
+lot 2
+status 2
+business 2
+law 2
+exploitation 2
+attorney 1
+help 1
+unemployment 1
+garment 1
+month 1
+course 1
+lawyer 1
+track 1
+employment 1
+saturday 1
+information 1
+termination 1
+goal 1
+grant 1
+supply 1
+campus 1
+money 1
+party 1
+villatoro 1
+type 1
+today 1
+door 1
+form 1
+thousand 1
+worker 1
+immigration 1
+construction 1
+california 1
+letter 1
+vacuum 1
+sylmar 1
+effort 1
+man 1
+case 1
+account 1
+restaurant 1
+employer 1
+professor 1
+morning 1
+anytime 1
+face 1
+abuse 1
+place 1
+night 1
+aid 1
+advantage 1
+
+ Arbitary length NP 
+holly edward staff writer july 1

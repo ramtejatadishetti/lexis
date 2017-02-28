@@ -1,0 +1,484 @@
+
+ Bigram NP 
+acid rain 8
+public health 7
+electric power 5
+current law 4
+long range 3
+new source 3
+national energy 3
+human health 3
+governor whitman 3
+fine particle 3
+natural gas 2
+developing world 2
+our energy 2
+our nation 2
+outdated power 2
+environmental progress 2
+regional haze 2
+her testimony 2
+our analysis 2
+environmental protection 2
+same time 2
+multi-pollutant bill 2
+cabinet-level policy 2
+clean coal 2
+specific source 1
+significant equity 1
+our nation's 1
+much electricity 1
+our economy 1
+valuable basis 1
+first program 1
+wide range 1
+acute respiratory 1
+individual state 1
+administrative burden 1
+clear legislation 1
+senator smith 1
+your acknowledgment 1
+cost-effective plant 1
+serious issue 1
+complex web 1
+cost-effective way 1
+dangerous interference 1
+lung inflammation 1
+30-50 % 1
+little government 1
+significant reduction 1
+ultimate cap 1
+current body 1
+20-30 % 1
+our work 1
+new program 1
+good portion 1
+powerful tool 1
+critical component 1
+their transformation 1
+full accounting 1
+key air 1
+important issue 1
+future electricity 1
+stranded capital 1
+national cap 1
+coal-fired power 1
+monetary value 1
+innovative thinking 1
+critical role 1
+new approach 1
+excellent model 1
+full knowledge 1
+aggravated asthma 1
+considerable fuel 1
+federal government 1
+new technology 1
+serious health 1
+my testimony 1
+substantial progress 1
+principal energy 1
+reasonable electricity 1
+major source 1
+global introduction 1
+other nation 1
+mobile source 1
+scientific knowledge 1
+ground-level ozone 1
+predictable demand 1
+our proposal 1
+future use 1
+rocky road 1
+it emission 1
+sulfur removal 1
+low sulfur 1
+high cost 1
+same level 1
+geographic shifting 1
+hazardous air 1
+full implementation 1
+our experience 1
+technological innovation 1
+international significance 1
+bust cycle 1
+key consideration 1
+administrator whitman 1
+significant number 1
+necessary emission 1
+unlikely occurrence 1
+source-specific control 1
+significant percentage 1
+optimal approach 1
+real answer 1
+eastern part 1
+columbia circuit 1
+hard cap 1
+long way 1
+sharp contrast 1
+fossil fuel 1
+expensive compliance 1
+up-front knowledge 1
+environmental goal 1
+straightforward manner 1
+other respiratory 1
+useful information 1
+great tradition 1
+integrated package 1
+senator jeffords 1
+cost-effective compliance 1
+initial cost 1
+significant cost 1
+important program 1
+our approach 1
+advanced energy 1
+small staff 1
+same approach 1
+it enactment 1
+efficiency/energy intensity 1
+significant health 1
+undermine energy 1
+long term 1
+continuous monitoring 1
+available compliance 1
+dramatic shift 1
+abbreviated time 1
+local transportation 1
+hot spot 1
+our assessment 1
+environmental quality 1
+significant decline 1
+overall level 1
+protracted litigation 1
+collective emission 1
+nitrogen deposition 1
+further regulation 1
+individual program 1
+new legislation 1
+sequential manner 1
+federal level 1
+mercury-contaminated fish 1
+coal-fired electricity 1
+chronic bronchitis 1
+significant progress 1
+uncoordinated series 1
+heavy duty 1
+detailed discussion 1
+premature mortality 1
+tier ii 1
+congressional resolution 1
+direct threat 1
+diverse mix 1
+market-based approach 1
+
+ Trigram NP 
+clean air act 12
+nox sip call 5
+acid rain program 5
+national energy plan 2
+our clean air 1
+their 1-hour ozone 1
+future regulatory regime 1
+fuels economic activity 1
+it own timeline 1
+effective market-based approach 1
+other hazardous air 1
+regional air partnership 1
+comprehensive legislative approach 1
+innovative market-based allowance 1
+well-designed national cap 1
+gross domestic product 1
+serious public health 1
+it own approach 1
+comprehensive legislative package 1
+it own purpose 1
+new source review 1
+cost effective manner 1
+their regulatory future 1
+current regulatory approach 1
+our environmental goal 1
+
+ Unigram NP 
+power 26
+so2 25
+nox 23
+s. 22
+mercury 20
+program 19
+industry 17
+cap 17
+epa 16
+trade 15
+energy 15
+% 13
+generation 12
+co2 11
+approach 11
+cost 10
+state 10
+reduction 10
+administration 10
+bill 9
+environment 8
+control 8
+electricity 7
+president 7
+security 6
+trading 6
+climate 6
+legislation 6
+way 6
+emission 6
+air 6
+compliance 6
+plant 6
+coal 6
+committee 5
+addition 5
+pollution 5
+flexibility 5
+certainty 5
+technology 5
+time 5
+sector 4
+ozone 4
+section 4
+attainment 4
+deposition 4
+protection 4
+number 4
+review 4
+scheme 4
+reliability 4
+congress 4
+government 3
+timing 3
+success 3
+transport 3
+consensus 3
+integration 3
+innovation 3
+nep 3
+change 3
+• 3
+top 3
+system 3
+july 3
+goal 3
+equipment 3
+allocation 3
+request 3
+percent 2
+sequestration 2
+planning 2
+greenhouse 2
+passage 2
+fuel 2
+sulfur 2
+dioxide 2
+allowance 2
+provision 2
+issue 2
+regulation 2
+capacity 2
+business 2
+diesel 2
+reporting 2
+installation 2
+country 2
+place 2
+improvement 2
+supply 2
+frame 2
+accountability 2
+consumption 2
+fraction 2
+gas 2
+policy 2
+science 2
+value 2
+process 2
+share 2
+analysis 2
+need 2
+risk 2
+united 2
+agency 2
+end 2
+impairment 2
+development 2
+mact 2
+price 2
+opportunity 2
+rulemaking 2
+rule 2
+jeffords 1
+regardless 1
+settlement 1
+coordination 1
+decade 1
+litigation 1
+emphysema 1
+retirement 1
+group 1
+knowledge 1
+taxpayer 1
+application 1
+inclusion 1
+sulfate 1
+consideration 1
+east 1
+interstate 1
+brownback 1
+greater 1
+combination 1
+smarter 1
+sooner 1
+jeffords/lieberman 1
+background 1
+wiser 1
+efficacy 1
+conjunction 1
+service 1
+association 1
+volatility 1
+desire 1
+respiratory 1
+case-by-case 1
+level 1
+scrubber 1
+bart 1
+yield 1
+transmission 1
+benefit 1
+magnitude 1
+output 1
+steam 1
+prevent 1
+requirement 1
+commitment 1
+nitrogen 1
+reference 1
+authority 1
+acid 1
+investment 1
+concern 1
+consistency 1
+cleanliness 1
+exchange 1
+research 1
+experimentation 1
+size 1
+particulate 1
+belief 1
+nature 1
+importance 1
+u.s. 1
+court 1
+agreement 1
+standard 1
+water 1
+usual 1
+asthma 1
+voinovich 1
+advance 1
+district 1
+anything 1
+uncertainty 1
+emergency 1
+sip 1
+lieberman 1
+example 1
+century 1
+amount 1
+context 1
+testimony 1
+history 1
+degree 1
+ability 1
+co 1
+preservation 1
+production 1
+simply 1
+blending 1
+lesson 1
+quality 1
+market 1
+utility 1
+decline 1
+carbon 1
+area 1
+introduction 1
+nonattainment 1
+priority 1
+conservation 1
+ton 1
+appeal 1
+boom 1
+proposal 1
+type 1
+fish 1
+today 1
+eutrophication 1
+bureaucracy 1
+diversity 1
+increase 1
+regard 1
+visibility 1
+cabinet 1
+heat 1
+child 1
+pollutant 1
+input 1
+case 1
+account 1
+room 1
+gasoline 1
+eia 1
+matter 1
+future 1
+problem 1
+april 1
+engine 1
+layer 1
+e.g. 1
+petitioning 1
+soil 1
+monitoring 1
+currency 1
+modeling 1
+path 1
+information 1
+variety 1
+credibility 1
+damage 1
+role 1
+modification 1
+performance 1
+switching 1
+economy 1
+smith/voinovich/brownback 1
+act 1
+june 1
+rain 1
+combustion 1
+date 1
+law 1
+response 1
+reoccurrence 1
+tracking 1
+pm10 1
+element 1
+complexity 1
+machinery 1
+penetration 1
+second-guessing 1
+consumer 1
+order 1
+prevention 1
+
+ Arbitary length NP 
+best available retrofit technology 2
+new source performance standard 1
+national climate change technology initiative 1
+national ambient air quality 1
+president george h. w. bush 1
+maximum achievable control technology 1

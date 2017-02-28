@@ -1,0 +1,346 @@
+
+ Bigram NP 
+sky initiative 14
+acid rain 13
+president bush 5
+first phase 4
+last decade 3
+fine particulate 3
+clean air 3
+ground-level ozone 3
+uncertain litigation 3
+market-based approach 3
+21st century 2
+different air 2
+new power 2
+nitrogen deposition 2
+continual improvement 2
+market-based program 2
+environmental performance 2
+diverse fuel 2
+ambitious air 2
+current law 2
+affordable energy 2
+international association 1
+our economy 1
+new proposal 1
+market-based mechanism 1
+regulatory ambiguity 1
+cap-and trade 1
+great progress 1
+reliable energy 1
+bipartisan support 1
+required cap 1
+new pollution 1
+general prediction 1
+cost-effective way 1
+their mother 1
+from power 1
+constant monitoring 1
+affordable electricity 1
+worst air 1
+environment reporter 1
+congressional testimony 1
+open trading 1
+strong track 1
+affordable power 1
+ozone-related health 1
+electric power 1
+substantial cost 1
+coal-fired power 1
+grand canyon 1
+sound science 1
+predictable climate 1
+energy economics 1
+lead time 1
+environmental health 1
+long-term planning 1
+broad area 1
+quebec city 1
+cost-efficient control 1
+significant headway 1
+fair competition 1
+particulate matter 1
+our understanding 1
+reasonable period 1
+environmental regulation 1
+adequate lead 1
+executive director 1
+cardiovascular distress 1
+expert say 1
+chronic lung 1
+annual sulfur 1
+respiratory infection 1
+nitrogen oxide 1
+vigorous research 1
+cap-and-trade program 1
+the success 1
+protecting human 1
+same period 1
+significant step 1
+resounding success 1
+regional haze 1
+environmental defense 1
+current labyrinth 1
+north central 1
+old command-and-control 1
+per-ton cost 1
+byron swift 1
+progressive plan 1
+command-and-control law 1
+epa administrator 1
+dallas burtraw 1
+their target 1
+substantial health 1
+high accountability 1
+current approach 1
+technological innovation 1
+multi-pollutant approach 1
+founding principle 1
+economic growth 1
+environmental protection 1
+grand experiment 1
+technology center 1
+coastal ecosystem 1
+daniel chartier 1
+cleaner air 1
+same time 1
+massachusetts institute 1
+overall emission 1
+regulatory certainty 1
+good news 1
+wisconsin electric 1
+coal technology 1
+adequate energy 1
+executive summary 1
+non-existent flexibility 1
+it work 1
+chronic bronchitis 1
+integrity -the 1
+command-and-control program 1
+environmental council 1
+danny ellerman 1
+
+ Trigram NP 
+clean air act 7
+acid rain program 2
+our clean air 1
+potential hot spot 1
+cut power plant 1
+successful clean air 1
+improved air quality 1
+regional air partnership 1
+acid rain emission 1
+sulfur dioxide control 1
+better environmental protection 1
+our national air 1
+national governor association 1
+sky initiative february 1
+environmental law institute 1
+environmental policy research 1
+far-reaching clean air 1
+mechanism that create 1
+protective multi-pollutant proposal 1
+president george h.w 1
+emission reduction target 1
+progressive new way 1
+
+ Unigram NP 
+program 28
+air 19
+percent 18
+pollution 17
+cap 13
+mercury 12
+electricity 11
+quality 11
+so2 11
+power 10
+nox 9
+trading 8
+flexibility 8
+america 8
+emission 7
+nitrogen 6
+government 6
+� 6
+cost 6
+dioxide 6
+smog 6
+compliance 6
+time 6
+sulfur 5
+east 5
+command-and-control 5
+law 5
+trade 4
+energy 4
+year 4
+health 4
+approach 4
+country 4
+supply 4
+market 4
+west 4
+legislation 4
+way 4
+technology 4
+allowance 4
+cut 3
+innovation 3
+acid 3
+matter 3
+deposition 3
+secure 3
+industry 3
+congress 3
+rain 3
+epa 3
+july 2
+mix 2
+bush 2
+texas 2
+fate 2
+capital 2
+respiratory 2
+may 2
+u.s. 2
+agreement 2
+[ 2
+number 2
+phase 2
+use 2
+system 2
+reduction 2
+ton 2
+firm 2
+visibility 2
+record 2
+future 2
+control 2
+need 2
+] 2
+model 2
+resolution 2
+atmosphere 1
+show 1
+september 1
+money 1
+distribute 1
+litigation 1
+asthma 1
+gulf 1
+point 1
+fuel 1
+al. 1
+curtis 1
+risk 1
+department 1
+cutting 1
+courtroom 1
+background 1
+february 1
+success 1
+level 1
+across 1
+science 1
+mean 1
+concert 1
+habitat 1
+generation 1
+…the 1
+wrap 1
+result 1
+investment 1
+transport 1
+canada 1
+interference 1
+haze 1
+new 1
+integrated 1
+conference 1
+august 1
+handful 1
+effect 1
+water 1
+southeast 1
+retirement 1
+formation 1
+carbon 1
+wildlife 1
+installation 1
+anything 1
+certainty 1
+obstacle 1
+experience 1
+implementation 1
+three 1
+facility 1
+pregnancy 1
+reducing 1
+decline 1
+production 1
+today 1
+enforcement 1
+western 1
+demand 1
+line 1
+pollutant 1
+adirondacks 1
+room 1
+ecosystem 1
+while 1
+-modernization 1
+transparency 1
+april 1
+figure 1
+process 1
+carlson 1
+proven 1
+reliability 1
+mountain 1
+emergency 1
+variety 1
+protect 1
+pp 1
+damage 1
+incentive 1
+reliance 1
+equipment 1
+build 1
+income 1
+objective 1
+impairment 1
+simplicity 1
+plant 1
+electric 1
+information 1
+track 1
+comprehensive 1
+price 1
+affordability 1
+dust 1
+president 1
+opportunity 1
+response 1
+gain 1
+exposure 1
+building 1
+transaction 1
+consumer 1
+clean 1
+order 1
+
+ Arbitary length NP 
+the acid rain cap and trade program 1
+-the first-ever national cap 1
+the clean air act pollution ha declined by 1
+former emission trading manager 1
+cap and trade system in the clear sky initiative how doe it work 1
+clean air act amendment 1
+our economy ha grown nearly 1
+clear sky initiative work 1
+on the clean air act 1
+acid rain program ] 1
+clear sky initiative � 1
+will significantly improve air quality 1
