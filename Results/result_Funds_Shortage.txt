@@ -12,7 +12,7 @@ full time 1
 last year 1
 next year 1
 u.s. house 1
-fund shortage 1
+funds shortage 1
 seven-figure funding 1
 legislative session 1
 legislative approval 1
@@ -20,19 +20,19 @@ justice conference 1
 executive director 1
 base fee 1
 federal law 1
-it convention 1
 bad news 1
 former member 1
 next week 1
 car-related consumer 1
 first time 1
+its convention 1
 unique opportunity 1
 
  Trigram NP 
-legal service corp. 1
 legal assistance foundation 1
 john n. erlenborn 1
 ruth ann schmitt 1
+legal services corp. 1
 
  Unigram NP 
 illinois 6
@@ -115,6 +115,6 @@ fact 1
  Arbitary length NP 
 legal aid meeting daniel c. vock july 1
 chicago daily law bulletin 1
-illinois supreme court justice thomas l. kilbride 1
-prairie state legal service 1
+prairie state legal services 1
 lincoln legal assistance foundation 1
+illinois supreme court justice thomas l. kilbride 1

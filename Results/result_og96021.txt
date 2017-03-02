@@ -3,26 +3,26 @@
 cost-benefit analysis 2
 federal register 2
 our review 2
-communication act 1
 title ii 1
 original certification 1
+federal regulations 1
 proposed rule 1
 our assessment 1
 general notice 1
+communications act 1
+telecommunications act 1
 unnecessary analysis 1
 statutory authorization 1
 significant decrease 1
+its submission 1
 complete copy 1
-federal regulation 1
 new procedure 1
 alan zuckerman 1
-john anderson 1
 transportation united 1
-telecommunication act 1
+telecommunications issues 1
 major rule 1
 rule making 1
 jr. chairman 1
-it submission 1
 final rule 1
 new selfauthorization 1
 et seq 1
@@ -31,38 +31,38 @@ our report 1
 final report 1
 final rulemaking 1
 commerce house 1
-telecommunication issue 1
+initial analysis 1
 gao/ogc-96-21 section 1
 l. no 1
 small business 1
 economic burden 1
 chief counsel 1
-initial analysis 1
+john anderson 1
 mr. anderson 1
 
  Trigram NP 
 initial regulatory flexibility 3
 paperwork reduction act 2
-equipment authorization requirement 2
-regulatory flexibility analysis 1
-it regulatory flexibility 1
+equipment authorization requirements 2
+federal communications commission 1
 assistant general counsel 1
+regulatory flexibility analysis 1
 final regulatory flexibility 1
 potential economic impact 1
+its regulatory flexibility 1
 andrew s. fishel 1
 specific new authority 1
 et docket no 1
-federal communication commission 1
+administrative procedure act 1
 other relevant information 1
 regulatory flexibility act 1
 independent regulatory agency 1
-administrative procedure act 1
 small business administration 1
 
  Unigram NP 
 commission 20
 section 10
-rule 10
+rule 9
 fcc 9
 u.s.c 8
 analysis 7
@@ -75,7 +75,6 @@ compliance 3
 may 3
 i 3
 code 2
-part 2
 submission 2
 amendment 2
 computer 2
@@ -88,12 +87,15 @@ b 2
 process 2
 iv 2
 agency 2
+parts 2
 digital 2
 office 1
 executive 1
 ratio 1
 equipment 1
+potential 1
 march 1
+rules 1
 512-4586 1
 work 1
 senate 1
@@ -146,7 +148,6 @@ mix 1
 united 1
 application 1
 stat.56 1
-potential 1
 june 1
 director 1
 device 1
@@ -158,16 +159,16 @@ time 1
 clearance 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
-final regulatory flexibility analysis 1
+the commission's rules to deregulate the equipment authorization requirements for digital devices rule under 1
 honorable larry pressler chairman 1
-the commission's rule to deregulate the equipment authorization requirement for digital device rule under 1
-federal communication commission rule 1
-it initial regulatory flexibility 1
-managing director federal communication commission page 1
+final regulatory flexibility analysis 1
+gao/ogc-96-21 enclosure analysis of amendment of parts 1
 honorable ernest f. hollings ranking minority member committee 1
+federal communication commission rules 1
 robert p. murphy general counsel enclosure 1
 general counsel b-271810.7 july 1
-gao/ogc-96-21 enclosure analysis of amendment of part 1
 honorable thomas j. bliley 1
+managing director federal communications commission page 1
+its initial regulatory flexibility 1

@@ -5,13 +5,13 @@ open house 3
 central oregon 2
 federal funding 2
 former state 1
-santiam pas 1
 his thumb 1
 legal assistance 1
 his speech 1
 wind-blown hair 1
 long time 1
 corporate support 1
+santiam pass 1
 reliable vehicle 1
 lowincome population 1
 his dedication 1
@@ -103,7 +103,7 @@ thalhofer 1
 housing 1
 
  Arbitary length NP 
-bend bulletin high court judge visit bend 1
-oregon supreme court justice 1
 retired judge joseph thalhofer 1
+oregon supreme court justice 1
+bend bulletin high court judge visits bend 1
 better legal aid matthew taran thursday 1

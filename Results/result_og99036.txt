@@ -5,7 +5,7 @@ drug administration 3
 60-day delay 3
 cost-benefit analysis 2
 federal register 2
-human drug 2
+human drugs 2
 additional burden 1
 procedure act 1
 health financing 1
@@ -13,7 +13,6 @@ one-time burden 1
 private sector 1
 different compliance 1
 our assessment 1
-pension united 1
 statutory authorization 1
 william scanlon 1
 over-the-counter drug 1
@@ -33,6 +32,7 @@ efficient consumer 1
 major rule's 1
 effective date 1
 one-time cost 1
+pensions united 1
 customary business 1
 our review 1
 
@@ -40,12 +40,12 @@ our review 1
 announced effective date 2
 paperwork reduction act 2
 james w. vickers 1
+human services page 1
 assistant general counsel 1
-other relevant information 1
-human service page 1
-over-the-counter human drug 1
+public health issues 1
+over-the-counter human drugs 1
 significant regulatory action 1
-public health issue 1
+other relevant information 1
 regulatory flexibility act 1
 small business administration 1
 
@@ -55,93 +55,94 @@ rule 12
 u.s.c 9
 health 6
 office 3
-labeling 3
 human 3
-department 3
-year 3
 food 3
+labeling 3
+year 3
 compliance 3
-requirement 2
-notice 2
-iv 2
-rin 2
-gao/ogc-99-36 2
-information 2
-fed 2
+department 3
 title 2
-section 2
-agency 2
-percent 2
-reg 2
 march 2
-collection 2
-0910-aa79 2
-drug 2
+gao/ogc-99-36 2
+section 2
+reg 2
+notice 2
 reason 2
+industry 2
+drug 2
+april 2
+fed 2
 management 2
 b 2
-i 2
-industry 2
 budget 2
-april 2
+iv 2
+rin 2
 analysis 2
-comment 1
+information 2
+agency 2
+percent 2
+collection 2
+0910-aa79 2
+i 2
 code 1
-senate 1
-official 1
-pursuant 1
-authority 1
-512-7114 1
-cost 1
-self-medication 1
-iii 1
-respect 1
-education 1
-practice 1
-subject 1
-united 1
-addition 1
-preamble 1
-labor 1
-content 1
-cc 1
-state 1
-above 1
-marketing 1
-size 1
-evaluation 1
-product 1
 executive 1
-description 1
-act 1
-search 1
-director 1
-february 1
+pursuant 1
+labor 1
+practice 1
 burden 1
 mandate 1
 report 1
-approval 1
-estimate 1
 provision 1
-ii 1
-gao 1
-exception 1
+february 1
 512-8210 1
 designation 1
-failure 1
+requirement 1
 work 1
+senate 1
+authority 1
+cost 1
+self-medication 1
+subject 1
+rulemaking 1
+content 1
+state 1
+above 1
+evaluation 1
+marketing 1
+approval 1
+estimate 1
+preamble 1
+director 1
+search 1
 range 1
+act 1
+comment 1
+cc 1
+respect 1
+size 1
+addition 1
+gao 1
+failure 1
 part 1
+iii 1
+ii 1
+exception 1
+official 1
+512-7114 1
+education 1
+united 1
+requirements 1
+product 1
+description 1
 time 1
 order 1
-rulemaking 1
 
  Arbitary length NP 
 honorable john d. dingell ranking minority member committee 1
 final regulatory flexibility analysis 1
-gao/ogc-99-36 executive order no 1
-a major rule issued by the department of health and human service 1
+unfunded mandates reform act 1
 small business regulatory enforcement fairness act 1
+gao/ogc-99-36 executive order no 1
 honorable james m. jeffords chairman 1
 honorable edward m. kennedy ranking minority member committee 1
 ms. jackie white deputy executive secretariat department 1
@@ -151,4 +152,4 @@ robert p. murphy general counsel enclosure 1
 general counsel b-282318 april 1
 food and drug administration entitled 1
 honorable thomas j. bliley 1
-unfunded mandate reform act 1
+a major rule issued by the department of health and human services 1

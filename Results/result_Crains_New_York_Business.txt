@@ -6,13 +6,13 @@ montague street 2
 her office 2
 half alone 1
 protective gear 1
-twin tower 1
+old office 1
+steven banks 1
 confidential client 1
 brown construction 1
 past month 1
 tenantwise.com inc. 1
 grade-school art 1
-steven bank 1
 her storage 1
 church st 1
 new emergency 1
@@ -20,11 +20,10 @@ ms. baum 1
 temporary space 1
 clear plastic 1
 new york 1
-bendable toy 1
+twin towers 1
 uncomfortable company 1
 jennifer baum 1
 civil division 1
-brooklyn height 1
 good reason-in 1
 church st. 1
 wind-up chattering 1
@@ -32,9 +31,10 @@ ms. benjamin 1
 leaky storage 1
 green thumb 1
 unused spaces-some 1
-old office 1
+brooklyn heights 1
 associate attorney 1
 sam davol 1
+bendable toys 1
 stephen gandel 1
 elisabeth benjamin 1
 

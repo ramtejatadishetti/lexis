@@ -10,22 +10,20 @@ effective date 3
 federal government 3
 current policy 3
 bulletin ftr 2
+its contract 2
 new subsection 2
 uniformed service 2
 additional cost 2
+its travel 2
 federal employee 2
-it proposal 2
 such legislation 2
-it travel 2
 general public 2
+its proposal 2
 official business 2
-it contract 2
 paragraph u2010b 1
 federal travel 1
-it program 1
 such action 1
 long time 1
-potential mean 1
 their private-sector 1
 rental car 1
 gain-sharing program 1
@@ -38,9 +36,10 @@ gao-wide program 1
 our view 1
 their dollar 1
 current requirement 1
+its program 1
 their travel 1
 current disparity 1
-it bureau 1
+its ability 1
 our task 1
 managing director 1
 their program 1
@@ -48,13 +47,13 @@ such organization 1
 fundamental rule 1
 official travel.4 1
 draft legislation 1
-negotiated travel 1
+federal contractor 1
 different carrier 1
-improper selection 1
 negative impact 1
 non-program-related travel 1
 short supply 1
 official travel9 1
+national affairs 1
 his command 1
 their business 1
 individual use 1
@@ -63,6 +62,7 @@ same treatment 1
 voluntary gainsharing 1
 justice department 1
 his agency 1
+transportation allowances 1
 promotional material 1
 maximum extent 1
 departmental emphasis 1
@@ -70,28 +70,30 @@ free airline 1
 other field 1
 30-percent commission 1
 our field 1
-transportation allowance 1
 administrative support 1
 difficult travel 1
 postal service 1
 their value 1
 experience gao 1
 voluntary basis 1
+improper selection 1
 american express 1
-national affair 1
 limited success 1
+potential means 1
 formal program 1
 such travel 1
 disciplinary action 1
+its bureaus 1
 same time 1
 their official 1
 current restriction 1
 interior department 1
 analysis section 1
+practicable cost 1
 comptroller general 1
 such reward 1
 individual traveler 1
-practicable cost 1
+negotiated travel 1
 official travel.3 1
 public law 1
 program-related travel 1
@@ -100,33 +102,31 @@ personal travel 1
 large corporation 1
 federal policy 1
 official duty 1
-it ability 1
 general policy 1
-federal contractor 1
 
  Trigram NP 
 current federal policy 3
 their personal use 2
 acquisition streamlining act 1
+its gain-sharing program 1
+its overall air 1
 official frequent flyer 1
+its adverse effect 1
 few frequent flyer 1
-federal travel regulation 1
-physical infrastructure issue 1
+physical infrastructure issues 1
 their frequent flyer 1
 their own use 1
 their own time 1
 frequent flyer issue 1
 103-355. frequent flyer 1
 federal frequent flyer 1
+frequent flyer miles 1
 john h. anderson 1
-it adverse effect 1
 business travel news 1
-frequent flyer mile 1
 departmentwide frequent traveler 1
 their own property 1
-it overall air 1
+federal travel regulation 1
 federal travel regulation,6 1
-it gain-sharing program 1
 appears limited comprehensive 1
 many foreign service 1
 
@@ -204,8 +204,8 @@ see 2
 enclosure 2
 federal 2
 encourage 2
-bureau 2
 ability 2
+c 2
 incident 2
 extent 2
 amount 2
@@ -217,7 +217,6 @@ area 2
 draft 2
 type 2
 share 2
-c 2
 july 2
 proposal 2
 behalf 2
@@ -273,6 +272,7 @@ policy-and 1
 assistance 1
 gratuity 1
 per 1
+bureau 1
 internet 1
 approach 1
 participation 1
@@ -308,6 +308,7 @@ today 1
 headache 1
 flight 1
 hotel 1
+bureaus 1
 idea 1
 effort 1
 nov. 1
@@ -350,12 +351,12 @@ benefits1 1
 
  Arbitary length NP 
 federal acquisition streamlining act 2
-foreign service officer association 2
+foreign service officers association 2
 federal frequent traveler policy 1
 david m. walker comptroller general 1
 federal property management regulations5 1
+government employees incentive awards act 1
 national business travel association 1
-national treasury employee union 1
+national treasury employees union 1
 official travel is difficult 1
-government employee incentive award act 1
 joint federal travel regulations,7 1

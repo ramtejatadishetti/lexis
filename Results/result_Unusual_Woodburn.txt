@@ -27,7 +27,7 @@ el oaxaqueo 1
 first fellowship 1
 his language 1
 outside world 1
-julie sample 1
+federal funding 1
 central valley 1
 pacificorp foundation 1
 mount angel 1
@@ -45,8 +45,8 @@ spanish-speaking farmworker 1
 david lopez 1
 central america 1
 legal news 1
+julie samples 1
 their time 1
-federal funding 1
 adolfo ruiz-alvarez 1
 their ancestry 1
 similar office 1
@@ -59,7 +59,6 @@ next door 1
 
  Trigram NP 
 oregon law center 3
-santiago ventura morale 1
 el noticiero legal 1
 alex davis woodburn 1
 my fourth language 1
@@ -68,6 +67,7 @@ small legal office 1
 confidential legal aid 1
 woodburn high school 1
 clark law school 1
+santiago ventura morales 1
 
  Unigram NP 
 oregon 8
@@ -78,11 +78,11 @@ oaxaca 4
 english 4
 office 3
 program 3
+samples 3
 state 3
 spanish 3
 language 3
 project 3
-sample 3
 mexican 2
 home 2
 handful 2
@@ -125,12 +125,12 @@ litigation 1
 transportation 1
 august 1
 u.s. 1
+boss 1
 difficulty 1
 california 1
 lopez 1
 working 1
 conviction 1
-bos 1
 drug 1
 place 1
 testament 1

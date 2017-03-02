@@ -17,78 +17,78 @@ such training 1
 complete hospital 1
 see section 1
 cost-benefit analysis 1
-it responsibility 1
-mass distribution 1
+its publication 1
 net decrease 1
+its approach 1
 private sector 1
 additional analysis 1
 proposed rule 1
 finance united 1
 regulatory impact 1
+its submission 1
 our assessment 1
 relative wage 1
 other law 1
-it modification 1
-induced abortion 1
+other statute 1
+other agenda 1
 gao/ogc-96-41 finally 1
 their coverage 1
 federal government 1
+mass distribution 1
 william scanlon 1
 regulatory change 1
-mean house 1
+their care 1
 medical education 1
-human service 1
 et seq 1
 senior attorney 1
+its modification 1
 gao/ogc-96-41 hcfa 1
-it submission 1
-it publication 1
+means house 1
 mr. scanlon 1
-major rule 1
+rates pursuant 1
 appropriate ongoing 1
 jr. chairman 1
-it discussion 1
 their appeal 1
-it approach 1
 economic impact 1
 high quality 1
-other statute 1
 gao/ogc-96-41 submission 1
 our inquiry 1
 burden estimate 1
-their care 1
 financial viability 1
+human services 1
 modified requirement 1
-other agenda 1
+its responsibility 1
+induced abortion 1
 our report 1
 national average 1
 broad authority 1
 general descriptive 1
+major rule 1
 efficient administration 1
-it analysis 1
+its analysis 1
+its discussion 1
 effective date 1
 reasonable use 1
 l. no 1
 numerical description 1
 our review 1
 federal intergovernmental 1
-rate pursuant 1
 
  Trigram NP 
 social security act 9
-it initial analysis 2
+its initial analysis 2
 medicare part a 2
 regulatory flexibility act 2
-it final analysis 1
+human services page 1
 significant regulatory action 1
-particular geographic area 1
-human service page 1
+health systems issues 1
+its final analysis 1
+other relevant information 1
 postgraduate physician training 1
 paperwork reduction act 1
-other relevant information 1
 such other analysis 1
+particular geographic area 1
 helen t. desaulniers 1
-health system issue 1
 
  Unigram NP 
 rule 38
@@ -128,24 +128,24 @@ appendix 3
 agency 3
 payment 3
 executive 2
+actions 2
 wage 2
 title 2
 admission 2
-rate 2
 capital 2
 sba 2
 preamble 2
 change 2
 industry 2
-action 2
+act 2
 number 2
 management 2
 addition 2
 response 2
+rates 2
 july 2
 case 2
 budget 2
-act 2
 iv 2
 rin 2
 percent 2
@@ -188,15 +188,18 @@ work 1
 senate 1
 consistent 1
 §§ 1
+see 1
 year 1
 summary 1
 subject 1
 index 1
+ways 1
 access 1
 state 1
 evaluation 1
 participation 1
 refer 1
+quantification 1
 use 1
 pub 1
 standard 1
@@ -207,7 +210,6 @@ experience 1
 april 1
 connection 1
 suggestion 1
-permit 1
 cc 1
 exercise 1
 flexibility 1
@@ -215,7 +217,6 @@ decrease 1
 .. 1
 area 1
 regulation 1
-way 1
 authorization 1
 relationship 1
 thus 1
@@ -225,7 +226,7 @@ copy 1
 iii 1
 ii 1
 exception 1
-quantification 1
+permits 1
 require 1
 official 1
 matter 1
@@ -243,7 +244,6 @@ graduate 1
 hcfa's 1
 performance 1
 conflict 1
-see 1
 stay 1
 director 1
 opportunity 1
@@ -254,19 +254,19 @@ time 1
 
  Arbitary length NP 
 health care financing administration 3
+unfunded mandates reform act 2
 hospital inpatient prospective payment 2
-unfunded mandate reform act 2
 honorable daniel patrick moynihan ranking minority member committee 1
+honorable sam m. gibbons ranking minority member committee 1
 honorable william v. roth 1
-executive order administrative procedure act 1
-change to the hospital inpatient prospective payment system and fiscal 1
+changes to the hospital inpatient prospective payment systems and fiscal 1
 gao/ogc-96-41 enclosure analysis under 1
 honorable donna e. shalala secretary department 1
-honorable sam m. gibbon ranking minority member committee 1
 robert p. murphy general counsel 1
 honorable bill archer chairman 1
 combined regulatory impact/regulatory flexibility 1
-it combined initial regulatory impact/regulatory 1
-department of health and human service entitled 1
+department of health and human services entitled 1
+executive orders administrative procedure act 1
 a major rule issued by the health care financing administration 1
 general counsel b-274387 september 1
+its combined initial regulatory impact/regulatory 1

@@ -13,13 +13,13 @@ democratic society 1
 current budget 1
 seasonal farm 1
 last year 1
+health services 1
 irreversible damage 1
 forthcoming budget 1
 gary locke 1
 denied access 1
 human service 1
 last resort 1
-health service 1
 domestic violence 1
 american ideal 1
 small piece 1
@@ -45,8 +45,8 @@ weak economy 1
 essential promise 1
 
  Trigram NP 
+legal services too 1
 free legal assistance 1
-legal service too 1
 civil equal justice 1
 u.s. supreme court 1
 gerry l. alexander 1

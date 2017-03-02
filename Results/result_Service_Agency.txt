@@ -9,6 +9,7 @@ their divorce 1
 last year 1
 mary henderson 1
 mental health 1
+legal services 1
 due process 1
 fair hearing 1
 our funding 1
@@ -26,7 +27,6 @@ big picture 1
 legal aid 1
 lawyer trust 1
 legislative lobbying 1
-legal service 1
 chris hastedt 1
 federal funding 1
 annual operating 1
@@ -39,16 +39,16 @@ pine tree legal 2
 augusta district court 2
 free legal aid 1
 maine bar foundation 1
-service agency try 1
-simplify legal problem 1
 new video-conferencing feature 1
-volunteer lawyer project 1
 first successful employment-discrimination 1
+volunteer lawyers project 1
 maine equal justice 1
 lewiston district court 1
 coffin fellowship program 1
-betty adam tuesday 1
+betty adams tuesday 1
 cumberland legal aid 1
+simplify legal problems 1
+service agency tries 1
 
  Unigram NP 
 agency 8
@@ -136,7 +136,7 @@ lewiston 1
 history 1
 
  Arbitary length NP 
+maine civil legal services fund 1
 kennebec county superior court 1
 pine tree legal assistance inc. 1
-maine civil legal service fund 1
 maine equal justice project 1

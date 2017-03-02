@@ -1,7 +1,7 @@
 
  Bigram NP 
-brief intervention 27
 primary care 27
+brief intervention 26
 gentilello lm 6
 j trauma 6
 rivara fp 5
@@ -22,11 +22,11 @@ new york 4
 dyehouse jm 4
 motivational interviewing 4
 donovan dm 4
-dunn cw 3
 urgent care 3
 barry kl 3
 zink bj 3
 blow fc 3
+dunn cw 3
 chang g 3
 mental status 3
 brief alcohol 3
@@ -41,7 +41,6 @@ emergency physician 2
 many risk 2
 howe sr 2
 recommended screening 2
-young adult 2
 general nursing 2
 clinical practice 2
 degutis lc 2
@@ -49,13 +48,12 @@ their alcohol 2
 astrachan bm 2
 moran l 2
 medical treatment 2
-nirenberg td 2
 guilford press 2
 fast-paced environment 2
-alcohol problem 2
 west virginia 2
 hill em 2
 project match 2
+alcohol problems 2
 important outcome 2
 project assert 2
 dinh-zarr t 2
@@ -70,7 +68,6 @@ first step 2
 wide range 2
 lloyd g 2
 physician advice 2
-kern tj 2
 meyrick m 2
 standard practice 2
 screening procedure 2
@@ -81,10 +78,12 @@ diguiseppi c 2
 spontaneous remission 2
 becker b 2
 mccarthy m 2
+nirenberg td 2
 motivational enhancement 2
 brewer pa 2
 jurkovich gj 2
 small business 2
+kerns tj 2
 heitman e 2
 dischinger pc 2
 marital therapy 2
@@ -93,6 +92,7 @@ single intervention 2
 johnson k 2
 wright s 2
 early intervention 2
+alcoholics anonymous 2
 alcohol-related motor 2
 controlled trial 2
 woolard rh 2
@@ -101,7 +101,6 @@ internal medicine 2
 medical education 2
 mean score 2
 alcohol-related trauma 2
-alcoholic anonymous 2
 russlee ac 2
 unique opportunity 2
 important role 1
@@ -134,10 +133,12 @@ longabough r 1
 same physician 1
 standard control 1
 heeren t 1
+young adult 1
 minugh a 1
 intensive intervention 1
 directive treatment 1
 same result 1
+new setting 1
 many problem 1
 olsen cg 1
 misguided attempt 1
@@ -155,6 +156,7 @@ appropriate alcohol 1
 patient progress 1
 other funding 1
 your alcohol 1
+its consequences.38 1
 mazmanian p 1
 high trait 1
 influential factor 1
@@ -163,7 +165,6 @@ recent study 1
 medical setting 1
 her project 1
 extended treatment 1
-smith g 1
 zimmerman gl 1
 rhodes kv 1
 their role 1
@@ -185,17 +186,18 @@ patient-centered alcohol 1
 six-month follow-up 1
 alcohol-related emergency 1
 daranciang e 1
+adams a 1
 follow-up contact 1
 his sense 1
 reyna tm 1
 gail d'onofrio 1
 injury control 1
+computer-based intervention 1
 her belief 1
 single session 1
 professional resistance 1
 doctoral-level psychologist 1
 fuller mg 1
-late time 1
 added cost 1
 empirical testing 1
 hollis mw 1
@@ -203,11 +205,14 @@ dailey jt 1
 substance abuse 1
 porter jm 1
 continuous quality 1
+brief interventions 1
 good news 1
 trained professional 1
+national sample 1
 our inquiry 1
 md excessive 1
-significant policy 1
+walters mc 1
+gurman as 1
 drug screening 1
 linear method 1
 brief monitoring 1
@@ -224,13 +229,14 @@ their research 1
 effective treatment.42 1
 fast pace 1
 charles bombardier 1
+important technique 1
 six-month follow 1
+skinner cs 1
 ronald maio 1
 critical defining 1
 brief negotiation 1
 limited time 1
 significant assistance 1
-inconclusive evidence 1
 integral part 1
 readiness-to-change instrument 1
 sullivan lm 1
@@ -258,7 +264,6 @@ robert lowe 1
 important issue 1
 his research 1
 large expectation 1
-hurley tg 1
 first visit 1
 our thinking 1
 real life 1
@@ -268,13 +273,12 @@ evaluate fidelity 1
 hemphill c 1
 fligner cl 1
 other problem 1
-hoffman r 1
+alcohol-related problems 1
 many treatment 1
 drummond d 1
 bien th 1
 levenson sm 1
 immediate entry 1
-hodgkin dc 1
 intensive treatment 1
 natural history 1
 brief workbook 1
@@ -287,13 +291,13 @@ gorelick da 1
 graham dm 1
 multiple health 1
 severe dependence 1
-national sample 1
+later time 1
 current situation 1
 hodgson rj 1
 current practice 1
 phase ii 1
 excessive drinking 1
-computer-based intervention 1
+significant policy 1
 additional treatment 1
 liver disease 1
 seguin d 1
@@ -311,7 +315,6 @@ adverse consequence 1
 successful connection 1
 nurse workforce 1
 kufera ja 1
-lauderdale d 1
 data collection 1
 risky behaviors.20,32,33 1
 specific intervention 1
@@ -319,9 +322,8 @@ scientific community 1
 much attention 1
 efficient intervention 1
 alcohol-specific intervention.18 1
-tonigan j 1
 continuous care 1
-walter mc 1
+in-depth assessment 1
 17-year-old group 1
 previous research 1
 chaotic nature 1
@@ -330,6 +332,7 @@ low end 1
 injured patient 1
 clinical trial 1
 duggan p 1
+howes ds 1
 their visit 1
 alcohol-related morbidity 1
 buerhaus pi 1
@@ -338,19 +341,19 @@ hired staff 1
 elinor walker 1
 short-term memory 1
 potential opportunity 1
+young adults 1
 taylor-vaisy a 1
 change behavior 1
 seminal interest 1
-drug problem 1
 their practice 1
 minimal intervention 1
 multi-site effectiveness 1
 silver bullet 1
 primary screen 1
+o'malley ss 1
 gordon smith 1
-new setting 1
+smith gs 1
 weil u 1
-addiction behavior 1
 social science 1
 successful referral 1
 tesh e 1
@@ -380,6 +383,7 @@ her readiness 1
 normal drinker 1
 post-discharge period 1
 effective intervention 1
+hurley tg 1
 strong evidence 1
 brief health 1
 rounsaville b 1
@@ -393,6 +397,7 @@ hazardous drinking 1
 daniel hungerford 1
 further research 1
 different way 1
+hodgkins dc 1
 public hospital 1
 billable service 1
 our research 1
@@ -404,6 +409,7 @@ heather n 1
 separate protocol 1
 heavy drinking 1
 high risk 1
+lauderdale ds 1
 oxman ad 1
 mitchell ka 1
 prochaska jo 1
@@ -431,21 +437,19 @@ ockene jk 1
 self-change treatment 1
 legal aspect 1
 full advantage 1
+inconclusive evidence 1
 ed-based brief 1
 residential substance 1
 urban health 1
 diamond dl 1
-adam a 1
 tertiary care 1
-gurman a 1
 interactive voice 1
 medical center 1
-in-depth assessment 1
+nursing staff 1
 zuska jj 1
 average reduction 1
 drunken driving 1
 hulsebus rc 1
-skinner c 1
 shepherd jp 1
 large challenge 1
 recurrent injury 1
@@ -456,11 +460,11 @@ alcohol-related harm 1
 bosworth mf 1
 heather n. 1
 upcoming chapter 1
+addiction behaviors 1
 ideal place 1
 national health 1
 thomas babor 1
 dependent drinker 1
-it consequences.38 1
 medical problem 1
 net cast 1
 am fam 1
@@ -473,16 +477,14 @@ wolf fm 1
 well-controlled intervention 1
 patient openness 1
 mean reduction 1
-o'malley s 1
+tonigan js 1
 their time 1
 r-03 program 1
 patient's perception 1
 anonymous session 1
-important technique 1
 david lewis 1
 treatable disease 1
 meyer re 1
-howe d 1
 brief report 1
 serum gamma 1
 arch surg 1
@@ -531,6 +533,7 @@ lifestyle change 1
 single case 1
 richard brown 1
 christopher dunn 1
+drug problems 1
 hungerford dw 1
 sobel lc 1
 harm reduction 1
@@ -576,7 +579,6 @@ merrigan dm 1
 seminal study 1
 armstrong sj 1
 pollock da 1
-alcohol-related problem 1
 positive effect 1
 serious shortage 1
 jacobson n 1
@@ -588,6 +590,7 @@ her study 1
 intensive day 1
 wheeler ev 1
 individualized plan 1
+hoffman rs 1
 prev med 1
 roizen mf 1
 her experience 1
@@ -601,7 +604,6 @@ controlled chaos 1
 inpatient hospital 1
 second intervention 1
 basic research 1
-nursing staff 1
 
  Trigram NP 
 acad emerg med 9
@@ -620,7 +622,7 @@ j addict dis 2
 br med j 2
 community-based primary care 2
 few formal follow-up 1
-bryant k. reporting 1
+] south natick 1
 br j addict 1
 lengthy follow-up period 1
 presentation gail d'onofrio 1
@@ -630,18 +632,18 @@ world health organization 1
 terry d. alcohol 1
 violence prevention committee 1
 gawin f. one-year 1
+hospitalized trauma patients 1
 change.3 actual ed 1
 his irb clearance 1
 touquet r. intervention 1
 same metropolitan area 1
-] south natick 1
+possible decreased delivery 1
 their new study 1
 referral ◆motivational enhancement 1
 harborview medical center 1
 unaided salutary effect 1
 hebert jr. brief 1
 tourquet r. intervention 1
-possible decreased delivery 1
 injury.3-10 several compelling 1
 general health-needs survey 1
 his second point 1
@@ -670,7 +672,7 @@ arch intern med 1
 single motivational interview 1
 many single-visit alcohol 1
 substance abuse treatment 1
-hospitalized trauma patient 1
+bryant k. reporting 1
 violent incident-facilitates intervention 1
 automated computerized screening 1
 phd* carl soderstrom 1
@@ -684,7 +686,7 @@ new york state 1
 alcohol 116
 emergency 114
 intervention 108
-ed 74
+ed 67
 drinking 60
 treatment 44
 department 41
@@ -705,10 +707,10 @@ change 18
 visit 18
 health 18
 consumption 14
-type 13
 diclemente 13
 staff 13
 effect 13
+type 12
 center 12
 variety 12
 risk 11
@@ -732,12 +734,13 @@ system 8
 brief 8
 technology 8
 evidence 8
+eds 7
 program 7
 process 7
-project 7
 motivation 7
 issue 7
 bac 7
+project 7
 physician 7
 d'onofrio 7
 opportunity 7
@@ -776,7 +779,6 @@ involvement 5
 interventionist 5
 al 5
 brown 4
-surgeon 4
 decrease 4
 hospital 4
 stage 4
@@ -810,11 +812,11 @@ age 4
 soderstrom 4
 attribution 3
 none 3
+surgeon 3
 condition 3
 access 3
 new 3
 survey 3
-prevalence 3
 vehicle 3
 mortality 3
 agenda 3
@@ -843,6 +845,7 @@ belt 3
 triage 3
 accident 3
 psychotherapy 3
+prevalence 3
 development 3
 model 3
 cherpitel 3
@@ -857,7 +860,6 @@ ny 3
 lack 2
 month 2
 environment 2
-pilot 2
 presentation 2
 helmet 2
 cause 2
@@ -872,6 +874,7 @@ experience 2
 amount 2
 action 2
 motor 2
+alcoholic 2
 bike 2
 call 2
 scope 2
@@ -879,6 +882,7 @@ phone 2
 md 2
 mf 2
 challenge 2
+ms 2
 example 2
 nursing 2
 recovery 2
@@ -895,12 +899,10 @@ association 2
 randomized 2
 university 2
 shortage 2
-mean 2
 status 2
 harm 2
 insurance 2
 funding 2
-robert 2
 rivara 2
 evaluation 2
 dunn 2
@@ -914,21 +916,22 @@ statement 2
 percentage 2
 morbidity 2
 target 2
-second 2
+intensity 2
+roberts 2
 mechanism 2
 effectiveness 2
 most 2
 volume 2
 observation 2
-m 2
 disease 2
 section 2
 fear 2
 impact 2
 factor 2
+means 2
 dc 2
 detection 2
-intensity 2
+pilot 2
 college 2
 result 2
 irb 2
@@ -938,11 +941,11 @@ monitor 2
 drug 2
 context 2
 watkins 2
+second 2
 direction 2
 worker 2
 smoking 2
 balance 2
-alcoholic 2
 telephone 2
 ivr 2
 crash 2
@@ -987,8 +990,8 @@ competition 1
 content 1
 one-half 1
 disability 1
+must 1
 gentillelo 1
-woman 1
 self-efficacy 1
 :1200-9 1
 practicing 1
@@ -1047,7 +1050,7 @@ door 1
 pooling 1
 site 1
 carrying 1
-must 1
+women 1
 account 1
 :1409-16 1
 :2948-54 1
@@ -1076,6 +1079,7 @@ epidemiologic 1
 multitude 1
 mesh 1
 law 1
+types 1
 third 1
 documentation 1
 life 1
@@ -1090,6 +1094,7 @@ committee 1
 rapport 1
 adolescence 1
 goal.1,2 1
+surgeons 1
 pharmacotherapy 1
 texas 1
 someone 1
@@ -1134,13 +1139,11 @@ priority 1
 boating 1
 assumption 1
 master 1
-national 1
 enforcement 1
 option 1
 geneva 1
 institution 1
 population 1
-b 1
 rebound 1
 matter 1
 :627-38 1
@@ -1184,10 +1187,9 @@ timing 1
 hours/day 1
 behavior.49,50 1
 activity 1
-frame 1
+national 1
 surgery 1
 concern 1
-youth 1
 studies.1 1
 programs.37 1
 state 1
@@ -1217,7 +1219,6 @@ creativity 1
 hitting 1
 dinh-zarr 1
 interest 1
-ph 1
 prototype 1
 sobriety 1
 volunteer 1
@@ -1248,10 +1249,12 @@ modification 1
 reminder 1
 composition 1
 carroll,11,12 1
+youth 1
 columbia 1
 reporting 1
 driver 1
 program.21 1
+phs 1
 audit 1
 no 1
 position 1
@@ -1304,6 +1307,7 @@ referral.10 1
 bl 1
 step 1
 confrontation 1
+bs 1
 transpeptidase 1
 preventative 1
 noisy 1
@@ -1323,6 +1327,7 @@ administer 1
 chronic 1
 female 1
 hemphill 1
+frames 1
 attrition 1
 lesson 1
 breath 1
@@ -1373,21 +1378,21 @@ urgency 1
 
  Arbitary length NP 
 maryland shock trauma center 2
+levenson s. project assert 2
 am j crit care 2
 saem substance abuse task force 2
 nurs clin north am 2
-levenson s. project assert 2
-alcohol clin exp re 2
-emergency setting carlo c. diclemente 1
-br j oral maxillofac surg 1
+alcohol clin exp res 2
+emergency settings carlo c. diclemente 1
+emergency setting interventions ◆brief advice 1
 robert wood johnson foundation 1
 j gen intern med 1
-u.s. government printing office 1
 j consult clin psychol 1
 j geriatr psychiatry neurol 1
 substance abuse task force 1
-emergency setting intervention ◆brief advice 1
 intervention screening evaluation referral counseling follow-up response 1
+br j oral maxillofac surg 1
 soderstrom article kristen lawton barry 1
 general discussion richard longabaugh 1
+u.s. government printing office 1
 bull am coll surg 1

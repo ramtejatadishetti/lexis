@@ -19,15 +19,15 @@ free legal aid 1
 legal assistance foundation 1
 illinois supreme court 1
 peoria county state 1
-attorney kevin lyon 1
+lincoln legal services 1
+attorney kevin lyons 1
 free legal service 1
 prairie state legal 1
 lisa y. wilson 1
 christopher williams friday 1
 illinois general assembly 1
-lincoln legal service 1
-legal service corp. 1
 ruth ann schmitt 1
+legal services corp. 1
 
  Unigram NP 
 illinois 7
@@ -78,4 +78,4 @@ woodford 1
 
  Arbitary length NP 
 lsc president john erlenborn 1
-prairie state legal service inc. 1
+prairie state legal services inc. 1

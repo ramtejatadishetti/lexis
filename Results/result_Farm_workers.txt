@@ -26,9 +26,10 @@ rocky mountain 1
 other crew 1
 kimi jackson 1
 adjacent lettuce 1
+industrial medicine 1
 colorado department 1
 portable toilet 1
-it kind 1
+its kind 1
 guierrmo othon 1
 farm-labor contractor 1
 other segment 1
@@ -40,9 +41,8 @@ marcelina lopez 1
 blanca chavez 1
 their skin 1
 regional office 1
-industrial medicine 1
+legal services 1
 skin rash 1
-legal service 1
 her belly 1
 jim dorsey 1
 nonprofit law 1
@@ -64,8 +64,8 @@ western slope 1
 seminal study 1
 
  Trigram NP 
-colorado legal service 5
-united farm worker 2
+colorado legal services 5
+united farm workers 2
 your own office 1
 colorado farm bureau 1
 worker protection standard 1

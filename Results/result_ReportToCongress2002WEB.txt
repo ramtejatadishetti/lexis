@@ -10,10 +10,7 @@ negotiated service 3
 due process 3
 senate committee 3
 new service 3
-niche classification 3
 clear mandate 2
-governmental affair 2
-federal regulation 2
 domestic mail 2
 house committee 2
 expeditious consideration 2
@@ -21,10 +18,12 @@ joint authority 2
 public proceeding 2
 subpart c 2
 same section 2
+federal regulations 2
 agreed-upon rate 2
 multi-year test 2
 expedited basis 2
 unreasonable discrimination 2
+governmental affairs 2
 settlement agreement 2
 new mail 2
 public scrutiny 2
@@ -33,38 +32,37 @@ current law 2
 mutual benefit 2
 government reform 2
 permanent mail 2
+niche classification 2
 their mail 2
 such authority 2
 legal soundness 2
 prior review 1
 problematical approach 1
 permanent authority 1
+express mail 1
 proposed change 1
 such user 1
 public notice 1
-it reluctance 1
 new restriction 1
 experimental trial 1
 proposed mail 1
 two-year experiment 1
 limited time 1
-such arrangement 1
 procedural scheduling 1
 standard a 1
 general rate 1
-statutory base 1
+service agreements 1
 procedural flexibility 1
 provisional basis 1
 three-year experiment 1
-postal policy 1
 manual delivery 1
 their priority 1
 second section 1
-it movement 1
 procedural perspective 1
 first-class mail 1
 initial mail 1
 statutory codification 1
+minimum quantity 1
 operational efficiency 1
 effective date 1
 new form 1
@@ -75,7 +73,6 @@ commission review 1
 initial proposal 1
 their operation 1
 mailing online 1
-minimum quantity 1
 other postage 1
 pre-existing law 1
 procedural time 1
@@ -86,19 +83,19 @@ procedural requirement 1
 experimental service 1
 several mail 1
 requested extension 1
-respectfully submitted 1
+its movement 1
 applicable bulk 1
 introduce innovative 1
 third set 1
 postmaster general 1
 reorganization act's 1
-it effectiveness 1
+such arrangement 1
 second set 1
 their application 1
 fiscal year 1
-it report 1
 postal ratemaking 1
 procedural history 1
+statutory bases 1
 administrative process 1
 traditional mail 1
 first set 1
@@ -108,29 +105,33 @@ their use 1
 small volume 1
 special service 1
 order no 1
-service agreement 1
+postal policy 1
 affordable rate 1
+its effectiveness 1
 expedited approval 1
 revised form 1
+its effect 1
 direct consultation 1
 plenary authority 1
 appendix a 1
+niche classifications 1
 further invitation 1
 joint committee 1
 additional flexibility 1
+its reluctance 1
 subsequent rulemaking 1
 substantial uncertainty 1
 postal law 1
 new procedural 1
 provisional service 1
 general public 1
+its report 1
 procedural schedule 1
 particular form 1
 regulatory scrutiny 1
 procedural deadline 1
 affected mail 1
-express mail 1
-it effect 1
+its view 1
 rep. no 1
 test basis 1
 electronic form 1
@@ -138,63 +139,63 @@ other mailer 1
 legal sufficiency 1
 commission's office 1
 specialized mail 1
+respectfully submitted 1
 postal innovation,2 1
 experimental program 1
 legal uncertainty 1
 same service 1
 general willingness 1
-it view 1
 l. no 1
 specify fairness 1
 
  Trigram NP 
 postal rate commission 14
 postal reorganization act 5
-negotiated service agreement 4
-postal service governor 3
+negotiated service agreements 4
+postal service governors 3
 current legal authority 2
-it own initiative 2
+its own initiative 2
 mail classification schedule 2
 congress appendix feb. 2
 additional five-year period 1
 post office department 1
 sufficient legal basis 1
 many such mail 1
-three-year experimental trial 1
-postal service request 1
+postal service september 1
+us postal service 1
 flat ten-cent rate 1
 george a. omas 1
-appropriation senate committee 1
 joint task force 1
+appropriations house committee 1
 their apparent workability 1
-service innovation recognizing 1
-appropriation house committee 1
+service innovations recognizing 1
+periodicals • nature 1
+three-year experimental trial 1
 standard a mail 1
 h. r. conf 1
 §§ 3001.171-.176. information 1
 see postal ratemaking 1
 streamline procedural scheduling 1
 potential authority no 1
-u postal service 1
 expedite public notice 1
 small office/home office 1
+appropriations senate committee 1
 other relevant evidence 1
 part iv-mail matter 1
 their continuing usefulness 1
+mail classifications prior 1
 recommended decision approving 1
 procedural due process 1
 united parcel service 1
 abolish special nonpostal 1
 entire proposed test 1
+postal service request 1
 government reform subject 1
 significant additional mail 1
-service product innovation 1
-periodical • nature 1
 business reply mail 1
-postal service september 1
+service product innovations 1
 recent rulemaking.11 conclusion 1
 their mutual benefit 1
-mail classification prior 1
 
  Unigram NP 
 commission 46
@@ -228,7 +229,6 @@ chapter 5
 c 5
 time 5
 delivery 5
-committee 4
 cost 4
 schedule 4
 s 4
@@ -246,7 +246,6 @@ holiday 3
 petition 3
 february 3
 nation 3
-appropriation 3
 january 3
 history 3
 §§ 3
@@ -254,19 +253,19 @@ recommendation 3
 innovation 3
 niche 3
 processing 3
-package 3
 period 3
 procedural 3
 whole 3
-nsa 3
 conference 3
 use 3
 accordance 3
 mailer 3
+package 3
 confirmation 3
 may 3
 task 3
 concept 2
+committee 2
 range 2
 settlement 2
 november 2
@@ -277,6 +276,7 @@ advertising 2
 practice 2
 background 2
 provision 2
+committees 2
 peak 2
 user 2
 force 2
@@ -285,6 +285,7 @@ reg 2
 printing 2
 business 2
 publication 2
+appropriations 2
 page 2
 april 2
 connection 2
@@ -315,6 +316,7 @@ consistency 2
 mc2000-2 2
 plan 2
 proceeding 2
+nsas 2
 analysis 2
 part 2
 enter 2
@@ -328,7 +330,7 @@ prohibition 1
 adoption 1
 product 1
 mc2001-1 1
-supra 1
+comments 1
 testimony 1
 r2001-1 1
 practice,9 1
@@ -339,6 +341,7 @@ notice 1
 point 1
 character 1
 contravention 1
+periodicals 1
 to 1
 extension 1
 compensatory 1
@@ -352,10 +355,10 @@ law.1 1
 principle 1
 introduce 1
 bulk 1
+appropriation 1
 deployment 1
 advantage 1
 mc2001-3 1
-comment 1
 proponent 1
 future 1
 criterion 1
@@ -366,7 +369,6 @@ economy 1
 heading 1
 view 1
 requirement 1
-periodical 1
 containerization 1
 senate 1
 house 1
@@ -407,10 +409,12 @@ f.supp 1
 obligation 1
 presort 1
 justification-are 1
+iv 1
 action 1
 experimental 1
 issuance 1
 duty 1
+nsa 1
 enactment 1
 preservation 1
 trial-type 1
@@ -436,7 +440,7 @@ volume 1
 failure 1
 cong. 1
 determination 1
-iv 1
+evidence 1
 iii 1
 former 1
 mc99-2 1
@@ -447,6 +451,7 @@ see 1
 value 1
 computer 1
 limit 1
+light 1
 piece 1
 specialized 1
 procedure 1
@@ -455,7 +460,6 @@ breakeven 1
 prompt 1
 cast 1
 process 1
-evidence 1
 need 1
 march 1
 mc97-1 1
@@ -479,13 +483,13 @@ legality 1
 update 1
 a. 1
 rationale 1
+supra 1
 phase 1
 law 1
 response 1
 classification.17 1
 disruption 1
 i 1
-light 1
 f.2d 1
 filing 1
 responsibility 1
@@ -495,28 +499,28 @@ cir 1
 
  Arbitary length NP 
 domestic mail classification schedule 2
-special-purpose mail classification change reviewed 2
-c. commission procedure adapted 1
+special-purpose mail classification changes reviewed 2
 postal service authority to develop 1
-customer united state of america postal rate commission february 1
-c. negotiated service agreement 1
-customer to provide service 1
+presorted priority mail rate categories • nature 1
+introduce and provide new products and services a 1
 seasonal delivery confirmation fee • nature 1
-postal service authority to enter into negotiated rate and service agreement with individual customer or group 1
-the united state postal service to introduce new product and service and to enter into rate and service agreement with individual customer or group 1
+customers to provide services 1
+chairman ruth y. goldway 1
+governmental affairs house committee 1
+customers united states of america postal rate commission february 1
 flat additional ten-cent rate 1
 background and scope of analysis 1
+c. commission procedures adapted 1
 report to the congress 1
 vice chairman dana b. covington 1
 recommended decision approving stipulation 1
 u. s. postal service 1
-introduce and provide new product and service a 1
 commissioner report to the congress 1
-presorted priority mail rate category • nature 1
+c. negotiated service agreements 1
 first full fiscal year 1
 online experiment • nature 1
-governmental affair house committee 1
+appendix postal service product innovations 1
 postal rate commission memorandum february 1
 postal service-postal rate commission 1
-chairman ruth y. goldway 1
-appendix postal service product innovation 1
+the united states postal service to introduce new products and services and to enter into rate and service agreements with individual customers or groups 1
+postal service authority to enter into negotiated rate and service agreements with individual customers or groups 1

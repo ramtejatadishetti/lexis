@@ -6,18 +6,18 @@ social security 1
 chisorom okwuosa 1
 kay loughrey 1
 legal advice 1
+its expansion 1
 david mandel 1
 full-time staff 1
-it efficiency 1
+its efficiency 1
 second time 1
 private foundation 1
-legal service 1
 grant application 1
 sacramento county 1
 long-term care 1
 federal grant 1
 last year 1
-it expansion 1
+legal services 1
 new telephone 1
 
  Trigram NP 
@@ -81,4 +81,4 @@ whole 1
 
  Arbitary length NP 
 nancy weaver teichert saturday 1
-senior legal service task force 1
+senior legal services task force 1

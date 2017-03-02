@@ -3,12 +3,12 @@
 legal aid 9
 west virginia 6
 last year 2
-jackson kelly 2
 segal law 2
+jackson kelly 2
 adrienne worthy 1
 vocational training 1
 al emch 1
-west virginian 1
+local community 1
 three-year goal 1
 young woman 1
 fund-raising drive 1
@@ -17,19 +17,19 @@ fund-raising goal 1
 scott segal 1
 general population 1
 entire population 1
-disabled child 1
-young mother 1
+executive director 1
 our justice 1
-local community 1
-it work 1
+its work 1
 her agency 1
 federal poverty 1
 quarrier st. 1
 medical care 1
-executive director 1
+disabled child 1
+west virginians 1
+young mother 1
 
  Trigram NP 
-it average case 1
+its average case 1
 previous federal funding 1
 
  Unigram NP 

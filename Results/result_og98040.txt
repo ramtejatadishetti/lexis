@@ -1,14 +1,14 @@
 
  Bigram NP 
 registration form 7
-final rule 6
+final rule 5
 exchange commission 3
 control no 2
-security act 2
 cost-benefit analysis 2
 new rule 2
 new information 2
 form n-1a 2
+securities act 2
 annual cost 1
 procedure act 1
 initial time 1
@@ -24,8 +24,9 @@ open-end management 1
 new format 1
 statutory authorization 1
 current information 1
+its rulemaking 1
 et seq 1
-federal register 1
+final rules 1
 jr. chairman 1
 new profile 1
 james vickers 1
@@ -33,10 +34,10 @@ standardized format 1
 mutual fund 1
 essential information 1
 same day 1
-it rulemaking 1
 commerce house 1
 restructured advertising 1
 new disclosure 1
+federal register 1
 mr. mccool 1
 separate treatment 1
 our review 1
@@ -49,14 +50,14 @@ independent regulatory agency 2
 paperwork reduction act 2
 regulatory flexibility act 2
 assistant general counsel 1
-final rule pursuant 1
 other relevant information 1
 total annual cost 1
 estimated annual burden 1
+final rules pursuant 1
 regulatory flexibility analysis 1
 general counsel b-279588 1
 enclosure analysis under 1
-urban affair united 1
+urban affairs united 1
 executive order no 1
 recent fiscal year 1
 exchange commission page 1
@@ -80,7 +81,7 @@ fed 3
 executive 2
 title 2
 investor 2
-security 2
+securities 2
 competition 2
 investment 2
 omb 2
@@ -96,12 +97,12 @@ response 2
 i 2
 code 1
 pursuant 1
+issues 1
 confirmation 1
 preparing 1
 burden 1
 report 1
 512-8210 1
-issue 1
 banking 1
 benefit 1
 work 1
@@ -161,14 +162,14 @@ time 1
 filing 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
 final regulatory flexibility analysis 1
+a major rule issued by the securities and exchange commission entitled 1
 honorable alfonse m. d'amato chairman 1
 honorable jonathan g. katz secretary 1
-registration form used by open-end management investment company 1
+registration form used by open-end management investment companies 1
+disclosure option for open-end management investment companies 1
 honorable paul s. sarbanes ranking minority member committee 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the security and exchange commission entitled 1
-disclosure option for open-end management investment company 1
 honorable thomas j. bliley 1

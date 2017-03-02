@@ -16,9 +16,10 @@ high priority 2
 daniel pollock 2
 such collaboration 1
 social welfare 1
-it success 1
+recent survey 1
 his use 1
 total research 1
+its success 1
 screening research 1
 patricia perry 1
 strong case 1
@@ -59,7 +60,7 @@ ann mahoney 1
 david fiellin 1
 main point 1
 final session 1
-domestic violence 1
+its ability 1
 robert lowe 1
 gordon smith 1
 larry gentilello 1
@@ -84,6 +85,7 @@ specific definition 1
 important way 1
 current research 1
 interventive effect 1
+its place 1
 other funding 1
 richard brown 1
 christopher dunn 1
@@ -114,7 +116,6 @@ high-risk environment 1
 marilyn sommers 1
 richard longabaugh 1
 complex health 1
-it place 1
 much responsibility 1
 clinical practice 1
 easy assumption 1
@@ -138,7 +139,7 @@ small institution 1
 effective screening 1
 ed-based research 1
 grant application 1
-recent survey 1
+domestic violence 1
 extensive feedback 1
 ironclad case 1
 carl soderstrom 1
@@ -154,16 +155,15 @@ uniform screening 1
 general discussion 1
 only contact 1
 multi-center trial 1
-it ability 1
 specialized treatment 1
 small business 1
 certain amount 1
 
  Trigram NP 
 national advisory council 1
-it whole research 1
 issue-the moral imperative 1
 ultimate task-to create 1
+its whole research 1
 specific clinical setting 1
 their only opportunity 1
 need out-patient counseling 1
@@ -172,8 +172,8 @@ specific medical care 1
  Unigram NP 
 research 59
 recommendation 49
-ed 43
 alcohol 43
+ed 37
 screening 28
 emergency 22
 intervention 22
@@ -190,6 +190,7 @@ work 7
 problem 7
 department 7
 information 7
+eds 6
 brown 6
 niaaa 6
 pollock 6
@@ -219,6 +220,7 @@ level 3
 evaluation 3
 issue 3
 patient 3
+mechanisms 3
 component 3
 consideration 3
 context 3
@@ -228,14 +230,13 @@ privacy 3
 strategy 3
 priority 3
 statement 3
-topic 3
 part 3
+topic 3
 grant 3
 need 3
 technology 3
 discussion 3
 diesenhaus 3
-mechanism 3
 gordon 3
 abuse 3
 reimbursement 3
@@ -301,7 +302,7 @@ maintenance 1
 help 1
 precedence 1
 rest 1
-press 1
+phds 1
 pro-gram 1
 recidivism 1
 alternative 1
@@ -319,6 +320,7 @@ communication 1
 continuity 1
 somebody 1
 government 1
+press 1
 evaluate 1
 clinician 1
 expectation 1
@@ -347,6 +349,7 @@ woolard 1
 cost 1
 subcommittee 1
 manner 1
+mds 1
 endeavor 1
 concern 1
 category 1
@@ -361,7 +364,6 @@ access 1
 enough 1
 trauma 1
 routing 1
-rn 1
 reading 1
 method 1
 nida 1
@@ -373,7 +375,6 @@ possibility 1
 understanding 1
 efficiency 1
 plea 1
-phd 1
 likelihood 1
 linkage 1
 definition 1
@@ -411,13 +412,13 @@ link 1
 review 1
 provider 1
 rationale 1
-md 1
 financing 1
 imbalance 1
 slogan 1
 room 1
 isolation 1
 objective 1
+rns 1
 remain 1
 prioritization 1
 behavior 1
@@ -473,4 +474,4 @@ addiction 1
 opinion 1
 
  Arbitary length NP 
-draft recommendation daniel hungerford 1
+draft recommendations daniel hungerford 1

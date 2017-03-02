@@ -146,7 +146,6 @@ provides greater urgency 1
 state supreme court 1
 civil legal service 1
 esther f. lardent 1
-slowly grinding wheel 1
 first court-sponsored entity 1
 numerous worthy justice 1
 fordham university school 1
@@ -156,6 +155,7 @@ public service project 1
 kristin booth glen 1
 good samaritan law 1
 needed legal help 1
+slowly grinding wheels 1
 
  Unigram NP 
 law 7
@@ -249,10 +249,9 @@ event 1
 out 1
 recession 1
 funding 1
-consortium 1
 assistance 1
+compensation 1
 custody 1
-appeal 1
 contrast 1
 cord 1
 noise 1
@@ -273,7 +272,7 @@ afternoon 1
 smoke 1
 divorce 1
 duty 1
-note 1
+appeals 1
 fordham 1
 deputy 1
 wall 1
@@ -307,7 +306,8 @@ hour 1
 challenge 1
 abortion 1
 project 1
-compensation 1
+note 1
+consortia 1
 complaint 1
 rooney 1
 report 1
@@ -370,8 +370,8 @@ community legal resource network 1
 new york state unified court system 1
 [ city bar ] 1
 chief judge judith s. kaye 1
-attack upstage legal service initiative 1
 georgetown university law center 1
 new york law journal 1
 new york fire department 1
+attack upstages legal services initiative 1
 public service bar exam 1

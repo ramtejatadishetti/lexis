@@ -1,6 +1,6 @@
 
  Bigram NP 
-postal density 44
+postal density 43
 la poste 12
 universal service 6
 inefficient entry 5
@@ -11,7 +11,6 @@ fixed cost 4
 low cost 4
 new york 4
 uniform tariff 3
-current direction 3
 important cost 3
 postal reform 3
 french population 3
@@ -19,6 +18,8 @@ average unit 3
 average cost 3
 low volume 3
 variable portion 3
+current directions 3
+spyros xenakis 2
 important driver 2
 andré grimaud 2
 french distribution 2
@@ -28,27 +29,23 @@ see cohen 2
 john waller 2
 square kilometer 2
 per hour 2
-postal delivery 2
 low population 2
+postal delivery 2
 outside work 2
 efficient delivery 2
 joëlle toledano 2
 other hand 2
 fixed portion 2
 annual volume 2
-spyros xenakis 2
 important role 1
-entry scenario 1
 usps index 1
 ac usps 1
-component report 1
 geographical concentration 1
 actual unit 1
 business are 1
 loading time 1
-yearly volume 1
+densities table 1
 translog equation 1
-go where 1
 efficient entrant 1
 jean-pierre florens 1
 narrow range 1
@@ -59,21 +56,21 @@ william ferguson 1
 neighborhood delivery 1
 french unit 1
 sarah marcy 1
-per caput 1
 mean = 1
 average time 1
+postal densities 1
 exogenous cost 1
+per capita 1
 introduction virtually 1
+interesting phenomena 1
 geographic area 1
 population density 1
 françoise l. 1
 standard deviation 1
 rural carrier 1
-it cost 1
 industrialized country 1
 cost heterogeneity 1
 usps lr-i-1 1
-interesting phenomenon 1
 see roy 1
 single measure 1
 uniform quality 1
@@ -91,7 +88,9 @@ farmer's driveway 1
 postal sector 1
 variable load 1
 umbrella price 1
+entry scenarios 1
 endogenous dimension 1
+geographical cost 1
 technico-economic analysis 1
 following way 1
 postal market 1
@@ -105,24 +104,23 @@ sub-areas represent 1
 rural population 1
 extensive use 1
 average distance 1
+goes where 1
 essential condition 1
 roadside line 1
 cost behavior 1
 bottom quartile 1
 her vehicle 1
 translog model 1
-geographical cost 1
+routes ranked 1
 above example 1
 front door 1
 rural mail 1
 simple example 1
 precise view 1
 detached dwelling 1
-route ranked 1
 rapid change 1
 international currency 1
 important source 1
-density table 1
 loop city 1
 competitive entry 1
 u.s. table 1
@@ -131,21 +129,21 @@ address possible 1
 out-of-office delivery 1
 single address 1
 high deviation 1
+references berthélémy 1
+components report 1
 usps data 1
 high density 1
 inner area 1
 matthew robinson 1
-ceteris paribus 1
+its cost 1
 french carrier 1
 only explanation 1
 north dakota 1
 questionable accuracy 1
-reference berthélémy 1
 service.23 load 1
 french volume 1
 current carrier 1
 outlying area 1
-it range 1
 breakeven post 1
 regulatory economics 1
 relevant factor 1
@@ -160,44 +158,47 @@ average slope 1
 fixed time 1
 u.s. ceteris 1
 high cost 1
+ceteris paribus 1
 their mail 1
 uniform price 1
 urbanized area 1
+its range 1
 left side 1
 many delivery 1
 french average 1
+yearly volume 1
 other side 1
 
  Trigram NP 
 paul r. kleindorfer 5
-kluwer academic publisher 4
+kluwer academic publishers 4
 french postal density 3
 low postal density 3
 postal density derived 2
 high postal density 2
 postal rate commission 2
-rural area postal 1
-it alternative service 1
+unit delivery costs 1
+some basic comparisons 1
+its average cost 1
+mail goes where 1
 prc docket no 1
 average postal density 1
 change la poste 1
-unit delivery cost 1
+its postal density 1
 low average unit 1
-some basic comparison 1
 quite aggregate view 1
-it postal density 1
-the cost driver 1
-usps cost segment 1
+its alternative service 1
+rural areas postal 1
 vincenzo visco comandini 1
 rural mail delivery 1
 new york city 1
 high average unit 1
-mail go where 1
 normalized french distribution 1
+usps cost segments 1
 * street time 1
 applicable postal law 1
+the cost drivers 1
 united states.2 surprisingly 1
-it average cost 1
 city carrier system 1
 delivery data france 1
 per delivery point 1
@@ -207,29 +208,29 @@ delivery 83
 % 76
 u.s. 57
 france 47
-volume 45
+volume 44
 cost 35
 unit 21
-area 17
 population 17
 figure 17
+area 16
 time 16
 density 15
 percent 14
-address 13
+address 12
 country 12
 carrier 12
 quality 12
 mail 11
 usps 11
 comparison 11
-route 11
 service 11
 u.s 11
 variation 11
 street 10
 range 9
 impact 8
+route 8
 number 8
 ratio 8
 traffic 7
@@ -271,6 +272,7 @@ access 3
 mailbox 3
 post 3
 simulation 3
+routes 3
 operator 3
 r2000-1 3
 system 3
@@ -292,23 +294,24 @@ paper 2
 spite 2
 demographia 2
 level 2
-efficiency 2
 roy 2
 study 2
 bicycle 2
+vol 2
 business 2
 kilometer 2
 entrant 2
 fy 2
 change 2
 interaction 2
+efficiency 2
 united 2
 kolin 2
 table 2
 wealth 2
 addition 2
 helmuth 2
-vol 2
+suburbs 2
 income 2
 pd 2
 relationship 2
@@ -327,12 +330,10 @@ roadside 2
 lozère 2
 park 2
 effect 2
-suburb 2
 montana 2
 building 2
 market 1
 bernard 1
-burden 1
 outer 1
 www.prc.gov 1
 postcode 1
@@ -341,6 +342,7 @@ threshold 1
 fineness 1
 nevada 1
 country.9 1
+addresses 1
 difference 1
 depend 1
 graph 1
@@ -353,10 +355,11 @@ usa 1
 combination 1
 practice 1
 b 1
-caput 1
+burden 1
 vehicle.11 1
 recipient 1
 relationship.12 1
+areas 1
 kleindorfer 1
 term 1
 = 1
@@ -364,17 +367,19 @@ median 1
 regulation 1
 view 1
 square 1
+march 1
 cautomobile 1
 berthelemy 1
 wider 1
-second 1
 pricing 1
 operation 1
 model19 1
 theory 1
+toledano 1
 scale 1
 affordability 1
 β8 1
+consequence 1
 overlap 1
 method 1
 new 1
@@ -385,7 +390,7 @@ contrast 1
 wage 1
 ability 1
 degree 1
-march 1
+seconds 1
 delivery.4 1
 possibility 1
 france.13 1
@@ -397,15 +402,14 @@ group 1
 beginning 1
 extreme 1
 box 1
+conclusions 1
 curbline 1
-buildings.7 1
 obligation 1
 stop6 1
 st=β0+β1lnq+β2 1
 turn 1
 amount 1
 specification 1
-consequence 1
 + 1
 load 1
 journal 1
@@ -438,6 +442,7 @@ creuse 1
 monopoly 1
 constraint 1
 maximum 1
+us 1
 bville 1
 frequency 1
 behavior 1
@@ -464,11 +469,11 @@ note 1
 incumbent 1
 erosion 1
 manhattan 1
-conclusion 1
 simplicity 1
 calculation 1
 description 1
 information 1
+buildings.7 1
 variable 1
 italy 1
 law 1
@@ -479,26 +484,26 @@ light 1
 curve 1
 davis 1
 tradeoff 1
-toledano 1
+capita 1
 part 1
-u 1
 principle 1
+volumes 1
 section 1
 bpark 1
 
  Arbitary length NP 
 see prc docket no 3
-kluwer academic publisher cohen 2
+kluwer academic publishers cohen 2
 rural national mail count system 1
 la poste delivery cost simulation model 1
 average costs* low postal density 1
 la poste unit delivery cosst 1
+d = postal density 1
 heterogeneity and relative vulnerability to inefficient entry figure 1
 city carrier cost system 1
 entry* stephane bernard la poste robert cohen postal rate commission matthew robinson postal rate commission bernard roy la poste joëlle toledano la poste john waller postal rate commission spyros xenakis postal rate commission 1
-d = postal density 1
+indexed unit delivery costs 1
 a technico economic analysis 1
 rural national mail count system.21 city 1
 st = street time q = 1
-indexed unit delivery cost 1
 medium postal density high postal density 1

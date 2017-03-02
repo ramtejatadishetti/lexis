@@ -1,22 +1,22 @@
 
  Bigram NP 
 legal aid 8
+hotel theresa 2
 new building 2
 new office 2
-hotel theresa 2
 modern law 1
 first building 1
-it attention 1
 first year 1
 practical significance 1
 church street 1
 lower manhattan 1
 legal education 1
 new home 1
-it board 1
+its board 1
 phillips group 1
 next fall 1
 legal library 1
+its attention 1
 last year 1
 madison avenue 1
 harlem built 1
@@ -24,11 +24,11 @@ domestic violence 1
 
  Trigram NP 
 world trade center 2
-it contaminated office 1
 daniel l. greenberg 1
-it fund-raising campaign 1
+its contaminated office 1
 industrial development agency 1
 five-year fund-raising effort 1
+its fund-raising campaign 1
 legal aid society 1
 elaine m. kurtz 1
 

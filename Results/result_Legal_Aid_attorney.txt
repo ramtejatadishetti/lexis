@@ -60,7 +60,7 @@ low-cost 1
 december 1
 demand 1
 departure 1
-depiction 1
+vacancy 1
 culture 1
 maternity 1
 nonfiction 1
@@ -94,13 +94,13 @@ reservation 1
 line 1
 silver 1
 sound 1
-vacancy 1
 whether 1
 january 1
 tribal 1
 work 1
 bachelor 1
 cooler 1
+depictions 1
 place 1
 need 1
 case 1

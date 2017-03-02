@@ -29,6 +29,7 @@ large number 1
 interim program 1
 new conservation 1
 our assessment 1
+agriculture issues 1
 former conservation 1
 basic program 1
 complete copy 1
@@ -39,14 +40,13 @@ effective conservation 1
 gao/ogc-97-50 preempt 1
 human health 1
 timely manner 1
-it copy 1
 legal action 1
 et seq 1
-agriculture issue 1
 second alternative 1
 commodity credit 1
 l. no 1
 robert robinson 1
+its copy 1
 small consequence 1
 agriculture page 1
 administrative appeal 1
@@ -71,28 +71,28 @@ our review 1
  Trigram NP 
 commodity credit corporation 3
 significant regulatory action 2
-agriculture reorganization act 2
 regulatory flexibility act 2
+agriculture reorganization act 2
 administrative procedure act 1
 net farm income 1
 other relevant information 1
 conservation service department 1
 cost benefit analysis 1
-it final rule 1
 paperwork reduction act 1
 annual economic impact 1
+unfunded mandates act 1
 general accounting office 1
+its final rule 1
 initial interim year 1
 no significant impact 1
 immediate effective date 1
-unfunded mandate act 1
 associate general counsel 1
 civil justice reform 1
 
  Unigram NP 
 rule 20
 program 12
-nrc 12
+nrcs 12
 u.s.c 11
 ccc 11
 section 8
@@ -137,6 +137,7 @@ fy 2
 law 2
 i 2
 organization 2
+operations 1
 code 1
 alternative 1
 b-275552 1
@@ -160,7 +161,6 @@ authority 1
 society 1
 512-5207 1
 et 1
-operation 1
 subject 1
 scale 1
 funding 1
@@ -172,11 +172,11 @@ gao/ogc-97-50 1
 pub 1
 water 1
 base 1
-extent 1
 wildlife 1
 medicare 1
 pollution 1
 comment 1
+extent 1
 probability 1
 cc 1
 period 1
@@ -224,9 +224,9 @@ contact 1
 fact 1
 
  Arbitary length NP 
-environmental quality incentive program 4
-federal crop insurance reform 2
+environmental quality incentives program 4
 national environmental policy act 2
+federal crop insurance reform 2
 colorado river basin salinity control program 1
 gao/ogc-97-50 enclosure analysis under 1
 paul w. johnson chief 1
@@ -234,12 +234,12 @@ honorable tom harkin ranking minority member committee 1
 small business regulatory enforcement fairness act 1
 health care financing administration 1
 honorable bob smith chairman 1
-quality incentive program pursuant 1
 honorable richard g. lugar chairman 1
 honorable charles w. stenholm ranking minority member committee 1
 a major rule issued by the department of agriculture 1
-water quality incentive program 1
+quality incentives program pursuant 1
 robert p. murphy general counsel enclosure 1
+unfunded mandates reform act 1
+water quality incentives program 1
 general counsel b-277149 june 1
 commodity credit corporation entitled 1
-unfunded mandate reform act 1

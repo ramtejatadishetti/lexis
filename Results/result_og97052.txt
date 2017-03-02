@@ -10,29 +10,29 @@ certain animal 1
 procedure act 1
 substantial number 1
 argentina pursuant 1
-it review 1
+economic impact 1
 potential impact 1
 second alternative 1
-retroactive effect 1
+its review 1
 nonfed beef 1
 our assessment 1
+agriculture issues 1
 metric ton 1
 significant risk 1
 environmental assessment 1
 environmental impact 1
 significant impact 1
 negligible risk 1
-federal regulation 1
+retroactive effect 1
 first alternative 1
 et seq 1
 legal basis 1
-agriculture issue 1
 scientific evidence 1
 major rule 1
 forestry united 1
+federal regulations 1
 90-day period 1
 robert robinson 1
-economic impact 1
 agriculture page 1
 agriculture house 1
 our report 1
@@ -113,6 +113,7 @@ rin 2
 recordkeeping 2
 farm 2
 order 2
+operations 1
 sector 1
 certification 1
 september 1
@@ -130,7 +131,6 @@ administrator 1
 512-5207 1
 l997 1
 et 1
-operation 1
 subject 1
 cost-benefit 1
 evaluation 1
@@ -179,16 +179,16 @@ decision 1
 
  Arbitary length NP 
 plant health inspection service 6
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable charles w. stenholm ranking minority member committee 1
 final regulatory flexibility analysis 1
 gao/ogc-97-52 enclosure analysis under 1
 honorable tom harkin ranking minority member committee 1
 honorable bob smith chairman 1
 importation of beef from argentina 1
-national environmental policy act 1
 general counsel b-277346 july 1
 a major rule issued by the department of agriculture 1
+national environmental policy act 1
 animal and plant health inspection service entitled 1
 robert p. murphy general counsel enclosure 1
 terry l. medley administrator animal 1

@@ -53,7 +53,7 @@ associate speaking 1
 
  Trigram NP 
 legal aid society 2
-it original format 1
+its original format 1
 
  Unigram NP 
 law 9
@@ -88,6 +88,7 @@ litigation 1
 generous 1
 disparity 1
 program 1
+has 1
 government 1
 read 1
 practice 1
@@ -135,7 +136,6 @@ regard 1
 telephone 1
 bulk 1
 part 1
-ha 1
 anything 1
 matter 1
 feeling 1

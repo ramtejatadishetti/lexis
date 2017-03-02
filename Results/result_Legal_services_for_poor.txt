@@ -7,7 +7,6 @@ jamie hamon 1
 legal assistance 1
 next year 1
 ernie lewis 1
-it passage 1
 federal program 1
 defense fund 1
 other staff 1
@@ -15,15 +14,16 @@ elderly person 1
 annual budget 1
 scott crocker 1
 appalachian research 1
+legal services 1
 dennis bricking 1
 statewide poverty-law 1
 his office 1
 poverty-law resource 1
 major funding 1
-legal service 1
 potential loss 1
 justice foundation 1
 grant money 1
+its passage 1
 
  Trigram NP 
 kentucky legal aid 1
@@ -31,8 +31,8 @@ additional federal money 1
 sen. tom harkin 1
 u.s. justice department 1
 poor facing statewide 1
-legal service corp. 1
 noncriminal legal assistance 1
+legal services corp. 1
 
  Unigram NP 
 kentucky 8
@@ -103,5 +103,5 @@ example 1
 system 1
 
  Arbitary length NP 
-violence against woman act 2
+violence against women act 2
 louisville legal aid society 1

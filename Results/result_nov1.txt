@@ -29,14 +29,15 @@ significant equity 1
 our nation's 1
 much electricity 1
 our economy 1
+its emission 1
 valuable basis 1
 first program 1
 wide range 1
 acute respiratory 1
 individual state 1
+future electricity 1
 administrative burden 1
 clear legislation 1
-senator smith 1
 your acknowledgment 1
 cost-effective plant 1
 serious issue 1
@@ -59,7 +60,7 @@ their transformation 1
 full accounting 1
 key air 1
 important issue 1
-future electricity 1
+its enactment 1
 stranded capital 1
 national cap 1
 coal-fired power 1
@@ -88,7 +89,6 @@ predictable demand 1
 our proposal 1
 future use 1
 rocky road 1
-it emission 1
 sulfur removal 1
 low sulfur 1
 high cost 1
@@ -112,6 +112,7 @@ real answer 1
 eastern part 1
 columbia circuit 1
 hard cap 1
+senators smith 1
 long way 1
 sharp contrast 1
 fossil fuel 1
@@ -132,7 +133,6 @@ our approach 1
 advanced energy 1
 small staff 1
 same approach 1
-it enactment 1
 efficiency/energy intensity 1
 significant health 1
 undermine energy 1
@@ -178,18 +178,18 @@ our clean air 1
 their 1-hour ozone 1
 future regulatory regime 1
 fuels economic activity 1
-it own timeline 1
+its own purpose 1
 effective market-based approach 1
-other hazardous air 1
+its own approach 1
 regional air partnership 1
+other hazardous air 1
 comprehensive legislative approach 1
 innovative market-based allowance 1
 well-designed national cap 1
 gross domestic product 1
 serious public health 1
-it own approach 1
+its own timeline 1
 comprehensive legislative package 1
-it own purpose 1
 new source review 1
 cost effective manner 1
 their regulatory future 1
@@ -204,7 +204,7 @@ s. 22
 mercury 20
 program 19
 industry 17
-cap 17
+cap 16
 epa 16
 trade 15
 energy 15
@@ -245,8 +245,8 @@ attainment 4
 deposition 4
 protection 4
 number 4
-review 4
 scheme 4
+review 4
 reliability 4
 congress 4
 government 3
@@ -285,11 +285,11 @@ reporting 2
 installation 2
 country 2
 place 2
-improvement 2
 supply 2
 frame 2
-accountability 2
+improvement 2
 consumption 2
+accountability 2
 fraction 2
 gas 2
 policy 2
@@ -313,7 +313,7 @@ rule 2
 jeffords 1
 regardless 1
 settlement 1
-coordination 1
+children 1
 decade 1
 litigation 1
 emphysema 1
@@ -364,7 +364,7 @@ concern 1
 consistency 1
 cleanliness 1
 exchange 1
-research 1
+coordination 1
 experimentation 1
 size 1
 particulate 1
@@ -394,13 +394,16 @@ testimony 1
 history 1
 degree 1
 ability 1
+appeals 1
 co 1
+caps 1
 preservation 1
 production 1
 simply 1
 blending 1
 lesson 1
 quality 1
+research 1
 market 1
 utility 1
 decline 1
@@ -411,7 +414,6 @@ nonattainment 1
 priority 1
 conservation 1
 ton 1
-appeal 1
 boom 1
 proposal 1
 type 1
@@ -425,7 +427,6 @@ regard 1
 visibility 1
 cabinet 1
 heat 1
-child 1
 pollutant 1
 input 1
 case 1
@@ -477,8 +478,8 @@ prevention 1
 
  Arbitary length NP 
 best available retrofit technology 2
-new source performance standard 1
 national climate change technology initiative 1
 national ambient air quality 1
 president george h. w. bush 1
 maximum achievable control technology 1
+new source performance standards 1

@@ -10,7 +10,7 @@ linda rothnagel 1
 nonprofit group 1
 private agency 1
 new self-help 1
-it kind 1
+its kind 1
 other information 1
 legal information 1
 few operate 1
@@ -73,7 +73,6 @@ population 1
 resource 1
 sept. 1
 undertaking 1
-cd-rom 1
 work 1
 space 1
 project 1
@@ -81,10 +80,11 @@ eviction 1
 circuit 1
 divorce 1
 organization 1
+cd-roms 1
 fact 1
 
  Arbitary length NP 
-prairie state legal service 2
+prairie state legal services 2
 court administrator bob zastany 1
 russell lissau daily herald staff writer 1
 illinois equal justice foundation 1

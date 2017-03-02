@@ -4,8 +4,8 @@ final rule 15
 regulation x 9
 controlled business 5
 executive order 4
-it submission 3
-policy statement 3
+its submission 3
+policy statements 3
 our inquiry 3
 open house 3
 substantial number 2
@@ -16,13 +16,14 @@ economic analysis 2
 urban development 2
 statutory authorization 1
 cost-benefit analysis 1
-it consistency 1
+its action 1
 private sector 1
 secretary ] 1
 family order 1
 ms. england-joseph 1
 environmental justice 1
 our assessment 1
+its consistency 1
 other statute 1
 explanatory statement 1
 environmental impact 1
@@ -34,45 +35,44 @@ senior attorney 1
 major rule 1
 et seq 1
 related mortgage 1
+succinct statement 1
 solicit input 1
 essential information 1
-it action 1
 federalism order 1
 our report 1
-succinct statement 1
 and retaliation 1
-reasonable pricing 1
+our review 1
 interested industry 1
 public comment 1
 their input 1
 real estate 1
 intergovernmental partnership 1
 separate copy 1
-our review 1
+reasonable pricing 1
 public hearing 1
 chief counsel 1
 
  Trigram NP 
 significant regulatory action 2
-regulatory flexibility act 2
 significant economic impact 2
+regulatory flexibility act 2
 administrative procedure act 1
 informal public hearing 1
-paperwork reduction act 1
+final regulatory flexibility 1
 civil justice reform 1
 general counsel department 1
-small real estate 1
-small business administration 1
-final regulatory flexibility 1
+community development issues 1
+other relevant information 1
+financial services house 1
 [ respa ] 1
-it ] assessment 1
 certain controlled business 1
 urban development page 1
+its ] assessment 1
 significant intergovernmental mandate 1
-other relevant information 1
-community development issue 1
-financial service house 1
-urban affair united 1
+small real estate 1
+urban affairs united 1
+small business administration 1
+paperwork reduction act 1
 helen t. desaulniers 1
 
  Unigram NP 
@@ -154,6 +154,7 @@ surplus 1
 september 1
 512-4740 1
 pursuant 1
+actions 1
 producer 1
 guidance 1
 environment 1
@@ -186,7 +187,6 @@ distribution 1
 certainty 1
 compliance 1
 act 1
-action 1
 federalism 1
 cc 1
 analyzing 1
@@ -232,22 +232,22 @@ nelson 1
 consumer 1
 
  Arbitary length NP 
-estate settlement procedure act 3
-computer loan origination system exemption 2
-unfunded mandate reform act 2
-the real estate settlement procedure act 1
-regarding computer loan origination system 1
+estate settlement procedures act 3
+computer loan origination systems exemptions 2
+unfunded mandates reform act 2
+regarding computer loan origination systems 1
+regarding sham controlled business arrangements 1
 honorable henry b. gonzalez ranking minority member committee 1
 gao/ogc-96-22 enclosure analysis under 1
-a major rule issued by the department of housing and urban development 1
 gao/ogc-96-22 paperwork reduction act 1
 rental of office space 1
 honorable alfonse m. d'amato chairman 1
+the real estate settlement procedures act 1
 general counsel b-272303.1 june 1
-national environmental policy act 1
+employer/employee and computer loan origination systems exemptions 1
 honorable james a. leach chairman 1
-employer/employee and computer loan origination system exemption 1
-regarding sham controlled business arrangement 1
+national environmental policy act 1
 honorable paul s. sarbanes ranking minority member committee 1
-amendment to regulation x 1
+amendments to regulation x 1
 robert p. murphy general counsel enclosure 1
+a major rule issued by the department of housing and urban development 1

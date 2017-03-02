@@ -40,15 +40,15 @@ attorney 1
 campaign 1
 december 1
 executive 1
+year 1
 heard 1
 legacy 1
 something 1
 lawyer 1
-year 1
+pass 1
 nov. 1
 conference 1
 access 1
-pas 1
 group 1
 write 1
 legislation 1

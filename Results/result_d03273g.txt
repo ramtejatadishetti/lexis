@@ -13,47 +13,44 @@ electronic testing 4
 final report 4
 your basis 3
 corrective action 3
-ass data 3
+assess data 3
 original computer 3
 ultimate goal 3
 your engagement 3
+random sample 2
+source documents 2
 your assessment 2
 sufficiently reliable 2
 selected system 2
+engagement purposes 2
 inspector general 2
 accepted government 2
-random sample 2
+gao reports 2
 serious reliability 2
-gao report 2
 expected significance 2
 audited entity 2
 entire data 2
 additional assessment 2
-source document 2
 using data 2
-engagement purpose 2
 initial stage 2
-financial audit 2
 brief discussion 1
 www.gao.gov/fraudnet/fraudnet.htm e-mail 1
-method section 1
 on-line version 1
 data integrity 1
 such information 1
+significant impact 1
 focal point 1
 additional reliability 1
 good government 1
 collected questionnaire 1
 your report 1
 correct file 1
-it core 1
 decision process 1
 such testing 1
 other hand 1
 following decision 1
 investigative arm 1
 data-the reliability 1
-efficient manner 1
 single address 1
 risk • 1
 potential risk 1
@@ -61,18 +58,18 @@ critical data 1
 other research 1
 overall reliability 1
 assessing reliability 1
-result act 1
+appropriate language 1
 seek assistance 1
 fiscal year 1
 their entirety 1
 our engagement 1
-appropriate language 1
 potential system 1
 decision-making phase 1
 address service 1
 conducting additional 1
 nelliganj @ 1
 possible magnitude 1
+review officials 1
 commitment letter 1
 little information 1
 independent evidence 1
@@ -84,7 +81,8 @@ barry seltser 1
 inconsistent interpretation 1
 further determine 1
 questionable reliability 1
-significant impact 1
+federal managers 1
+methods section 1
 report data 1
 federal government 1
 financial statement 1
@@ -93,16 +91,18 @@ overall process 1
 external version 1
 initial assessment 1
 • gain 1
-gi00 united 1
+its core 1
 professional judgment 1
 procedures-which apply 1
 proper context 1
+efficient manner 1
 report fraud 1
 government auditing 1
 individual application 1
 detailed understanding 1
 acceptable level 1
 appropriate mix 1
+relevance-to assess 1
 gao's internet 1
 large segment 1
 annual governmentwide 1
@@ -129,10 +129,9 @@ designated range 1
 applied research 1
 illogical progression 1
 electronic submissions-use 1
-relevance-to ass 1
+printed report 1
 acceptable range 1
 informed oversight 1
-printed report 1
 key decision 1
 jeff nelligan 1
 advanced programming 1
@@ -141,6 +140,7 @@ social security 1
 corroborating evidence 1
 other assistance 1
 government performance 1
+results act 1
 likely lead 1
 descriptive report 1
 right mix 1
@@ -150,6 +150,7 @@ crucial support 1
 insufficient reliability 1
 significant mistake 1
 first decision 1
+first steps 1
 private use 1
 such disclosure 1
 relevant information 1
@@ -158,7 +159,6 @@ controversial subject 1
 clinger-cohen act 1
 incompleteness exist 1
 quite proficient 1
-federal manager 1
 related data 1
 short period 1
 specific event 1
@@ -166,7 +166,6 @@ marital status 1
 documents-are present 1
 full range 1
 first copy 1
-review official 1
 annual evaluation 1
 your judgment 1
 overall framework 1
@@ -176,14 +175,16 @@ complete assessment 1
 barbara johnson 1
 reasonable person 1
 yellow book 1
+financial audits 1
+gi00 united 1
 valid time 1
 overall engagement 1
+financial audit 1
 assessment all 1
 your determination 1
 logical access 1
 specific assessment 1
 further work 1
-first step 1
 available source 1
 minimal level 1
 defensible assessment 1
@@ -193,21 +194,19 @@ responsible agency 1
 data reliability assessment 6
 sufficiently reliable data 3
 initial assessment work 2
+source documents consider 2
 g street nw 2
-source document consider 2
 general accounting office 2
 consider additional work 1
-government auditing standard 1
+federal programs automated 1
 certain geographic location-found 1
-content preface section 1
+short time frames 1
+data reliability data 1
 chief information officer 1
 conducting additional work 1
 presorted standard postage 1
-federal program automated 1
-data reliability data 1
 basic electronic testing 1
 gao-03-273g assessing reliabillity 1
-short time frame 1
 your final assessment 1
 room lm washington 1
 your previous work 1
@@ -215,10 +214,12 @@ your additional work 1
 preliminary assessment source 1
 intricate automated process 1
 u.s. generalaccounting office 1
-official business penalty 1
+contents preface section 1
 entire assessment process 1
 information technology team 1
 other useful information 1
+official business penalty 1
+government auditing standards 1
 complete preliminary assessment 1
 appropriate technical staff 1
 first step-a review 1
@@ -299,19 +300,18 @@ access 4
 sufficiency 4
 request 4
 range 3
+requester-are 3
 subject 3
 background 3
 gagas 3
 magnitude 3
 recommendation 3
 questionnaire 3
-method 3
 importance 3
 washington 3
 order 3
 remember 3
 glossary 3
-requester-are 3
 united 3
 discussion 3
 performance 3
@@ -333,8 +333,6 @@ drawn 2
 weakness 2
 kind 2
 day 2
-document 2
-phase 2
 cost 2
 phone 2
 presentation 2
@@ -342,6 +340,7 @@ design 2
 result 2
 choosing 2
 e-mail 2
+method 2
 assurance 2
 understanding 2
 lack 2
@@ -358,6 +357,7 @@ scope 2
 explanation 2
 introduction 2
 policy 2
+phase 2
 value 2
 control 2
 need 2
@@ -382,9 +382,9 @@ judge 1
 planning 1
 identify 1
 preface 1
+documents 1
 expansion 1
 depend 1
-way 1
 choose 1
 money 1
 reach 1
@@ -396,10 +396,11 @@ incompleteness 1
 practice 1
 mission 1
 fam 1
+check 1
 subscribe 1
 condition 1
-room 1
 term 1
+document 1
 resource 1
 verifying 1
 issue 1
@@ -407,13 +408,14 @@ alteration 1
 alert 1
 agreement 1
 edit 1
+steps 1
 mastercard 1
 activity 1
 security 1
 revision 1
 heading 1
 set 1
-occurrence 1
+methods 1
 examination 1
 mail 1
 quality-assurance 1
@@ -422,6 +424,7 @@ gpra 1
 voice 1
 description 1
 specific 1
+occurrence 1
 funding 1
 pattern 1
 evidence-sufficiency 1
@@ -439,18 +442,18 @@ information-helps 1
 payroll 1
 pp 1
 possibility 1
-step 1
+job 1
 illustration 1
 situation 1
 consideration 1
 definition 1
 search 1
-outcome 1
+way 1
 internet-you 1
 language 1
 freedom 1
 compliance 1
-job 1
+reason 1
 keep 1
 turn 1
 statement 1
@@ -462,7 +465,7 @@ gao.gov 1
 subcategory 1
 overview 1
 number 1
-check 1
+outcomes 1
 timing-when 1
 carry 1
 table 1
@@ -485,7 +488,7 @@ determination 1
 age 1
 account 1
 include 1
-reason 1
+room 1
 extensiveness 1
 type 1
 require 1
@@ -533,20 +536,20 @@ complexity 1
 organization 1
 
  Arbitary length NP 
-federal information system control audit manual 2
+federal information system controls audit manual 2
 u.s. general accounting office 2
 gao/pcie financial audit manual 1
 conducting additional work source 1
-congressional research service public policy literature abstract 1
-reviewing selected system control 1
-step reviewing existing information 1
+congressional research service public policy literature abstracts 1
 report sufficiently reliable data 1
 data reliability assessment process 1
-reviewing selected system control • 1
-fee paid gao permit no 1
+general accounting office washington 1
 data reliability assessment process source 1
 general accounting office gao october 1
 advanced electronic testing advanced 1
-general accounting office washington 1
+fees paid gao permit no 1
+steps reviewing existing information 1
+reviewing selected system controls • 1
 nancy kingsbury managing director 1
+reviewing selected system controls 1
 data reliability assessment page 1

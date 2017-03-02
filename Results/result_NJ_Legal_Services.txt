@@ -1,23 +1,23 @@
 
  Bigram NP 
 passaic legal 2
+legal services 2
 new jersey 2
 legal aid 2
 single county 2
-legal service 2
 passaic county 2
 last month 1
 alan kraus 1
 poor intake 1
-it community 1
-anna navatta 1
+national trend 1
 joint bid 1
+its size 1
 legal assistance 1
 randi youells 1
-it budget 1
+federal judge 1
+its chance 1
 required hearing 1
-consolidated plan 1
-robert magnanini 1
+anna navatta 1
 competitive bidding 1
 hudson county 1
 their work 1
@@ -28,7 +28,7 @@ active community 1
 due process 1
 diverse staff 1
 special treatment 1
-it size 1
+robert magnanini 1
 concerted effort 1
 receive housing 1
 nationwide effort 1
@@ -37,15 +37,14 @@ fiduciary duty 1
 geographical service 1
 longstanding morale 1
 local bar 1
-it chance 1
 uneven supervision 1
 proper bid 1
-national recognition 1
+its budget 1
 john erlenborn 1
 injunctive relief 1
 fatal news 1
-national trend 1
 various community 1
+national recognition 1
 named defendant 1
 local organization 1
 final grant 1
@@ -53,26 +52,27 @@ federal money 1
 their budget 1
 federal court 1
 antagonism' lsnj 1
+consolidated plan 1
 jr. none 1
 first step 1
+its community 1
 bergen county 1
 federal funding 1
-federal judge 1
 linda harvey 1
 broad community 1
 undesirable merger 1
 
  Trigram NP 
 passaic legal aid 13
-essex-newark legal service 1
-it own bid 1
-passaic county board 1
-aggressive legal work 1
 american bar association 1
-problem solver award 1
+essex-newark legal services 1
+passaic county board 1
 site visit report 1
-legal service corp. 1
+its own bid 1
+problem solver award 1
+aggressive legal work 1
 similar legal challenge 1
+legal services corp. 1
 
  Unigram NP 
 lsc 21
@@ -230,14 +230,14 @@ resolution 1
 turnover 1
 
  Arbitary length NP 
-passaic county legal aid society v. legal service corp. 1
+assignment judge robert passero 1
 passaic mary p. gallagher 1
-u.s. district judge william wall 1
 deputy director maxim thorne 1
 passaic county legal aid society 1
 lsnj president melville d. miller 1
 passaic executive director john atlas 1
 hudson legal aid director tim madden 1
-assignment judge robert passero 1
+u.s. district judge william walls 1
 rep. william pascrell jr. 1
+passaic county legal aid society v. legal services corp. 1
 new jersey law journal n.j. legal 1

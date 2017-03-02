@@ -1,14 +1,14 @@
 
  Bigram NP 
 legal advice 2
+joseph barrios 1
 equal access 1
 separate technology 1
 good job 1
 national acclaim 1
-charles are 1
+charles ares 1
 nonprofit corporation 1
 early board 1
-three-year grant 1
 social security 1
 congressional appropriation 1
 digital divide 1
@@ -16,18 +16,18 @@ poor person 1
 elder hotline 1
 legal community 1
 federal funding 1
-joseph barrio 1
+three-year grant 1
 paul julian 1
 legal help 1
 legal services. 1
 
  Trigram NP 
 free legal advice 2
-legal aid get 1
 chief executive officer 1
 deconcini federal courthouse 1
-legal service corp. 1
 legal aid society 1
+legal aid gets 1
+legal services corp. 1
 
  Unigram NP 
 site 3

@@ -8,19 +8,20 @@ procedure act 1
 full text 1
 unlicensed equipment 1
 mr. anderson 1
-proposed rulemaking 1
 new category 1
 our assessment 1
-statutory authorization 1
 effective use 1
+communications act 1
+statutory authorization 1
+its submission 1
 complete copy 1
 et seq 1
-communication act 1
 legal basis 1
+telecommunications issues 1
 high speed 1
 major rule 1
 jr. chairman 1
-it submission 1
+proposed rulemaking 1
 order no 1
 james vickers 1
 amateur radio 1
@@ -38,7 +39,6 @@ public interest 1
 wireless access 1
 sufficient spectrum 1
 our review 1
-telecommunication issue 1
 future rulemaking 1
 
  Trigram NP 
@@ -48,10 +48,10 @@ national information infrastructure 2
 ghz frequency range 2
 et docket no 2
 paperwork reduction act 2
+federal communications commission 1
 assistant general counsel 1
 other relevant information 1
 initial regulatory flexibility 1
-federal communication commission 1
 regulatory flexibility act 1
 executive order no 1
 
@@ -90,7 +90,6 @@ may 2
 g 2
 report 2
 c 2
-paragraph 2
 gao/ogc-97-19 2
 january 2
 comment 1
@@ -100,6 +99,7 @@ point 1
 senate 1
 creation 1
 gao 1
+paragraphs 1
 respect 1
 work 1
 subject 1
@@ -132,6 +132,7 @@ compliance 1
 budget 1
 recordkeeping 1
 april 1
+paragraph 1
 action 1
 situation 1
 issue 1
@@ -139,17 +140,17 @@ order 1
 participation 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 ghz frequency range pursuant 1
 honorable john d. dingell ranking minority member committee 1
 final regulatory flexibility analysis 1
+a major rule issued by the federal communications commission entitled 1
+mr. andrew s. fishel managing director federal communications commission page 1
 gao/ogc-97-19 enclosure analysis under 1
-unlicensed nii device in the 1
 honorable ernest f. hollings ranking minority member committee 1
+unlicensed nii devices in the 1
 new wireless local area 1
-a major rule issued by the federal communication commission entitled 1
 honorable john mccain chairman 1
 robert p. murphy general counsel enclosure 1
 general counsel b-276123 february 1
-mr. andrew s. fishel managing director federal communication commission page 1
 honorable thomas j. bliley 1

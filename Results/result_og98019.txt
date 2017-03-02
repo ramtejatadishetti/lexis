@@ -7,19 +7,17 @@ federal register 2
 procedure act 1
 statutory authorization 1
 new standard 1
-basic telecommunication 1
+lengthy discussion 1
 mr. anderson 1
-it report 1
 our assessment 1
 estimated number 1
-transportation issue 1
-lengthy discussion 1
 modified information 1
+its report 1
 foreign ownership 1
 et seq 1
-communication act 1
 legal basis 1
 prior notification 1
+transportation issues 1
 major rule 1
 jr. chairman 1
 order no 1
@@ -28,7 +26,9 @@ annual burden 1
 market pursuant 1
 our report 1
 transportation united 1
+communications act 1
 commerce house 1
+basic telecommunications 1
 john anderson 1
 other compliance 1
 our review 1
@@ -36,16 +36,16 @@ open entry 1
 common carrier 1
 
  Trigram NP 
-independent regulatory agency 2
 ib docket no 2
+independent regulatory agency 2
+regulatory flexibility analysis 1
 world trade organization 1
 assistant general counsel 1
 other relevant information 1
 indirect foreign investment 1
 total annual burden 1
-regulatory flexibility analysis 1
+federal communications commission 1
 paperwork reduction act 1
-federal communication commission 1
 regulatory flexibility act 1
 executive order no 1
 
@@ -91,14 +91,14 @@ rulemaking 1
 need 1
 respect 1
 work 1
-estimate 1
+telecommunications 1
 subject 1
+estimate 1
 preamble 1
 test 1
 proposal 1
 evaluation 1
 gao/ogc-98-19 1
-telecommunication 1
 f-block 1
 reporting 1
 june 1
@@ -126,15 +126,15 @@ discussion 1
 
  Arbitary length NP 
 final regulatory flexibility analysis 2
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
-record management federal communication commission page 1
+a major rule issued by the federal communications commission entitled 1
 honorable ernest f. hollings ranking minority member committee 1
+records management federal communications commission page 1
 foreign participation in the u.s. 1
 mr. peter w. herrick amd-performance evaluation 1
 gao/ogc-98-19 enclosure analysis under 1
 general counsel b-278810 december 1
 honorable john mccain chairman 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the federal communication commission entitled 1
 honorable thomas j. bliley 1

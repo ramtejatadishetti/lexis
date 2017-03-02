@@ -21,7 +21,6 @@ alcohol abuse 2
 aasland o 2
 acute intoxication 2
 davis l 2
-peter j 2
 sokol r 2
 martier s 2
 brief intervention 2
@@ -38,15 +37,17 @@ williams j 2
 multiple screening 2
 acute alcohol 2
 general practice 2
+walker l 2
 dsm-iv diagnosis 2
+peters j 2
 mccabe c 2
 national institute 2
-walker l 2
 schellenberg f 1
 smith gh 1
 clinical care 1
-it success 1
+dwarakanath a 1
 masked alcohol 1
+its success 1
 heck e. 1
 raymond a 1
 further evaluation 1
@@ -76,9 +77,8 @@ pregnant clinic 1
 their blood 1
 repke j 1
 lowenstein s 1
-chinnis a 1
+alcohol problems 1
 burke t. 1
-emergency physician 1
 brief mast 1
 burman ml 1
 mean corpuscular 1
@@ -90,8 +90,10 @@ unimpaired patient 1
 duggan a 1
 important subgroup 1
 alsafar j 1
+chinnis a 1
 boyd-wickizer j 1
 non-dependent drinkers.36 1
+emergency physicians 1
 national council 1
 general health 1
 strain j 1
@@ -216,6 +218,7 @@ sanson-fisher r 1
 multisite survey 1
 inadequate time 1
 specific alcohol 1
+hays rd 1
 stand-alone test.35 1
 pecoud a 1
 assaults,72 depression 1
@@ -223,10 +226,10 @@ selzer m 1
 same test 1
 conventional alcohol 1
 poor morale 1
-smith g 1
 bernstein e 1
 current evidence 1
 bercsi s 1
+smith gs 1
 cyr m 1
 other consumption 1
 poor screen 1
@@ -240,7 +243,6 @@ michigan alcoholism 1
 specific screen 1
 clinical judgement 1
 lifetime alcohol 1
-mental disorder 1
 sillanaukee p 1
 isaacson j 1
 second study 1
@@ -254,12 +256,10 @@ test performance 1
 wilkins r. 1
 sobel l 1
 sobel m 1
-hay rd 1
 large number 1
 becker b 1
 reduced risk 1
 loisequx-meunier m-n 1
-dwarakanath a 1
 babor t 1
 nirenberg td 1
 moran m 1
@@ -290,7 +290,6 @@ gibb k 1
 miller b 1
 spitzer r 1
 systematic approach 1
-alcohol problem 1
 soderstrom ca 1
 different case 1
 ager j 1
@@ -309,6 +308,7 @@ social work 1
 zacharek m 1
 escobar f 1
 past year 1
+mental disorders 1
 i. addiction 1
 russell m 1
 
@@ -316,8 +316,8 @@ russell m 1
 j stud alcohol 6
 acad emerg med 4
 am j psychiatry 4
-arch intern med 3
 ann emerg med 3
+arch intern med 3
 mean corpuscular volume 2
 american psychiatric association 2
 am j med 2
@@ -327,26 +327,29 @@ br j addict 1
 canteras m. diagnostic 1
 grant m. development 1
 cherpitel c. screening 1
+cherpitel c. differences 1
 grant m. alcohol 1
 klas p. identifying 1
 rooijen m. a 1
-archer l. relative 1
+alcohol problems screen 1
 such low sensitivity 1
 west virginia chapter 1
 seppa k. carbohydrate-deficient 1
+aronson m. prevalence 1
 barry k. a 1
 greene j. longitudinal 1
 their general impression 1
 practical prenatal detection 1
 o'brien p. discriminant 1
-cherpitel c. difference 1
+national criteria committee 1
 our own design 1
-welty t. difference 1
+vanderspeck r. relationships 1
 clifford p. alcohol 1
 likely prompt referral 1
 cherpitel c. analysis 1
-alcohol problem screen 1
+saha d. alcohol 1
 broad demographic mix 1
+general medical clinic 1
 little additional intervention 1
 new diagnostic instrument 1
 further direct testing 1
@@ -354,15 +357,12 @@ world health organization 1
 fillit h. identification 1
 gutman d. health 1
 structured clinical interview 1
-general medical clinic 1
+welty t. differences 1
 arch fam med 1
 important subgroups.41 evidence 1
-short n. problem 1
+archer l. relative 1
 who collaborative project 1
 south dakota journal 1
-saha d. alcohol 1
-vanderspeck r. relationship 1
-national criterion committee 1
 little additional training 1
 med j aust 1
 rasmussen r. alcoholism 1
@@ -374,13 +374,13 @@ hughes s. screening 1
 cherpitel c. comparison 1
 j fam pract 1
 gibb k. serum 1
-j adolesc health 1
+short n. problems 1
 cherpitel c. a 1
-aronson m. prevalence 1
+j adolesc health 1
 
  Unigram NP 
 alcohol 70
-ed 47
+ed 45
 % 35
 cage 24
 use 24
@@ -406,9 +406,9 @@ care 8
 intoxication 8
 cut 7
 trauma 7
-risk 7
 consumption 7
 counseling 7
+risk 7
 cherpitel 6
 sequence 6
 detection 6
@@ -434,11 +434,11 @@ disorder 4
 jama 4
 point 4
 specificity 4
+jr. 4
 computer 4
 spectrum 4
 trial 4
 bmast 4
-jr. 4
 accuracy 4
 addiction 4
 cdt 3
@@ -469,6 +469,7 @@ curve 3
 protocol 2
 course 2
 group 2
+instrument 2
 drinks/occasion 2
 evaluation 2
 combination 2
@@ -492,20 +493,19 @@ operator 2
 score 2
 area 2
 icd-10 2
+raps 2
 interest 2
+saast 2
 function 2
-instrument 2
 motivational 2
 patient's 2
 advantage 2
 example 2
 process 2
-saast 2
-rap 2
 development 2
+eds 2
 stress 2
 age 2
-disease 2
 diagnosis 2
 validation 2
 impression 1
@@ -515,22 +515,22 @@ trade 1
 clinic 1
 session 1
 frequency 1
-frail 1
 aspect 1
 alt 1
 adjustment 1
 dependence.37 1
 disorder.43 1
+cigarette 1
 alcohol-ism 1
 ease 1
 emphasis 1
 improvement 1
-j. 1
 van 1
 health 1
 fiellin 1
 do 1
 loss 1
+diseases 1
 format 1
 question- 1
 .44 1
@@ -548,9 +548,9 @@ gender 1
 performance.40 1
 manual 1
 registration 1
-follow-up 1
+quest 1
 race 1
-isolation 1
+j. 1
 smast 1
 work 1
 england 1
@@ -580,6 +580,7 @@ profiling 1
 opening 1
 standard 1
 -10 1
+sdds-pc 1
 jr 1
 beginning 1
 d'onofrio 1
@@ -632,10 +633,9 @@ translation 1
 two-question 1
 count 1
 anxiety 1
-characteristic 1
+isolation 1
 efficiency.35 1
 value 1
-quest 1
 behavior 1
 behavioral 1
 biochemical 1
@@ -644,13 +644,14 @@ impracticality 1
 acculturation 1
 e.g. 1
 icd-9 1
+characteristics 1
 universal 1
 pessimism 1
 examine 1
+follow-up 1
 ed.7,8 1
 soderstrom 1
 ethnicity 1
-sdds-pc 1
 issue 1
 conduct 1
 patients.13 1
@@ -659,13 +660,14 @@ member 1
 majority 1
 setting 1
 recognition 1
+frail 1
 literature 1
 minority 1
 who 1
 driver 1
 variation 1
 outpatient 1
-cigarette 1
+persons 1
 develops 1
 iv2 1
 improving 1
@@ -673,37 +675,38 @@ end 1
 comparison 1
 dependence.7 1
 promotion 1
+clinicians 1
 task 1
 attempt 1
 stereotypic 1
 disorder.5 1
 variety 1
+disease 1
 dependence.3 1
-annoyed 1
-person 1
 time 1
 occasion 1
 ambulatory 1
-clinician 1
+annoyed 1
 gain 1
 
  Arbitary length NP 
-alcohol clin exp re 7
-alcohol use disorder identification test 5
+alcohol clin exp res 7
+alcohol use disorders identification test 4
 j gen intern med 3
+arch pediatr adolesc med 2
 j am geriatr soc 2
 j am coll health 2
-arch pediatr adolesc med 2
 michigan alcoholism screening test 1
 brief michigan alcoholism screening test 1
 am j obstet gynecol 1
-am j emerg med 1
-alcohol problem robert woolard 1
+northern plains indian reservation 1
+alcohol problems robert woolard 1
 j consult clin psychol 1
 brief michigan alcohol screening test 1
+am j emerg med 1
+alcohol use disorder identification test 1
 short michigan alcoholism screening test 1
 int j nurs stud 1
-northern plain indian reservation 1
 rapid alcohol assessment screen 1
 morse r. self-administered alcoholism 1
 de la fuente j 1

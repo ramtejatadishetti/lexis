@@ -1,7 +1,7 @@
 
  Bigram NP 
-mobile home 3
-oakwood height 2
+mobile home 2
+oakwood heights 2
 trailer trash 1
 rural renter 1
 lee county 1
@@ -12,6 +12,7 @@ robb goedicke 1
 iowa association 1
 disposal health 1
 rental property 1
+mobile homes 1
 his attention 1
 fort madison 1
 karen fraise 1
@@ -74,15 +75,15 @@ body 1
 smell 1
 complaint 1
 storm 1
-thousand 1
 nobody 1
+oversight 1
 protection 1
 court 1
 law 1
 none 1
 johnson 1
 vice 1
-oversight 1
+thousands 1
 turn 1
 simmons 1
 place 1
@@ -93,6 +94,6 @@ example 1
 trailer 1
 
  Arbitary length NP 
-manufactured home owner association 1
+oakwood heights mobile home community 1
 jason clayworthregister staff writer 1
-oakwood height mobile home community 1
+manufactured home owners association 1

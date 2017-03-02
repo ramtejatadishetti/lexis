@@ -13,7 +13,7 @@ federal food 2
 cosmetic act 2
 negative impact 2
 total ban 2
-it conclusion 2
+its conclusion 2
 ms. jaggar 1
 regulatory alternative 1
 statutory authorization 1
@@ -25,23 +25,20 @@ economic impact 1
 their impact 1
 private sector 1
 significant majority 1
+federal regulations 1
 additional cost 1
 corporate name 1
-regulatory affair 1
 same issue 1
+substance abuse 1
 prescriptive requirement 1
 our assessment 1
 final analysis 1
 mental health 1
-adolescent pursuant 1
 medical cost 1
 other statute 1
 substantial number 1
-nicotine-containing cigarette 1
 significant health 1
-substance abuse 1
 state-operated enforcement 1
-federal regulation 1
 above information 1
 et seq 1
 senior attorney 1
@@ -51,19 +48,22 @@ budgetary impact 1
 major rule 1
 jr. chairman 1
 proposed rulemaking 1
-property right 1
+regulatory requirement 1
 underage tobacco 1
-commerce house 1
+good manufacturing 1
+property rights 1
 unfunded mandate 1
 private property 1
 our report 1
 general well-being 1
+regulatory affairs 1
 certain burden 1
-regulatory requirement 1
-good manufacturing 1
+adolescents pursuant 1
+commerce house 1
 burdensome alternative 1
 possible impact 1
 omb no 1
+nicotine-containing cigarettes 1
 regulatory cost 1
 annual operating 1
 restricted device 1
@@ -75,20 +75,20 @@ personal property 1
  Trigram NP 
 initial regulatory flexibility 2
 james w. vickers 1
-administrative procedure act 1
+human services page 1
 significant regulatory action 1
 sarah f. jaggar 1
 final regulatory flexibility 1
-public health issue 1
+public health issues 1
 lengthy jurisdictional determination 1
 exact long-term revenue 1
-it own agency 1
 paperwork reduction act 1
 other relevant information 1
-human service page 1
-regulatory flexibility act 1
-planned regulatory action 1
 significant economic impact 1
+regulatory flexibility act 1
+its own agency 1
+planned regulatory action 1
+administrative procedure act 1
 executive order no 1
 various affiliated industry 1
 
@@ -113,7 +113,6 @@ august 6
 information 6
 compliance 5
 agency 5
-cigarette 5
 age 5
 office 4
 human 4
@@ -137,8 +136,10 @@ enforcement 3
 smokeless 3
 united 3
 samhsa 3
+cigarette 3
 code 2
 jurisdiction 2
+children 2
 government 2
 burden 2
 document 2
@@ -154,12 +155,10 @@ period 2
 management 2
 regulation 2
 review 2
-child 2
 b 2
 oira 2
 iv 2
 rin 2
-promulgation 2
 administration 2
 submission 2
 self-service 2
@@ -169,6 +168,8 @@ device 2
 response 2
 e 2
 i 2
+promulgation 2
+cigarettes 2
 taking 2
 position 2
 restriction 1
@@ -221,6 +222,7 @@ extension 1
 package 1
 industry 1
 federalism 1
+adolescents 1
 inclusion 1
 cc 1
 date 1
@@ -228,7 +230,6 @@ right 1
 registration 1
 respect 1
 quality 1
-adolescent 1
 area 1
 addition 1
 support 1
@@ -253,6 +254,7 @@ official 1
 512-7119 1
 productivity 1
 goal 1
+person 1
 infringement 1
 effectiveness 1
 establishment 1
@@ -264,19 +266,18 @@ necessity 1
 law 1
 opportunity 1
 gao 1
-person 1
 time 1
 
  Arbitary length NP 
 honorable john d. dingell ranking minority member committee 1
 food and drug administration entitled 1
-a major rule issued by the department of health and human service 1
+unfunded mandates reform act 1
 general counsel b-274333 september 1
 honorable edward m. kennedy ranking minority member committee 1
 honorable nancy landon kassebaum chairman 1
-regulation restricting the sale and distribution of cigarette and smokeless tobacco to protect child 1
+regulations restricting the sale and distribution of cigarettes and smokeless tobacco to protect children 1
 robert p. murphy general counsel enclosure 1
 honorable donna e. shalala 1
 gao/ogc-96-38 enclosure analysis under 1
 honorable thomas j. bliley 1
-unfunded mandate reform act 1
+a major rule issued by the department of health and human services 1

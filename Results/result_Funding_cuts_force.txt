@@ -12,14 +12,14 @@ nate bowles 1
 domestic violence 1
 
  Trigram NP 
-legal service corp 1
-legal service corp. 1
+legal services corp 1
 free legal representation 1
+legal services corp. 1
 
  Unigram NP 
 agency 4
-lawyer 3
 money 2
+lawyer 2
 trust 2
 funding 2
 state 2
@@ -51,6 +51,7 @@ sorry 1
 population 1
 chairman 1
 williamson 1
+lawyers 1
 summersville 1
 director 1
 president 1

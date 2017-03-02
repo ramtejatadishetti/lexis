@@ -13,24 +13,24 @@ private sector 1
 new marketplace 1
 our assessment 1
 peter guerrero 1
+mr. guerrero 1
 protection agency 1
 regulatory action 1
-mr. guerrero 1
+locomotive engines 1
+emission standards 1
 et seq 1
-annual burden 1
 effective approach 1
 major rule 1
 total benefit 1
 jr. chairman 1
 order no 1
 james vickers 1
-locomotive engine 1
+annual burden 1
 required documentation 1
 our report 1
 complete fleet 1
 inuse test 1
 enforceable duty 1
-emission standard 1
 commerce house 1
 regulatory management 1
 locomotive aftermarket 1
@@ -48,11 +48,11 @@ environmental protection agency 2
 net present value 2
 assistant general counsel 1
 other relevant information 1
-public work united 1
-environmental protection issue 1
-regulatory flexibility act 1
-locomotive engine pursuant 1
 significant economic impact 1
+locomotive engines pursuant 1
+public works united 1
+regulatory flexibility act 1
+environmental protection issues 1
 executive order no 1
 
  Unigram NP 
@@ -101,7 +101,6 @@ railroad 1
 february 1
 512-8210 1
 benefit 1
-locomotive 1
 respond 1
 requirement 1
 work 1
@@ -129,7 +128,7 @@ flexibility 1
 respect 1
 quality 1
 addition 1
-class 1
+response 1
 reduction 1
 capital/startup 1
 authorization 1
@@ -137,6 +136,7 @@ gao 1
 expenditure 1
 copy 1
 iii 1
+locomotives 1
 ii 1
 official 1
 air 1
@@ -154,19 +154,19 @@ effect 1
 director 1
 statutory 1
 tier 1
-response 1
+class 1
 time 1
 turnover 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
 mr. thomas e. kelly director 1
 gao/ogc-98-46 enclosure analysis under 1
+emission standards for locomotives and locomotive engines 1
 a major rule issued by the environmental protection agency entitled 1
 honorable john h. chafee chairman 1
 general counsel b-279823 april 1
-emission standard for locomotive and locomotive engine 1
 honorable max baucus ranking minority member committee 1
 robert p. murphy general counsel enclosure 1
 information environmental protection agency page 1

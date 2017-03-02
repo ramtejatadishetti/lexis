@@ -3,14 +3,14 @@
 personal communication 18
 appendix a 17
 title v 16
-coal-fired boiler 11
+coal-fired boiler 10
 structural steel 9
 single absorber 9
 total time 8
 multipollutant control 8
 single unit 7
-multipollutant strategy 7
 high estimate 7
+multipollutant strategy 7
 estimated time 7
 conservative estimate 6
 public comment 6
@@ -31,7 +31,6 @@ icac forum 4
 first phase 4
 excess capacity 4
 other equipment 4
-exhibit a-3 4
 total effort 4
 international brotherhood 4
 exhibit a-5 4
@@ -41,18 +40,17 @@ standard construction 4
 second phase 3
 electric power 3
 added control 3
-alternative approach 3
 multipollutant rule 3
 bituminous coal 3
 single mobilization 3
 important element 3
+alternative approach 3
 applicable state 3
 fabric filter 3
 multipollutant initiative 3
 single construction 3
 new catalyst 3
 preferred compliance 3
-control technology 3
 reagent storage 3
 large number 3
 same time 3
@@ -64,6 +62,7 @@ sequential basis 3
 large construction 3
 31-month period 3
 available crane 3
+exhibit a-3 3
 increased demand 3
 multipollutant program 3
 activated carbon 3
@@ -76,10 +75,12 @@ additional control 3
 efficient utilization 3
 on-site reagent 2
 mechanical draft 2
+gibson unit 2
 boilermaker demand 2
 entire facility 2
 multiple absorber 2
 washington dc 2
+wide range 2
 single fgd 2
 elevated location 2
 corrosive flue 2
@@ -98,9 +99,7 @@ additional capacity 2
 multiple unit 2
 additional demand 2
 sufficient time 2
-fgd installation 2
 fourth layer 2
-scr retrofit 2
 worldwide basis 2
 standard mechanical 2
 sufficient supply 2
@@ -122,8 +121,9 @@ cumulative total 2
 pre-contract effort 2
 skilled labor 2
 total demand 2
+control technology 2
 reliant energy 2
-resource needed 2
+homer city 2
 london england 2
 subbituminous coal 2
 replacement catalyst 2
@@ -132,16 +132,15 @@ high sulfur 2
 brief outage 2
 clear air 2
 unskilled labor 2
-wide range 2
 annual replacement 2
+resources needed 2
 additional space 2
 chiyoda thoroughbred 2
+fgd installations 2
 significant portion 2
-exhibit a-1 2
 near future 2
 catalytic reduction 2
 technical support 2
-scrubber installation 2
 ample supply 2
 new capacity 2
 overall installation 2
@@ -157,7 +156,6 @@ three-year period 2
 urea supply 2
 high demand 2
 small amount 2
-gibson unit 2
 new power 2
 simultaneous installation 2
 other material 2
@@ -173,18 +171,16 @@ limited value 2
 absorber-module installation 2
 coleman station 2
 short notice 2
-homer city 2
 significant amount 2
 new generation 1
 table 6-4 1
 similar hardware 1
 custom fit 1
-other air 1
 good example 1
 lay-down area 1
 first column 1
 total duration 1
-retrofit fgd 1
+individual silos 1
 percent mercury 1
 important cost-benefit 1
 crane pricing 1
@@ -207,11 +203,9 @@ direct labor 1
 mwe gavin 1
 little work 1
 other craft 1
-large increase 1
 scr connection 1
 important factor 1
 moderate increase 1
-report strategy 1
 large silo 1
 overall reserve 1
 continuous feed 1
@@ -224,7 +218,8 @@ good confidence 1
 `ü~éíéê=o plo=`çåíêçä=qéåüåçäçöó=oéíêçñáíë 1
 their installation 1
 adequate shipping 1
-■ pipe 1
+current supply 1
+first time 1
 adequate lift 1
 work assignment 1
 total implementation 1
@@ -260,12 +255,12 @@ efficient use 1
 ongoing supply 1
 average age 1
 large labor 1
-it place.11 1
 figure 3-2 1
 optional enhancement 1
 associated pressure 1
 conservative approach 1
 one-time requirement 1
+its place.11 1
 required stoichiometry 1
 c. martin 1
 extensive steel 1
@@ -279,10 +274,12 @@ gained efficiency 1
 long-term performance 1
 ready supply 1
 current capacity 1
+its effect 1
 global capacity 1
 first retrofit 1
 cost-effective crane 1
 hot flue 1
+components newsletter 1
 p. v. 1
 sharp contrast 1
 anticipated steel 1
@@ -300,16 +297,18 @@ off-site fabrication 1
 low sulfur 1
 mel absorber 1
 other boiler 1
-first time 1
 same year 1
 typical turnkey 1
 seven-unit facility 1
+=äçáäéêë=êéíêçñáííéç=ñêçã=éêéëéåí=íç=öáîéå=óé~ê fååêéãéåí~ä=kìãäéê=p`o 1
+other item 1
 16-month period 1
 their product 1
 their manufacturing 1
 planned capacity 1
 new control 1
 their construction 1
+main absorber 1
 acid condensation 1
 unloading area 1
 issue number 1
@@ -325,38 +324,39 @@ xii list 1
 single site 1
 anhydrous equivalent 1
 air daily 1
-other column 1
 second benefit 1
 skilled work 1
 coal-fired electricity 1
-control retrofit 1
 additional ductwork 1
 development washington 1
 ■ slurry 1
 mechanical conveying 1
 sorbent consumption 1
 improved performance 1
+its demand 1
 market-based approach 1
+other columns 1
 lfso fgd 1
 prospectus drive 1
 gas-sorbent contact 1
 moderate demand 1
 actual time 1
+tray optional 1
 fgd flue 1
+450-650 m3 1
 long piping 1
-table 6-1a 1
-other item 1
 `ü~éíéê=q jéêåìêó=`çåíêçä=qéåüåçäçöó=oéíêçñáíë 1
 projected retrofit 1
 specialized hardware 1
 significant reduction 1
 fan capacity 1
-it consumption 1
+complex project 1
 scr system 1
 less-efficient ones.48 1
 total number 1
 general background 1
 up-front reagent 1
+scrubber installations 1
 recent capacity 1
 projected number 1
 30-day supply 1
@@ -372,19 +372,19 @@ u.s.-based equipment 1
 high proportion 1
 mel magnesium 1
 reagent demand 1
-design guideline 1
 common construction 1
 appropriate state 1
 full service 1
 lsfo fgd 1
 much growth 1
 five-year increment 1
-skilled craft 1
 major buyer 1
+report strategies 1
 available chemical 1
 cumulative demand 1
 significant growth 1
 modest increase 1
+large increase 1
 urea reagent 1
 component modularization 1
 minor excavation 1
@@ -407,11 +407,9 @@ accessible facility 1
 arcadis geraghty 1
 estimated demand 1
 significant percentage 1
-450-650 m3 1
 xi list 1
 total capacity 1
 incremental labor 1
-norit america 1
 initial catalyst 1
 our health 1
 same size.1 1
@@ -439,17 +437,17 @@ ff fabric 1
 extended schedule 1
 john bushman 1
 likely demand 1
-projected approach 1
+control retrofits 1
 asia-pacific region 1
 environmental control 1
 short time 1
 erected steel 1
 modest space 1
 `ç~ä=cäçïê~íé `ç~ä=jéêåìêó=`çåíéåí 1
-aci exhibit 1
+typical number 1
 ■ catalyst 1
 light company 1
-continuous use 1
+systems' design 1
 following analysis 1
 improved scrubber 1
 qiumm gbëíáã~íéç=íáãé=ñçê=éåöáåééêáåöi=çéëáöåi=éèìáéãéåí=éêçåìêéãéåíi=~åç=~ëëéãääó=áë=s=ãçåíüëk 1
@@ -458,7 +456,6 @@ t-fired combustion 1
 significant way 1
 full capacity 1
 total construction 1
-it demand 1
 logic controller 1
 general labor 1
 additional recruiting 1
@@ -467,38 +464,40 @@ domestic demand 1
 multiple boiler 1
 recent availability 1
 current workload 1
+scr retrofit 1
 compatible balance 1
-m3/yr demand 1
 lifetime extension 1
 innovative control 1
 ac injection 1
 simultaneous control 1
 eight-year period 1
 past decade 1
-fgd retrofit 1
 r=ñêçã=q~ääé=qkqf kìãäéê=çñ=_çáäéêë 1
 apparent consumption 1
 280-300 ºf 1
 gypsum by-product 1
+aci retrofits 1
 second unit 1
 individual state 1
 other hardware 1
 economic lifetime 1
+skilled crafts 1
+clean-air technology 1
 overall engineering 1
+available boilermaker 1
 sorbent transport 1
-current supply 1
 next catalyst 1
+tables 6-1a 1
 increased activity 1
 thorough discussion 1
 combined labor 1
 virtual elimination 1
-aci retrofit 1
 acis exhibit 1
-main absorber 1
 their apprenticeship 1
 preheater inlet 1
 w. j. 1
 g. f. 1
+norit americas 1
 utipmm=ãplóêg gqüáë=çåó=áååäìçéë=å~í~óëí=ã~åìñ~åíìêéë=ïüç=åìêêéåíó=ëìééäó=å~í~óëí=ñçê=åç~äjñáêéç=~ééäáå~áçåëk 1
 total catalyst 1
 ceramic honeycomb 1
@@ -523,16 +522,16 @@ initial installation 1
 critical part 1
 ipm-generated information 1
 estimated number 1
-actual amount 1
+m3/yr demand 1
+design guidelines 1
 d. foerter 1
-available boilermaker 1
 fine calcium 1
 u.s. senate 1
 principal reagent 1
 power magazine 1
 //www.bls.gov/iag/ iag.construction.htm 1
 mechanical interface 1
-tray optional 1
+actual amount 1
 right corner 1
 high quality 1
 new plant 1
@@ -550,6 +549,7 @@ pko `~í~äóëí=~åç=oé~öéåíë 1
 exhibit a-7 1
 utilize fiberglass 1
 high-pressure boiler 1
+exhibit a-1 1
 fgd absorber 1
 low employment 1
 their knowledge 1
@@ -563,7 +563,7 @@ additional example 1
 ■ dilution 1
 concrete work 1
 large project 1
-typical number 1
+projected approach 1
 specialized metal 1
 annual boilermaker 1
 economic trade 1
@@ -580,6 +580,8 @@ similar design 1
 percent utilization 1
 total cost.19 1
 r. k. 1
+scrubber installation 1
+aci exhibit 1
 oversupply situation 1
 complete boiler 1
 20-year period 1
@@ -598,10 +600,12 @@ esi international 1
 ■ decreasing 1
 additional mercury 1
 15-20 percent 1
-systems' design 1
+continuous use 1
 small portion 1
 little slack 1
+exhibits a-1 1
 large combustion 1
+exhibits a-3 1
 ceramic material 1
 `~é~åáíó=oéíêçñáí kìãäéê=çñ=^äëçêäéê=jççìäéë 1
 dramatic increase 1
@@ -609,6 +613,7 @@ single scr 1
 worldwide demand 1
 significant capacity 1
 overall limestone 1
+coal-fired boilers 1
 decreasing so2 1
 other nitrogen 1
 large demand 1
@@ -629,7 +634,6 @@ substantial level 1
 strong evidence 1
 multiple system 1
 future availability 1
-it effect 1
 `ü~éíéê=p klu=`çåíêçä=qéåüåçäçöó=oéíêçñáíë 1
 tampa electric 1
 c. e. 1
@@ -643,12 +647,9 @@ their introduction 1
 up-front planning 1
 large quantity 1
 sorbent recycling 1
-high solid 1
-component newsletter 1
 r. l. 1
 improved resource 1
 n o 1
-individual silo 1
 different part 1
 six-absorber system 1
 ■ scr 1
@@ -679,7 +680,7 @@ annualized growth 1
 optional air 1
 conservative level 1
 sufficient catalyst 1
-it safety 1
+other air 1
 limestone injection 1
 total world 1
 mwe aci 1
@@ -718,12 +719,14 @@ ultra-fine limestone 1
 available construction 1
 overall footprint 1
 prescrub area 1
+retrofit fgd 1
 limiting item 1
 necessary boiler 1
 south korea 1
 gavin scrubber 1
 potential number 1
 absorber slurry 1
+scr retrofits 1
 likely scenario 1
 recent retrofit 1
 future utility 1
@@ -731,16 +734,18 @@ worldwide supply 1
 single limestone 1
 related equipment 1
 human health 1
-clean-air technology 1
+fgd retrofits 1
 gas-fired capacity 1
-=äçáäéêë=êéíêçñáííéç=ñêçã=éêéëéåí=íç=öáîéå=óé~ê fååêéãéåí~ä=kìãäéê=p`o 1
+control technologies 1
 powdered carbon 1
+high solids 1
+■ pipes 1
 effective implementation 1
 precipitated calcium 1
 modern wet 1
 white paper 1
 urea production 1
-complex project 1
+its consumption 1
 elevated position 1
 gwe gigawatt 1
 necessary manpower 1
@@ -760,6 +765,7 @@ ac activated 1
 common site 1
 rotary metering 1
 improved efficiency 1
+its safety 1
 pre-assembled equipment 1
 additional light 1
 pjff.36 ac 1
@@ -781,45 +787,45 @@ proper planning 1
 120-160 m3 1
 
  Trigram NP 
-clear sky act 40
+clear skies act 40
 nox sip call 19
 local regulatory agency 7
 babcock borsig power 4
-iron ship builder 4
+iron ship builders 4
 wma specialty conference 3
 interim air-operating permit 3
 substantial excess capacity 2
 iea coal research 2
 efficient on-site use 2
 coal-fired electric utility 2
+kansas city power 2
 gaseous arsenic concentration 2
-kansa city power 2
 mercury control technology 2
-fgd limestone consumption 2
-ada environmental solution 2
 other electric utility 2
 national energy policy 2
 their current market 2
 local regulatory authority 2
+ada environmental solutions 2
+fgd limestone consumption 2
 removal ■ absorber 1
 single aci exhibit 1
 mary jo krolewski 1
+scr catalyst demand 1
 dark gray subtask 1
 additional discretionary income 1
+multiple scr retrofits 1
 adequate urea supply 1
 sufficient new boilermaker 1
 strategic long-term research 1
 cumulative annual demand 1
 tennessee valley authority 1
-scr catalyst demand 1
 meeting scr demand 1
 research triangle park 1
 scr catalyst capacity 1
 kat treff '97 1
 only specialized labor 1
-initial startup result 1
 only specialized piece 1
-multipollutant strategy prepared 1
+percent annual growth 1
 single fgd exhibit 1
 feed ■ limestone 1
 hot corrosive flue 1
@@ -832,54 +838,54 @@ emission cap-and-trade program 1
 additional economic activity 1
 êéçìåíáçåi ééêåéåí `çåíêçäë~ 1
 actual annual requirement 1
-mwe montour unit 1
 common single absorber 1
 original first layer 1
-epa contract no 1
 ac demand due 1
 expected future state 1
 programmable logic controller 1
 maximum projected number 1
-corrosive resistant alloy 1
 mwe hunter unit 1
 suite f durham 1
 efficient sorbent utilization 1
 single scr exhibit 1
+clean skies act 1
 table 3-1. q~ääé=pjnk==bëíáã~íéç=oéëçìêåéë=kééçéç=ñçê=páåöäé=~åç=jìäíáéäé=p`o=oéíêçñáíë 1
+epa contract no 1
+multipollutant strategies prepared 1
 single aci retrofit 1
 first-ever national cap 1
 • general construction 1
+initial startup results 1
 hamon research cottrell 1
 conservative three-year increment 1
 their local area 1
 ■ general construction 1
+economic factors affecting 1
 fgd system performance 1
 tall-span heavy-lift crane 1
 pkp `çåëíêìåíáçå=bèìáéãéåí construction 1
 adequate excess capacity 1
 bailly generating station 1
-dr. ravi srivastava 1
 current total labor 1
+multiple fgd retrofits 1
 current cumulative production 1
 `çåíêçääéç=klu kl =oéçìåéçlóê 1
 resource intensive magnesium 1
 == = g=oéëçìêåé=çéã~åç=ñêçã=p`o=ï~ë=~çàìëíéç=ñêçã=ur=dté=çñ=çéã~åç=áå=ommr=íç=tn=dté=íç=~ååçìåí=ñçê=nq=dté=çñ=p`o=ïüáåü=ü~îé=äééå=åçãéäéíéç=äó 1
-it minimum target 1
-multiple aci retrofit 1
+dr. ravi srivastava 1
 ~ééäáå~áçåë=áå=íüé=é~ëíi=äìí=åìêêéåíó=ñçåìë=çå=ö~ë=~åç=çä=jñáêéç=~ééäáå~áçåë=~åç=åçìäç=éçíéåíá~ó ëüáñí=å~é~åáíó=íç=~=åç~ä=éêççìåík currently 1
 domestic annual production 1
 mwe paradise unit 1
+mwe montour units 1
+its minimum target 1
 worldwide annual production 1
 homer city fgd 1
+multiple aci retrofits 1
 cumulative production capacity 1
-six unit exhibit 1
 energy information administration 1
-it immediate area 1
-multiple scr retrofit 1
 mwe aci system 1
 acid rain program 1
 actual available time 1
-it inherent safety 1
 cumulative total number 1
 hawthorne generating station 1
 `êìëüéç=píçåéi=nvvr=j=nvvvk==üííéwllãáåéê~äëkìëöëköçîlãáåéê~äëléìäëlåçããççáíól ëíçåé|åêìëüéçláåçéñküíã ä 1
@@ -887,7 +893,6 @@ coal boiler coal 1
 e. timothy oppelt 1
 so2 control symposium 1
 current annual demand 1
-clean sky act 1
 current annual replacement 1
 full five-year increment 1
 additional real estate 1
@@ -903,35 +908,36 @@ ttipmm=ãplóê ^ççáíáçå~ä=bëíáã~íéç=`~é~åáíó nmimmm=ãpló�
 selective catalytic reduction 1
 other large steel 1
 full four-year training 1
-percent annual growth 1
+six units exhibit 1
 available lay-down area 1
-multiple fgd retrofit 1
+its inherent safety 1
 flue gas desulfurization 1
+its immediate area 1
 tva paradise unit 1
 seven scrs exhibit 1
 initial fill demand 1
 waste/by-product ■ dewatering 1
-economic factor affecting 1
 only specialized construction 1
+mwe craig units 1
 mwe aes somerset 1
 their current capacity 1
-large underutilized capacity 1
-it domestic production 1
+current retrofits mwe 1
 eastern bituminous coal 1
 standard mechanical hardware 1
 single common absorber 1
-duct injection retrofit 1
 mwe zimmer station 1
 only major equipment 1
 crushed limestone sold 1
 many common site 1
 many coal-fired utility 1
 psnh merrimack unit 1
-current retrofit mwe 1
+its domestic production 1
+corrosive resistant alloys 1
 boilermaker demand created 1
 original second layer 1
 hawthorn power station 1
-mwe craig unit 1
+large underutilized capacity 1
+duct injection retrofits 1
 table 6-2 assuming 1
 
  Unigram NP 
@@ -953,7 +959,7 @@ capacity 73
 demand 71
 steel 65
 boiler 62
-facility 62
+facility 61
 project 59
 permit 53
 retrofit 48
@@ -968,10 +974,10 @@ u.s. 33
 gas 33
 chapter 33
 example 32
-unit 31
 process 30
 mercury 30
 reagent 30
+unit 30
 boilermaker 28
 reactor 27
 epa 27
@@ -983,10 +989,10 @@ air 25
 ductwork 22
 market 21
 addition 21
-esp 21
 figure 20
 space 20
 injection 20
+esp 20
 ac 20
 coal 19
 availability 19
@@ -1036,20 +1042,18 @@ scrubber 12
 carbon 12
 flue 12
 consumption 11
-material 11
 year 11
 need 11
 ability 11
 preheater 11
 design 10
 pjff 10
-table 10
 total 10
 united 10
 ff 10
+material 10
 operation 10
 performance 10
-section 10
 ground 10
 analysis 10
 treatment 10
@@ -1057,6 +1061,7 @@ pollution 10
 scrs 10
 level 9
 completion 9
+table 9
 value 9
 response 9
 trade 9
@@ -1065,9 +1070,9 @@ erection 9
 device 9
 method 9
 preparation 9
+section 9
 wastewater 9
 emission 8
-combination 8
 increase 8
 impact 8
 state 8
@@ -1084,8 +1089,8 @@ electricity 7
 division 7
 line 7
 chemical 7
-a 7
 september 7
+combination 7
 piping 7
 research 7
 july 7
@@ -1104,7 +1109,7 @@ path 6
 a. 6
 may 6
 collection 6
-effect 6
+a 6
 place 6
 quality 6
 exhibit 6
@@ -1146,11 +1151,10 @@ china 5
 modification 5
 document 5
 usage 5
+us 5
 problem 5
 advantage 5
-u 5
 shop 4
-forger 4
 upstream 4
 difference 4
 chicago 4
@@ -1158,11 +1162,12 @@ particulate 4
 study 4
 row 4
 ipm 4
+blacksmiths 4
 therefore 4
 today 4
 hour 4
 cap 4
-blacksmith 4
+forgers 4
 truck 4
 nitrogen 4
 issue 4
@@ -1176,6 +1181,7 @@ stoichiometry 4
 k. 4
 germany 4
 pipe 4
+proceedings 4
 timing 4
 module 4
 j. 4
@@ -1184,8 +1190,8 @@ efficiency 4
 configuration 4
 reaction 4
 country 4
-helper 4
 il 4
+helpers 4
 approval 4
 alternative 4
 source 4
@@ -1193,7 +1199,6 @@ boilermakers 4
 råáíë 4
 = 4
 duration 4
-proceeding 4
 transfer 4
 support 4
 regard 4
@@ -1205,6 +1210,7 @@ lb/mmbtu 4
 manager 3
 lééê~íáåö=méêãáí 3
 designing 3
+web 3
 institute 3
 `çåíêçä=qéåüåçäçöó=fåëí~ää~íáçå 3
 ash 3
@@ -1222,6 +1228,7 @@ office 3
 hook-up 3
 product 3
 dioxide 3
+effect 3
 difficulty 3
 filter 3
 hence 3
@@ -1237,12 +1244,9 @@ reactivity 3
 sector 3
 earthwork 3
 plate 3
-dc 3
 desulfurization 3
 excavation 3
 purpose 3
-web 3
-job 3
 effluent 3
 m/s 3
 modeling 3
@@ -1267,6 +1271,7 @@ comparison 3
 location 3
 blower 3
 * 3
+effects 3
 assessment 3
 single 3
 fabricating 3
@@ -1352,12 +1357,14 @@ velocity 2
 cìää=iç~ç=^`=áåàéåíáçå=ê~íé 2
 rååçåíêçääéç=jéêåìêó 2
 rååçåíêçääéç=plo= 2
+dc 2
 steam 2
 bureau 2
 basis 2
 notice 2
 precipitator 2
 c 2
+job 2
 extent 2
 gohara 2
 píééä 2
@@ -1434,6 +1441,7 @@ dissolution 1
 notice.44 1
 kìãäéê=çñ=mä~åíë=ïáíü=t=p`o=oéíêçñáíëñ 1
 month 1
+facilities 1
 deadline 1
 one-eighth 1
 content 1
@@ -1458,6 +1466,7 @@ kçíéw==^ååì~ä=åçåëìãéíáçå=î~äìéë=~êé=éëíáã~íéç=
 plo=oéçìåéç=ééê=óé~ê=å 1
 plo=oéçìåéç=ééê=óé~ê=ä 1
 fíéã 1
+fls 1
 prevent 1
 smaller 1
 redinger 1
@@ -1511,6 +1520,7 @@ occurrs 1
 lime 1
 fall.10 1
 period.28 1
+dcs 1
 catalyst,19 1
 call 1
 scope 1
@@ -1546,7 +1556,6 @@ robinson 1
 occur 1
 f. 1
 watzold 1
-self-sufficiency 1
 provide 1
 methodology 1
 endorsement 1
@@ -1558,6 +1567,7 @@ economy 1
 j.s. 1
 acf 1
 advice 1
+consequence 1
 sip 1
 chloride 1
 remediation 1
@@ -1591,6 +1601,7 @@ policy 1
 texas 1
 okq 1
 okp 1
+oks 1
 okr 1
 //www.chemexpo.com/news/profile010423.cfm 1
 flowrate 1
@@ -1618,6 +1629,7 @@ q~ääé=qjpk==bëíáã~íéç=j~åjüçìêë=ñçê=pìééäó=çñ=~å=^`f=
 high.33 1
 q~ääé=sjn~k==cda=oéíêçñáíë 1
 q~ääé=sjnåk==^`f=oéíêçñáíë 1
+acronyms 1
 epa-600/r-00-093 1
 turnkey 1
 q~ääé=sjqk==bëíáã~íéç=^ååì~ä=_çáäéêã~âéê=aéã~åç=`êé~íéç=äó=íüé=`äé~ê=pâáéë=^åí 1
@@ -1655,7 +1667,7 @@ positioning 1
 keep 1
 length 1
 person 1
-specification 1
+target 1
 material/equipment 1
 appropriateness 1
 shortage 1
@@ -1732,14 +1744,16 @@ months.27 1
 months.25 1
 sale 1
 principle 1
+combinations 1
 tons/mwh 1
 typically 1
+specification 1
 pkq 1
 bñáëíáåö 1
 retrofit.1 1
 feasibility 1
 q~ääé=tjnk==bëíáã~íéç=oéëçìêåéë=kééçéç=ñçê=fåëí~ää~íáçå=~åç=lééê~íáçå=çñ=qéåüåçäçöáéë 1
-target 1
+self-sufficiency 1
 pkn 1
 venezuela 1
 knowledge 1
@@ -1785,6 +1799,7 @@ bñ~ãéäé=n 1
 bñ~ãéäé=o 1
 çéã~åç=ï~ë=çéíéêãáåéç=ñêçã=íüé= 1
 expertise 1
+esps 1
 concern 1
 qçí~ä 1
 pattern 1
@@ -1796,6 +1811,8 @@ rko 1
 éëíáã~íéë=ñêçã=fmjf 1
 management,3 1
 europe 1
+jobs 1
+tables 1
 curves.30 1
 multiplier 1
 jbi=iáãéëíçåé=bèìáî~äéåíå 1
@@ -1835,10 +1852,10 @@ bèìáéãéåíä 1
 lift 1
 fåëí~ää~íáçå=oéëçìêåéë 1
 improved 1
-fl 1
 rååçåíêçääéç=klu 1
 tons,20 1
 exception 1
+survey 1
 doe/epri 1
 missouri 1
 pace 1
@@ -1865,8 +1882,6 @@ shorter 1
 bpm=ebñ~ãéäé=n=ñêçã=q~ääé=qjqfpp 1
 schematic 1
 receipt 1
-survey 1
-consequence 1
 nischt 1
 pkr 1
 v. 1
@@ -1881,10 +1896,10 @@ q~ääé=ojnk==bëíáã~íéç=oéëçìêåéë=kééçéç=ñçê=páåöäé
 center 1
 påêìääéêë 1
 spent 1
+materials 1
 gain 1
 gdp 1
 doe/netl 1
-background 1
 half 1
 gavin 1
 mêçåéëë=bèìáéãéåí=eãçëíäó=ëíééäf 1
@@ -1906,17 +1921,20 @@ sko 1
 line.26 1
 g. 1
 qçí~ä=rëévé~ê 1
+reinforcement 1
 ^`=fåàéåíáçå=o~íáç 1
 couple 1
 virginia 1
 near-zero 1
 ^îéê~öé=páòé=råáí=ejtéf 1
 preference 1
+background 1
 deployment 1
 mmacf 1
 lsd/ff.38 1
 execution 1
 zero-discharge 1
+as 1
 doe/operator 1
 ozone 1
 benefit 1
@@ -1943,14 +1961,12 @@ keystone 1
 snyder 1
 qçí~ä=bëíáã~íéç=`~é~åáíóg 1
 conveyer 1
-acronym 1
 plc 1
 g.n. 1
 q~ääé=qjnk==bëíáã~íéç=píééä=oéèìáêéãéåí=ñçê=rmm=jté=^`f=póëíéãpp 1
 a-5 1
 q~ääé=sjtk==p`o=`~í~äóëí=`~é~åáíó=cçê=`ç~äjñáêéç=_çáäéêë 1
 a-6 1
-ok 1
 ä 1
 island 1
 space.4 1
@@ -1975,6 +1991,7 @@ additional 1
 start 1
 pa 1
 way 1
+sections 1
 bêéåíáçå=çñ=páäç=eáêçåïçêâéêëi=éáéé=ñáííéêëf 1
 manufacture 1
 jones 1
@@ -1991,12 +2008,12 @@ converter 1
 on=u.s 1
 trinidad 1
 maximum 1
-reinforcement 1
 ñ 1
 ammonia/urea 1
 authorization 1
 over-capacity 1
 `~í~äóëí=j=áåáíá~ä=ñáää 1
+units 1
 supervisor 1
 m 1
 proven 1
@@ -2037,76 +2054,76 @@ u.s. epa-doe-epri combined power plant air pollutant control symposium 3
 ommr omnm omnr omom 2
 asme international joint power generation conference 2
 national risk management research laboratory 2
-current rule retrofit mwe 1
+high efficiency ultrasonic regeneration process 1
 energy information administration web site 1
 nox state implementation plan 1
-montour steam electric station 1
+nerc generating availability trend evaluations working group 1
+installing nox control technologies 1
 scr catalyst demand compared 1
 riomm ritrm nismn qimmn kçíéw=^ëëìãéë=íü~í=~ää=êéíêçñáíë=ñçê=ommr=çååìê=çîéê=íüáêíójçåé=ãçåíüë=éêáçê=íç=ommr=~åç=çîéê=~=íüêééjóé~ê=ééêáçç=ñçê=é~åü=ñáîéjóé~ê áååêéãéåí=~ñíéê=ommr=íüêçìöü=omomk==p`o=ä~äçê=~åç=äçáäéêã~âéê=çéã~åç=ïéêé=~çàìëíéç=ñêçã=ur=dté=çñ=çéã~åç=áå=ommr=íç=tn 1
 esp or ff regardless 1
+legislation concerning air emissions 1
+scr de-nox catalysts using scr-tech 1
 mwe aes somerset boiler 1
 on prä ã~åjüçìêë orimmm qoimmm ã~åjüçìêë pqmimmm ointmimmm ã~åjüçìêë psrimmm oionoimmm íçåëlóê piqmm opimmm íçåëlóê sinmm qoitmm ~ =råçéê=íüé=`äé~ê=pâáéë=^åíi=bm^=ãççéäáåö=éêçàéåíë=íü~í=íüé=éä~åí=ïáíü=íüé=ã~ñáãìã=åìãäéê çñ=p`o=êéíêçñáíë=áë=çåé=éä~åí=ïáíü=ëéîéå=äçáäéêë=~åç=~=å~é~åáíó=çñ=oiqmm=jték ä =j~ó=êéèìáêé=~å=~ççáíáçå~ä=ñçìê=ãçåíüë=íç=~îçáç=ëåüéçìäáåö=çìí~öéë=ñçê=åçåíêçä=üççâìé çìêáåö=éé~â=éäéåíêáåáíó=çéã~åç=ãçåíüëk pks 1
+`~í~äóëí=j=êééä~åéãéåí=~ääçï~ååé ^ããçåá~=pâáçë ^ããçåá~=píçê~öé = 1
 reliant energy scr construction implementation plan 1
 u.s. epa project officer 1
 ravi k. srivastava national risk management laboratory research triangle park 1
 u. s. environmental protection agency 1
-nerc generating availability trend evaluation working group 1
+u.s. census bureau summary current industrial reports 1
 qrismm quipmm oqimmm =qqitmm ~ =fí=áë=~ëëìãéç=íü~í=áåëí~ää~íáçåë=äó=ommr=çååìê=çîéê=pn=ãçåíüë=éêáçê=íç=ommr=~åç=çîéê=~=íüêééjóé~ê=ééêáçç=éêáçê=íç=omnmi=omnri=~åç=omomk==p`oå~í~äóëí=çéã~åç=ï~ë=~çàìëíéç=ñêçã=ur=dté=çñ=çéã~åç=áå=ommr=íç=tn=dté=íç=~ååçìåí=ñçê=nq=dté=çñ=p`o=ïüáåü=ü~îé=äééå=åçãéäéíéç=äó=j~ó ommok ä =qüé=êééä~åéãéåí=å~í~ í=ï~ë=éëíáã~íéç=ä~ëéç=çå=íüé=éêçàéåíéç=åìãäéê=çñ=p`o=áåëí~ä~áçåë=öáîéå=áå=q~ääé=sjnä=~åç=ççéë=åçí=áååäìçé=íüé å~í~äóëí=êééä~åéãéåí=çéã~åç=ñêçã=åìêêéåí=nmm=dté=çñ=ïçêäçïáçé=p`o=áåëí~ää~íáçåëk utility 1
 flue gas handling ■ ductwork ■ support 1
-mercury control technology retrofit 1
 ipm integrated planning model lsd lime 1
+nox control technology retrofits 1
 ééêåéåí ääljj~åñpq äälüê íçåëlóê=å ~ =bpm=z=éäéåíêçëí~íáå=éêéåáéáí~íçêx=cda=z=ñäìé=ö~ë=çéëìäñìêáò~íáçåx=cc=z=ñ~äêáå=ñáäíéêx=p`o=z=ëéäéåíáîé=å~í~äóíáå=êéçìåíáçå ä =pf=z=ëçêäéåí=áåàéåíáçåx=tf=z=ï~íéê=áåàéåíáçåx=mgcc=z=éìäëéàéí=ñ~äêáå=ñáäíéê å =qçåëlóê=éëíáã~íéç=~í=ur=ééêåéåí=å~é~åáíó=ñ~åíçê=eäälüê=g=utsm=g=mkurlommmf qkp `çåëíêìåíáçå=bèìáéãéåí construction 1
 noismm ooipmm ooiumm =ouitmm 1
 mwe aes somerset station 1
-roskill information service website 1
+a-2 a-3 a-4 a-5 a-6 a-7 a-8 a-9 a-10 a-11 1
+achieve ultra-high so2 removal efficiencies 1
+appendix a implementation schedules 1
 ^`f ommr omnm omnr omom à=j=p=áë=íüé=åìãäéê=çñ=íçí~ä=^`f=áåëí~ääéç=ñêçã=éêéëéåí=íç=omom â=j=qpp=áë=íüé=~îéê~öé=ëáòé=êéíêçñáí=çñ=íüé=p=éêçàéåíéç=^`fë=êéíêçñáíë skn 1
 m m rrm tom qçí~äi=íçåë=ééê=óé~ê m m rrm tom glééê~áçå=oéëçìêåéëi=éêçàéåíéç=~ååì~ä=~åî~íéç=å~êäçå=çéã~åç skr`êé~íáçå=çñ=gçäë=ìåçéê=`äé~ê=pâáéë=^åí=çìé=íç=`çåíêçä=qéåüåçäçöó 1
+mercury control technology retrofits 1
 ====mêçàéåí=aìê~íáçå ====båöáåééêáåölmêçàéåí=jöík ====`çåëíêìåíáçå ====qçí~ä=i~äçê ====qçí~ä=i~äçê 1
-eíüçìë~åç=íçåëf nvvv nimumimmm nvvu nimrmimmm nvvt nimnmimmm nvvs vrsimmm nvvr uuqimmm 1
+current rule retrofits mwe 1
 ommr omnm omnr omom `~í~äóëí=ñçê=åéï=áåëí~ää~íáçåë=~i=ãplóê ppimmm osimmm niomm nsimmm 1
 national technical information service 1
-so2 control technology retrofit 1
-nox control technology retrofit 1
-a-2 a-3 a-4 a-5 a-6 a-7 a-8 a-9 a-10 a-11 1
+gyrations make hitting targets 1
+current air quality rule retrofit mwe 1
 pulse jet fabric filter 1
 new madrid scr retrofit project 1
-other related standard component 1
-legislation concerning air emission 1
+m m m m 1
+u.s. geological survey minerals commodity summaries 1
 ä `çåíêçääéç=plo= å `çåíêçääéç=plo= 1
 ommm ommr omnm omnr omom kçíé=nw=^=rkp=~åç=skt=ééêåéåí=öêçïíü=ê~íé=áå=äçäéêã~âéê=àçìêåéóãéå=~åç=~ééêé åíáåéë=áë=~ëëìãéç=çîéê=íüé=ééêáççk==få=êé~ ói=íüáë=öêçïíü ê~íé=ïçìäç=éêçä~ääó=çêçé=çññ=ëçãé=íáãé=~ñíéê=omnm=ìåäéëë=íüéêé=ïéêé=çíüéê=çéã~åçjöéåéê~íáåö=éîéåíëk==qüé=ã~ñáãìã=öêçïíü ê~íé=~ëëìãéë=íüé=äçáäéêã~âéê=ãéãäéêëüáé=ãééíë=íüé=ìåáçå=öç~ä=çñ=ouimmm=áå=ommr=ñêçã=ommo=äéîéäë=çñ=oqimmm=~åç=íüéå=öêçïë=~í rkp=ééêåéåí=íüéêé~ñíéêk kçíé=ow=fí=áë=åçåëéêî~íáîéäó=~ëëìãéç=íü~í=~ää=åçåëíêìåíáçå=ñçê=êéíêçñáíë=äó=ommr=çååìê=çîéê=íüáêíójçåé=ãçåíüë=éêáçê=íç=ommr=~åç=çîéê=~=íüêééj óé~ê=ééêáçç=ñçê=é~åü=ñáîé=óé~ê=áååêéãéåí=~ñíéê=ommr=íüêçìöü=omomk==p`o=ä~äçê=~åç=äçáäéêã~âéê=çéã~åç=ïéêé=~çàìëíéç=ñêçã=ur 1
-`~í~äóëí=j=êééä~åéãéåí=~ääçï~ååé ^ããçåá~=pâáçë ^ããçåá~=píçê~öé = 1
+national ambient air quality standards 1
 gray key completion point 1
-high efficiency ultrasonic regeneration process 1
 ñçê=áåçáîáçì~ä=ëí~íé=ãìäíáéçääìí~åí=êìäéë ü=j=qst=áë=íüé=åìãäéê=çñ=íçí~ä=p`oë=áåëí~ääéç=ñêçã=éêéëéåí=íç=omom=eáååäìçéë=klu=pfm=`~ää=êéíêçñáíëfx=qrr=áë=íüé=åìãäéê=çñ=íçí~ä=p`oë=áåëí~ääéç ñêçã=ommr=íç=omom áj=qnp=áë=íüé=~îéê~öé=ëáòé=êéíêçñáí=çñ=íüé=qst=éêçàéåíéç=p`oë=eáååäìçéë=klu=pfm=`~ää=êéíêçñáíëf 1
 sip state implementation plan tva tennessee valley authority `ü~éíéê=n _~åâöêçìåç 1
-achieve ultra-high so2 removal efficiency 1
-stack activated carbon sorbent storage silo from 1
-appendix a implementation schedule 1
+so2 control technology retrofits 1
+first new coal-fired boiler 1
 fgd stack disposal figure 1
 flue gas desulfurization process 1
-m m m m 1
-installing nox control technology 1
-first new coal-fired boiler 1
 u.s. environmental protection agency office 1
+eíüçìë~åç=íçåëf nvvv nimumimmm nvvu nimrmimmm nvvt nimnmimmm nvvs vrsimmm nvvr uuqimmm 1
 ommr omnm omnr omom m ^`f=_çáäéêã~âéêë mnn 1
-scr de-nox catalyst using scr-tech 1
-====mêçàéåí=aìê~íáçå ====båöáåééêáåölmêçàk=jöík ====`çåëíêìåíáçå ====qçí~ä=i~äçê = ^ããçåá~=`çåëìãéíáçå eéèìáî~äéåí=^åüóçêçìëf 1
+electric power generation association meeting 1
 ~ íçåë ninor oimmm simmm íçåëlóê noriorm ooriqrm stsiprm íçåëlóê orrimmm qrvimmm nipttimmm íçåëlóê nqoirsm orsismu tsviuoq ~ ==råçéê=íüé=`äé~ê=pâáéë=^åíi=bm^=ãççéäáåö=éêçàéåíë=íü~í=íüêéé=éä~åíë=ïáíü=ëáñ=äçáäéêë=é~åü=ïáää=äé=êéíêçñáííéç=ïáíü=cdak==qüé ã~ñáãìã=å~é~åáíó=~í=~åó=çåé=çñ=íüé=íüêéé=éä~åíë=ï~ë=oiqmm=jté ä==p=ééêåéåí=ëìäñìê=åç~ä å==q=ééêåéåí=ëìäñìê=åç~ä ç==j~ó=êéèìáêé=~å=~ççáíáçå~ä=ñçìê=ãçåíüë=íç=~îçáç=ëåüéçìäáåö=çìí~öéë=ñçê=åçåíêçä=üççâìé=çìêáåö=éé~â=éäéåíêáåáíó=çéã~åç=ãçåíüëk often 1
 `~é~åáíó=íóéé `~é~åáíó=s~äìé `ìêêéåí=`çåñáêãéç=`~é~åáíó rripmm=ãplóê kéï=`~é~åáíó=`çãáåö=lå=iáåé ooimmm=ãplóê 1
 nò=påük=qm=máééi=nrmm=ñí qimmm oò=ëíééä=íìäáåö=nrmm=ñí qirmm 1
 ommr omnm omnr omom ~=j=vqimmm=jté=çñ=ëåêìääéêë=åìêêéåíó=áåëí~äéç ä=ó=áååäìçéë=íüé=êéíêçñáíë=ñêçã=ãìäíáéçääìí~åí=ëíê~íéöó=~ë=ïéää=~ë==íüé=éêçàéåíéç=êéíêçñáíë=çìé=íç=åìêêéåí=êéöìä~íáçåë å=ó=fmj=êéëìäíë=êéñäéåí=íü~í=áí=ïçìäç=äé=åçëíjéññéåíáîé=íç=áåëí~ää=poimmm=jté=i=äìí=ä~ëéç=çå=êéëçìêåé=~î~áä~äáäáíó=áí=áë=éëíáã~íéç=íü~í=nmimmm=jtéå~å=äé=äìáí ç=j=ovo=áë=íüé=íçí~ä=åìãäéê=çñ=éêçàéåíéç=ìåáíë=íç=äé=êéíêçñáííéç=ïáíü=ëåêìääéêë==ñêçã=éêéëéåí=íç=omom é=j=qmq=áë=íüé=~îéê~öé=ëáòé=êéíêçñáí=çñ=íüé=ovo=ìåáë=íç=äé=êéíêçñáíéç=ïáíü=ëåêìääéêë=eççéë=åçí=áååäìçé=íüé=åìêêéåí=vq=dté==f ñ=j=åìãäéê=áå=é~êéåíüéëéë=êééêéëéåíë=åìãìä~íáîé=åìãäéê=çñ=éä~åíë=ïáíü= 1
-national ambient air quality standard 1
+====mêçàéåí=aìê~íáçå ====båöáåééêáåölmêçàk=jöík ====`çåëíêìåíáçå ====qçí~ä=i~äçê = ^ããçåá~=`çåëìãéíáçå eéèìáî~äéåí=^åüóçêçìëf 1
 `çåíêçääéç=eö ~ =bm^=ãççéäáåö=éêçàéåë=íü~í=íüé=éä~åí=ïáíü=íüé=ã~áãìã=åìãäéê=çñ=^`f=êéíêçñáë=áë=çåé=éä~åí=ïáíü=íïç äçáäéêë=~åç=~=íçí~ä=å~é~åáíó=çñ=vmm=jték kçíéw==^ååì~ä=åçåëìãéíáçå=î~äìéë=~êé=éëíáã~íéç=ìëáåö=ur=ééêåéåí=å~é~åáíó=ñ~åíçêk==eçìêäó=åçåëìãéíáçå î~äìéë=~êé=~í=ñìää=äç~çk qks 1
-u.s. geological survey mineral commodity summary 1
-gyration make hitting target 1
+montour steam electric station 1
 current rule fgd limestone consumption 1
 ■ catalyst ■ catalyst 1
 selective catalytic reduction retrofit 1
-electric power generation association meeting 1
-u.s. census bureau summary current industrial report 1
+stack activated carbon sorbent storage silo from 1
 advanced flue gas desulfurization demonstration project 1
 naaqs national ambient air quality 1
+caaa clean air act amendments dcs distributed 1
 nmistr noiror piuro uiuro 1
+roskill information services website 1
 director national risk management research laboratory epa review notice 1
-caaa clean air act amendment dc distributed 1
-current air quality rule retrofit mwe 1
+other related standard component 1

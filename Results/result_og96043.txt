@@ -6,15 +6,16 @@ exchange commission 5
 exchange act 4
 cost-benefit analysis 3
 display rule 3
+its authority 2
 their quote 2
-it report 2
-it authority 2
+its report 2
 economic impact 1
+executive orders 1
 improved access 1
 our assessment 1
+its reaction 1
 statutory authorization 1
 internet web-site 1
-supplementary information 1
 et seq 1
 legal basis 1
 new rule 1
@@ -22,17 +23,16 @@ full text 1
 additional amendment 1
 jr. chairman 1
 improved execution 1
-trader association 1
+traders association 1
 our report 1
+supplementary information 1
 marketwide price 1
 commerce house 1
 additional notice 1
-it reaction 1
-it analysis 1
+its analysis 1
 mr. bothwell 1
 public availability 1
 particular pursuant 1
-executive order 1
 substantial market 1
 national association 1
 major change 1
@@ -44,7 +44,6 @@ public display 1
 paperwork reduction act 3
 regulatory flexibility analysis 2
 national market system 1
-amendment to rule 1
 nasdaq small cap 1
 other relevant information 1
 kathleen e. wannisky 1
@@ -52,7 +51,8 @@ james l. bothwell 1
 certain private trading 1
 administrative procedure act 1
 regulatory flexibility act 1
-urban affair united 1
+urban affairs united 1
+amendments to rule 1
 associate general counsel 1
 exchange commission page 1
 
@@ -62,11 +62,11 @@ rule 19
 u.s.c 12
 section 10
 market 8
-security 6
 reg 6
 fed 6
 september 5
 b 5
+security 5
 rulemaking 5
 pursuant 4
 summary 4
@@ -99,23 +99,25 @@ price 2
 collection 2
 response 2
 i 2
+operations 1
 code 1
 nasdaq 1
 alternative 1
+issues 1
 justice 1
 handling 1
 burden 1
 mandate 1
 report 1
-issue 1
-item 1
+securities 1
+banking 1
 release 1
 amendment 1
 work 1
 financial 1
 senate 1
 trading 1
-operation 1
+512-8678 1
 subject 1
 512-8326 1
 version 1
@@ -123,6 +125,7 @@ evaluation 1
 standard 1
 consideration 1
 reaction 1
+items 1
 industry 1
 specialist's 1
 maker 1
@@ -138,6 +141,7 @@ addition 1
 housing 1
 final 1
 statement 1
+statutes 1
 regard 1
 copy 1
 customer 1
@@ -148,7 +152,6 @@ display 1
 process 1
 ii 1
 need 1
-512-8678 1
 united 1
 department 1
 conflict 1
@@ -157,22 +160,20 @@ effect 1
 director 1
 meaning 1
 decision 1
-statute 1
-banking 1
 contact 1
 review 1
 
  Arbitary length NP 
 limit order display rule 6
 initial regulatory flexibility analysis 3
-unfunded mandate reform act 2
+unfunded mandates reform act 2
+by the securities and exchange commission 1
 honorable john d. dingell ranking minority member committee 1
 final regulatory flexibility analysis 1
 gao/ogc-96-43 enclosure analysis under 1
 mr. jonathan g. katz secretary 1
-new york specialist association 1
 robert p. murphy general counsel enclosure 1
-by the security and exchange commission 1
+new york specialists association 1
 honorable paul s. sarbanes ranking minority member committee 1
 honorable alfonse d'amato chairman 1
 honorable thomas j. bliley 1

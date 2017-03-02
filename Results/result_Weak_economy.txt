@@ -104,7 +104,6 @@ presence 1
 improvement 1
 source 1
 texas 1
-woman 1
 emergency 1
 government 1
 couple 1
@@ -146,6 +145,7 @@ way 1
 gap 1
 line 1
 behalf 1
+women 1
 case 1
 kind 1
 slack 1
@@ -176,16 +176,16 @@ organization 1
 filing 1
 
  Arbitary length NP 
-maryland legal service corp. 2
+maryland legal services corp. 2
 chief judge robert m. bell 1
 wilhelm h. joseph jr. 1
 anne arundel county democrat 1
 andrea f. siegel saturday 1
-homeless person representation project 1
-maryland state bar association 1
-maryland legal aid bureau 1
-crime victim compensation fund 1
 senate president thomas v. mike miller 1
-house speaker michael e. busch 1
-j. peter sabonis jr. 1
+maryland state bar association 1
 gov.-elect robert l. ehrlich jr. 1
+maryland legal aid bureau 1
+homeless persons representation project 1
+crime victims compensation fund 1
+j. peter sabonis jr. 1
+house speaker michael e. busch 1

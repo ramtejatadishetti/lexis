@@ -5,7 +5,7 @@ regulation y 4
 cost-benefit analysis 2
 bank control 2
 federal register 2
-docket no 2
+docket nos 2
 procedure act 1
 statutory authorization 1
 substantial number 1
@@ -38,17 +38,17 @@ assistant general counsel 1
 bank control act 1
 final regulatory flexibility 1
 other relevant information 1
+financial services house 1
 initial regulatory flexibility 1
 paperwork reduction act 1
-financial service house 1
-regulatory flexibility act 1
-urban affair united 1
 significant economic impact 1
+regulatory flexibility act 1
+urban affairs united 1
 
  Unigram NP 
 u.s.c 12
-governor 7
 board 7
+governors 7
 section 7
 b 6
 rule 6
@@ -64,6 +64,7 @@ office 2
 iv 2
 ii 2
 preamble 2
+analysis 2
 information 2
 fed 2
 title 2
@@ -77,7 +78,6 @@ i 2
 compliance 2
 banking 2
 act 2
-analysis 2
 comment 1
 control 1
 code 1
@@ -90,6 +90,7 @@ authority 1
 respect 1
 512-8678 1
 work 1
+issues 1
 subject 1
 united 1
 recovery 1
@@ -115,7 +116,6 @@ competitiveness 1
 director 1
 512-8210 1
 §§ 1
-issue 1
 budget 1
 order 1
 gao/ogc-97-28 1
@@ -124,18 +124,18 @@ cc 1
  Arbitary length NP 
 federal deposit insurance act 2
 general counsel b-276296 march 1
+governors federal reserve system page 1
 honorable alfonse m. d'amato chairman 1
 mr. donald j. winn assistant 1
-bank holding company act 1
 gao/ogc-97-28 enclosure analysis under 1
 the federal reserve system entitled 1
 honorable jim leach chairman 1
-bank holding company and change in bank control 1
+bank holding company act 1
 honorable henry b. gonzalez ranking minority member committee 1
+bank holding companies and change in bank control 1
+a major rule issued by the board of governors 1
 honorable paul s. sarbanes ranking minority member committee 1
-international lending supervision act 1
 robert p. murphy general counsel enclosure 1
-bank holding company act amendment 1
-a major rule issued by the board of governor 1
-governor federal reserve system page 1
-unfunded mandate reform act 1
+international lending supervision act 1
+unfunded mandates reform act 1
+bank holding company act amendments 1

@@ -10,6 +10,7 @@ common vision 2
 our community 2
 diverse work 2
 much time 1
+its hiring 1
 strategic planning 1
 conventional lawyering 1
 serious diversity 1
@@ -19,23 +20,22 @@ human genius 1
 same set 1
 multicultural community 1
 new effort 1
-it hiring 1
 moral imperative 1
 full population 1
 bilingual staff 1
 national community 1
 their vision 1
 high priority 1
-minority data 1
+staff indicators 1
 their staff 1
 competent • 1
+creating cultures 1
 third place 1
 authentic commitment 1
 lasting change 1
 internal diversity 1
 local level 1
 our mission 1
-critical issue 1
 individual state 1
 marginalized client 1
 regular diversity 1
@@ -44,7 +44,6 @@ qualified support 1
 candid conversation 1
 local program 1
 new census 1
-issue state 1
 flexible work 1
 new technology 1
 diverse leadership/governance 1
@@ -70,8 +69,7 @@ general program 1
 programmatic growth 1
 organization's commitment 1
 disseminate information 1
-creating culture 1
-our service 1
+minorities data 1
 indigenous staff 1
 multicultural framework 1
 two-day session 1
@@ -83,7 +81,7 @@ long way 1
 our leadership 1
 hidden discrimination 1
 institutional oppression 1
-legal issue 1
+critical issues 1
 personal growth 1
 deborah howard 1
 further discussion 1
@@ -99,9 +97,10 @@ national origin 1
 innovative diversity 1
 high number 1
 national training 1
+our service 1
 their office 1
+issues state 1
 clienteligible community 1
-staff indicator 1
 real accountability 1
 • recruitment 1
 full range 1
@@ -114,6 +113,7 @@ other nonmajority 1
 action planning 1
 nonlegal staff 1
 major challenge 1
+legal issues 1
 become diverse 1
 their time 1
 special client 1
@@ -124,20 +124,20 @@ national leadership 1
 past decade 1
 
  Trigram NP 
-diverse leadership/governance step 1
 vision for success 1
 present • today 1
-state justice community 1
 their legal work 1
 develop diverse leadership 1
 their particular era 1
 karp consulting group 1
 first national conference 1
+state justice communities 1
 fifty equal justice 1
 female paraprofessional staff 1
 aggressive discrimination-based advocacy 1
 past • key 1
 yvonne shinhoster lamb 1
+diverse leadership/governance steps 1
 our senior management 1
 african american representation 1
 future • key 1
@@ -146,15 +146,16 @@ future • key 1
 diversity 37
 staff 28
 community 22
-program 21
 state 18
 justice 15
+program 15
 leadership 11
 success 8
 color 8
 client 8
 retention 7
 training 6
+programs 6
 lsc 5
 board 5
 recruitment 5
@@ -166,12 +167,12 @@ vision 4
 nlada 4
 importance 4
 poverty 4
-context 4
 trust 4
 work 4
 identify 3
 concern 3
 following 3
+context 3
 inclusion 3
 present 3
 population 3
@@ -242,6 +243,7 @@ exit 1
 brainstorm 1
 awareness 1
 swim 1
+conferees 1
 full-range 1
 disparate 1
 government 1
@@ -270,8 +272,9 @@ growth 1
 result 1
 lawyer 1
 year 1
+aids 1
 event 1
-conferee 1
+compile 1
 and/or 1
 capacity 1
 legal 1
@@ -327,11 +330,11 @@ appreciation 1
 part 1
 encourage 1
 exception 1
+contexts 1
 isolation 1
 recruit 1
 excitement 1
 unfairness 1
-aid 1
 advantage 1
 example 1
 history 1
@@ -340,7 +343,6 @@ infrastructure 1
 inclusive 1
 share 1
 topic 1
-compile 1
 bias 1
 technology 1
 fluency 1
@@ -376,7 +378,7 @@ voting 1
 turnover 1
 
  Arbitary length NP 
-the legal service community turning 1
-justice violence against woman office 1
+programs are no longer 1
 need for a diverse workforce 1
-program are no longer 1
+the legal services community turning 1
+justice violence against women office 1

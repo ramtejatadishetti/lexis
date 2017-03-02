@@ -1,6 +1,6 @@
 
  Bigram NP 
-legal service 10
+legal services 10
 last year 2
 good news 2
 executive director 2
@@ -8,23 +8,23 @@ federal poverty 2
 eric kleiman 1
 local business 1
 alabama school 1
-private sector 1
-mary france 1
+its system 1
 fiscal year 1
 her husband 1
 main problem 1
-it budget 1
+lawyers trust 1
 our population 1
-statewide task 1
 metro birmingham 1
 big change 1
 legal system 1
 active license 1
 national office 1
+recent example 1
 our country 1
 congressional appropriation 1
+mary frances 1
 regular use 1
-recent example 1
+its budget 1
 good work 1
 west alabama 1
 elderly couple 1
@@ -32,33 +32,33 @@ their attorney 1
 legal representation 1
 national nonprofit 1
 her lawyer 1
-it system 1
 linda lund 1
 her community 1
 non-profit organization 1
 third tier 1
+private sector 1
 kathy benitez 1
 national average 1
 private law 1
 eligible person 1
-lawyer trust 1
 treading water 1
+melinda waters 1
 next week 1
 law foundation 1
+statewide task 1
 tracy daniel 1
 large portion 1
-melinda water 1
 
  Trigram NP 
-willie may jones 2
-legal service corp. 2
-tuscaloosa county courthouse 1
+willie mays jones 2
+legal services corp. 2
+mary frances mckinney 1
+stephanie hoops january 1
 legal services' tuscaloosa 1
-stephanie hoop january 1
-mary france mckinney 1
+reach stephanie hoops 1
 non-profit public interest 1
 north central alabama 1
-reach stephanie hoop 1
+tuscaloosa county courthouse 1
 
  Unigram NP 
 alabama 14
@@ -82,7 +82,6 @@ director 3
 jones 3
 government 2
 access 2
-water 2
 legislature 2
 family 2
 washington 2
@@ -91,6 +90,7 @@ housing 2
 firm 2
 volunteer 2
 tax 2
+waters 2
 time 2
 organization 2
 fact 2
@@ -168,8 +168,8 @@ consumer 1
 order 1
 
  Arbitary length NP 
-turning point domestic violence sexual assault 1
+legal services avoids budget cut 1
 atlanta legal aid society 1
 alabama state bar interest 1
-legal service avoids budget cut 1
-alabama state bar volunteer lawyer program 1
+turning point domestic violence sexual assault 1
+alabama state bar volunteer lawyers program 1

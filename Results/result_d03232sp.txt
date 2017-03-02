@@ -1,42 +1,41 @@
 
  Bigram NP 
-it work 14
+its work 14
 congressional requester 12
 comptroller general 9
-inspector general 8
 accepted government 6
-agency protocol 6
+inspector general 6
+agency protocols 6
 further information 5
-federal government 4
+special investigations 4
 legal authority 4
+federal government 4
+congressional protocols 4
 sensitive information 4
-special investigation 4
-congressional protocol 4
 e-mail message 4
 responsible agency 4
 transmittal letter 3
-information act 3
 issued report 3
 key information 3
 professional courtesy 3
+information act 3
 short time 3
-senate committee 2
-agency-designated liaison 2
+statutory right 2
+inspectors general 2
 agencyprotocols @ 2
 exact time 2
 special attention 2
-statutory right 2
-agency comment 2
+agency comments 2
 central liaison 2
-gao recommendation 2
 timely access 2
 fiscal year 2
 congressional oversight 2
+gao recommendations 2
 ongoing work 2
 analytical evidence 2
 assistant secretary 2
+agency-designated liaison 2
 agreed-upon format 2
-omb circular 2
 expected completion 2
 agreed-upon time 2
 requested access 2
@@ -52,12 +51,11 @@ previous review 1
 required information 1
 civil enforcement 1
 documentary evidence 1
-it relevance 1
-different collection 1
+notable exception 1
 primary source 1
 particular ongoing 1
+judicial remedy 1
 meaningful communication 1
-it classification 1
 contracting act 1
 senior executive 1
 separate agency 1
@@ -66,8 +64,9 @@ internal management 1
 criminal law 1
 necessary security 1
 grand jury 1
+general counsel 1
+senate committee 1
 public understanding 1
-it core 1
 civil action 1
 basic audit 1
 final report 1
@@ -88,9 +87,10 @@ particular work 1
 available subject-matter 1
 automated system 1
 associate administrator 1
-it disclosure 1
+its scope 1
 specialized unit 1
-other assistance 1
+hard copy 1
+its testing 1
 their record 1
 initial request 1
 gao-03-232sp united 1
@@ -99,6 +99,7 @@ house committee 1
 new work 1
 their entirety 1
 financial institution 1
+other assistance 1
 entrance conference 1
 • time 1
 wide range 1
@@ -108,34 +109,35 @@ address service 1
 additional information 1
 final product 1
 descriptive guide 1
-it position 1
 legislative history 1
+testimony congressional 1
 special legislation 1
 new engagement 1
 their confidentiality 1
 sufficient work 1
 separate entrance 1
 accurate report 1
+ongoing basis 1
 ongoing review 1
 oversees government 1
 substantive exchange 1
 effective oversight 1
 draft report 1
-general counsel 1
+its database 1
 vast majority 1
 investigator's ability 1
-hard copy 1
 mutual interest 1
 general access 1
 executive-level meeting 1
-ongoing basis 1
+its classification 1
 agency information 1
 individual field 1
 further detail 1
 other agreement 1
 needed evidence 1
-gi00 united 1
+its core 1
 financial management 1
+reasonable basis 1
 their budget 1
 active participation 1
 taxpayer return 1
@@ -144,18 +146,17 @@ federal district 1
 undertakes work 1
 other management 1
 their substance 1
-it audit 1
 nonfederal organization 1
 criminal law-and 1
-ongoing executive 1
+its position 1
 agency-designated point 1
 further work 1
 broad range 1
 first request 1
 same level 1
-judicial remedy 1
+ongoing executive 1
 prompt access 1
-reasonable basis 1
+contact gao 1
 full understanding 1
 such access 1
 basic access 1
@@ -166,29 +167,29 @@ targeted issue 1
 legislative branch 1
 subject matter 1
 analytical work 1
+facts-and-circumstances basis 1
 constructive working 1
 60-day period 1
-contact gao 1
-it database 1
 serious security 1
 governmentwide work 1
 512-2537 fax 1
 broad role 1
-public disclosure 1
+its relevance 1
 testimonial evidence 1
 other information 1
 start date 1
 our position 1
+factual information 1
 investigative matter 1
 congressional client 1
 congressional budget 1
-particular location 1
 u.s. constitution 1
+public disclosure 1
 follow-up official 1
-it transmittal 1
 key agency 1
 deliberative process 1
 such courtesy 1
+omb circulars 1
 top-level audit 1
 particular program 1
 follow-up process 1
@@ -204,12 +205,12 @@ other executive 1
 relevant field 1
 federal government's 1
 other work 1
-direct inspection 1
 draft gao 1
 congressional staff 1
 mutual knowledge 1
 e-mail address 1
 sensitive draft 1
+omb circular 1
 appropriate law 1
 reasonable time 1
 text-to-sound screen 1
@@ -222,7 +223,7 @@ standard agency 1
 public availability 1
 unique identification 1
 significant period 1
-notable exception 1
+senate committees 1
 accessible product 1
 government reform 1
 fax number 1
@@ -232,28 +233,28 @@ solicit agency 1
 targeted issuance 1
 single position 1
 electronic file 1
+gi00 united 1
 anticipated location 1
 relevant evidence 1
 original charter 1
-testimony congressional 1
+its transmittal 1
 knowledgeable staff 1
 mission gao 1
 such work 1
 due professional 1
 primary client 1
-factual information 1
+field locations 1
 rehabilitation act 1
 national security 1
 government-a requirement 1
 minimal interruption 1
-facts-and-circumstances basis 1
-it testing 1
-field location 1
+financial audits 1
+direct inspection 1
+particular location 1
 public report 1
 key objectives- 1
 private sector 1
 attorney general 1
-financial audit 1
 preliminary information 1
 policy gao 1
 executive branch 1
@@ -262,45 +263,47 @@ cognizant agency 1
 presidential appointee 1
 long-term work 1
 additional entrance 1
-it scope 1
+its disclosure 1
+its audit 1
 temporary office 1
+different collection 1
 federal agency 1
 
  Trigram NP 
 agency-designated central liaison 5
-it own initiative 4
+its own initiative 4
 substantial ongoing audit 2
-chief financial officer 2
 chief operating officer 2
-intergovernmental audit forum 1
-it statutory access 1
-government auditing standard 1
-official business penalty 1
+chief financial officers 2
+federal appropriations law 1
+agency protocols gao 1
 • physical evidence 1
-federal appropriation law 1
-it own position 1
 omb circular a-123 1
+its own position 1
 legislative reorganization act 1
 unsigned e-mail message 1
 walker v. cheney 1
-agency protocol house 1
 widespread national implication 1
+accounting procedures act 1
 final electronic version 1
+work special investigations 1
+intergovernmental audit forums 1
 gao work gao 1
+trade secrets act 1
 house government reform 1
 impoundment control act 1
 domestic working group 1
+its statutory access 1
 protested federal contracting 1
-work special investigation 1
-agency protocol preface 1
-trade secret act 1
+agency protocols house 1
 additional relevant information 1
-accounting procedure act 1
 senate report no 1
+contents letter gao 1
 world war ii 1
-agency protocol gao 1
 comment information obtaining 1
-content letter gao 1
+government auditing standards 1
+official business penalty 1
+agency protocols preface 1
 inspector general act 1
 available documented evidence 1
 
@@ -327,13 +330,13 @@ testimony 14
 time 14
 staff 12
 site 11
-investigation 11
 comment 11
 notification 11
 u.s.c 11
 contact 10
 web 10
 www.gao.gov 9
+investigation 9
 s 9
 document 9
 record 9
@@ -345,7 +348,6 @@ liaison 8
 president 8
 statement 8
 extent 8
-ig 8
 status 8
 recommendation 8
 exit 8
@@ -386,6 +388,7 @@ audit 5
 source 5
 communication 5
 evidence 5
+igs 5
 branch 5
 §716 5
 amount 4
@@ -429,6 +432,7 @@ statute 3
 certification 3
 fraud 3
 alteration 3
+ig 3
 benefit 3
 senate 3
 leadership 3
@@ -455,7 +459,6 @@ methodology 2
 abuse 2
 monitoring 2
 restriction 2
-committee 2
 misconduct 2
 writing 2
 house 2
@@ -470,6 +473,7 @@ copy 2
 matter 2
 majority 2
 subject 2
+investigations 2
 phase 2
 occasion 2
 fact 2
@@ -538,6 +542,7 @@ phone 1
 appendix 1
 effort 1
 account 1
+publications 1
 following 1
 e.g. 1
 tax 1
@@ -553,12 +558,15 @@ maintain 1
 travel 1
 feedback 1
 mission 1
+committee 1
 production 1
 disparate 1
 mandate 1
+resource 1
 february 1
 gagas 1
 classified 1
+principles 1
 event 1
 funding 1
 interference 1
@@ -575,7 +583,6 @@ assign 1
 legislation 1
 strategic 1
 feb. 1
-publication 1
 district 1
 privacy 1
 anyone 1
@@ -591,7 +598,6 @@ finding 1
 accuracy 1
 rationale 1
 observation 1
-principle 1
 duplication 1
 filing 1
 planning 1
@@ -602,7 +608,7 @@ employee 1
 achieve 1
 television 1
 conjunction 1
-resource 1
+committees 1
 summary 1
 banking 1
 activity 1
@@ -624,7 +630,6 @@ key 1
 gathering 1
 initiative 1
 pp 1
-pa 1
 maintenance 1
 waste 1
 engine 1
@@ -637,6 +642,7 @@ guide 1
 orientation 1
 iv 1
 ii 1
+pas 1
 credit 1
 impact 1
 administration 1
@@ -669,7 +675,6 @@ consultation 1
 way 1
 interest 1
 form 1
-volume 1
 competition 1
 disbursement 1
 fraudnet 1
@@ -687,13 +692,14 @@ june 1
 intent 1
 appoint 1
 e 1
+volumes 1
 
  Arbitary length NP 
 general accounting office washington 2
 u.s. general accounting office 2
 david m. walker comptroller general 1
 mr. gene l. dodaro 1
-fee paid gao permit no 1
 government corporation control act 1
 general accounting office act 1
+fees paid gao permit no 1
 government management reform act 1

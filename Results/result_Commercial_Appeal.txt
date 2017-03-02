@@ -10,10 +10,10 @@ equal access 1
 new focus 1
 annual budget 1
 our community 1
-it impact 1
 gid smith 1
 their expertise 1
 short-term challenge 1
+its impact 1
 greater memphis 1
 our funding 1
 
@@ -68,6 +68,6 @@ cfgm 1
 organization 1
 
  Arbitary length NP 
-appeal memphis grant help optimize nonprofit 1
-aid community program deborah m clubb saturday 1
 harrison d. mciver iii 1
+aid community programs deborah m clubb saturday 1
+appeal memphis grants help optimize nonprofits 1

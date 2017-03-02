@@ -13,13 +13,13 @@ federal government 4
 same time 4
 21st century 3
 public health 3
-risk assessment 3
-it mission 3
 comprehensive threat 3
+risk assessments 3
 national preparedness 3
 non-homeland security 3
 recent testimony 3
 private sector 3
+its mission 3
 food safety 2
 new cabinet 2
 change management 2
@@ -27,108 +27,102 @@ successful implementation 2
 gao-02-957t congress 2
 medical preparedness 2
 effective performance 2
-planning reorganization 2
+national plan 2
 effective management 2
 domestic preparedness 2
-response capability 2
 effective communication 2
 right leadership 2
-biological defense 2
 major consolidation 2
 title iii 2
-national plan 2
+planning reorganizations 2
 our nation 2
 my testimony 2
-top-level attention 2
 first year 2
+top-level attention 2
 financial management 2
 biological terrorism 2
 high-risk series 2
-result act 2
-biological attack 2
+its homeland 2
 governmentwide perspective 2
-it homeland 2
+results act 2
+program risks 2
+its consideration 2
 integrated approach 2
 coast guard 2
 primary mission 2
-it consideration 2
+biological defense 2
 d coordination 2
 information sharing 2
+response capabilities 2
 strategic plan 2
-program risk 2
 unique opportunity 2
 cabinet status 2
 our government 2
 annual estimate 1
-it success 1
 overseas visa 1
 our economy 1
 disease control 1
 appropriate incentive 1
-building partnership 1
+acquisition management 1
 federal bureau 1
 strategic planning 1
 appropriate accountability 1
-such example 1
 wide range 1
-accountability challenge 1
 are underway 1
+management challenges 1
 appropriate location 1
 short-term transition 1
 original purpose 1
 sustained leadership 1
 serious management 1
-performance information 1
 considerable time 1
 resultsoriented performance 1
-good government 1
+accountability criteria 1
 natural resistance 1
 critical task 1
 sustainable manner 1
-integrated department 1
+biological attacks 1
+building partnerships 1
 biological preparedness 1
-further leadership 1
+its success 1
 performance-based organization 1
 t- rced/nsiad-96-237 1
 short term 1
 poor coordination 1
-it evaluation 1
-warning capability 1
 future flexibility 1
-nation's issue 1
 new organization 1
 critical knowledge 1
-management flexibility 1
+developing analysis 1
 supplemental spending 1
 critical element 1
-acquisition management 1
+successful reorganization 1
 maximum use 1
-accountability criterion 1
 our work 1
+good government 1
 national framework.5 1
 relevant management 1
 careful attention 1
-transition issue 1
+performance information 1
 close adherence 1
 go further 1
 focused organization 1
 mr. chairman 1
 serious consideration 1
 periodic oversight 1
+federal operations 1
 overall objectives.9 1
 first responder 1
 executive branch 1
 organizational performance 1
 house committee 1
 nonhomeland security 1
-custom service 1
-federal operation 1
 long-term stewardship 1
 sufficient authority 1
-addressing vulnerability 1
+federal programs 1
 information sharing/coordination 1
 adequate monitoring 1
 fema continues 1
+its ability 1
 organizational transition 1
 combat terrorism 1
 institutional continuity 1
@@ -136,16 +130,22 @@ special attention 1
 additional accountability 1
 energy.12 again 1
 knowledge management 1
+preparedness activities 1
 new emphasis 1
 gao-02-957t figure 1
 sustained commitment 1
+broad grant 1
 extensive acquisition 1
+its evaluation 1
 unified purpose 1
 central location 1
-sustainment cost 1
+sustainment costs 1
 accountability series 1
 initial emergency 1
+results-oriented performance 1
 sufficient management 1
+warning capabilities 1
+national capabilities 1
 organizational culture 1
 legislative branch 1
 partnership sought 1
@@ -154,7 +154,6 @@ effective fit 1
 timely consideration 1
 thorough planning 1
 information management 1
-federal mission 1
 environmental research 1
 key success 1
 ultimate effectiveness 1
@@ -165,14 +164,14 @@ federal research 1
 successful transition 1
 proportionate share 1
 overall purpose 1
-high risk 1
 related business 1
 national basis 1
 avoid duplicate 1
 initial legislation 1
+collective bargaining 1
 overall ability 1
 collective body 1
-explosive detection 1
+assure security 1
 effective response 1
 key infrastructure 1
 major government 1
@@ -197,6 +196,7 @@ our homeland 1
 early out 1
 t- rced/nsiad-96-262 1
 subsequent performance 1
+national needs 1
 slow progress 1
 state department 1
 counterterrorism leadership 1
@@ -210,9 +210,10 @@ fiscal year 1
 strong strategy 1
 consolidated approach 1
 complex task 1
-assure security 1
+federal missions 1
 individual government 1
 considerable benefit 1
+biological attack 1
 detailed implementation 1
 transparent definition 1
 new computer 1
@@ -223,7 +224,7 @@ overall implementation 1
 ongoing work 1
 other transition 1
 our testimony 1
-collective bargaining 1
+performance agreements 1
 precise cost 1
 visa function 1
 congressional debate 1
@@ -236,15 +237,15 @@ realistic budget 1
 performance management 1
 st century 1
 compatible information 1
-national need 1
 previous testimony 1
 comprehensive transition 1
 timely issuance 1
 deliberate phasing 1
 national-level threat 1
+political affiliation 1
 top leadership 1
 similar field 1
-broad grant 1
+further leadership 1
 physical location 1
 right training 1
 major part 1
@@ -252,11 +253,9 @@ key tool 1
 federal response 1
 regular progress 1
 opportune time 1
-developing analysis 1
 gao- 02-149t 1
-environmental measurement 1
+such example 1
 important oversight 1
-federal program 1
 civilian research 1
 short list 1
 federal spending 1
@@ -266,7 +265,6 @@ federal government's 1
 comprehensive strategy 1
 federal government.13 1
 careful analysis 1
-performance agreement 1
 uncertainty remains 1
 orderly transition 1
 improve security 1
@@ -274,24 +272,27 @@ organizational profile 1
 organization-wide commitment 1
 single roof 1
 state-of-the art 1
+integrated department 1
 robust protection 1
 current framework 1
 existing technology 1
 related gao 1
-political affiliation 1
+transition issues 1
 our time 1
 being made 1
 national policy 1
 environmental protection 1
 equitable performance 1
 certain urgency 1
+counterterrorism operations 1
 special grant 1
 clinger-cohen act 1
 potential need 1
 program overlap 1
 government reform 1
 intergovernmental cooperation 1
-results-oriented performance 1
+environmental measurements 1
+high risks 1
 critical information 1
 tremendous pressure 1
 • definition 1
@@ -300,38 +301,38 @@ estimated budget 1
 successful creation 1
 timely manner 1
 adequate funding 1
-successful reorganization 1
+customs service 1
 governor ridge 1
 lawrence livermore 1
 comptroller general 1
 adequate transparency 1
 same urgency 1
+accountability challenges 1
 reorganization finally 1
 important element 1
 orderly migration 1
-counterterrorism operation 1
 transforming control 1
 risk management 1
 sustained management 1
+nation's issues 1
 systematic approach 1
 special accountability 1
 equal need 1
 biomedical research 1
 legitimate travel 1
+explosives detection 1
 last fall 1
 individual accountability 1
 top-level leadership 1
 rapid reorganization 1
 federal level 1
-management challenge 1
+management flexibilities 1
 state department's 1
-preparedness activity 1
 sufficient staff 1
 appropriate policy 1
-national capability 1
 gao-02-957t emerging 1
 effective homeland 1
-it ability 1
+addressing vulnerabilities 1
 complex job 1
 government performance 1
 delivery expected 1
@@ -341,90 +342,90 @@ real need 1
 
  Trigram NP 
 drive transformational change 2
-achieving national goal 2
+achieving national goals 2
 homeland security act 2
 ensure safe food 2
 important first step 2
-information system protection 2
+information systems protection 2
 public health preparedness 1
 homeland security implementation 1
-it oversight role 1
 our preliminary review 1
-it primary mission 1
-financial officer act 1
+new national strategy 1
 • clear mission 1
 numerous key management 1
+screener performance problems 1
 could help federal 1
-reorganization fbi reorganization 1
+gao-02-957t mr. chairman 1
 other non-homeland security 1
 reasonable congressional oversight 1
+recent legislative language 1
 homeland security strategy 1
 increased budget flexibility 1
 efficient structural unit 1
 identifying potential duplication 1
 governor tom ridge 1
-risk management approach 1
+key success factors 1
+illustrate severe weaknesses 1
+house select committee 1
 immediate action needed 1
 recent strategic plan 1
-major management challenge 1
 total annual spending 1
-public health initiative 1
-new national strategy 1
+strengthening federal preparedness 1
 congressional budget office 1
+dhs transition issues 1
 • performance-based organization 1
 transportation security administration 1
+disaster declaration criteria 1
 their effective delivery 1
-illustrate severe weakness 1
-implementation issue statement 1
 our prior work 1
 central intelligence agency 1
-key success factor 1
 their undivided attention 1
 public health protection 1
 demonstrate urgent need 1
 reasonable human capital 1
 overall organizational goals.16 1
 credible human capital 1
-strengthening federal preparedness 1
-gao-02-957t mr. chairman 1
+reorganization fbi reorganization 1
 public health bioterrorism 1
 address mission fragmentation 1
+its primary mission 1
 internal revenue service 1
+duplicate federal weapons 1
+financial officers act 1
 environmental protection agency 1
 absent sufficient attention 1
 our long range 1
 strategy can draw 1
 effective new cabinet 1
 central focal point 1
-designing accountability provision 1
-homeland security reorganization 1
 other significant government 1
+homeland security reorganization 1
+national preparedness strategy 1
 modern human capital 1
-disaster declaration criterion 1
-recent legislative language 1
-achieving key outcome 1
-house select committee 1
+target program investments 1
+major management challenges 1
 revised organizational structure 1
-it own work 1
 • statutory basis 1
 other federal agency 1
-dhs transition issue 1
-target program investment 1
+public health initiatives 1
+its initial implementation 1
 many non-homeland security 1
+private sector efforts 1
+its own work 1
+eligibility assurance procedures 1
 usa patriot act 1
-eligibility assurance procedure 1
+its oversight role 1
 broad transformation needed 1
+implementation issues statement 1
+designing accountability provisions 1
 general accounting office 1
-screener performance problem 1
+risk management approach 1
 department's structural effectiveness 1
 certain critical success 1
-it initial implementation 1
 fundamental public sector 1
-duplicate federal weapon 1
-national preparedness strategy 1
 mass destruction training 1
 management results-oriented budget 1
-private sector effort 1
+achieving key outcomes 1
 current fragmented state 1
 
  Unigram NP 
@@ -445,15 +446,15 @@ march 16
 june 16
 president 14
 july 14
-agency 14
-mission 13
 state 13
 october 13
-program 12
 protection 12
+mission 12
 transition 12
+agency 12
 d.c. 12
 washington 12
+program 11
 order 11
 • 11
 need 10
@@ -461,13 +462,13 @@ coordination 10
 reorganization 10
 consolidation 9
 may 9
-visa 9
 april 9
 budget 9
 administration 9
 success 9
 time 9
 nation 8
+visa 8
 implementation 8
 addition 8
 strategy 8
@@ -526,7 +527,6 @@ safety 3
 appointment 3
 past 3
 impact 3
-experience 3
 unit 3
 assessment 3
 sharing 3
@@ -543,7 +543,6 @@ continuity 3
 resource 3
 federal 3
 review 3
-approach 3
 attention 3
 efficiency 3
 defense 3
@@ -552,15 +551,16 @@ analysis 3
 position 3
 relevancy 3
 creation 3
-oh 3
 communication 3
 involvement 3
+ohs 3
 building 3
 team 2
 design 2
 gao-01- 2
 change 2
 vulnerability 2
+experience 2
 gao-02-886t 2
 fbi 2
 use 2
@@ -585,7 +585,6 @@ estimate 2
 strategic 2
 similarly 2
 synergy 2
-partnership 2
 mechanism 2
 instance 2
 gao-02-627t 2
@@ -596,6 +595,8 @@ respond 2
 set 2
 computer 2
 result 2
+approach 2
+agencies 2
 contract 2
 preparedness 2
 respect 2
@@ -665,13 +666,14 @@ gao/aimd-97-7 1
 gao-02-473t 1
 consideration 1
 [ 1
-airport 1
 fy2003 1
 implement 1
+options 1
 manage 1
 gao-02-490t 1
 crisis 1
 figure 1
+criteria 1
 gao/ggd-98-137 1
 gao-02-811t 1
 visibility 1
@@ -693,19 +695,18 @@ end 1
 hoc 1
 gao-01-592 1
 stewardship 1
-criterion 1
 significance 1
 economy 1
 act 1
-lab 1
+collection 1
 security.6 1
 gao-02-150t 1
 tenure 1
+partnerships 1
 help 1
 gao/aimd-00-90r 1
 entity 1
 course 1
-member 1
 gao/nsiad-99-159 1
 faa 1
 group 1
@@ -719,6 +720,7 @@ permanent 1
 disparate 1
 gao-01-1166t 1
 transparent 1
+airports 1
 redundancy 1
 gao-01-162t 1
 gao-02-549t 1
@@ -727,14 +729,17 @@ status 1
 harm 1
 formulate 1
 energy 1
+principles 1
 contracting 1
 rced-97-111r 1
 multi-pay 1
 investigation 1
 evaluation 1
 u.s. 1
+labs 1
 difficulty 1
-collection 1
+approaches 1
+members 1
 gao-01-1171t 1
 gao-01-667 1
 interaction 1
@@ -746,13 +751,11 @@ gao-02-547t 1
 leverage 1
 service 1
 priority 1
-attack 1
 draft 1
 statement 1
 coordination.14 1
 compromise 1
 enforcement 1
-option 1
 relationship 1
 purchase 1
 gao-02-550t 1
@@ -762,6 +765,7 @@ kind 1
 gao/aimd-97-156 1
 acquisition 1
 gao-01-1005t 1
+partnership 1
 gao-02-899t 1
 u.s 1
 enhancing 1
@@ -774,11 +778,11 @@ track 1
 collaboration 1
 gao-01-769t 1
 t-rced-98-190 1
+experiences 1
 entry 1
 phase 1
 ] 1
 harmonization 1
-principle 1
 gao-02-610 1
 duplication 1
 assistance 1
@@ -815,6 +819,7 @@ screen 1
 retirement 1
 key 1
 protect 1
+missions 1
 connection 1
 a.m. 1
 context 1
@@ -854,6 +859,7 @@ gao-01-1168t 1
 opportunity 1
 task 1
 march22 1
+programs 1
 procurement 1
 model 1
 prevention 1
@@ -902,6 +908,7 @@ processing 1
 restructuring 1
 gao/t-aimd-95-161 1
 anything 1
+attacks 1
 freedom 1
 cadre 1
 block 1
@@ -914,6 +921,7 @@ utility 1
 gao-02-145t 1
 support 1
 gao-02-883t 1
+visas 1
 interagency 1
 overlapping 1
 line 1
@@ -946,44 +954,44 @@ u.s. general accounting office 11
 new department could improve coordination 3
 strategic human capital management 3
 federal emergency management agency 2
-cabinet agency ha merit 2
 new department could improve biomedical r 2
-may disrupt dual-purpose effort 2
+cabinet agency has merit 2
+may disrupt dual-purpose efforts 2
 implementation will be pivotal 1
 may complicate public health priority setting 1
 disaster assistance critical infrastructure protection 1
 homeland security critical design 1
 reorganization homeland security strategy 1
+addressing major management challenges 1
 army must be proactive 1
-grant design grant program 1
 critical infrastructure protection aviation security 1
-homeland security challenge need 1
-nine private sector organization 1
 long-term attention is needed 1
 aviation security aviation security 1
-commercially available advanced explosive detection 1
 potential emergency response equipment 1
-cyber security information act 1
+commercially available advanced explosives detection 1
+public health programs raises concerns 1
 dod's antiterrorism program implementation 1
 homeland security homeland security 1
-partnership will be critical 1
+governmentwide programs requires better management 1
+response teams provide varied 1
 may complicate priority setting 1
 strategic human capital reform 1
+national guard response teams 1
 general accounting office testimony gao 1
+nine private sector organizations 1
 improve domestic preparedness program focus 1
-national guard response team 1
-risk management approach can guide preparedness effort 1
+preboard screening security operations 1
+inventory management are needed 1
+partnerships will be critical 1
 gao-02-957t • human capital strategy 1
 other basic civil service 1
-governmentwide program requires better management 1
 west nile virus outbreak 1
-inventory management are needed 1
-problem impair airport screener 1
-key management issue vary widely 1
-addressing major management challenge 1
+risk management approach can guide preparedness efforts 1
+evaluation should follow results act framework 1
+grant design grant programs 1
+key management issues vary widely 1
 president george w. bush 1
+problems impair airport screeners 1
 nunn-lugar-domenici domestic preparedness program 1
-public health program raise concern 1
-preboard screening security operation 1
-evaluation should follow result act framework 1
-response team provide varied 1
+cyber security information act 1
+homeland security challenges need 1

@@ -1,7 +1,7 @@
 
  Bigram NP 
+federal rules 3
 individual market 3
-federal rule 3
 federal register 3
 individual health 3
 individual coverage 3
@@ -18,12 +18,13 @@ part b 1
 private sector 1
 prompt guidance 1
 our assessment 1
+order no 1
 prior group 1
 fifth year 1
 normal time 1
 guaranteed issue 1
 william scanlon 1
-human service 1
+30day comment 1
 et seq 1
 budgetary impact 1
 mr. scanlon 1
@@ -33,10 +34,9 @@ jr. chairman 1
 same group 1
 james vickers 1
 final rule 1
-30day comment 1
-system issue 1
 continued coverage 1
 our report 1
+systems issues 1
 same day 1
 commerce house 1
 direct cost 1
@@ -44,8 +44,8 @@ prior coverage 1
 public interest 1
 good cause 1
 public comment 1
+human services 1
 accountability act 1
-order no 1
 possible loss 1
 our review 1
 individual insurance 1
@@ -53,18 +53,18 @@ individual insurance 1
  Trigram NP 
 interim final rule 8
 paperwork reduction act 3
-state alternative mechanism 2
 health insurance portability 2
 regulatory flexibility act 2
-administrative procedure act 1
+state alternative mechanisms 2
+human services page 1
 total annual burden 1
 assistant general counsel 1
-human service page 1
+federal rules pursuant 1
+other relevant information 1
 total annual cost 1
-federal rule pursuant 1
 congressional budget office 1
 executive order no 1
-other relevant information 1
+administrative procedure act 1
 combined economic impact 1
 initial yearly cost 1
 planned regulatory action 1
@@ -167,19 +167,19 @@ reform 1
 inability 1
 
  Arbitary length NP 
+unfunded mandates reform act 2
 market health insurance reform 2
 public health service act 2
-unfunded mandate reform act 2
-state alternative mechanism to federal rule 1
 honorable john d. dingell ranking minority member committee 1
-federal rule for access in the individual market 1
+a major rule issued by the department of health and human services entitled 1
 from group to individual coverage 1
 honorable james m. jeffords chairman 1
 honorable edward m. kennedy ranking minority member committee 1
 individual market health insurance reform 1
+federal rules for access in the individual market 1
 gao/ogc-97-38 enclosure analysis under 1
 robert p. murphy general counsel enclosure 1
 honorable donna e. shalala secretary 1
-a major rule issued by the department of health and human service entitled 1
 general counsel b-276709 april 1
+state alternative mechanisms to federal rules 1
 honorable thomas j. bliley 1

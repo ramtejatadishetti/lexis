@@ -120,7 +120,7 @@ guide 1
 
  Arbitary length NP 
 seek basic legal advice 1
-los angeles time tuesday 1
-monte morin time staff writer 1
-self-help legal access center 1
 family law information center 1
+monte morin times staff writer 1
+self-help legal access center 1
+los angeles times tuesday 1

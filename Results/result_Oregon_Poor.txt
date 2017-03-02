@@ -52,7 +52,6 @@ seth 4
 oxygen 3
 case 3
 attorney 2
-lawyer 2
 study 2
 family 2
 firm 2
@@ -75,11 +74,11 @@ school 1
 bar 1
 disorder 1
 rate 1
+lawyer 1
 year 1
 portland 1
 state 1
 appeal 1
-associate 1
 possibility 1
 pressure 1
 struggle 1
@@ -117,11 +116,13 @@ pack 1
 engine 1
 private-sector 1
 aug. 1
+associates 1
 dealer 1
 record-gathering 1
 graduate 1
 application 1
 speech 1
+lawyers 1
 collection 1
 translator 1
 law 1

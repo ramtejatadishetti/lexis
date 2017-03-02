@@ -8,7 +8,7 @@ dallas county 2
 texas wednesday 1
 main office 1
 business wire 1
-low-income resident 1
+low-income residents 1
 afforded access 1
 supreme court 1
 legal assistance 1
@@ -19,9 +19,9 @@ dallas total 1
  Trigram NP 
 texas equal access 2
 justice foundation allocates 1
-dallas catholic charity 1
+dallas catholic charities 1
 u.s. census bureau 1
-dallas legal service 1
+dallas legal services 1
 
  Unigram NP 
 dallas 4
@@ -35,7 +35,6 @@ population 2
 level 2
 county 1
 www.txiolta.org 1
-lawyer 1
 trust 1
 texas- 1
 bcls 1
@@ -46,6 +45,7 @@ eleven 1
 cvcls 1
 interest 1
 foundation 1
+lawyers 1
 advice 1
 million 1
 plan 1
@@ -60,10 +60,10 @@ austin 1
 
  Arbitary length NP 
 city organization iolta bcls total 1
-crime victim civil legal service 1
-basic civil legal service 1
+dallas housing crisis center 1
+crime victims civil legal services 1
 dallas dallas bar association community service fund 1
 business wire texas equal access 1
 dallas dallas legal hospice 1
-dallas housing crisis center 1
+basic civil legal services 1
 northwest texas service area 1

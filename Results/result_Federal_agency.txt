@@ -8,41 +8,41 @@ charleston county 2
 king st. 2
 eric kleiman 1
 north charleston 1
-it interest 1
 legal assistance 1
 last year 1
 local agency 1
 congressional agency 1
 va. kleiman 1
+its interest 1
 nationwide consolidation 1
 circuit court 1
 orderly transfer 1
-it funding 1
-patrick property 1
-it grant 1
+its grant 1
 legal aid 1
 nonprofit corporation 1
+patrick properties 1
 main st. 1
 randall goldman 1
 redeveloped office 1
+its funding 1
 their obligation 1
 federal agency 1
 
  Trigram NP 
 prime real estate 1
-it federal grant 1
 west montague avenue 1
 greenville-based equal justice 1
 neighborhood legal program 1
 e. douglas pratt-thomas 1
 big stone gap 1
 john n. erlenborn 1
+its federal grant 1
 civil legal assistance 1
 gerald a. kaynard 1
-legal service corp. 1
+federal legal aid 1
 herb frazier a 1
 upscale commercial development 1
-federal legal aid 1
+legal services corp. 1
 
  Unigram NP 
 lsc 11
@@ -72,6 +72,7 @@ office 1
 september 1
 money 1
 sale 1
+appeals 1
 partner 1
 decade 1
 erlenborn 1
@@ -84,7 +85,6 @@ program 1
 board 1
 s.c. 1
 antique 1
-appeal 1
 issue 1
 chairman 1
 entrance 1

@@ -52,7 +52,7 @@ help 2
 family 2
 september 1
 tuesday 1
-woman 1
+secure 1
 lawyer 1
 autism 1
 custody 1
@@ -74,7 +74,6 @@ chairman 1
 interest 1
 income 1
 speech 1
-secure 1
 guarantee 1
 household 1
 bureaucracy 1
@@ -88,7 +87,7 @@ therapy 1
 student 1
 judge 1
 day 1
-care 1
+women 1
 hour 1
 wife 1
 receive 1
@@ -96,6 +95,7 @@ levin 1
 morning 1
 trial 1
 mechanic 1
+care 1
 
  Arbitary length NP 
 greater upstate law project 1

@@ -26,12 +26,12 @@ low income 1
  Trigram NP 
 legal assistance foundation 2
 illinois supreme court 1
+lincoln legal services 1
 recent one-two punch 1
 prairie state legal 1
 illinois general assembly 1
-lincoln legal service 1
-legal service corp. 1
 ruth ann schmitt 1
+legal services corp. 1
 
  Unigram NP 
 illinois 6

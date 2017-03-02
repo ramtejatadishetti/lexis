@@ -7,7 +7,7 @@ economic analysis 2
 urban development 2
 cost-benefit analysis 1
 substantial number 1
-appropriation act 1
+private sector 1
 ms. england-joseph 1
 special forbearance 1
 our assessment 1
@@ -26,29 +26,29 @@ such certification 1
 statutory requirement 1
 et seq 1
 our report 1
-private sector 1
 alan zuckerman 1
 various loss 1
-our review 1
 chief counsel 1
+our review 1
+appropriations act 1
 
  Trigram NP 
-loss mitigation procedure 2
-assistant general counsel 1
-mortgage assignment program 1
-final regulatory flexibility 1
-small business administration 1
+loss mitigation procedures 2
 annual net saving 1
+assistant general counsel 1
+final regulatory flexibility 1
+community development issues 1
+other relevant information 1
+financial services house 1
 paperwork reduction act 1
 urban development page 1
 significant intergovernmental mandate 1
-other relevant information 1
-community development issue 1
-financial service house 1
-regulatory flexibility act 1
-urban affair united 1
+omnibus consolidated rescissions 1
+mortgage assignment program 1
 significant economic impact 1
-omnibus consolidated rescission 1
+regulatory flexibility act 1
+urban affairs united 1
+small business administration 1
 
  Unigram NP 
 hud 20
@@ -152,17 +152,17 @@ contact 1
 
  Arbitary length NP 
 single family mortgage insurance 3
+unfunded mandates reform act 2
 national environmental policy act 2
-unfunded mandate reform act 2
 balanced budget downpayment act 1
 honorable henry b. gonzalez ranking minority member committee 1
 a major rule issued by the department of housing and urban development 1
+loss mitigation procedures pursuant 1
 robert p. murphy general counsel 1
 honorable james a. leach chairman 1
-gao/ogc-96-33 administrative procedure act 1
 general counsel b-272940 august 1
 mr. nelson a. diaz general counsel department 1
 honorable paul s. sarbanes ranking minority member committee 1
 honorable alfonse d'amato chairman 1
-loss mitigation procedure pursuant 1
+gao/ogc-96-33 administrative procedure act 1
 gao/ogc-96-33 enclosure analysis under 1

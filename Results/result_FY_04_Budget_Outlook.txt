@@ -1,33 +1,33 @@
 
  Bigram NP 
-it funding 2
+its funding 2
 last month 1
 much time 1
 onetime increase 1
 president bush 1
-corporation saturday 1
 budget outlook 1
 hold-the-line request 1
 legal assistance 1
-it budget 1
+corporation saturday 1
 same amount 1
 omnibus spending 1
+its money 1
 federal government 1
+its budget 1
 domestic violence 1
-it money 1
 public housing 1
 final version 1
+quasi-governmental agency 1
 extra money 1
 abortion-related litigation 1
 legal aid 1
 federal poverty 1
-quasi-governmental agency 1
 
  Trigram NP 
 cq weekly fy 1
 civil legal assistance 1
-legal service corp. 1
 funded legal aid 1
+legal services corp. 1
 
  Unigram NP 
 lsc 7

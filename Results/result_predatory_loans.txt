@@ -16,7 +16,6 @@ abusive home 1
 predatory-lending bill 1
 undocumented business 1
 denver post 1
-mortgage broker 1
 new century 1
 subprime lending 1
 her husband 1
@@ -28,6 +27,7 @@ enough money 1
 last year 1
 actual income 1
 percent interest 1
+mortgage brokers 1
 same dilemma 1
 new loan 1
 recent mortgage 1
@@ -42,6 +42,7 @@ imaginary quilting 1
 adam bass 1
 modest house 1
 federal government 1
+its proposal 1
 sandstone-hued luxury 1
 long run 1
 high-cost home 1
@@ -68,7 +69,6 @@ workable resolution 1
 hurried loan 1
 their home 1
 other consumer 1
-it proposal 1
 enough cash 1
 
  Trigram NP 
@@ -76,7 +76,7 @@ fieldstone mortgage co. 1
 new century mortgage 1
 sen. doug linkhart 1
 her supposed income 1
-colorado legal service 1
+colorado legal services 1
 her new home 1
 their new loan 1
 their old neighborhood 1
@@ -195,6 +195,6 @@ sale 1
 responsibility 1
 
  Arbitary length NP 
-colorado mortgage lender association 1
+colorado mortgage lenders association 1
 their current monthly income 1
 david olinger denver post staff writer sunday 1

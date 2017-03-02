@@ -2,9 +2,9 @@
  Bigram NP 
 professional assistance 2
 low-income taxpayer 1
-it success 1
 rival army 1
 exact situation 1
+its success 1
 volunteer division 1
 valid complaint 1
 economic development 1
@@ -15,6 +15,7 @@ low-income family 1
 broad cross-section 1
 lawyer account 1
 new round 1
+tax times 1
 vital role 1
 innovative way 1
 new york 1
@@ -31,14 +32,13 @@ their tax 1
 corporate tax 1
 lowincome taxpayer 1
 political spectrum 1
-it funding 1
+meant litigation 1
 reform act 1
 critical need 1
 unusual step 1
 stepped-up basis 1
 irs restructuring 1
-meant litigation 1
-tax time 1
+its funding 1
 steady stream 1
 extensive training 1
 past decade 1
@@ -147,5 +147,5 @@ earned income tax credit 3
 brooklyn low-income taxpayer clinic 2
 low income taxpayer clinic 1
 irs commissioner charles o. rossotti 1
-south brooklyn legal service 1
+south brooklyn legal services 1
 legal aid society's volunteer division 1

@@ -3,10 +3,10 @@
 domestic violence 3
 last year 2
 justice project 1
-idaho fall 1
 legal representation 1
 executive committee 1
 legal assistance 1
+idaho falls 1
 enough money 1
 such violence 1
 
@@ -25,13 +25,13 @@ money 1
 tuesday 1
 tax 1
 ap 1
-victim 1
 year 1
 announcement 1
 goal 1
 divorce 1
 support 1
 access 1
+victims 1
 visitation 1
 boise 1
 law 1
@@ -45,8 +45,8 @@ representation 1
 order 1
 
  Arbitary length NP 
-idaho supreme court chief justice linda copple trout 1
-ida-west energy co. chief executive officer randy hill 1
-associated press campaign pay 1
-idaho volunteer lawyer program 1
 idaho bar association president fred hoopes 1
+ida-west energy co. chief executive officer randy hill 1
+idaho supreme court chief justice linda copple trout 1
+idaho volunteer lawyers program 1
+associated press campaign pays 1

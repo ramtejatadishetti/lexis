@@ -28,8 +28,8 @@ new policy 1
 
  Trigram NP 
 free legal service 1
+russ rizzo august 1
 legal aid society 1
-rus rizzo august 1
 
  Unigram NP 
 work 8
@@ -60,9 +60,9 @@ maley 1
 area 1
 managing 1
 barnes 1
+daniels 1
 question 1
 cinergy 1
-daniel 1
 bamberger 1
 policy 1
 evansville 1

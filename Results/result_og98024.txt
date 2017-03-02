@@ -11,9 +11,9 @@ major rule 1
 procedure act 1
 private sector 1
 final rulemaking 1
-regulatory affair 1
 ms. joyner 1
 our assessment 1
+order nos 1
 protection pursuant 1
 labor page 1
 workforce house 1
@@ -23,19 +23,19 @@ significant impact 1
 chronic respiratory 1
 small entity 1
 et seq 1
+regulatory affairs 1
+statutory authority 1
 federal register 1
 health act 1
-order no 1
 james vickers 1
 average burden 1
+employment issues 1
 harbor worker 1
 osha department 1
 cardiovascular disease 1
 our report 1
 general industry 1
-employment issue 1
 final respiratory 1
-statutory authority 1
 carlotta joyner 1
 osha-ordered study 1
 first year 1
@@ -54,9 +54,9 @@ substantial number 1
  Trigram NP 
 assistant general counsel 1
 other relevant information 1
-contract work hour 1
+contract work hours 1
+safety standards act 1
 paperwork reduction act 1
-safety standard act 1
 final economic analysis 1
 regulatory flexibility act 1
 annual fit testing 1
@@ -172,4 +172,4 @@ a major rule issued by the department of labor 1
 honorable william f. goodling chairman 1
 robert p. murphy general counsel enclosure 1
 honorable william l. clay ranking minority member committee 1
-unfunded mandate reform act 1
+unfunded mandates reform act 1

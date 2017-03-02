@@ -1,19 +1,20 @@
 
  Bigram NP 
-vice president 14
 attorney-client privilege 14
+vice president 12
 professional responsibility 10
 confidential information 9
 lsc act 5
 lsc president 4
 such information 3
+face-to-face meeting 2
+satisfactory manner 2
 other law 2
 appropriate notice 2
 good faith 2
 program performance 2
-face-to-face meeting 2
-satisfactory manner 2
-legal affair 2
+legal affairs 2
+vice presidents 2
 reasonable claim 1
 such access 1
 subsequent year 1
@@ -30,30 +31,30 @@ financial assistance 1
 their work 1
 final decision 1
 further inquiry 1
-full description 1
-it training 1
+impending request 1
 necessary access 1
 appropriate access 1
 effective monitoring 1
-between lsc 1
-impending request 1
-federal regulation 1
+model rules 1
 explicit access 1
-model rule 1
 other information 1
 d.c. cir 1
 comptroller general 1
-government relation 1
+between lsc 1
 vice president's 1
 full compliance 1
 specific information 1
 affirmative duty 1
 unreasonable position 1
+its training 1
 appropriate action 1
 explicit authority 1
-it grant 1
+legal services 1
+its grant 1
 particular importance 1
-legal service 1
+government relations 1
+full description 1
+federal regulations 1
 unique client 1
 on-site visit 1
 such request 1
@@ -63,9 +64,9 @@ further work 1
  Trigram NP 
 new york city 1
 statutory framework lsc 1
-original unredacted client 1
+general principles lsc 1
 reasonable corrective action 1
-general principle lsc 1
+original unredacted client 1
 
  Unigram NP 
 lsc 45
@@ -73,8 +74,8 @@ oce 28
 recipient 28
 information 25
 access 20
-program 13
 section 12
+programs 12
 administration 7
 president 7
 compliance 6
@@ -100,7 +101,6 @@ forth 3
 management 3
 meeting 3
 case 3
-procedure 3
 manner 3
 purpose 3
 opportunity 3
@@ -119,6 +119,7 @@ use 2
 reconsideration 2
 scope 2
 enforcement 2
+procedure 2
 sought 2
 privileged 2
 termination 2
@@ -127,9 +128,11 @@ code 1
 mechanism 1
 hereto 1
 staff 1
-monitor 1
 provision 1
+monitor 1
+procedures 1
 recipient's 1
+program 1
 policy 1
 prohibition 1
 contain 1
@@ -157,6 +160,7 @@ approach 1
 way 1
 regard 1
 fund 1
+vice 1
 example 1
 process 1
 binding 1
@@ -171,11 +175,10 @@ congress 1
 oig 1
 advice 1
 audit 1
-vice 1
 vice-president 1
 responsibility 1
 time 1
 
  Arbitary length NP 
+access to records april 1
 m e m o r a n d u m attached 1
-access to record april 1

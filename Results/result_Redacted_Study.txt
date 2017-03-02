@@ -30,18 +30,18 @@ proxy distribution 2
 reasonable proxy 2
 bulk mail 1
 postmaster general 1
+us outbound 1
 important policy 1
 individual country 1
 bob cohen 1
 l.1 / 1
-l.4 / 1
+international volumes 1
 net effect 1
 aggregate distribution 1
-medium mail 1
 reasonable approximation 1
 new zealand 1
 positive effect 1
-it outbound 1
+substantial overstatement 1
 actual number 1
 inbound surface 1
 potential distortion 1
@@ -54,22 +54,22 @@ extra ounce 1
 fpa domestic 1
 corresponding amount 1
 first class 1
-international volume 1
 net increase 1
 surface lc/ao 1
-u outbound 1
-cost coverage 1
 domestic bulk 1
-substantial overstatement 1
+cost coverage 1
+media mail 1
 much detail 1
 domestic mail 1
 profitable mail 1
 first improvement 1
 heavy mail 1
 further study 1
+its outbound 1
 plausible estimate 1
 dc fpas 1
 service first-class/priority 1
+l.4 / 1
 our estimate 1
 u.s. international 1
 hard copy 1
@@ -89,10 +89,10 @@ domestic postage-based terminal 5
 actual net terminal 1
 u.s. postalservice domestic 1
 institutional cost contribution 1
+its annual submission 1
 domestic postage-based payment 1
 domestic postagebased terminal 1
 universal postal union 1
-it annual submission 1
 available domestic bulk 1
 l.1 + col. 1
 
@@ -101,46 +101,48 @@ mail 50
 u.s 28
 fy 24
 commission 23
-line 22
 distribution 22
 percent 22
-dc 18
-column 18
-ic 16
+line 21
+column 17
 u.s. 13
 weight 11
+dcs 11
 effect 10
 service 10
 coverage 10
 terminal 9
 col. 9
 l. 9
+ics 9
 fpas 9
 outbound 9
 system 9
 surcharge 9
 analysis 9
 lc 8
-cost 8
 exchange 8
 wt 8
 contribution 8
 interval 8
 fpa 8
+dc 7
+cost 7
 canada 7
 inbound 7
 ao 7
+ic 7
 volume 7
-revenue 6
 % 6
-first-class 5
 piece 5
-amount 5
+first-class 5
+revenue 5
 data 5
 + 4
 / 4
 increase 4
 change 4
+amount 4
 rate 4
 lc/ao 4
 course 3
@@ -175,28 +177,30 @@ subclass 1
 disk 1
 impact 1
 web 1
+postal 1
 ratio 1
 mailstream 1
 disparity 1
 envelope 1
 imbalance 1
+thousands 1
+columns 1
 number 1
 report 1
-postal 1
 method 1
 magnitude 1
 mode 1
 implication 1
 upu 1
+lines 1
 packet 1
 see 1
 result 1
 future 1
 international 1
 issue 1
-price 1
+col.3 1
 transportation 1
-million 1
 use 1
 possibility 1
 reason 1
@@ -205,6 +209,7 @@ approach 1
 estimate 1
 p.42 1
 unique 1
+revenues 1
 billing 1
 country 1
 reasonableness 1
@@ -216,6 +221,7 @@ letter 1
 elasticity 1
 applicability 1
 market 1
+millions 1
 confidence 1
 addition 1
 destination 1
@@ -224,7 +230,7 @@ way 1
 percentage 1
 determinant 1
 relationship 1
-thousand 1
+explanation 1
 regard 1
 benchmark 1
 gap 1
@@ -246,13 +252,14 @@ israel 1
 l.3 1
 reliability 1
 information 1
+amounts 1
 pay 1
+extrapolation 1
 fourth 1
-explanation 1
 european 1
 profile 1
 calculation 1
-col.3 1
+price 1
 understatement 1
 june 1
 col.4 1
@@ -263,20 +270,20 @@ scenario 1
 iv-1 1
 flow 1
 switch 1
-extrapolation 1
+costs 1
 service's 1
 convenient 1
 destinating 1
 
  Arbitary length NP 
 incremental outbound inbound cost total 2
-service net terminal due 2
-effect of replacing terminal due with domestic postage on international mail 1
+service net terminal dues 2
 inbound mailby weight interval 1
+effect of replacing terminal dues with domestic postage on international mail 1
 george omas vice chairman 1
-foreign origin inbound mail 1
+effect of replacing terminal dues with domestic postage on the finances of industrialized and developing countries and the postal service 1
+assuming domestic postage replaces current terminal dues 1
 contribution to institutional cost and cost coverage 1
-assuming domestic postage replaces current terminal due 1
+foreign origin inbound mail 1
 fpa = foreign postal administration 1
-reflect terminal due system 1
-effect of replacing terminal due with domestic postage on the finance of industrialized and developing country and the postal service 1
+reflect terminal dues system 1

@@ -9,33 +9,33 @@ whole board 1
 extraordinary leadership 1
 long-time member 1
 same time 1
-his work 1
+its money 1
 real challenge 1
 sheldon roodman 1
 his law 1
 excellent position 1
 complex litigation 1
 annual budget 1
-it money 1
+his work 1
 active role 1
 good person 1
-it work 1
 federal money 1
 private practice 1
 mr. hilliker 1
 past come 1
+its work 1
 
  Trigram NP 
-free legal aid 1
+lawyers trust accounts 1
 his first job 1
 legal assistance foundation 1
-reginald heber smith 1
+free legal aid 1
 donald b. hilliker 1
 northwestern university school 1
-lawyer trust account 1
+reginald heber smith 1
 pro bono committee 1
-legal service corp. 1
 his entire career 1
+legal services corp. 1
 
  Unigram NP 
 hilliker 7
@@ -102,5 +102,5 @@ economy 1
 order 1
 
  Arbitary length NP 
-chicago daily law bulletin donald hilliker step 1
-legal aid organization julia brunt september 1
+chicago daily law bulletin donald hilliker steps 1
+legal aid organization julia brunts september 1

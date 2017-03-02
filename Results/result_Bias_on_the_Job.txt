@@ -7,14 +7,14 @@ significant progress 1
 active use 1
 their employment 1
 husband-and-wife team 1
-hard core 1
+its employment 1
 alfred w. 1
 different job 1
 rutgers school 1
 significant problem 1
 intentional discriminator 1
 intentional discrimination 1
-it employment 1
+hard core 1
 their hiring 1
 
  Trigram NP 
@@ -41,16 +41,16 @@ draft 1
 e.e.o.c 1
 hundred 1
 norm 1
-workplace 1
-woman 1
+common 1
 minority 1
 web 1
 chance 1
 blumrosens 1
 law 1
+women 1
 job 1
-common 1
+workplace 1
 average 1
 
  Arbitary length NP 
-new york time study find bias 1
+new york times study finds bias 1

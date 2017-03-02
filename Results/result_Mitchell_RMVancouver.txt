@@ -3,10 +3,10 @@
 postal service 76
 standard a 11
 first class 10
-zip code 7
 unaddressed mail 5
 private sector 5
 express mail 5
+zip codes 5
 michael a 4
 sustainable monopoly 4
 inverse price 4
@@ -26,6 +26,7 @@ parcel area 2
 same dropship 2
 universal service 2
 low markup 2
+zip code 2
 postmaster general 2
 robert h. 2
 delivery economics 2
@@ -41,7 +42,6 @@ postal system 2
 everyday reality 1
 emery worldwide 1
 undoubtedly base 1
-fast pace 1
 higher-cost delivery 1
 other country 1
 technical efficiency 1
@@ -49,19 +49,20 @@ criminal code 1
 extreme step 1
 incumbent administration 1
 net mailing 1
-it history 1
+its history 1
 single-piece third 1
 low-cost processing 1
 demanding schedule 1
 near-cost price 1
+first ounce 1
 productive efficiency 1
 mechanized processing 1
 poor alternative 1
 general population 1
 unfair competition 1
-it sale 1
 different form 1
 costly equipment 1
+low-cost recipient 1
 separate in-county 1
 free forwarding 1
 efficient price 1
@@ -69,7 +70,7 @@ service measurement 1
 parcel mail 1
 third change 1
 their ability 1
-central point 1
+its service 1
 their workforce 1
 high service 1
 little mail 1
@@ -80,23 +81,23 @@ contracting one 1
 narrow product 1
 much contracting 1
 no-strike rule 1
-fundamental distinction 1
+its revenue 1
 wide latitude 1
 recent automation 1
+its destination 1
 profit-maximizing firm 1
 expensive way 1
 single government 1
 competitive advantage 1
 same postage 1
-pareto optimality 1
+fundamental distinction 1
 make-work scheme 1
 numerous cost 1
 new labor 1
 different way 1
-it service 1
 monopoly power 1
 political process 1
-first ounce 1
+viable option 1
 adam smith 1
 postal parlance 1
 rural routes.17 1
@@ -108,10 +109,9 @@ serious study 1
 additional surcharge 1
 low-cost product 1
 general access 1
-it destination 1
 average price 1
 your handwriting 1
-viable option 1
+its sale 1
 great deal 1
 large proportion 1
 future automation 1
@@ -121,11 +121,9 @@ many transportation 1
 inverse cap 1
 on-time delivery 1
 fifth section 1
-it degree 1
 entire organization 1
 first class.6 1
 breakeven requirement 1
-it mission 1
 assumed-in effect 1
 large portion 1
 following example 1
@@ -142,6 +140,7 @@ substantial freedom 1
 postal worksharing 1
 specific post 1
 significant improvement 1
+central point 1
 such rate 1
 third bundle 1
 effective competition 1
@@ -162,6 +161,7 @@ small improvement 1
 basic product 1
 lost volume 1
 outside party 1
+international perspectives 1
 competitive disadvantage 1
 such processing 1
 critical mass 1
@@ -205,11 +205,14 @@ unconstrained competition 1
 considerable degree 1
 such performance 1
 their rate 1
+pareto optimality 1
 common belief 1
 separate subclass 1
 additional revenue 1
+its degree 1
 standard b 1
 acceptable base 1
+its mission 1
 constrained framework 1
 low-cost mailstream 1
 real service 1
@@ -227,8 +230,7 @@ related service 1
 such freedom 1
 difficult issue 1
 usps need 1
-it revenue 1
-low-cost recipient 1
+faster pace 1
 change-of-address system 1
 defensible study 1
 regular basis 1
@@ -236,15 +238,14 @@ current state 1
 voluminous testimony 1
 similar mail 1
 first step 1
-international perspective 1
 quantitative investigation 1
 change-of-address system,25 1
 special rate 1
 
  Trigram NP 
 paul r. kleindorfer 5
-kluwer academic publisher 4
-private express statute 4
+private express statutes 4
+kluwer academic publishers 4
 postal rate commission 3
 spyros s. xenakis 2
 roadway package service 2
@@ -254,28 +255,28 @@ our new technology 1
 competitive postal service 1
 john d. waller 1
 discuss inverse price 1
+its high service 1
 postal service.21 similarly 1
+its own system 1
 independent regulatory commission 1
 private express statutes4 1
 postal reorganization act 1
 independent regulatory agency 1
+inverse price caps 1
+its own facility 1
 their extensive experience 1
+costs by destination 1
 alternative postage payment 1
 certain inverse price 1
-it financial position 1
+its financial position 1
+costs by customer 1
 essential first step 1
-cost by destination 1
+its detached address 1
 their own mail 1
-it detached address 1
 postal inspection service 1
-cost by customer 1
 extensive related testimony23 1
 john t. schmidt 1
-it own facility 1
-it high service 1
 several special rate 1
-inverse price cap 1
-it own system 1
 
  Unigram NP 
 mail 36
@@ -325,7 +326,6 @@ possibility 4
 priority 4
 boston 4
 cohen 4
-volume 4
 distinction 4
 commission 4
 bulk 4
@@ -336,7 +336,9 @@ alternative 4
 business 4
 facility 4
 area 4
+volume 4
 emery 4
+periodicals 3
 difference 3
 box 3
 use 3
@@ -344,7 +346,6 @@ product 3
 response 3
 first-class 3
 issue 3
-periodical 3
 kind 3
 matter 3
 equipment 3
@@ -372,12 +373,12 @@ none 2
 ups 2
 cap 2
 design 2
-change 2
 amount 2
 advertising 2
 decrease 2
 today 2
 ecom 2
+statutes 2
 effort 2
 figure 2
 worksharing 2
@@ -390,7 +391,6 @@ third 2
 complexity 2
 office 2
 policy 2
-day 2
 idea 2
 profit 2
 standard 2
@@ -437,9 +437,9 @@ money 2
 shape 2
 speed 2
 alignment 2
+day 2
 pricing 2
 agreement 2
-statute 2
 monopoly 2
 evidence 2
 role 2
@@ -481,15 +481,17 @@ full 1
 understanding 1
 free 1
 address 1
+change 1
 extreme 1
 sender 1
 catch-up 1
 alaska 1
 permit 1
+changes 1
 ¾-ounce 1
 addressee 1
 verge 1
-discus 1
+stream 1
 vehicle 1
 high-speed 1
 transient 1
@@ -525,6 +527,7 @@ return 1
 practice 1
 front 1
 provision 1
+discuss 1
 onethird 1
 february 1
 workload 1
@@ -603,7 +606,6 @@ configuration 1
 science-of- 1
 license 1
 roman 1
-stream 1
 point 1
 continuation 1
 regulated 1
@@ -693,5 +695,5 @@ mass 1
 
  Arbitary length NP 
 recognition in rate design 1
-basic product offered except 1
-general guide line first 1
+general guide lines first 1
+basic products offered except 1

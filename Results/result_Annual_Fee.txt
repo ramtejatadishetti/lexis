@@ -12,6 +12,7 @@ disciplinary commission 1
 metropolitan chicago 1
 special state 1
 last year 1
+its outreach 1
 equal justice 1
 past president 1
 full court 1
@@ -26,7 +27,6 @@ broad support 1
 lawyer trust 1
 additional funding 1
 their ability 1
-it outreach 1
 additional staff 1
 annual fee 1
 public confidence 1
@@ -41,7 +41,7 @@ illinois supreme court 1
 assistance program fund 1
 timothy l. bertschy 1
 leonard f. amari 1
-supreme court rule 1
+supreme court rules 1
 ruth ann schmitt 1
 
  Unigram NP 
@@ -50,15 +50,16 @@ illinois 6
 lap 6
 year 5
 increase 5
-lawyer 4
 state 4
 percent 3
 program 3
 friday 3
 release 3
+lawyer 2
 registration 2
 alcohol 2
 economy 2
+lawyers 2
 interest 2
 president 2
 law 2
@@ -123,7 +124,7 @@ assistance 1
  Arbitary length NP 
 illinois state bar association 1
 cook county circuit court 1
+prairie state legal services 1
 chief justice mary ann g. mcmorrow 1
 lincoln legal assistance foundation inc. 1
 boost john flynn rooney october 1
-prairie state legal service 1

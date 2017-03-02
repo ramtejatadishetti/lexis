@@ -1,31 +1,32 @@
 
  Bigram NP 
-internal control 28
+internal control 27
 integral part 4
 specific control 4
 annual performance 3
-result act 3
 government performance 3
 human capital 3
+results act 3
+control activities 2
 general control 2
 ongoing basis 2
 financial management 2
 reasonable assurance 2
 private sector 2
 performance-based management 2
-control activity 2
 unauthorized use 2
 positive control 1
 electronic commerce 1
+operations internal 1
 strategic planning 1
-activity specific 1
 montinor performance 1
 wide range 1
 computerized information 1
 external use 1
 continuous recording 1
 final factor 1
-significant part 1
+managerial judgment 1
+its occurrence 1
 key role 1
 absolute assurance 1
 organization's success 1
@@ -35,11 +36,11 @@ significant role 1
 first copy 1
 separate system 1
 effective reward 1
-it compliance 1
-operation internal 1
-effective management 1
+significant part 1
+its compliance 1
 important part 1
 dial-back access 1
+effective management 1
 public accounting 1
 • compliance 1
 financial community 1
@@ -59,7 +60,6 @@ valuable assistance 1
 particular control 1
 g sts 1
 modern computer 1
-it infrastructure 1
 external auditor 1
 their performance 1
 day-to-day basis 1
@@ -71,24 +71,25 @@ unauthorized acquisition 1
 data-based management 1
 proper amount 1
 constructive counseling 1
-it occurrence 1
 efficient use 1
 commercial software 1
 broad range 1
 pertinent information 1
 daily list 1
-managerial judgment 1
 unauthorized alteration 1
 unethical behavior 1
-it application 1
+sponsoring organizations 1
 helps government 1
 related cost 1
 fiscal year 1
 needed training 1
 operational success 1
+performance measures 1
 financial reporting 1
+federal managers 1
 general framework 1
 e-mail message 1
+activities specific 1
 physical control 1
 first line 1
 individual performance 1
@@ -102,12 +103,14 @@ regular management 1
 their progress 1
 limited access 1
 their custody 1
+dc orders 1
 specific time 1
 introduction definition 1
 right training 1
 major part 1
 effective stewardship 1
 single address 1
+its application 1
 entire process 1
 prompt detection 1
 ethical tone 1
@@ -115,60 +118,58 @@ accurate information 1
 profound effect 1
 recorded accountability 1
 private use 1
-sponsoring organization 1
 actual performance 1
 electronic form 1
 operational environment 1
-federal manager 1
 continuous supervision 1
 proper behavior 1
-performance measure 1
 effective information 1
 appropriate documentation 1
 overall framework 1
 st. nw 1
 concise statement 1
 critical government 1
-information system 1
 major agency 1
-dc order 1
+internal controls 1
+underlying framework 1
+information systems 1
 warrant management 1
 management accountability 1
 further guidance 1
 their authority 1
-underlying framework 1
+its infrastructure 1
 entitywide security 1
 
  Trigram NP 
 good internal control 3
-it internal control 2
-assessment inspector general 1
+its internal control 2
+events access restrictions 1
 continuous built-in component 1
+assessment inspectors general 1
 activity level management 1
 effective internal control 1
-record appropriate documentation 1
 periodic external reporting 1
 their possible effect 1
 good human capital 1
+its human capital 1
 internal senior management 1
 omb circular a-123 1
+duties proper execution 1
 updated internal control 1
-actual performance review 1
 internal control is 1
 control environment a 1
-control activity specific 1
-event access restriction 1
-it human capital 1
-it final classification 1
+its final classification 1
+control activities specific 1
+actual performance reviews 1
 their eventual succession 1
 agency's organizational structure 1
 other discretionary policy-making 1
 absolute assurance management 1
-duty proper execution 1
 good overall control 1
-top level review 1
 appropriate internal control 1
 official business penalty 1
+records appropriate documentation 1
+top level reviews 1
 general accounting office 1
 financial integrity act 1
 critical environmental factor 1
@@ -204,16 +205,15 @@ accountability 5
 gao 5
 technology 5
 monitoring 5
-transaction 5
 responsibility 5
 factor 4
 authority 4
-event 4
 fraud 4
 documentation 4
 execution 3
 effectiveness 3
 level 3
+event 3
 analysis 3
 addition 3
 authorization 3
@@ -221,6 +221,7 @@ general 3
 assessment 3
 budget 3
 example 3
+transactions 3
 philosophy 3
 structure 3
 individual 3
@@ -232,6 +233,7 @@ framework 2
 report 2
 term 2
 list 2
+standards 2
 form 2
 operation 2
 recognition 2
@@ -243,14 +245,12 @@ internet 2
 foundation 2
 importance 2
 omb 2
-standard 2
 job 2
 visit 2
 compliance 2
 place 2
 testimony 2
 action 2
-communication 2
 quality 2
 basis 2
 scope 2
@@ -264,15 +264,14 @@ process 2
 reliability 2
 united 2
 variety 2
-document 2
 establishment 2
 competence 2
 accuracy 2
 congress 2
 completeness 2
+transaction 2
 time 2
 precondition 1
-concept 1
 feedback 1
 office 1
 money 1
@@ -282,6 +281,7 @@ area 1
 attitude 1
 frequency 1
 committee 1
+documents 1
 stewardship 1
 availability 1
 staff 1
@@ -294,7 +294,6 @@ governmental 1
 board 1
 policy 1
 mail 1
-workforce 1
 in-house 1
 continuity 1
 end 1
@@ -308,6 +307,7 @@ identifying 1
 edit 1
 collusion 1
 specific 1
+communications 1
 safeguarding 1
 paper 1
 mastercard 1
@@ -334,7 +334,9 @@ design 1
 year 1
 touchtone 1
 functioning 1
+error 1
 call 1
+events 1
 systems-mainframe 1
 utility 1
 evaluation 1
@@ -343,6 +345,8 @@ body 1
 reporting 1
 ability 1
 degree 1
+mechanisms 1
+workforce 1
 efficiency 1
 • 1
 disposition 1
@@ -367,6 +371,7 @@ plan 1
 forecasting 1
 relevant 1
 periodic 1
+communication 1
 format 1
 commitment 1
 appropriate 1
@@ -400,7 +405,7 @@ work 1
 matter 1
 cost 1
 attention 1
-error 1
+concepts 1
 reasonableness 1
 existence 1
 measure 1
@@ -418,12 +423,12 @@ visa 1
 recovery 1
 percent 1
 mismanagement 1
-mechanism 1
 equipment 1
 methodology 1
 significance 1
 modification 1
 supervisory 1
+document 1
 play 1
 http 1
 d.c. 1
@@ -447,21 +452,21 @@ prevention 1
 
  Arbitary length NP 
 u.s. general accounting officewashington 1
-chief financial officer act 1
-information system general control • 1
-physical control over vulnerable 1
+human capital controls over information processing management 1
+federal financial management improvement act 1
+u.s. general accounting office p.o 1
 government gao/aimd-00-21.3.1 foreword federal 1
 david m. walker comptroller general 1
-internal control standard presentation 1
-federal manager financial integrity act 1
-application control • system 1
-world wide web home page 1
-general accounting office washington 1
-fee paid gao permit no 1
-workforce-its human capital-is essential 1
-federal financial management improvement act 1
 address correction requested bulk rate postage 1
-human capital control over information processing management 1
-u.s. general accounting office p.o 1
+world wide web home page 1
+application control • system 1
+general accounting office washington 1
+information systems general control • 1
+workforce-its human capital-is essential 1
+chief financial officers act 1
+internal control standards presentation 1
+physical control over vulnerable 1
+fees paid gao permit no 1
 internal control provides reasonable assurance 1
+federal managers financial integrity act 1
 relevant updated internal control 1

@@ -15,7 +15,7 @@ john mckay 1
 david hall 1
 
  Trigram NP 
-legal service corp. 2
+legal services corp. 2
 rural legal specialist 1
 adequate public funding 1
 free legal help 1
@@ -64,4 +64,4 @@ organization 1
 
  Arbitary length NP 
 texas rural legal aid 1
-valley needing legal service mcallen 1
+valley needing legal services mcallen 1

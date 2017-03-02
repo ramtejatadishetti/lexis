@@ -2,7 +2,7 @@
  Bigram NP 
 federal government 81
 other financing 41
-sffas no 38
+sffas no 37
 social insurance 32
 net cost 30
 present value 28
@@ -14,22 +14,21 @@ nonexchange revenue 17
 fiscal year 16
 social security 16
 human capital 15
-custom service 13
 net position 13
+customs service 13
 deferred maintenance 13
 federal mission 12
 full cost 12
-direct loan 12
 same way 12
 net inflow 11
+direct loan 11
+its net 10
 financial accounting 10
 custodial activity 10
-it net 10
 effective interest 9
-sffac no 9
 base year 9
 current coverage 9
-financial statement 8
+sffac no 8
 useful life 8
 stewardship pp 8
 special fund 8
@@ -43,26 +42,26 @@ stewardship information 7
 financial position 7
 imputed cost 7
 governmentwide level 6
-it power 6
+virgin islands 6
 guaranteed loan 6
-virgin island 6
+its power 6
 puerto rico 6
-loan guarantee 6
 annual investment 6
 historical cost 6
 budget system 6
 related property 6
 net cash 6
-financial report 6
+loan guarantees 6
+financial statements 5
 predominant source 5
 extinguished debt 5
 constant dollar 5
 major program 5
+financial report 5
 general property 5
 administrative overhead 4
 stewardship property 4
 logical connection 4
-bad debt 4
 current law 4
 qualitative manner 4
 narrative discussion 4
@@ -70,10 +69,8 @@ forfeited property 4
 total cost 4
 hospital insurance 4
 systematic study 4
-exposure draft 4
 budgetary accounting 4
 their employer 4
-new category 4
 harbor maintenance 4
 u.s. government 4
 federal accounting 4
@@ -88,31 +85,34 @@ direct loans. 4
 equal value 4
 same basis 4
 outlay basis 4
+new category 4
 major use 4
 federal gaap 4
 local law 4
 further discussion 4
 such reporting 4
-national park 3
 negative subsidy 3
-u.s. treasury 3
+its entirety 3
+narrative information 3
 nonrecurring inflow 3
 special treatment 3
+financial statement 3
 nominal interest 3
+bad debt 3
 standardized condition 3
 significant state 3
-it component 3
 implementation guidance 3
 general public 3
+national parks 3
 comptroller general 3
-it entirety 3
+fas no 3
 same classification 3
 corporation income 3
 omb form 3
 supplementary information 3
 general welfare 3
 current reporting 3
-hazardous waste 3
+u.s. treasury 3
 nonexchange gain 3
 long-term cost 3
 solid part 3
@@ -122,11 +122,11 @@ physical property 3
 outer-continental shelf 3
 other cost 3
 stewardship reporting 3
+exposure draft 3
 total program 3
 historical data 3
 such information 3
 annual expenditure 3
-narrative information 3
 equal amount 3
 total amount 3
 historical expense 3
@@ -136,23 +136,23 @@ double counting 3
 managerial cost 3
 supplementary stewardship 3
 plausible basis 3
+normal cost 3
 deferred revenue 3
 specific guidance 3
 integral part 3
 railroad employment 3
-stewardship responsibility 3
-fa no 3
 sovereign power 3
 natural significance 3
 relevant information 3
 exact amount 3
 nominal amount 3
+hazardous waste 3
+its component 3
 acceptable condition 3
 meaningful category 3
 internal use 3
 kohler's dictionary 3
 aicpa statement 3
-normal cost 3
 medical research 3
 similar maturity 3
 future cash 3
@@ -163,14 +163,12 @@ normal rule 3
 general pp 3
 stated interest 3
 critical maintenance 3
-federal entity 3
 transferring entity 3
 significant amount 3
 third party 3
 basic research 3
 real property 2
 positive subsidy 2
-appropriate allocation 2
 additional reporting 2
 identifiable taxpayer 2
 phasing-in process 2
@@ -178,6 +176,7 @@ responsible manager 2
 major renovation 2
 covered population 2
 opposite sign 2
+results act 2
 individual stewardship 2
 particular date 2
 little relationship 2
@@ -191,11 +190,12 @@ future benefit 2
 major category 2
 actual data 2
 above hierarchy 2
-following paragraph 2
+its existence 2
 other information 2
-their use 2
 authoritative standard 2
 consistent basis 2
+actuarial liability 2
+appropriate allocation 2
 maximum flexibility 2
 affect net 2
 potential outcome 2
@@ -207,68 +207,65 @@ direct reduction 2
 their cost 2
 revolving fund. 2
 actual acquisition 2
+concepts statement 2
 revolving fund 2
 unusual manner 2
 negative financing 2
+its inception 2
 equal increase 2
 other agency 2
 such knowledge 2
-standard cost 2
 discount rate 2
 regulatory agency 2
-it inception 2
 unpaid amount 2
 expected net 2
 nominal dollar 2
-late time 2
 mortgaged property 2
 artistic significance 2
+later time 2
 additional information 2
+standard cost 2
 same period 2
-it payment 2
 estimated amount 2
 natural disaster 2
 particular reporting 2
-separate definition 2
 defense dictionary 2
 part ii 2
+external event 2
 private sector 2
-trust fund 2
 abandoned merchandise 2
 premature obsolescence 2
 general rule 2
 equal liability 2
+separate definition 2
 such accounting 2
 absolute value 2
 associated expenditure 2
 continued treatment 2
 different interest 2
 tax gap 2
-it mission 2
-governmental receipt 2
+nonfederal borrower 2
 following page 2
 actual receipt 2
 financial information 2
 average interest 2
 intended program 2
+reliable outcome 2
 appropriate collection 2
 high risk 2
 other equipment 2
 future period 2
-reliable outcome 2
+its payment 2
 stewardship asset 2
 specific need 2
 intragovernmental revolving 2
 joint publication 2
-heritage asset 2
 cost -the 2
 historic site 2
 in-depth review 2
 such cost 2
 activity-based costing 2
-concept statement 2
 a glossary 2
-cleanup cost 2
 gross interest 2
 budget execution 2
 public enterprise 2
@@ -281,58 +278,61 @@ budgetary integrity 2
 multiple reporting 2
 third year 2
 long-term benefit 2
-result act 2
 their entirety 2
 accrual accounting 2
 monetary value 2
+category level 2
+following paragraphs 2
 long-term direction 2
 unique nature 2
 future policy 2
 other method 2
 narrative description 2
 national defense 2
-it existence 2
 advisory board 2
 active collection 2
 specific identification 2
 minimum reporting 2
-actuarial liability 2
+subsequent paragraphs 2
 accumulated depreciation 2
-subsequent paragraph 2
 associated cost 2
-external event 2
 broad sense 2
 related equipment 2
 practice no 2
-responsibility segment 2
-nonfederal borrower 2
+their use 2
+stewardship responsibilities 2
 capitalized property 2
 equal decrease 2
-category level 2
-federal agency 2
+its mission 2
+federal entity 2
 applicable variance 1
 unique access 1
+its performance 1
+its ability 1
 prior reporting 1
 available evidence 1
+expended appropriations 1
 certain education 1
 adjacent land 1
 mission pp 1
 little meaning 1
 formal merchandise 1
+appropriations made 1
 f40 foreign 1
 whereas offsetting 1
 environment3.74.03.93.74.2 community 1
 original fee 1
 short term 1
-statement dl 1
 future maintenance 1
 alternative use 1
 federal program 1
 and/or loan 1
+s7p68 entity 1
 specified event 1
-it durability 1
+its debt 1
 useful resource 1
-financial consequence 1
+stabilization programs 1
+other party 1
 additional increment 1
 other pledge 1
 amortization -the 1
@@ -343,43 +343,41 @@ rational allocation 1
 combined effect 1
 nonexchange transaction 1
 subsequent appropriation 1
+long-term-benefit nature 1
 sop statement 1
-technology assessment 1
 separate category 1
 principal objective 1
-constant cost 1
+] interest 1
 other borrowing 1
 personnel management 1
-it investment 1
-it manager 1
 s7p30 classification 1
-on bond 1
+same definition 1
 residual value 1
+its nature 1
 their environment 1
-systematic allocation 1
 third edition 1
 brief summary 1
 limited extent 1
 certain time 1
 clean water 1
+unobligated balances 1
 other unit 1
 stated value 1
-englewood cliff 1
+fixed asset 1
 executory contract 1
 overall compliance 1
 federal tax 1
 eventual outlay 1
 c2p50 including 1
 feasible way 1
+postretirement benefits 1
 same year 1
 nonexchange loss 1
 entry age 1
 specific cost 1
 [ sffas 1
 output -a 1
-exhibit no 1
 applicable note 1
-veteran affair 1
 open meeting 1
 direct material 1
 anticipated cost 1
@@ -387,22 +385,22 @@ full security 1
 future provision 1
 ijiri y 1
 broad guidance 1
+costs display 1
 economic life 1
 consecutive accounting 1
 specific appropriation 1
 agency financial 1
+net income 1
 s5p94-96 outcome 1
-it debt 1
 same level 1
-nonrecourse loan 1
+its research 1
+cleanup costs 1
 regulatory user 1
-dedicated collection 1
-s4p225 commodity 1
+its durability 1
 collaborative effort 1
-abbreviation cf 1
-s7p17 tax 1
+exhibit no 1
 previous estimate 1
-write-off -an 1
+survivors insurance 1
 corresponding interest 1
 development -federal 1
 s7p311-312 revenue 1
@@ -412,19 +410,19 @@ congressional oversight 1
 s6p59 accounting 1
 technical assistance 1
 public provision 1
-it law 1
 particular deposit 1
 6-year projection 1
 alternative employment 1
+environmental liabilities 1
 loan -a 1
 other excise 1
 uncontrollable cost 1
 s5p35-42 exchange 1
 outlay -the 1
 c2p84 revenue 1
+unavailable special 1
 natural aggregation 1
 balanced performance 1
-late date 1
 major equipment 1
 credit apportionment 1
 transition training 1
@@ -433,7 +431,6 @@ local total 1
 manufactured item 1
 additional years' 1
 real level 1
-stewardship investment 1
 national register 1
 current service 1
 specific group 1
@@ -451,6 +448,7 @@ defined net 1
 own contribution 1
 sample report 1
 original statement 1
+federal agencies 1
 cost accounting 1
 central fund 1
 outer-continental shelf.23 1
@@ -458,21 +456,16 @@ legal option 1
 outstanding principal 1
 their capital 1
 coast guard 1
-it stewardship 1
-sponsoring organization 1
+joint chiefs 1
 their availability 1
-cost display 1
+differential cost 1
 non-recurring analysis 1
 justice department 1
 individual participant 1
-it performance 1
 tangible product 1
 aggregate value 1
 financial impact 1
-it usefulness 1
-high school 1
 nonfinancial information 1
-illustration source 1
 entire service 1
 financial basis 1
 contractual agreement 1
@@ -480,20 +473,22 @@ equipment rsi 1
 content bulletin 1
 c2p29-53 reporting 1
 nation's money 1
-single cost 1
+stewardship investments 1
+s7p340 contingencies 1
 seizing agency 1
 significant attention 1
 day-to-day government 1
 s1p30 basis 1
+concepts no 1
 provide information 1
 new legislation 1
 s3p32-33 reporting 1
 such guidance 1
-procedure manual 1
+its bulletin 1
 direct spending 1
 acceptable accounting 1
 reliable information 1
-unavailable special 1
+its equivalent 1
 library collection 1
 particular market 1
 certain license 1
@@ -501,24 +496,20 @@ binding agreement 1
 domestic production 1
 bona fide 1
 foreign series 1
-it judgement 1
-affected paragraph 1
+constant cost 1
 such right 1
 appropriate justification 1
 other responsibility 1
-rosenberg's dictionary 1
+its agenda 1
 other security 1
-it agenda 1
 user fee 1
-it loan 1
-expended appropriation 1
-fixed asset 1
+its judgement 1
 public nature 1
-it contribution 1
-terminal dividend 1
+its investment 1
 noncollection-type heritage 1
-good held 1
+donated capital 1
 previous section 1
+technology assessment 1
 end-of-year number 1
 initial use 1
 legal entity 1
@@ -527,24 +518,24 @@ internal control 1
 entitlement period 1
 expenditure -with 1
 their operating 1
-lease liability 1
 their revenue 1
 recent acquisition 1
-it deposit 1
+single type 1
 general borrowing 1
 regular statement 1
-it ability 1
 capitalized interest 1
 further revaluation 1
+s7p203 transfers 1
 responsibility center 1
 assessment survey 1
+terminal dividends 1
 following guidance 1
 other petroleum 1
-performance measure 1
+us general 1
+exchange transaction 1
 reasonable certainty 1
 cost driver 1
 other fund 1
-appropriation made 1
 forward-looking concept 1
 topical section 1
 possible implementation 1
@@ -555,27 +546,32 @@ account -the 1
 direct labor 1
 risk category 1
 direct costing 1
-it cost 1
+governmental receipts 1
 active project 1
 transitional unemployment 1
-other party 1
+future receipt 1
 initial subsidy 1
 prior year 1
 specialized reporting 1
 particular strategy 1
-s7p274 output 1
+offsetting collections 1
+nonrecourse loans 1
 collecting entity 1
 outside pension 1
-environmental liability 1
+performance measures 1
+government sponsored 1
 complete analysis 1
-long-term-benefit nature 1
+its use 1
+support costs 1
 complete presentation 1
-gaseous waste 1
-land -land 1
+its environment 1
+sffas nos 1
+its acquisition 1
 probable future 1
-it purpose 1
 other recipient 1
 supplemental information 1
+government-related events 1
+paragraphs .100 1
 first character 1
 associated guidance 1
 c1p161 reliability 1
@@ -585,16 +581,16 @@ real volume 1
 annual guidance 1
 sufficient expense 1
 specified costing 1
-net income 1
+nonauthoritative paragraphs 1
 cost method 1
-joint chief 1
-adjustment -a 1
-] interest 1
+direct tracing 1
+s7p284 pensions 1
+nonfederal lender 1
+preventive maintenance 1
 c1p88-104 -v- 1
 illustrative case 1
 dollar -a 1
 new book 1
-s7p68 entity 1
 extreme sensitivity 1
 actuarial valuation 1
 minimum charge 1
@@ -605,47 +601,47 @@ s7p76 probable 1
 entire life 1
 special exclusion 1
 preferential tax 1
-s7p203 transfer 1
 physical status/state 1
 outstanding portfolio 1
 incremental cost 1
 and/or property 1
 following hierarchy5 1
-report note 1
 professional literature 1
 entire text 1
 single cohort 1
 major type 1
 placement service 1
+current period 1
 contra account 1
 method -a 1
-budgetary resource 1
+new york 1
 recourse -the 1
 actual work 1
 single asset 1
+financial consequence 1
 postal service 1
-apportioned amount 1
+systematic allocation 1
 further deliberation 1
 book value 1
+single cost 1
 same manner 1
 content excess 1
 contributions,37 excise 1
 judicial system 1
 mineral rights. 1
-concept no 1
 their decision 1
 comparable item 1
 specified time 1
 relevant statutory 1
 due pursuant 1
 weighted average 1
-paragraph .100 1
 technical memorandum 1
 coso report 1
 current replacement 1
 clear consensus 1
 bayh-dole act 1
 joseph l. 1
+its sovereign 1
 general agreement 1
 basic reporting 1
 treasury department 1
@@ -653,12 +649,13 @@ aggregate entry 1
 present time 1
 actuarial standard 1
 budget authority 1
+leases liability 1
 single glossary 1
 applied research 1
 in-depth assessment 1
 research funding 1
-programmatic information 1
-government-related event 1
+its usefulness 1
+trust fund 1
 organized method 1
 obligational authority 1
 appropriate share 1
@@ -667,26 +664,23 @@ stewardship section 1
 long period 1
 other hand 1
 original meaning 1
-it nature 1
 specific language 1
 same entity 1
 antideficiency act 1
-new york 1
 separate manner 1
 internal event 1
--an interest 1
-it bulletin 1
+electronic transfer 1
 research program 1
-survivor insurance 1
 fixed amount 1
+earmarked taxes 1
 e illustration 1
 related asset 1
 particular asset 1
 consistent formula 1
 performance measurement 1
-unknown redemption 1
-postretirement benefit 1
 indirect production 1
+substantial present 1
+direct loans 1
 call feature 1
 related guidance 1
 genetic code 1
@@ -694,34 +688,34 @@ different accounting 1
 your convenience 1
 expected nature 1
 last step 1
-government sponsored 1
+its quantity 1
+us government 1
 assessed tax 1
 applicable accounting 1
 indirect cost 1
 e transferred 1
+dedicated collections 1
+its purpose 1
 cornelius e. 1
 double-underlined text 1
-stabilization program 1
+its objective 1
 such justification 1
 future program 1
-proprietary accounting 1
 predominant use 1
-unobligated balance 1
 • basic 1
 commercial cargo 1
 common good 1
 future pension 1
+rosenberg's dictionary 1
 many state 1
 key aspect 1
-alpha-numeric code 1
-substantial investment 1
 particular set 1
 their holding 1
+write-off -an 1
 same accounting 1
 irrecoverable cost 1
 major trust 1
 content guidance 1
-initial recognition 1
 comparable basis 1
 reliable cost 1
 calculated interest 1
@@ -730,7 +724,6 @@ extensive evaluation 1
 • information 1
 gross budget 1
 entire amount 1
-omitted paragraph 1
 information sec 1
 fasab invitation 1
 financial reports12 1
@@ -742,39 +735,43 @@ value-added activity 1
 actuarial cost 1
 separate budget 1
 covered employment 1
-s7p73 transfer 1
 related installation 1
+goods held 1
 fixed cost 1
 diminished usefulness 1
 overall guidance 1
 final guidance 1
+development expenses 1
 expected value 1
 accrued tax 1
 thorough analysis 1
-it design 1
 s7p292 commerce 1
 covered business 1
-it decision 1
+governmental receipt 1
+consumption method 1
+improved manufacturing 1
+its redemption 1
 major research 1
 detailed explanation 1
 reasonable assurance 1
 price support 1
 certain inspection 1
+guarantee programs 1
 appropriate display 1
 dutiable merchandise 1
-nonauthoritative paragraph 1
 average price 1
 s7p60 over- 1
 undercover operations. 1
 lincoln memorial 1
-it portfolio 1
+other advice 1
 related property. 1
 annual percentage 1
-donated capital 1
-s7p340 contingency 1
-it owner 1
+budget glossary 1
+heritage assets 1
 long life 1
+its position 1
 federal mission7 1
+output measure 1
 her salary 1
 statistical measurement 1
 present accounting 1
@@ -782,41 +779,41 @@ their bid 1
 real value 1
 reimbursable interest 1
 identifiable recipient 1
-board's conclusion 1
 major source 1
 executive director 1
 intangible product 1
 other group 1
 c2p100 statement 1
+contents chapter 1
 end-of-year value 1
 financial investment 1
 administrative action 1
 particular topic 1
-predetermined cost 1
 other insurance. 1
 periodic inventory 1
-late statement 1
+its loan 1
+or taxes 1
 title -the 1
 controllable cost 1
 net level 1
 significant property 1
 variable cost 1
-other program 1
 historical amount 1
-budget glossary 1
+later statement 1
 particular time 1
 appropriated payment 1
-it use 1
+sponsoring organizations 1
+omitted paragraphs 1
 clean opinion 1
 other income 1
-indian tribe 1
-custodial operations. 1
-program outcome 1
+foreign government 1
+apportioned amount 1
 content capital 1
+affected paragraphs 1
 financial instrument 1
-it research 1
-executive office 1
-overall review 1
+programmatic information 1
+responsibility segments 1
+s7p73 transfers 1
 narrow scope 1
 separate chapter 1
 general application 1
@@ -826,84 +823,89 @@ same program 1
 financial performance 1
 earned revenue 1
 specific manner 1
+heritage asset 1
 geological survey 1
 f40 debt 1
 aesthetic value 1
 s6p26 heritage 1
+trust funds 1
 our heritage 1
 other student 1
 complete definition 1
 a user 1
-u government 1
-it condition 1
+board's conclusions 1
 such land 1
 factory overhead 1
 cost assignment 1
 governmental body 1
 fair presentation 1
 non-variable cost 1
+its cost 1
+stewardship responsibility 1
 actual procedure 1
 s7p57-58 relevance 1
 unused capacity 1
 various grant 1
-exchange transaction 1
+veterans affairs 1
 s1p112-113 volume 1
-guarantee program 1
+economic cost 1
 upon death 1
 intragovernmental borrowing 1
 specific applicability 1
 separate section 1
 other government 1
+its manager 1
 other cash 1
-accounting principle 1
 extensive cross-referencing 1
 summary report 1
 s1p69 display 1
 following display 1
+cleanup cost 1
 comprehensive basis 1
-expenditure -a 1
 gradual extinguishment 1
-output measure 1
+federal entities 1
 organizational division 1
 personal property 1
-direct tracing 1
-it acquisition 1
+s5p110 premiums 1
+adjustment -a 1
 c2p19-20 excise 1
-differential cost 1
+its intention 1
 physical state 1
 custodial transfers. 1
+its deposit 1
 present operating 1
 business law 1
-s1p158-160 other 1
+s7p284 transfers 1
 perpetual inventory 1
 vital issue 1
-budget estimate 1
 potential user 1
-current period 1
+its stewardship 1
 full-absorption costing 1
 depreciation accounting 1
 social security40 1
-support cost 1
+other program 1
 total number 1
 other transfer 1
 much time 1
+its law 1
 or recognize 1
 annual investment34 1
 other entity 1
 current dollar 1
 s6p61 pp 1
-substantial present 1
+s7p17 taxes 1
 -systematic use 1
-improved manufacturing 1
+its condition 1
 financial interchange 1
 accepted government 1
 actual repayment 1
-other advice 1
-nonfederal lender 1
+sffac nos 1
+reports note 1
 black lung 1
 stewardship report 1
-it redemption 1
+predetermined cost 1
 category reporting 1
+procedures manual 1
 due process 1
 cooper w 1
 organizational need 1
@@ -917,37 +919,37 @@ federal register 1
 original text 1
 useable condition 1
 aggregate level 1
-financial aid 1
+-an interest 1
 recipient entity 1
+its unusability 1
 various agency 1
 contra revenue 1
 separate exposure 1
 common defense 1
 overall performance 1
-u general 1
 other sacrifice 1
 imported merchandise 1
 ethe number 1
+long-lived asset 1
 temporary closure 1
+proprietary accounting 1
 s3p94 crop 1
 s6p30 heritage 1
-offsetting collection 1
-preventive maintenance 1
+abbreviations cfs 1
 acquisition-in-process cost 1
 contract authority 1
 weighted-average cost 1
 top management 1
 annual investment40 1
+on bonds 1
 s8p21 statement 1
 effective yield 1
-foreign government 1
-s7p284 pension 1
+custodial operations. 1
 appropriate audit 1
 follow-up survey 1
 intermediate accounting 1
-it equivalent 1
 c2p104-105 budgetary 1
-new budget 1
+budgetary resources 1
 other tax 1
 s7p258 revenue 1
 special credit 1
@@ -955,131 +957,142 @@ indirect measure 1
 full cost11 1
 direct use 1
 see entity 1
-content chapter 1
+alpha-numeric code 1
 aforementioned information 1
-it intention 1
+for conclusions 1
 condition -the 1
-economic cost 1
+bad debts 1
+s1p158-160 other 1
 intended agency 1
 initial employment 1
-it objective 1
 preceding transaction 1
 main source 1
 possible gain 1
-consumption method 1
 permanent appropriation 1
 specific form 1
 local series 1
 personal satisfaction 1
 fiduciary relationship 1
+its design 1
 governmental entity 1
 whichever entity 1
 s3p94-109 -q 1
+unknown redemption 1
 seized and/or 1
 specific activity 1
 custodial agency 1
 balance sheet 1
 certain maintenance 1
-single type 1
+initial recognition 1
 usable condition 1
 future use 1
 valuation account 1
 surface mining 1
 certain health 1
+high school 1
 s7p56 basis 1
 long-term goal 1
+its contribution 1
 gross income 1
 other kind 1
 required reporting 1
-or tax 1
 current employee 1
 identifiable entity 1
 military service 1
 original forfeiture 1
 descriptive identification 1
 individual transition 1
+programs outcomes 1
 glossary table 1
 modification -a 1
-future receipt 1
+exposures drafts 1
+its portfolio 1
 amortized interest 1
 s6p26 definition 1
 specified period 1
 extensive description 1
+its owner 1
 c2p86-99 statement 1
 following information 1
 development research 1
-it position 1
+land -land 1
+englewood cliffs 1
+its decision 1
 ongoing vitality 1
-same definition 1
 s5p101 illustration 1
 45-day review 1
+budget estimates 1
 and/or disposing 1
 expected unit 1
+executive office 1
 congressional budget 1
 sacrifice value 1
 private employer 1
-earmarked tax 1
+substantial investment 1
+overall review 1
 separate amount 1
 part iii 1
+illustrations source 1
 current coverage. 1
-s7p284 transfer 1
+financial reports 1
+responsibility segment 1
 content compensated 1
 aggregate population 1
+s7p274 output 1
 s6p17-20 depreciation 1
 trade act 1
 s7p345-346 treasury 1
 analysis -the 1
-record -to 1
+new budget 1
 regional development 1
-development expense 1
 partial recognition 1
 related accounting 1
 fasab active 1
-for conclusion 1
 many trust 1
 s7p24 budgetary 1
 non-federal entity.43 1
+bailout entities 1
+expenditure -a 1
+statements dl 1
 intensive counseling 1
-it unusability 1
 net interest 1
 full cost. 1
 executive branch 1
 loss -any 1
 s7p69 basis 1
 sufficient detail 1
-it environment 1
 essential perspective 1
 applying applicable 1
 next page 1
 consistent manner 1
-long-lived asset 1
-electronic transfer 1
+accounting principles 1
 cohort -those 1
 entitlement program 1
 entire enterprise 1
 allotted time 1
+gaseous waste 1
 non-budget account 1
 systematic use 1
+record -to 1
 potential hazard 1
-it quantity 1
 illustrative material 1
 entire cost 1
 consolidated statement 1
 disability insurance 1
+later date 1
 applicable revenue 1
 equipment federal 1
-bailout entity 1
 other insurance 1
 below-market interest 1
-it sovereign 1
 custodial activity. 1
 private job 1
 public navigation 1
+s4p225 commodities 1
 former employer 1
 present case 1
 particular kind 1
-s5p110 premium 1
 s1p38 basis 1
+financial aid 1
 enable management 1
 certain interest 1
 their importance 1
@@ -1088,9 +1101,11 @@ future result 1
 human health 1
 similar nature 1
 additional consideration 1
+indian tribes 1
 applicable literature 1
 their net 1
 public hearing 1
+federal agency 1
 credit program 1
 
  Trigram NP 
@@ -1099,9 +1114,9 @@ nonfederal physical property 14
 federal financial accounting 12
 required supplementary stewardship 10
 consolidated financial report 9
-gao budget glossary 8
 federal financial reporting 8
 jfmip standardization project 8
+gao budget glossary 8
 actuarial present value 7
 general accounting office 6
 federal reserve system 6
@@ -1112,248 +1127,250 @@ omb circular a-34 5
 federal mission property 4
 supplementary medical insurance 4
 net present value 4
+its gross cost 4
 federal financing bank 4
-cost accounting concept 4
-it gross cost 4
+cost accounting concepts 4
 diversion control program 3
 national productive capacity 3
-program performance measure 3
+program performance measures 3
 net realizable value 3
 nuclear regulatory commission 3
 outer continental shelf 3
 such additional information 3
 projected financial impact 2
+other retirement benefits 2
 department of inter-entity 2
 yellowstone national park 2
-it own behalf 2
-it fair value 2
-other retirement benefit 2
+its own behalf 2
+its useful life 2
 latest acquisition cost 2
 space exploration equipment 2
-it useful life 2
 federal budget process 2
-current service assessment 2
-basic financial statement 2
-it own debt 1
+its fair value 2
+budget sec securities 1
 process value analysis 1
 s1p103-105 fund balance 1
 national medical research 1
-system and control 1
 government printing office 1
-transaction not recognized 1
+their current condition 1
 following numeric format 1
-mineral management service 1
-loan guarantee commitment 1
+minerals management service 1
+s8p11 purchase agreements 1
+its expected life 1
 omb circular a-134 1
 s6p26 stewardship land 1
 ] post-modification liability 1
 social insurance accounting 1
+management accounting nos 1
 s7p247 unfunded liability 1
-s7p235-370 exchange revenue 1
-e land -land 1
+marketable treasury securities 1
+intragovernmental transactions nonexchange 1
+s4p188 life insurance 1
 cancellation of debt 1
-employee health benefit 1
+c2p57 donations donations 1
+stockpile materials accounting 1
+restricted amounts cash 1
 content omb bulletin 1
 permanent indefinite appropriation 1
+] current liabilities 1
 vested dual benefit 1
 different federal reporting 1
 allowance or reserve 1
 see sffac no 1
-account receivable accounting 1
+its present market 1
 development sample report 1
+basic financial statement 1
 actuarial present valuation 1
-their current condition 1
-omb circ a-123 1
+other postemployment benefits 1
 standard general ledger 1
-marketable treasury security 1
-it estimated salvage 1
+taxes and duties 1
 civil service retirement 1
-it expected life 1
 ] pre-modification value 1
-between appropriation/fund account 1
+heritage assets heritage 1
 credit reform act 1
+c2p84 non-entity assets 1
 specific federal program 1
 quinquennial military service 1
 highway trust fund 1
-federal reserve bank 1
-s1p74-76 direct loan 1
 other private entity 1
 u. s. government 1
-unpredictable useful life 1
-treasury financial manual 1
+its current condition 1
+s5p115 whole life 1
 certain stewardship information 1
-social insurance program 1
 consolidated financial statement 1
+c1p157-159 unearned revenue 1
 s6p20 cash accounting 1
-accountant omb office 1
+fiscal periods statement 1
 required supplemental stewardship 1
-c2p84 non-entity asset 1
+the reporting objectives 1
+federal reserve banks 1
+s5p110 -p- penalties 1
 annual financial interchange 1
-prior period adjustment 1
+-y- -z- effective 1
+actual financial position 1
 stewardship land -land 1
-trust revolving fund 1
-local government -state 1
 national economic productive 1
-budget sec security 1
-obligated balance -the 1
-s5p110 -p- penalty 1
+basic financial statements 1
 their original cohort 1
+between appropriation/fund accounts 1
 national highway system 1
+s1p74-76 direct loans 1
 s5p35-42 contract authority 1
-stockpile material accounting 1
+obligated balances -the 1
 ] pre-modification liability 1
 essential quantitative impact 1
 other financial information 1
 consolidated financial reporting 1
-omb paragraph .700 1
+moving average -an 1
+accountants omb office 1
 aicpa american institute 1
 uncertain historical cost 1
-purchase method -a 1
-s8p11 purchase agreement 1
+budgetary resources statement 1
 broad-based social insurance 1
-it monetary function 1
-it custodial activity 1
 same average level 1
-condition assessment survey 1
-normal actuarial cost 1
+s1p147 direct loans 1
 other comparable program 1
 level premium reserve 1
+variable value securities 1
 their substantial investment 1
 .. s6p148-149 capital 1
-loan guarantee -any 1
 uncertain useful life 1
-] premium deficiency 1
+prior period adjustments 1
 jerry m. rosenberg 1
+premium on bonds 1
 research and development 1
-social security act 1
 stewardship reporting status 1
-variable value security 1
-.. c1p231-232 display 1
-other postemployment benefit 1
+certain other excise 1
+e land -land 1
 see sffas no 1
 s5p19 reconciliation statement 1
-s1p147 direct loan 1
+compulsory social insurance 1
 post-199148 direct loans.49 1
 .. s7p198-202 discount 1
+current services assessment 1
 unemployment insurance fund 1
 early medical intervention 1
-it present market 1
+financial accounting concepts 1
+.. c1p231-232 display 1
 drug enforcement administration 1
--y- -z- effective 1
-s6p71 -e- effort 1
 understandability of information 1
+] premium deficiency 1
 their individual entity 1
 same effective date 1
+cost finding techniques 1
 discount rate -the 1
 treasury forfeiture fund 1
 internal revenue service 1
-heritage asset -property 1
-result act irs 1
-actual financial position 1
+fixed value securities 1
+its intended purpose 1
+subsidy cost -the 1
+its continued performance 1
+s7p284 budget accounts 1
+program outcomes preliminary 1
+condition assessment surveys 1
+s1p34 contractor-developed software 1
 required supplemental information 1
+purchases method -a 1
 federal financial management 1
-the reporting objective 1
-it potential profitability 1
+omb circ a-123 1
 s6p145 cost accounting 1
 c2p50 balance sheet 1
-intragovernmental transaction nonexchange 1
-s7p62 general pp 1
-actuarial cost method 1
 post-1991 direct loans. 1
-it present value 1
-c2p57 donation donation 1
 federal reserve system. 1
-s7p69 tax expenditure 1
-sthis hypothetical program 1
+its maximum rate 1
 future normal cost 1
 s7p43-44 net position 1
 asset forfeiture fund 1
-s1p34 contractor-developed software 1
+actuarial cost methods 1
+sthis hypothetical program 1
 s7p41 nonexchange revenue 1
-cost finding technique 1
-s4p225 amortization investment 1
+.. s7p316-317 unemployment 1
 impoundment control act 1
-fixed value security 1
+its custodial activity 1
+employees health benefit 1
 othis hypothetical program 1
 appendix a index 1
-fasab consolidated glossary 1
-department of forfeiture 1
+transactions not recognized 1
 advisory board fasb 1
 pre-1992 direct loans. 1
-it current condition 1
+treasury financial manual 1
 overall managerial cost 1
 s8p66 stewardship land 1
 their gross cost 1
-] current liability 1
 business type activity 1
-s7p284 budget account 1
+s7p235-370 exchange revenue 1
 commodity credit corporation 1
-budgetary resource statement 1
+s7p62 general pp 1
 consolidated financial reports12 1
+its present value 1
 econometric model -an 1
 deficient climate-control equipment 1
-it intended purpose 1
-sudden calamitous event 1
-it maximum rate 1
-certain other excise 1
+s4p225 amortization investments 1
+social security act 1
+omb paragraphs .700 1
 their present value 1
 write-off -an action 1
+unpredictable useful life 1
+accounts receivable accounting 1
 s7p344 stewardship pp 1
 specific financial statement 1
-moving average -an 1
+its own debt 1
 s7p274-277 repair allowance 1
-c1p157-159 unearned revenue 1
+us postal service 1
 such historical cost 1
-financial accounting concept 1
-it continued performance 1
-program outcome preliminary 1
-heritage asset heritage 1
+department of forfeitures 1
+sudden calamitous event 1
+loan guarantee -any 1
+current service assessment 1
+its actual ability 1
+local governments -state 1
+s7p70 financing imputed 1
 common data source 1
 traditional financial reporting 1
-premium on bond 1
+its potential profitability 1
 end user -any 1
-management accounting no 1
+s6p71 -e- efforts 1
 future net benefit 1
-restricted amount cash 1
 regional development4.94.34.55.66.3 administrationn 1
-it continued usefulness 1
-s7p70 financing imputed 1
+loan guarantee commitment 1
+heritage assets -property 1
 s7p72 prior period 1
 federal financial activity 1
 assessment a current 1
+its continued usefulness 1
 economic productive capacity 1
 gross domestic product 1
 treasury warrant -an 1
-u postal service 1
-subsidy cost -the 1
+results act irs 1
+s7p69 tax expenditures 1
 omb circular a-25 1
-compulsory social insurance 1
-entity asset accounting 1
+normal actuarial cost 1
+systems and control 1
 quadrennial advisory council 1
 their long-term-benefit nature 1
-fiscal period statement 1
+its estimated salvage 1
 bonneville power administration 1
-s4p188 life insurance 1
+entity assets accounting 1
 exchange commission sffac 1
+trust revolving funds 1
 background and rationale 1
 their entire cost 1
 modification adjustment transfer 1
 or accounting valuation 1
 job order costing 1
-.. s7p316-317 unemployment 1
-it actual ability 1
+social insurance programs 1
+fasab consolidated glossary 1
 their own behalf 1
 avoidable cost -a 1
 such constant dollar 1
-tax and duty 1
 unpredictable useful life17 1
-s5p115 whole life 1
+its monetary function 1
 
  Unigram NP 
-cost 248
+cost 247
 entity 225
 e 183
-revenue 177
+revenue 176
 pp 162
 federal 137
 government 130
@@ -1374,37 +1391,36 @@ treasury 69
 trust 69
 program 67
 loan 65
-asset 60
+asset 59
 board 59
 basis 58
 example 56
-statement 56
 expense 56
-gain 52
-account 48
-transaction 48
-investment 46
-employer 44
+statement 54
+gain 51
+account 47
+transaction 47
+investment 45
 loss 43
 research 42
 payment 42
+employer 42
 heritage 42
 time 42
 mission 41
-standard 41
-tax 38
 development 38
-source 38
 year 38
 difference 37
+source 37
 budget 36
+tax 36
 part 36
 volume 36
 state 36
 method 35
 cash 34
-activity 33
 book 33
+activity 32
 subsidy 32
 use 31
 nonexchange 31
@@ -1415,29 +1431,28 @@ omb 30
 authority 30
 law 29
 service 29
-acquisition 29
-para 29
 period 29
+standard 28
+acquisition 28
 agency 28
 • 27
+para 27
 unemployment 27
 dictionary 26
 price 26
-liability 25
 sale 25
 employee 25
 insurance 25
 financing 24
+accountants 24
 transfer 24
-accountant 24
 public 23
 number 23
 retirement 23
 category 22
+conclusions 22
 party 22
 kohler 22
-conclusion 22
-appropriation 21
 nature 21
 contribution 21
 item 21
@@ -1448,66 +1463,66 @@ valuation 20
 plan 19
 september 19
 form 19
-pension 19
+liability 18
+appropriation 18
 level 18
 process 18
-system 18
 inventory 18
 benefit 18
 definition 18
+pension 18
 condition 17
 measurement 17
 health 17
 training 17
+system 17
 modification 17
-output 17
 anything 17
 department 17
 inflow 16
 guidance 16
+output 16
 maintenance 16
-assessment 15
 something 15
 note 15
 case 15
-reimbursement 15
 space 15
-allocation 14
-outlay 14
-result 14
-connection 14
 balance 14
+outlay 14
+connection 14
 chapter 14
+reimbursement 14
 education 14
+standards 13
+assessment 13
+allocation 13
 management 13
 sheet 13
 compensation 13
 capital 13
-user 13
+result 13
 revaluation 13
 february 13
 performance 13
 maturity 13
-change 12
-paragraph 12
 guarantee 12
 date 12
-obligation 12
 b 12
 title 12
 addition 12
 gao 12
+user 12
 money 12
 rssi 12
 power 12
-concept 11
-return 11
-receipt 11
+change 11
+obligation 11
 version 11
 recognition 11
 fee 11
 government-wide 11
 customer 10
+concepts 10
 minimum 10
 united 10
 csa 10
@@ -1516,10 +1531,10 @@ data 10
 purchase 10
 hierarchy 10
 group 10
+return 10
 smi 10
 contract 10
 allowance 10
-unit 10
 analysis 10
 display 10
 exercise 9
@@ -1530,10 +1545,10 @@ end 9
 office 9
 nation 9
 repayment 9
-event 9
+receipt 9
 revolving 9
 accordance 9
-component 9
+unit 9
 audit 9
 organization 9
 forfeiture 9
@@ -1548,11 +1563,13 @@ deposit 8
 order 8
 split 8
 product 8
+event 8
 disposition 8
 percentage 8
 e.g. 8
 merchandise 8
 reference 8
+component 8
 extent 8
 outcome 8
 surface 8
@@ -1561,24 +1578,23 @@ oasdhi 8
 material 8
 discount 8
 no 8
-dollar 7
 increase 7
 direct 7
 market 7
-president 7
 interpretation 7
 report 7
 production 7
 support 7
+president 7
 project 7
-need 7
+liabilities 7
 summary 7
 whole 7
-aid 7
 document 7
 ccc 7
 recipient 7
 indication 7
+paragraphs 7
 medicare 7
 delivery 7
 october 7
@@ -1586,11 +1602,11 @@ type 7
 percent 7
 portion 7
 appendix 7
+dollar 6
 charge 6
 issue 6
 transportation 6
 action 6
-mm 6
 work 6
 topic 6
 labor 6
@@ -1599,11 +1615,12 @@ combination 6
 instrument 6
 content 6
 u.s. 6
+mms 6
 transition 6
-accountability 6
 quality 6
 draft 6
 rsi 6
+need 6
 donation 6
 fact 6
 costing 6
@@ -1611,11 +1628,13 @@ staff 6
 flow 6
 defense 6
 demand 6
+aid 6
 cycle 6
 auditor 6
 excise 6
 object 6
 processing 6
+accountability 6
 index 5
 section 5
 net 5
@@ -1626,6 +1645,7 @@ military 5
 cancellation 5
 gaap 5
 hospital 5
+paragraph 5
 agent 5
 borrowing 5
 responsibility 5
@@ -1643,7 +1663,6 @@ reduction 5
 life 5
 transferring 5
 transfer-out 5
-grant 5
 patent 5
 administration 5
 amortization 5
@@ -1655,8 +1674,8 @@ disclosure 5
 engineering 5
 congress 5
 age 5
-expenditure 5
 adjustment 4
+effort 4
 presentation 4
 trend 4
 completion 4
@@ -1687,7 +1706,6 @@ combat 4
 salary 4
 radio 4
 impact 4
-bureau 4
 ocs 4
 disbursement 4
 secretary 4
@@ -1697,9 +1715,11 @@ identification 4
 approach 4
 c 4
 sffass 4
+lender 4
 determination 4
 intragovernmental 4
 tabulation 4
+grant 4
 effect 4
 diversion 4
 implementation 4
@@ -1707,43 +1727,42 @@ judgment 4
 recourse 4
 .432 4
 improvement 4
-lender 4
 situation 4
-objective 4
 execution 4
 replacement 4
 decision 4
-illustration 4
-effort 4
 application 4
 income 4
 intent 4
+expenditure 4
 quantity 4
 disability 3
 .530 3
 list 3
 inspection 3
+a 3
 valorem 3
 agreement 3
 depreciation 3
 consideration 3
+table 3
 auction 3
 pre-modification 3
 magnitude 3
 distinct 3
 petroleum 3
 overhead 3
-advance 3
 hour 3
 .96 3
 following 3
-collection 3
-a 3
+bureau 3
+means 3
+customs 3
 element 3
 se 3
 absence 3
 practice 3
-mean 3
+above 3
 subset 3
 gpra 3
 variety 3
@@ -1771,16 +1790,17 @@ pursuant 3
 earth 3
 copyright 3
 penalty 3
-above 3
 expectation 3
 timing 3
 totality 3
 evaluation 3
+weapons 3
 timber 3
 post-modification 3
 august 3
 job 3
 official 3
+appropriations 3
 budgetary 3
 location 3
 glossary 3
@@ -1788,37 +1808,34 @@ withdrawal 3
 manner 3
 director 3
 ownership 3
-weapon 3
 entity's 3
 march 3
 background 3
 damage 3
 railroad 3
 right 3
-table 3
 employment 3
 grazing 3
 depletion 3
 participation 3
+illustration 3
 wildlife 3
 issuance 3
 range 3
-custom 3
 way 3
-sum 3
 ad 3
 evidence 3
 class 3
-lease 3
 structure 3
 exposure 3
 rule 3
 write-off 2
 ..542 2
-phenomenon 2
 technique 2
 environment 2
+fas 2
 none 2
+reallocation 2
 recreation 2
 .92 2
 consistent 2
@@ -1847,11 +1864,13 @@ injure 2
 orb 2
 acceptor 2
 sample 2
+receipts 2
+advance 2
 share 2
 employees. 2
 p.l 2
 hardware 2
-reallocation 2
+world 2
 december 2
 currency 2
 arise 2
@@ -1862,23 +1881,24 @@ s8p93 2
 defeat 2
 fy 2
 sacrifice 2
+collection 2
 opinion 2
 foreclosure 2
 atmosphere 2
 existence 2
-lessor 2
 taxpayer 2
 ed. 2
 s7p69 2
 framework 2
+resource 2
 bank 2
 apportionment 2
 jfmip 2
 status 2
 p 2
 literature 2
-operation 2
 agriculture 2
+leases 2
 funding 2
 viability 2
 reader 2
@@ -1887,6 +1907,7 @@ foundation 2
 payroll 2
 xx-xxx 2
 interaction 2
+lessor 2
 .599 2
 probability 2
 indeterminate 2
@@ -1907,20 +1928,18 @@ immigration 2
 old-age 2
 duplication 2
 filing 2
-posse 2
 exchange. 2
 -property 2
-fa 2
 .318 2
 mortality 2
+yield 2
+employers 2
 borrower 2
 enemy 2
 manager 2
-resource 2
 .40 2
-yield 2
+taxes 2
 accounts. 2
-requirement 2
 individual 2
 close 2
 preparation 2
@@ -1938,11 +1957,12 @@ withdrawn 2
 i.e. 2
 certain 2
 contractor 2
+program's 2
 scrutiny 2
+assessments 2
 handling 2
 lessee 2
 first-out 2
-program's 2
 herein 2
 .521 2
 insofar 2
@@ -1952,24 +1972,29 @@ aggregate 2
 caption 2
 forfeited 2
 maker 2
-world 2
 deployment 2
 interim 2
 .80 2
 majority 2
 measure 2
+paras 2
 governmental 2
+possess 2
 emergency 2
+objective 2
 desire 2
 gift 2
 ..526 2
 byproduct 2
 record 2
+phenomena 2
 deficit 2
 tuition 2
 downward 2
 fees. 2
 recognized 2
+objectives 2
+statements 2
 facility 2
 ..467 2
 commitment 2
@@ -1983,7 +2008,9 @@ fasb 2
 war 2
 surrender 2
 attribute 2
+us 2
 perpetuity 2
+sum 2
 marketplace 2
 associated 2
 navy 2
@@ -1992,8 +2019,8 @@ role 2
 predominant 2
 preparer 2
 building 2
-u 2
 counseling 1
+concept 1
 entity.65 1
 lack 1
 transactions. 1
@@ -2004,12 +2031,12 @@ trascona 1
 jsee 1
 -a 1
 clarification 1
-million 1
 electricity 1
-iii 1
-c1p181 1
+pensions 1
+s6p28 1
 passage 1
 i10 1
+units 1
 .531 1
 worth 1
 norm 1
@@ -2021,7 +2048,7 @@ risk 1
 employees.39 1
 contra-asset 1
 .54 1
-choice 1
+results 1
 s2p22 1
 presumption 1
 .474 1
@@ -2029,35 +2056,36 @@ presumption 1
 fsee 1
 litigation 1
 penalties. 1
-c30 1
 tierney 1
 no.6 1
 compound 1
 study 1
 responsiveness 1
-off-budget 1
+allocations 1
 webster 1
-accomplishment 1
+possibility 1
 sovereign 1
 kieso 1
 concise 1
+bureaus 1
 portfolio 1
 patient 1
 mission.16 1
+.31 1
 seigniorage. 1
 selected 1
 feedback 1
 importer 1
 reconstruction 1
 conduct 1
+illustrations 1
 principal 1
 divergence 1
 protection 1
-possibility 1
+rights-of-way 1
 excess 1
 november 1
 under-funding 1
-july 1
 box 1
 ..38 1
 engage 1
@@ -2071,6 +2099,7 @@ chemical 1
 .208 1
 offsetting 1
 .206 1
+changes 1
 .49 1
 regardless 1
 reserve 1
@@ -2101,48 +2130,58 @@ factor 1
 validity 1
 correspondingly 1
 non-entity 1
-tariff 1
+iii 1
 potential 1
 ..318 1
 c40 1
+origins 1
+cas 1
 equation 1
 non-compliance 1
 other 1
 dea 1
 disposal 1
-s6p28 1
+revenues 1
+accounts 1
 control 1
 theft 1
+activities 1
+choice 1
 prentice-hall 1
 ibid. 1
 programs.the 1
 reform 1
 cause-and-effect 1
+needs 1
 goal 1
 hereinafter 1
-.401 1
 .404 1
 methodology 1
 regulation 1
 custodial 1
+efficiency 1
 transforming 1
 testimony 1
-lac 1
-reflect 1
+chiefs 1
 hence 1
+contingency 1
 district 1
 floor 1
+requirements 1
 recovery 1
+acquisitions 1
 natural 1
 commodity 1
 .553 1
-contingency 1
+.594 1
 exhibition 1
 supervision 1
 coal 1
+sons 1
 -real 1
 representation 1
 occurrence 1
+operations 1
 .82 1
 help 1
 repair 1
@@ -2152,6 +2191,7 @@ materiality 1
 federallyowned 1
 destruction 1
 executory 1
+.347 1
 unforeseen 1
 purport 1
 repairable 1
@@ -2160,6 +2200,7 @@ comply 1
 automation 1
 listing 1
 mail 1
+c1p75-87 1
 s7p60 1
 pv 1
 dec. 1
@@ -2173,17 +2214,19 @@ p10 1
 course 1
 half 1
 treasury. 1
-son 1
+feeder 1
 investor 1
 forgone 1
 redesign 1
 january 1
 university 1
+.580 1
 school 1
 country.41 1
 .93 1
 c1p42 1
 stock 1
+bond 1
 storage 1
 lsummary 1
 institution 1
@@ -2192,22 +2235,23 @@ oasi 1
 energy 1
 .565 1
 condition26 1
-.580 1
-..525 1
+aids 1
+operation 1
 investment30 1
 condition21 1
 consonance 1
 programs.61 1
 attendance 1
+views 1
 refurbishment 1
-..225 1
+obfuscating 1
 bailout 1
-variance 1
+instructions 1
 highway 1
+deferral 1
 wiley 1
 unwieldy 1
 contain 1
-rights-of-way 1
 measurable 1
 difficulty 1
 reason 1
@@ -2225,17 +2269,16 @@ place 1
 termination 1
 cost-benefit 1
 .592 1
-view 1
-.594 1
-origin 1
+july 1
+.72 1
 written-off 1
 submission 1
 opeb 1
 .30 1
 omission 1
-.31 1
 owner 1
 characteristic 1
+rosenberg 1
 debtor 1
 size 1
 publication 1
@@ -2261,11 +2304,11 @@ self-sustaining 1
 purpose.10 1
 permanent 1
 nominal 1
+lac 1
 consult 1
 s8p62 1
 .215 1
 ..490 1
-instruction 1
 vdevelopment 1
 .211 1
 college 1
@@ -2286,7 +2329,7 @@ selling 1
 ..89 1
 .25 1
 c2p56 1
-chief 1
+dollars 1
 purchasing 1
 reliance 1
 enactment 1
@@ -2296,6 +2339,7 @@ tool 1
 business-type 1
 donation.44 1
 incidence 1
+systems 1
 paid 1
 expensing 1
 .799 1
@@ -2304,7 +2348,9 @@ nothing 1
 ] 1
 .89 1
 condition14 1
+sums 1
 observation 1
+prepayments 1
 industry 1
 housing 1
 .552 1
@@ -2315,7 +2361,7 @@ occasion 1
 another. 1
 sector 1
 cobra 1
-addison-wesley 1
+obligations 1
 merit 1
 ending 1
 traceability 1
@@ -2324,10 +2370,11 @@ translation 1
 ratio 1
 justice 1
 central 1
+c1p181 1
 population 1
 seller 1
 assignment 1
-security 1
+gains 1
 di 1
 c2p58-62 1
 inclusion 1
@@ -2336,16 +2383,17 @@ progress 1
 self-sufficiency.19 1
 trade 1
 ..575 1
-feeder 1
+..225 1
 collection-type 1
 hereafter 1
 banking 1
-deferral 1
+off-budget 1
 debt. 1
 s6p59 1
 fixed 1
 .67 1
 predictive 1
+requirement 1
 art 1
 collateral 1
 national 1
@@ -2353,13 +2401,13 @@ national 1
 capitalized 1
 arb 1
 proportionate 1
+.401 1
 arm 1
 subject 1
 parent 1
 double-underlining 1
 subsequent 1
 kind 1
-.72 1
 favor 1
 s7p284 1
 ph.d. 1
@@ -2376,9 +2424,7 @@ expense.79 1
 distribution 1
 postage 1
 .525 1
-efficiency 1
 country 1
-annual 1
 budgeting 1
 aircraft 1
 deduction 1
@@ -2389,13 +2435,14 @@ logic 1
 distinction 1
 ..219 1
 uncollectibles 1
-duty 1
-rosenberg 1
+millions 1
 guaranteed 1
 c2p75 1
 seizure 1
 satisfaction 1
+grants 1
 .519 1
+variance 1
 ..585 1
 acceptance 1
 ..580 1
@@ -2413,6 +2460,7 @@ versa 1
 lifo 1
 u.s.c 1
 substance 1
+c1p162 1
 installation 1
 general 1
 present 1
@@ -2420,27 +2468,31 @@ matter 1
 exception 1
 straight 1
 impairment 1
-governor 1
 viii 1
 guide 1
-uncertainty 1
+annual 1
 plans.51 1
+drawbacks 1
 someone 1
 experience 1
-vendor 1
+happening 1
 concentration 1
 -an 1
 cohort 1
+expenditures 1
 format 1
 s 1
-drawback 1
 vandalism 1
+uncertainty 1
+events 1
 columbia 1
 ..212 1
 see 1
 s2p47 1
-obfuscating 1
+governors 1
 ..207 1
+naa 1
+outputs 1
 c1p191 1
 whereby 1
 fys 1
@@ -2450,12 +2502,18 @@ constitutional 1
 whichever 1
 inter-entity 1
 historic 1
+reflect 1
+components 1
 consistency 1
 inability 1
+investments 1
 meet 1
 gdp 1
+duty 1
+returns 1
 rest 1
 .460 1
+sources 1
 ..429 1
 cease 1
 .465 1
@@ -2472,15 +2530,17 @@ absorption 1
 first-in 1
 explanatory 1
 standardization 1
+collections 1
 s7p71-72 1
 continuation 1
 relevance 1
 mar 1
-ca 1
+c2p73 1
 disproportionate 1
 assets. 1
 .305 1
 s1p58 1
+advances 1
 ..529 1
 attribution 1
 cultural 1
@@ -2494,6 +2554,7 @@ justice. 1
 .308 1
 .47 1
 bsee 1
+securities 1
 forfeitures. 1
 page 1
 c1p160 1
@@ -2504,6 +2565,7 @@ economic 1
 promotion 1
 fiduciary 1
 ..27 1
+transactions 1
 l10 1
 civilization 1
 exit 1
@@ -2527,10 +2589,10 @@ panel 1
 census 1
 reimbursement. 1
 revenue. 1
-c2p73 1
+costs 1
 f30 1
+tariffs 1
 backup 1
-c1p75-87 1
 block 1
 ..523 1
 letter 1
@@ -2541,7 +2603,7 @@ gthis 1
 ..460 1
 recognize 1
 agency's/segment 1
-c1p162 1
+accomplishments 1
 restatement 1
 determine 1
 financial 1
@@ -2556,18 +2618,19 @@ self-sufficiency 1
 weygandt 1
 outflow 1
 handbook 1
+reimbursements 1
 call 1
 renovation 1
 therefore 1
 function 1
 ..75 1
-bond 1
 interagency 1
 liquidating 1
 causal 1
 regard 1
 .449 1
 entity,47 1
+vendor 1
 c2p65 1
 failure 1
 cost.73 1
@@ -2575,14 +2638,14 @@ services. 1
 fighter 1
 line 1
 allother 1
-happening 1
+c30 1
+assets 1
 consist 1
 default 1
 principles4 1
 vice 1
 mortgagor 1
 maximum 1
-.347 1
 below 1
 problem 1
 assistance 1
@@ -2602,24 +2665,26 @@ internal 1
 ..485 1
 ..484 1
 nj 1
-naa 1
+..525 1
 % 1
 oct. 1
 detail 1
 .595 1
 s7p122 1
 out 1
+addison-wesley 1
 picture 1
 briefly 1
 -offsetting 1
 immediate 1
+users 1
 birth 1
 meaning 1
 circumstance 1
 massachusetts 1
 coverage 1
-prepayment 1
 c1p110 1
+lease 1
 ..77 1
 ..70 1
 prevalent 1
@@ -2632,149 +2697,150 @@ stockpile 1
 
  Arbitary length NP 
 national economic productive capacity 8
-managerial cost accounting concept 7
-financial accounting standard board 5
-federal credit reform act 4
+managerial cost accounting concepts 7
+financial accounting standards board 4
 treasury financial manual supplement 4
-federal financial accounting concept no 4
-financial accounting concept no 3
+federal financial accounting concepts no 4
+federal credit reform act 4
+financial accounting concepts no 3
 financial accounting standard no 2
+federal financial accounting concepts 2
 railroad social security equivalent benefit account 2
 federal financial management improvement act 2
-federal financial accounting concept 2
 federal crop insurance corporation 2
 consolidated omnibus budget reconciliation act 1
-governmental accounting standard board gl 1
-s5p33 progress payment advance 1
+basic financial information requirements 1
+current services assessment current 1
+internal revenue service mms 1
+s7p37 unemployment trust fund deposits 1
 development annual stewardship information 1
-directed flow of resource accounting 1
+s7p264-269 treasury securities accounting 1
+its expected net realizable value 1
 s7p96 office of personnel management retirement 1
-s7p301 account payable accounting 1
-directed flow of resource 1
-financial accounting standard board gao 1
+capital human capital expenses 1
+dividend fund interest rate 1
+statements of federal financial accounting concepts and standards 1
+s5p133 unused capacity costs 1
 and equipment summaryf annual stewardship informationg 1
-internal revenue service mm 1
-heritage asset annual stewardship information heritage 1
-stewardship category or element 1
-c2p51 operating material and supply accounting 1
-applying applicable accounting principle 1
-s7p37 unemployment trust fund deposit 1
-federal financial accounting concept sffas statement 1
-it expected net realizable value 1
+general purpose financial reports 1
+s1p115 results of operations reporting 1
 acquisition cost general pp 1
-william c. brown c. publisher 1
-commodity credit corporation commodity 1
 s3p135-138 supplementary medical insurance 1
+william c. brown c. publishers 1
+commodity credit corporation commodities 1
 human capital sample report 1
 nature of stewardship reporting 1
 aggregate entry age normal 1
 value or amount -the 1
-s5p133 unused capacity cost 1
 lower of cost or market 1
-interpretation omb circular a-134 1
-s1p115 result of operation reporting 1
 stewardship land annual stewardship information 1
 required supplementary stewardship information 1
 or face or par 1
-of transaction classified in appendix b acquisition 1
-authority to borrow definition 1
-general purpose financial report 1
-effective date for consolidated financial statement 1
-s7p177 social security tax 1
+market-based treasury securities -treasury 1
+or other financing sources 1
+selected materials gao document 1
+applying applicable accounting principles 1
+pensions ] authority to borrow 1
 former navy contractor personnel 1
-capital human capital expense 1
+current services assessment annual stewardship information a current 1
+c2p109 rents and royalties 1
+federal financial accounting concepts sffas 1
 s7p313 capitalization threshold basis 1
 required supplemental stewardship information 1
+also referred to as cost objective 1
 stewardship land stewardship land land 1
 gao general accounting office naa national association 1
 cash basis of accounting 1
-fasb concept statement no 1
+potential note disclosures paragraphs .600 1
+fasb concepts statement no 1
 projected unit credit actuarial method 1
-also referred to a cost objective 1
-dividend fund interest rate 1
-s1p44 multi-use heritage asset 1
-c2p109 transfer of asset 1
-] other postemployment benefit 1
-issue for which change were made to the proposed standard 1
--w- weapon system federal mission pp 1
-s7p91-94 refund exchange revenue 1
+of information not specifically addressed in the standards 1
+s7p60 -u- uncollectible amounts accounts receivable 1
+s7p301 accounts payable accounting 1
+] whole life policies 1
+minerals management service ocs 1
+s7p282 -o- obligations incurred 1
 former navy contractor personnelo 1
-of information not specifically addressed in the standard 1
+-w- weapons system federal mission pp 1
 federal crop insurance corporation. 1
-defense business operation fund 1
-it estimated net cash 1
-] pre-1992 loan guarantee 1
-] post-1991 loan guarantee -loan 1
-or other financing source 1
+s5p110 medical care cost 1
+its estimated net cash 1
+] post-1991 loan guarantees -loan 1
+s5p33 progress payments advances 1
+s7p91-94 refunds exchange revenue 1
+chief financial officers act 1
 s5p110 national science foundation inter-entity 1
 outer continental shelf omb 1
-content page transaction with the public nonexchange 1
 required supplementary stewardship information .. 1
-physical property standard nonfederal physical property expense 1
 s8p47 federal mission pp 1
 s8p99 outer continental shelf 1
-ceramic material research program 1
+s1p44 multi-use heritage assets 1
 and equipment annual stewardship information federal 1
+] other postemployment benefits 1
 nonfederal physical property annual stewardship information 1
 s7p292 coast guard federal mission pp 1
 managerial cost accounting system 1
 government standard general ledger 1
-c1p201 employee benefit contribution 1
-potential note disclosure paragraph .600 1
+directed flows of resources 1
 stewardship -the federal government 1
-entry age normal actuarial method 1
-federal financial accounting concept sffas 1
-pension ] authority to borrow 1
+contents page transactions with the public nonexchange 1
 human capital annual stewardship information 1
 s7p172-173 more likely than not 1
-] whole life policy 1
-chief financial officer act 1
+retirement of debt securities prior to maturity 1
+entry age normal actuarial method 1
 c2p84-85 bank deposit insurance 1
-direct loan or loan guarantee 1
+s7p235-370 cleanup cost accounting 1
+nuclear regulatory commission fees 1
 e federal mission property 1
+and equipment modified cash basis taxes 1
+authority to borrow definition 1
+financial accounting standards board gao 1
+governmental accounting standards board gl 1
 s8p99 overseas investment insurance illustration 1
-s5p110 medical care cost 1
-retirement of debt security prior to maturity 1
-s7p282 -o- obligation incurred 1
-current service assessment annual stewardship information a current 1
+c2p51 operating materials and supplies accounting 1
 minimum reporting governmentwide report 1
 c1p146-150 -t- tax burden 1
+c2p109 transfers of assets 1
 requirement for cost accounting 1
-more specificity in reporting requirement 1
 federal generally accepted accounting 1
-nuclear regulatory commission fee 1
-current service assessment current 1
+more specificity in reporting requirements 1
 exchange commission sffac statement 1
+s5p61 classification of transactions 1
 recent moving average cost 1
-ninth new collegiate dictionary 1
-market-based treasury security -treasury 1
-department of responsibility segment 1
+interpretations omb circular a-134 1
+of transactions classified in appendix b acquisition 1
+stewardship categories or elements 1
+ceramic materials research programs 1
+heritage assets annual stewardship information heritage 1
 s7p61 pension benefit guarantee corporation insurance 1
 s7p174 civil service retirement system 1
 general accounting office gasb 1
+] pre-1992 loan guarantees 1
 of federally owned land in each statel 1
-selected material gao document 1
-certified public accountant apb accounting principle board arb accounting research bulletin coso committee 1
+government corporation control act 1
 statement of federal financial accounting 1
+defense business operations fund 1
 advisory board fin fasb interpertation form 1
-] pre-1992 direct loan 1
-treadway commission fa financial accounting standard fasb financial accounting standard board fasab federal accounting 1
+department of responsibility segments 1
 s6p157-158 -n- national flood insurance illustration 1
 civil service retirement system 1
 s1p26 nonfederal physical property 1
+directed flows of resources accounting 1
 s6p202-203 cleanup cost reimbursement 1
 ] post-modification value -the 1
-c2p109 rent and royalty 1
-s5p61 classification of transaction 1
+certified public accountants apb accounting principles board arb accounting research bulletin coso committee 1
 of federal mission pp 1
+physical property standard nonfederal physical property expenses 1
+direct loans or loan guarantees 1
+s3p134 other current liabilities 1
 expense or outlay data 1
-s7p235-370 cleanup cost accounting 1
-s3p134 other current liability 1
-s7p264-269 treasury security accounting 1
-s7p60 -u- uncollectible amount account receivable 1
-statement of federal financial accounting concept and standard 1
-government corporation control act 1
-basic financial information requirement 1
-mineral management service ocs 1
+issues for which changes were made to the proposed standards 1
+c1p201 employee benefits contributions 1
+federal financial accounting concepts sffas statement 1
+financial accounting standard board 1
+s7p177 social security taxes 1
+ninth new collegiate dictionary 1
+treadway commission fas financial accounting standard fasb financial accounting standards board fasab federal accounting 1
+effective date for consolidated financial statements 1
+] pre-1992 direct loans 1
 .. c2p100 exchange revenue 1
-and equipment modified cash basis tax 1

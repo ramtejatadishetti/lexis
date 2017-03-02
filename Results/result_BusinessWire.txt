@@ -4,6 +4,7 @@ legal aid 10
 wayne county 3
 next year 2
 low interest 1
+u.s. courts 1
 reduced funding 1
 same amount 1
 last year 1
@@ -14,8 +15,7 @@ legal system 1
 direct representation 1
 past year 1
 senior alliance 1
-u.s. court 1
-it kind 1
+its kind 1
 wire state 1
 united way 1
 selfhelp training 1
@@ -23,7 +23,6 @@ southeastern michigan 1
 alternative funding 1
 u.s. department 1
 defender association 1
-it funding 1
 executive director 1
 private practice 1
 10-year census 1
@@ -36,6 +35,7 @@ legal service 1
 poor person 1
 federal funding 1
 recent bureau 1
+its funding 1
 urban development 1
 past decade 1
 

@@ -8,19 +8,18 @@ fiscal year 3
 bottom line 3
 financial picture 2
 average increase 2
-last year 2
 my mom 2
+last year 2
 certified mail 2
 his mother 2
 institutional cost 2
 general public 2
 hard time 2
-large nothing 1
+media mail 1
 recommended decision 1
-it decision 1
+his father's 1
 same hill 1
 my summer 1
-it effect 1
 actual cost-of-living 1
 other way 1
 promised amount 1
@@ -30,6 +29,7 @@ new cost 1
 whose interest 1
 straight skinny 1
 public meeting 1
+large nothing 1
 current law 1
 concurring opinion 1
 initial package 1
@@ -39,7 +39,7 @@ additional labor 1
 small group 1
 bill hoyt 1
 -is rabid 1
-it future 1
+u.s. capitol 1
 total amount 1
 differential put 1
 delivery confirmation 1
@@ -47,19 +47,19 @@ institutional pie 1
 operating plan 1
 -please keep 1
 projected bottom 1
-his father's 1
 last time 1
 other mail 1
 first hand 1
 federal preemption 1
 horrific picture 1
+its case 1
 priority mail 1
 -first-class mail 1
 your meeting 1
 small matter 1
 major league 1
 -to lay 1
-postal rate 1
+its delivery 1
 last winter 1
 total volume 1
 -to cover 1
@@ -68,6 +68,7 @@ good point 1
 recent information 1
 negative impact 1
 special mention 1
+its request 1
 old material 1
 second table 1
 r2000-1 postmortem 1
@@ -81,7 +82,6 @@ first base 1
 electronic bill 1
 norm scharf 1
 disproportionate share 1
-it request 1
 new material 1
 parcel post 1
 postmaster general 1
@@ -93,22 +93,22 @@ first table 1
 omnibus rate 1
 prompt consideration 1
 postal ratemaking 1
+ed gleiman 1
 our count 1
 illinois december 1
 requested amount 1
 pie chart 1
-ed gleiman 1
+its decision 1
 entire time 1
 tired ammunition 1
 net loss 1
-coral gable 1
+its effect 1
 total operating 1
 first class 1
 -the portion 1
 near-term rate 1
 equitable schedule 1
 informational value 1
-it delivery 1
 prc r2000-1 1
 -the loss 1
 new challenge 1
@@ -128,13 +128,14 @@ private sector 1
 pleasant prospect 1
 • talk 1
 updating effort 1
-medium mail 1
+other day 1
 evidentiary record 1
 such class 1
 -the hand 1
 erratic weather 1
 other hand 1
 restrictive privacy 1
+coral gables 1
 november board 1
 additional revenue 1
 past spring 1
@@ -142,10 +143,9 @@ current ratemaking 1
 only opportunity 1
 bill henderson 1
 common ground 1
-u.s. capitol 1
 entire schedule 1
 postal community 1
-other day 1
+its future 1
 notice versus 1
 sizable cushion 1
 usps fy 1
@@ -154,39 +154,39 @@ federal level 1
 return receipt 1
 their mail 1
 formidable group 1
+postal rate 1
 john nolan 1
 tattered battle 1
 your billfold 1
-it case 1
 your mail 1
 postal system 1
 total contribution 1
 
  Trigram NP 
-u postal service 1
 last minute legislation 1
 edward j. gleiman 1
+us postal service 1
 my last shot 1
 my old buddy 1
-it private sandbox 1
 includes priority mail 1
-it original cost 1
+its private sandbox 1
 overall average increase 1
 postal reorganization act 1
+graphics communications association 1
 h. l. mencken 1
+its original cost 1
 current fiscal year 1
 j. edward day 1
-perceive postal reform 1
+delayed rate implementation 1
 bound printed matter 1
 gene del polito 1
 percent institutional percent 1
 my first condition 1
 mr. cary baer 1
-graphic communication association 1
 postal rate commission 1
 different restrictive state 1
 general accounting office 1
-delayed rate implementation 1
+perceive postal reform 1
 my other condition 1
 revenue cost total 1
 
@@ -226,7 +226,6 @@ matter 4
 operating 4
 santa 4
 check 4
-dollar 3
 example 3
 december 3
 collection 3
@@ -240,7 +239,6 @@ letter 3
 volume 3
 factor 3
 meeting 3
-governor 3
 denton 3
 board 3
 couple 3
@@ -250,6 +248,7 @@ class 3
 way 3
 line 3
 evidence 3
+dollar 2
 difference 2
 impact 2
 hr22 2
@@ -290,6 +289,7 @@ point 2
 simple 2
 proposal 2
 bill 2
+governor 2
 joke 2
 pound 2
 productivity 2
@@ -393,15 +393,14 @@ series 1
 idea 1
 insurance 1
 health 1
+millions 1
 forth 1
 goes- 1
-million 1
 divergence 1
 reason 1
 card 1
 thing 1
 consequence 1
-nonprofit 1
 mids 1
 one 1
 fantasy 1
@@ -426,6 +425,7 @@ priority 1
 mailer 1
 recover 1
 saw 1
+dollars 1
 mechanism 1
 clearwater 1
 chairman 1
@@ -436,6 +436,7 @@ reach 1
 breakpoint 1
 ] 1
 payment 1
+nonprofits 1
 camp 1
 mid-november 1
 consumer 1
@@ -487,6 +488,7 @@ surcharge 1
 speech 1
 split 1
 ball 1
+governors 1
 task 1
 framework 1
 shotgun 1
@@ -498,6 +500,7 @@ flavor 1
 -afternoon 1
 death 1
 contractor 1
+has 1
 game 1
 press 1
 world 1
@@ -538,7 +541,6 @@ two-fer 1
 hq 1
 incorporation 1
 heap 1
-ha 1
 feather 1
 assessment 1
 record 1
@@ -561,5 +563,5 @@ presentment 1
  Arbitary length NP 
 income prc r2000-1 rate decision 1
 financial posit ion unexplained change in usps fy2001 financial position 1
-graphic communication association chicago 1
+graphics communications association chicago 1
 unexplained change in usps fy 1

@@ -5,32 +5,32 @@ eastern oklahoma 2
 hot line 2
 john athens 1
 'law firm 1
-it way 1
 special interest 1
 sarkeys foundation 1
 last year 1
-legal service 1
 oxley foundation 1
+needs help 1
 george kaiser 1
 onionskin-thin budget 1
 child delinquency 1
 david riggs 1
 'with justice 1
 said riggs 1
-it expansion 1
 chief funding 1
 r.h. harbaugh 1
+its way 1
 general population 1
 legal advice 1
 tulsa foundation 1
+its goal 1
 small percentage 1
 his mentor 1
+legal services 1
 dallas ferguson 1
 domestic abuse 1
 his honor 1
-need help 1
+its expansion 1
 lip service 1
-it goal 1
 reduced staff 1
 oklahoma inc 1
 grant money 1
@@ -40,11 +40,11 @@ public fund 1
 our legal system 2
 justice julie delcour 1
 u.s. supreme court 1
-legal service corp. 1
+legal services corp. 1
 tulsa world sunday 1
 
  Unigram NP 
-attorney 6
+attorney 5
 lseo 5
 riggs 4
 drive 3
@@ -79,7 +79,6 @@ congress 1
 service 1
 area 1
 merger 1
-winter 1
 unemployment 1
 help 1
 mark 1
@@ -99,9 +98,11 @@ government 1
 fund 1
 representation 1
 president 1
+winters 1
 distraction 1
 building 1
 conner 1
+attorneys 1
 gift 1
 colleague 1
 january 1

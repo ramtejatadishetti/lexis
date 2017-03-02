@@ -52,17 +52,17 @@ competent counsel 1
 
  Trigram NP 
 funded legal assistance 1
+its widespread predatory 1
 his new job 1
+legal services corporation 1
 american bar association 1
+our national creed 1
 unflattering public image 1
-it widespread predatory 1
 our first responsibility 1
 washington-based nonprofit corporation 1
 his long-standing commitment 1
 atlanta journal-constitution barnes 1
 his first day 1
-our national creed 1
-legal service corporation 1
 georgia state bar 1
 
  Unigram NP 

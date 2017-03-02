@@ -2,18 +2,18 @@
  Bigram NP 
 legal aid 5
 southwest virginia 4
-it name 2
+its executive 2
+its name 2
 bland county 2
-it executive 2
 private bar 2
 federal funding 2
+roanoke times 1
 reduced funding 1
 small way 1
 lee county 1
 only lawyer 1
 smyth county 1
 our service 1
-new office 1
 new york 1
 sam hardy 1
 32-member staff 1
@@ -25,29 +25,29 @@ our stride 1
 our work 1
 first version 1
 new funding 1
+new office 1
+legal services 1
 private practice 1
 first day 1
 eilene mcilvane 1
 marion-based community 1
 major funding 1
-legal service 1
 grant money 1
-roanoke time 1
 larry harley 1
 magna carta 1
 
  Trigram NP 
-it expanded service 1
 economic opportunity act 1
-it only lawyer 1
-justice cynthia kinser 1
+its expanded service 1
+its only lawyer 1
 early legal aid 1
 our domestic violence 1
 virginia supreme court 1
-it first year 1
+its first year 1
 client centered legal 1
 legal aid society 1
-legal service corp. 1
+justice cynthia kinser 1
+legal services corp. 1
 
  Unigram NP 
 program 6

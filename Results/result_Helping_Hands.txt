@@ -1,13 +1,13 @@
 
  Bigram NP 
 tarrant county 2
-full control 1
 investigative work 1
 full-time attorney 1
 child support 1
-it staff 1
+full control 1
 active caseload 1
 their portion 1
+its staff 1
 valuable experience 1
 associate director 1
 sonyia hartwell 1
@@ -25,42 +25,42 @@ second full-time attorney 1
 texas wesleyan university 1
 
  Unigram NP 
-woman 4
 haven 4
+women 4
 custody 3
 divorce 3
 shelter 3
-hartwell 2
-grant 2
-law 2
-outreach 2
 child 2
+hartwell 2
+law 2
+grant 2
+outreach 2
 help 1
 money 1
 month 1
 clinic 1
 kind 1
-domestic-violence 1
 court 1
 assistance 1
 system 1
 legal 1
 access 1
 interview 1
-hand 1
+texas 1
+gap 1
 abuse 1
 student 1
+hands 1
 civil-law 1
-gap 1
+domestic-violence 1
 school 1
 october 1
 work 1
 contract 1
 person 1
-texas 1
 shortage 1
 problem 1
 frustrating 1
 
  Arbitary length NP 
-violence against woman office 1
+violence against women office 1

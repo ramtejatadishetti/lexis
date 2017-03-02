@@ -1,6 +1,6 @@
 
  Bigram NP 
-result act 10
+results act 10
 federal government 7
 successful management 6
 our work 5
@@ -10,16 +10,15 @@ fiscal year 4
 postal service 4
 mr. chairman 3
 government performance 3
+management challenges 3
 organizational realignment 3
 taxpayer advocate 3
-veteran affair 3
+program risks 3
+veterans affairs 3
 commissioner rossotti 3
-program risk 3
-management challenge 3
 top leadership 3
 new mission 2
 initial disability 2
-financial aid 2
 rigorous planning 2
 congressional involvement 2
 major management 2
@@ -31,17 +30,17 @@ great extent 2
 human capital 2
 high quality 2
 single decision 2
+financial aid 2
 federal management 2
 quality management 2
 important role 1
+federal buildings 1
 significant management 1
 dynamic environment 1
 institutional capacity 1
 daily list 1
 sizable staff 1
-it program 1
 advocate office 1
-governmental affair 1
 private sector.7 1
 deborah junod 1
 change government 1
@@ -54,30 +53,32 @@ senior career 1
 gao/t-ggd-00-26 figure 1
 governmentwide policy 1
 gao/t-ggd-00-26 strong 1
+results act-strategic 1
 management improvement 1
 public health 1
 diverse array 1
 irs management 1
 decisionmaking traditionally 1
-facility partnership 1
+its portion 1
 institutional champion 1
+its performance 1
 annual report 1
+its efficiency 1
 clear example 1
+underscore accountability 1
 our examination 1
 performanceoriented culture 1
 organizational alignment 1
 top management 1
 kelsey bright 1
+crucial role 1
 important management 1
-significant growth 1
 federal student 1
-underscore accountability 1
 successful improvement 1
+resources-including staff 1
 commensurate accountability 1
 effective framework 1
 necessary amount 1
-bi-partisan leadership 1
-susan ragland 1
 accountability series 1
 last year 1
 following address 1
@@ -85,24 +86,24 @@ performance-oriented culture 1
 census internet 1
 their management 1
 civil engineering 1
+its oversight 1
 our statement 1
-g sts 1
 public reporting 1
 financial management 1
 general exploration 1
 senior leadership 1
 limited tenure 1
-elicit idea 1
-personnel operation 1
+significant growth 1
 additional accountability 1
 their return 1
 active involvement 1
 new management 1
-result act-strategic 1
+g sts 1
 programmatic decisionmaking 1
 ready-made statutory 1
 personal involvement 1
 mission-critical management 1
+its policymaking 1
 clarify accountability 1
 statutory framework 1
 basic culture 1
@@ -114,25 +115,26 @@ operational flexibility 1
 sensitive taxpayer 1
 executive guide 1
 difficult task 1
+its program 1
 accountability-can serve 1
 national partnership 1
 increased flexibility 1
 extensive effort 1
 other information 1
-it reform 1
+governmental affairs 1
 governmentwide implementation 1
 cultural transformation 1
 positive note 1
 effective use 1
 demonstrated leadership 1
-it commitment 1
 top quality 1
 new volume 1
 government management 1
 inadequate technology 1
-guide decision 1
+bi-partisan leadership 1
 sound management 1
 important reform 1
+elicit ideas 1
 united kingdom 1
 their agencies.10 1
 e-mail message 1
@@ -140,25 +142,25 @@ build commitment 1
 william reinsberg 1
 testimony gao 1
 columbia committee 1
-it policymaking 1
 park service 1
 new automation 1
+its commitment 1
 future modernization 1
 organizational autonomy 1
-crucial role 1
+its reform 1
+guide decisions 1
 fax number 1
-it portion 1
 essential connection 1
 substantive planning 1
 defined system 1
 medical center 1
-it efficiency 1
 their tax 1
 concrete management 1
 new hardware 1
 important element 1
 implement reform 1
 organizationwide commitment 1
+personnel operations 1
 long-standing management 1
 annual filing 1
 single address 1
@@ -167,28 +169,26 @@ senior agency 1
 future progress 1
 governmentwide perspective 1
 our high-risk 1
-federal building 1
+its reliance 1
 basic decisionmaking 1
 their job 1
 agency-specific improvement 1
 service-provider role 1
+facility partnerships 1
 federal performance 1
 new organization 1
 initial expenditure 1
 demonstrated commitment 1
-resources-including staff 1
+measurable organization 1
 frequent turnover 1
 outstanding student 1
 private sector 1
 private use 1
 large number 1
-measurable organization 1
 employee involvement 1
-it reliance 1
 long period 1
 long-standing modernization 1
 positive recognition 1
-it performance 1
 performance-based management 1
 first copy 1
 their expertise 1
@@ -204,14 +204,14 @@ substantial room 1
 results-oriented management 1
 st. nw 1
 long-term focus 1
-it oversight 1
+susan ragland 1
 their efficiency 1
 high-performing government 1
 governmentwide basis 1
 important step 1
 gao/t-ggd-00-26 integration 1
 our survey 1
-dc order 1
+dc orders 1
 g100 united 1
 incremental modernization 1
 major technology 1
@@ -223,45 +223,45 @@ high-risk areas5 1
 
  Trigram NP 
 chief operating officer 6
-it principal medium 2
-student financial assistance 2
 gsa inspector general 2
-it effective use 1
-it oversight role 1
+its principal medium 2
+student financial assistance 2
+its extensive interaction 1
+its oversight role 1
 internal revenue service 1
 of-the essential connection 1
-program risk note 1
+its initial modernization 1
+irs faces challenges 1
 our wide-ranging work 1
 vehicle-the subsequent agency 1
 address correction requested 1
 ssa disability redesign 1
 their long-standing management 1
 social security administration 1
-it organizational structure 1
+its effective use 1
+program risks note 1
+veterans health administration 1
 j. christopher mihm 1
 other related information 1
-our prepared statement 1
 • internal control 1
 separate organizational unit 1
 their fiscal year 1
 their respective management 1
-it extensive interaction 1
+our prepared statement 1
 nuclear regulatory commission's 1
 our broad body 1
-irs face challenge 1
-veteran health administration 1
 independent financial audit 1
 va health care 1
 james r. white 1
 their annual performance 1
-it initial modernization 1
+address management challenges 1
 bernard l. ungar 1
 their successful completion 1
 bulk rate postage 1
 substantial operational autonomy 1
 maximum 5-year term 1
+its organizational structure 1
 official business penalty 1
-address management challenge 1
 clarify accountability successful 1
 
  Unigram NP 
@@ -277,9 +277,9 @@ service 13
 congress 13
 program 12
 example 12
-agency 10
 modernization 9
 authority 9
+agency 9
 plan 9
 reform 8
 technology 8
@@ -314,6 +314,7 @@ tax 4
 education 4
 june 4
 taxpayer 3
+extent 3
 day 3
 january 3
 internet 3
@@ -321,7 +322,6 @@ progress 3
 business 3
 efficiency 3
 compliance 3
-extent 3
 initiative 3
 addition 3
 support 3
@@ -362,10 +362,11 @@ exchange 2
 processing 2
 agreement 2
 leadership 2
-key 2
 census 2
 visit 2
+policy 2
 maker 2
+key 2
 satisfaction 2
 quality 2
 feb. 2
@@ -379,7 +380,6 @@ one-third 2
 mail 2
 vulnerability 2
 expertise 2
-policy 2
 need 2
 u.s 2
 productivity 2
@@ -392,16 +392,18 @@ law 2
 opportunity 2
 framework 2
 order 2
+operations 1
 stake 1
 help 1
 acknowledgement 1
 top 1
 gao/aimd/ggd-99-206 1
 aspect 1
+documents 1
 corner 1
 alignment 1
 impact 1
-gao/hehs-98-226 1
+access 1
 position 1
 knowledge 1
 call 1
@@ -438,7 +440,7 @@ security 1
 goals.12 1
 page 1
 set 1
-superintendent 1
+ses 1
 human 1
 gao/ocg-99-1 1
 senate 1
@@ -450,7 +452,6 @@ relative 1
 culture 1
 gao/ggd-97-109 1
 touchtone 1
-operation 1
 agriculture 1
 frontline 1
 consensus 1
@@ -468,22 +469,22 @@ irs' 1
 confusion 1
 organization's 1
 deliver 1
-effect 1
+agencies 1
 restructuring 1
 operating 1
+members 1
 served 1
 tdd 1
 realignment 1
 care 1
 separation 1
-vha 1
 career 1
 many 1
 longterm 1
 job 1
 contract 1
 union 1
-s 1
+connection 1
 visa 1
 menu 1
 contribution 1
@@ -494,7 +495,7 @@ jurisdiction 1
 credit 1
 danger 1
 student 1
-connection 1
+vha 1
 enactment 1
 washington 1
 flexibility 1
@@ -503,6 +504,7 @@ www.gao.gov 1
 determination 1
 lieu 1
 wider 1
+superintendent 1
 gao/ggd-98-93 1
 interest 1
 district 1
@@ -526,7 +528,6 @@ gain 1
 subsidiary 1
 hold 1
 effort 1
-document 1
 pilot 1
 governmentwide 1
 another-are 1
@@ -566,7 +567,7 @@ variety 1
 employment 1
 discussion 1
 ledger 1
-member 1
+gao/hehs-98-226 1
 application 1
 emphasis 1
 branch 1
@@ -585,7 +586,6 @@ update 1
 automation 1
 director 1
 ownership 1
-access 1
 npr 1
 building 1
 delivery 1
@@ -596,20 +596,21 @@ analysis 1
 laws.3 1
 time 1
 plans.4 1
+effect 1
 filing 1
 fact 1
 
  Arbitary length NP 
-chief financial officer act 2
+chief financial officers act 2
+continuing congressional involvement finally 1
 u.s. general accounting office p.o 1
 better oversight is needed 1
-veteran integrated service networks.15 va 1
 world wide web home page 1
-fee paid gao permit no 1
-continuing congressional involvement finally 1
+veterans integrated service networks.15 va 1
+general accounting office washington 1
 house government reform committee 1
 current cumbersome organizational structure 1
 u.s. general accounting office washington 1
 u.s. senate gao/t-ggd-00-26 statement management reform 1
-general accounting office washington 1
+fees paid gao permit no 1
 gao/t-ggd-00-26 demonstrated leadership commitment 1

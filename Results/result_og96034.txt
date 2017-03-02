@@ -5,60 +5,60 @@ final report 4
 federal register 4
 ensure compatibility 3
 cost-benefit analysis 2
-communication act 2
 fcc rcd 2
-projected reporting 2
 further notice 2
+projected reporting 2
+communications act 2
 basic wireless 2
 gao/ogc-96-34 section 2
 other compliance 2
 detailed discussion 1
+full text 1
 fcc record 1
 title ii 1
 mr. anderson 1
-proposed rulemaking 1
 emergency calling 1
 mobile radio 1
 our assessment 1
 same time 1
 general public 1
-commission's rule 1
-5-year period 1
 universal applicability 1
-it belief 1
 automatic exclusion 1
 small entity 1
+its submission 1
 the commission 1
 et seq 1
 wireless service 1
+telecommunications issues 1
 legal basis 1
 major rule 1
 jr. chairman 1
-it submission 1
+proposed rulemaking 1
 final rule 1
+5-year period 1
 our report 1
 transportation united 1
 supplementary information 1
 direct response 1
 commerce house 1
-telecommunication issue 1
+john anderson 1
 commission-developed set 1
 personal communication 1
-full text 1
+commission's rules 1
+its belief 1
 two-way voice 1
 our review 1
-john anderson 1
 
  Trigram NP 
+emergency calling systems 3
 regulatory flexibility analysis 3
-emergency calling system 3
-wireless e911 rule 3
+wireless e911 rules 3
 independent regulatory agency 1
-paperwork reduction act 1
 other relevant information 1
 kathleen e. wannisky 1
+federal communications commission 1
 commercial mobile voice 1
-federal communication commission 1
+paperwork reduction act 1
 specific geographical location 1
 administrative procedure act 1
 regulatory flexibility act 1
@@ -74,12 +74,12 @@ notice 10
 rulemaking 8
 u.s.c 8
 analysis 7
-rule 7
 section 6
 reg 5
 fed 5
 b 5
 information 5
+rule 5
 federal 4
 r 4
 number 4
@@ -91,6 +91,7 @@ compliance 3
 office 2
 executive 2
 title 2
+rules 2
 fcc-96-264 2
 identification 2
 participation 2
@@ -104,6 +105,7 @@ collection 2
 response 2
 wireless 2
 i 2
+operations 1
 tty 1
 pursuant 1
 trade 1
@@ -124,7 +126,6 @@ cost 1
 senate 1
 512-5207 1
 year 1
-operation 1
 subject 1
 proceeding 1
 smr 1
@@ -183,15 +184,15 @@ validation 1
 
  Arbitary length NP 
 initial regulatory flexibility analysis 2
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
 final regulatory flexibility analysis 1
-gao/ogc-96-34 enclosure analysis under 1
+rules to ensure compatibility with enhanced 1
 honorable larry pressler chairman 1
+mr. andrew s. fishel managing director federal communications commission page 1
 honorable ernest f. hollings ranking minority member committee 1
 general counsel b-274091 august 1
-rule to ensure compatibility with enhanced 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the federal communication commission entitled 1
-mr. andrew s. fishel managing director federal communication commission page 1
+a major rule issued by the federal communications commission entitled 1
+gao/ogc-96-34 enclosure analysis under 1
 honorable thomas j. bliley 1

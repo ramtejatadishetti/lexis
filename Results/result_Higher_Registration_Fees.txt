@@ -24,19 +24,19 @@ tough time 1
 illinois supreme court 1
 non-profit legal aid 1
 lawyer trust account 1
-ruth ann schmitt 1
+lawyers trust fund 1
 chicago bar association 1
-lawyer trust fund 1
+ruth ann schmitt 1
 full annual registration 1
 
  Unigram NP 
 money 6
 legislation 6
 interest 4
-lawyer 3
 registration 3
 fee 3
 illinois 3
+lawyers 3
 account 3
 year 2
 harrison 2
@@ -99,5 +99,5 @@ mean 1
  Arbitary length NP 
 chief justice moses w. harrison ii 1
 illinois state bar association 1
-high court seek higher registration fee daniel c. vock law bulletin staff writer springfield 1
+high court seeks higher registration fees daniel c. vock law bulletin staff writer springfield 1
 chicago daily law bulletin april 1

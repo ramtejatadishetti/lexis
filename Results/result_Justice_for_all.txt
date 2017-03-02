@@ -1,6 +1,6 @@
 
  Bigram NP 
-legal service 12
+legal services 12
 new jersey 5
 machete attack 2
 social security 2
@@ -15,7 +15,6 @@ isaac benjamin 1
 last year 1
 compelling case 1
 big firm 1
-doe defabrizio 1
 david morris 1
 double bypass 1
 sierra leone 1
@@ -32,6 +31,7 @@ his landlord 1
 his documentary 1
 fifth floor 1
 jean-claude joseph 1
+does defabrizio 1
 never-ending quest 1
 legal assistance 1
 subsidized apartment 1

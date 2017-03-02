@@ -63,21 +63,21 @@ further encouragement 1
 corporate largess 1
 
  Trigram NP 
-tristan da cunha 1
 madison square garden 1
 new york school 1
-their own judgment 1
 new mexico school 1
 american bar association 1
 free legal research 1
-syracuse law school 1
-american law school 1
+their own judgment 1
+tristan da cunha 1
 greg winter monday 1
 yale law school 1
+syracuse law schools 1
 deborah l. rhode 1
 median hourly rate 1
 government-financed legal aid 1
 theresa j. bryant 1
+american law schools 1
 their financial reach 1
 touro law school 1
 
@@ -111,7 +111,6 @@ bill 2
 taxi 1
 help 1
 money 1
-queen 1
 meditation 1
 bit 1
 access 1
@@ -200,6 +199,7 @@ faculty 1
 nation 1
 tradition 1
 pool 1
+queens 1
 bullet 1
 light 1
 professor 1
@@ -213,7 +213,7 @@ software 1
 order 1
 
  Arbitary length NP 
-new york time law school urge graduate 1
+new york times law schools urge graduates 1
 community legal resource network 1
 thomas m. cooley law school 1
 new york law school 1

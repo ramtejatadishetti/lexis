@@ -65,7 +65,6 @@ site 1
 america 1
 infrastructure 1
 rule 1
-lawyer 1
 publico 1
 fear 1
 custody 1
@@ -83,6 +82,7 @@ hope 1
 development 1
 dialogue 1
 good 1
+lawyers 1
 profession 1
 kind 1
 protection 1

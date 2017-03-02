@@ -7,11 +7,11 @@ procedure act 1
 cost-benefit analysis 1
 substantial number 1
 public docket 1
-proposed rulemaking 1
 rhode island 1
 regulatory impact 1
 our assessment 1
 peter guerrero 1
+its submission 1
 protection agency 1
 state-by-state program 1
 new jersey 1
@@ -25,7 +25,7 @@ alan zuckerman 1
 federal register 1
 major rule 1
 jr. chairman 1
-it submission 1
+proposed rulemaking 1
 order no 1
 congressional budget 1
 et seq 1
@@ -47,17 +47,17 @@ public hearing 1
 
  Trigram NP 
 clean air act 4
+new motor vehicles 2
 environmental protection agency 2
-new motor vehicle 2
 paperwork reduction act 2
 assistant general counsel 1
 final rule pursuant 1
 federal private sector 1
 ozone transport region 1
 ozone transport commission 1
+public works united 1
 enclosure analysis under 1
 national low emission 1
-environmental protection issue 1
 other federal motor 1
 quid pro quo 1
 regional epa administrator 1
@@ -67,13 +67,13 @@ federal intergovernmental mandate 1
 main regulatory framework 1
 significant regulatory action 1
 other relevant information 1
-public work united 1
+environmental protection issues 1
 
  Unigram NP 
 epa 15
 rule 13
 program 11
-vehicle 11
+vehicle 9
 u.s.c 7
 otc 6
 analysis 5
@@ -105,6 +105,7 @@ iv 2
 rin 2
 information 2
 collection 2
+vehicles 2
 comment 1
 code 1
 maine 1
@@ -171,14 +172,14 @@ model 1
 review 1
 
  Arbitary length NP 
-new motor vehicle engine air pollution control 2
-unfunded mandate reform act 2
+new motor vehicle engines air pollution control 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
 a major rule issued by the environmental protection agency entitled 1
 honorable john h. chafee chairman 1
-standard for light-duty vehicle 1
+standards for light-duty vehicles 1
 robert p. murphy general counsel enclosure 1
-new motor vehicle and new motor vehicle engine air pollution control 1
+new motor vehicles and new motor vehicle engines air pollution control 1
 honorable max baucus ranking minority member committee 1
 national low emission vehicle 1
 general counsel b-277027 june 1

@@ -7,13 +7,11 @@ federal register 4
 private sector 2
 advisory committee 2
 order no 2
-medical device 2
 regulatory action 1
 cost-benefit analysis 1
 design-related device 1
 different quality 1
 economic impact 1
-regulatory affair 1
 class ii 1
 current good 1
 their failure 1
@@ -29,6 +27,7 @@ economic value 1
 additional year 1
 et seq 1
 senior attorney 1
+regulatory affairs 1
 regulatory burden 1
 excellent past 1
 appropriate documentation 1
@@ -39,8 +38,10 @@ proposed rulemaking 1
 james vickers 1
 federal food 1
 cosmetic act 1
+medical devices 1
 good manufacturing 1
 our report 1
+medical device 1
 commerce house 1
 burdensome alternative 1
 effective date 1
@@ -53,18 +54,18 @@ current good manufacturing 3
 open public meeting 2
 quality system regulation 2
 executive order no 2
-administrative procedure act 1
+human services page 1
 significant regulatory action 1
 paperwork reduction act 1
 final regulatory flexibility 1
 gmp advisory committee 1
-human service page 1
+other relevant information 1
 thomas e. slomba 1
 total annual incremental 1
 initial regulatory flexibility 1
-other relevant information 1
 significant economic impact 1
 regulatory flexibility act 1
+administrative procedure act 1
 small business administration 1
 planned regulatory action 1
 
@@ -205,12 +206,11 @@ consistency 1
  Arbitary length NP 
 current good manufacturing practice 2
 honorable john d. dingell ranking minority member committee 1
-a major rule issued by the department of health and human service 1
+unfunded mandates reform act 1
+good manufacturing practice advisory committee 1
 gao/ogc-97-3 enclosure analysis under 1
 device good manufacturing practice advisory committee 1
-safe medical device act 1
 honorable edward m. kennedy ranking minority member committee 1
-good manufacturing practice advisory committee 1
 honorable nancy landon kassebaum chairman 1
 general counsel b-275070 october 1
 robert p. murphy general counsel enclosure 1
@@ -218,4 +218,5 @@ honorable donna e. shalala 1
 food and drug administration entitled 1
 quality system regulation pursuant 1
 honorable thomas j. bliley 1
-unfunded mandate reform act 1
+a major rule issued by the department of health and human services 1
+safe medical devices act 1

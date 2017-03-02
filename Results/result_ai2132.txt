@@ -19,14 +19,13 @@ late payment 3
 reasonable assurance 3
 flatrate basis 3
 our response 3
+records management 3
 geographical separation 3
 prompt payment 3
 their payment 3
-record management 3
 actual payment 3
 practicable tradeoff 2
 their employee 2
-federal regulation 2
 manual system 2
 prepayment examination 2
 automated system 2
@@ -35,6 +34,7 @@ personnel management 2
 appropriate process 2
 sufficient control 2
 widespread use 2
+federal regulations 2
 g sts 2
 specific form 2
 first section 2
@@ -54,6 +54,7 @@ omb's implementationofthegovernmentpaperworkeliminationact 1
 uniform examination 1
 extended period 1
 brief discussion 1
+its internet 1
 primary document 1
 100percent verification 1
 data integrity 1
@@ -63,7 +64,6 @@ home page 1
 electronic information 1
 lodging basis 1
 unaltered copy 1
-it impact 1
 adequate audit 1
 central reporting 1
 substantial impact 1
@@ -71,6 +71,7 @@ primary purpose 1
 good ongoing 1
 extensive coverage 1
 vendor's invoice 1
+additional detail 1
 major processing 1
 staff's travel 1
 financial office 1
@@ -79,18 +80,16 @@ adequate training 1
 primary compensating 1
 periodic testing 1
 single address 1
+required prepayment 1
 extensive automation 1
 particular person 1
 specific request 1
 corresponding paper 1
 traditional supervisors' 1
-acceptable record 1
 • e-mail 1
 review implementation 1
-appropriate separation 1
 our permission 1
-comptroller general 1
-random selection 1
+numerous examination 1
 known universe 1
 ongoing satisfactory 1
 their travel 1
@@ -128,7 +127,6 @@ new payment 1
 background importance 1
 agencydesignated charge 1
 general control 1
-such person 1
 daily list 1
 revised payment 1
 significant portion 1
@@ -139,6 +137,7 @@ flatrate lodging 1
 • web 1
 uncovered missing 1
 specific agency 1
+such person 1
 simple example 1
 low cost 1
 low risk 1
@@ -152,6 +151,7 @@ fourth section 1
 such hardcopy 1
 gao's policyandproceduresmanual 1
 major move 1
+field offices 1
 traditional review 1
 our authority 1
 commercial software 1
@@ -160,15 +160,13 @@ first appendix 1
 actual trip 1
 data authentication 1
 sufficient scope 1
-required prepayment 1
 figure figure 1
 full implementation 1
 fiscal year 1
 past travel 1
-background modification 1
 applicable retention 1
 specific control 1
-field office 1
+federal managers 1
 related documentation 1
 their system 1
 e-mail message 1
@@ -177,10 +175,10 @@ electroniccopyor image 1
 minimal lodging 1
 officer's location 1
 treasury form 1
-additional detail 1
+its impact 1
 timely recording 1
 post payment 1
-intended purpose 1
+its effect 1
 automated environment 1
 next section 1
 sampling basis 1
@@ -202,10 +200,13 @@ our responsibility 1
 previous section 1
 key ingredient 1
 social security 1
+intended purpose 1
 same information 1
 accurate amount 1
-numerous examination 1
+its review 1
+random selection 1
 such documentation 1
+background modifications 1
 federal entity 1
 expedite processing 1
 actual receipt 1
@@ -214,7 +215,6 @@ first time 1
 fips pub 1
 tolerable error 1
 proper payment 1
-it review 1
 additional evidence 1
 formal approval 1
 actual lodging 1
@@ -231,21 +231,22 @@ prepayment validation 1
 manual reentry 1
 last section 1
 other hand 1
-federal manager 1
+acceptable record 1
 background compared 1
 manual prepayment 1
 effective acquisition 1
 hardcopy paper 1
 seek payment 1
-it effect 1
+appropriate separation 1
 clear documentation 1
 individual transaction 1
 annual blanket 1
 responsible official 1
+its proposal 1
 certain dollar 1
 standard government 1
+comptroller general 1
 supervisory approval 1
-it internet 1
 new employee 1
 electronic page 1
 federal computer 1
@@ -254,7 +255,6 @@ public law 1
 st. nw 1
 circular a127 1
 report fraud 1
-it proposal 1
 acceptable level 1
 her responsibility 1
 gao policyandproceduresmanualdoes 1
@@ -265,15 +265,15 @@ random sample 1
 gao's standardsforinternalcontrolinthefederalgovernment7 1
 approved purchase 1
 100percent examination 1
-dc order 1
+dc orders 1
 systemrequirementsformanagerial costaccounting 1
 large extent 1
 postpayment validation 1
 certifying officer 1
 statutory authorization 1
-travel claim 1
 our opinion 1
 sole control 1
+travel claims 1
 electronic imaging 1
 national institute 1
 background traditionally 1
@@ -294,16 +294,14 @@ traditional payment process 1
 omb circular a12513 1
 annual internal control 1
 other documentary evidence 1
-validating travel claim 1
 gao policyand proceduresmanualand 1
-it current system 1
+validating travel claims 1
 proposed new payment 1
 payment process title 1
 computer security act 1
-system architecture source 1
 joint cooperative undertaking 1
 federal acquisition regulation 1
-it prepayment testing 1
+its current system 1
 gao response title 1
 omb circular a127 1
 omb circular a125 1
@@ -313,13 +311,13 @@ other summary information 1
 afterthefact sampling basis 1
 gao response payment 1
 certain automated signature 1
+systems architecture source 1
 maximum allowable amount 1
+its prepayment testing 1
+its annual review 1
 sound internal control 1
-it fast pay 1
 related statistical sampling 1
-accounting procedure act 1
 critical documents-the obligation 1
-it annual review 1
 world wide web 1
 payment process- acquisition 1
 gao response gao 1
@@ -329,6 +327,8 @@ welldefined organizational structure 1
 general accounting office 1
 financial integrity act 1
 tolerable acceptable error 1
+its fast pay 1
+accounting procedures act 1
 
  Unigram NP 
 payment 107
@@ -354,9 +354,9 @@ jfmip 15
 order 14
 gao 14
 technology 14
-document 14
 traveler 13
 guidance 13
+document 13
 claim 12
 sample 12
 office 12
@@ -403,7 +403,6 @@ amount 5
 effort 5
 relationship 5
 nist 5
-requirement 5
 computer 5
 basis 5
 budget 5
@@ -428,10 +427,10 @@ environment 3
 list 3
 www.gao.gov 3
 method 3
+criteria 3
 assessment 3
 today 3
 room 3
-criterion 3
 hardcopy 3
 data 3
 policy 3
@@ -439,6 +438,7 @@ traveler's 3
 receiving 3
 obligation 3
 accordance 3
+requirement 3
 identification 3
 reasonableness 3
 addition 3
@@ -453,7 +453,6 @@ http 3
 transaction 3
 entry 3
 accurate 3
-mechanism 3
 alternative 3
 authority 3
 core 3
@@ -478,6 +477,7 @@ adequacy 2
 phone 2
 none 2
 figure 2
+requirements 2
 circular 2
 may 2
 law 2
@@ -528,6 +528,7 @@ center 2
 model 2
 clearance 2
 percent 2
+mechanism 2
 source 2
 match 2
 background 2
@@ -549,6 +550,7 @@ nw 2
 june 2
 diem 2
 lack 1
+issues 1
 promptpayment 1
 charge 1
 oversight 1
@@ -557,6 +559,7 @@ fax 1
 confirmation 1
 appropriation 1
 condition 1
+standards 1
 item 1
 past 1
 reengineering 1
@@ -568,6 +571,7 @@ body 1
 supporting 1
 justification 1
 exchange 1
+payroll 1
 separation 1
 address 1
 consideration 1
@@ -614,7 +618,6 @@ entity 1
 statistical 1
 monitor 1
 mail 1
-good 1
 combination 1
 microfilm 1
 software.8 1
@@ -630,8 +633,7 @@ network 1
 systems-mainframe 1
 correct 1
 assurance 1
-payroll 1
-standard 1
+mechanisms 1
 regulatory 1
 definition 1
 e.g 1
@@ -653,7 +655,7 @@ correction 1
 manner 1
 recover 1
 gao/aimd99.21.3.1 1
-issue 1
+documents 1
 checkout 1
 efficient 1
 contact 1
@@ -737,6 +739,7 @@ schedule 1
 booklet 1
 agreement 1
 limitation,15 1
+goods 1
 package 1
 capable 1
 guidance12 1
@@ -781,23 +784,23 @@ joint financial management improvement program 3
 federal financial management improvement act 2
 jeffrey c. steinhoff assistant comptroller general accounting 1
 u.s. general accounting office p.o 1
-effective internal control gao/aimd21.3.2 content preface introduction page 1
+gao reports financial management system standards 1
+appendix ii financial management system standards 1
+payment process- employee travel claims electronic vouchers 1
 omb circular a125 promptpayment,5 1
 jfmip core financial system requirementsdocument 1
-general electronic signature advancing technology 1
-payment process- employee travel claim electronic voucher 1
 authorizing payment basedonelectronic validation 1
-appendix ii financial management system standard 1
 national defense authorization act 1
-gao response electronic signature several 1
+weak internal controls exist fmfia 1
 flatrate lodging reimbursement gao response 1
+effective internal control gao/aimd21.3.2 contents preface introduction page 1
 technology enhancing internal control 1
 information management division introduction 1
-gao response traveler retaining supporting documentation 1
-gao report financial management system standard 1
-federal information processing standard 1
-system architecture abbreviation preface 1
+general electronic signatures advancing technology 1
+systems architecture abbreviations preface 1
+gao response electronic signatures several 1
 their last salary payment 1
 u.s. general accounting office washington 1
 u.s. general accounting office 1
-weak internal control exist fmfia 1
+gao response travelers retaining supporting documentation 1
+federal information processing standards 1

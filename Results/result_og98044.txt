@@ -4,7 +4,7 @@ final rule 10
 effective date 3
 medicare program 3
 fiscal year 2
-per-beneficiary limitation 2
+per-beneficiary limitations 2
 major rule 2
 regulatory action 1
 procedure act 1
@@ -12,27 +12,27 @@ cost-benefit analysis 1
 health financing 1
 substantial number 1
 private sector 1
+30-day delay 1
 finance united 1
 our assessment 1
 good cause 1
 statutory authorization 1
 significant impact 1
 william scanlon 1
-mean house 1
 et seq 1
+means house 1
 federal register 1
 mr. scanlon 1
 jr. chairman 1
 order no 1
 james vickers 1
 cost report 1
-system issue 1
 our report 1
+systems issues 1
 commerce house 1
 unduplicated census 1
 regulatory relief 1
 new schedule 1
-30-day delay 1
 same reason 1
 60-day delay 1
 our review 1
@@ -42,15 +42,15 @@ federal intergovernmental 1
 paperwork reduction act 2
 balanced budget act 2
 aggregate per-beneficiary limitation 2
-cost reporting period 1
+human services page 1
 regulatory impact analysis 1
-human service page 1
+other relevant information 1
 assistant general counsel 1
-unfunded mandate act 1
 congressional review act 1
 regulatory flexibility analysis 1
-other relevant information 1
+unfunded mandates act 1
 regulatory flexibility act 1
+cost reporting periods 1
 social security act 1
 their non-profit status 1
 
@@ -100,12 +100,12 @@ information 1
 fed 1
 united 1
 receipt 1
+ways 1
 percent 1
 pub 1
 note 1
 cc 1
 program 1
-way 1
 size 1
 evaluation 1
 reg 1
@@ -139,21 +139,21 @@ order 1
 
  Arbitary length NP 
 health care financing administration 3
-home health agency cost 2
+home health agency costs 2
 honorable john d. dingell ranking minority member committee 1
-a major rule issued by the department of health and human service 1
 honorable daniel patrick moynihan ranking minority member committee 1
 small business regulatory enforcement fairness act 1
 honorable william v. roth chairman 1
 gao/ogc-98-44 enclosure analysis under 1
-cost reporting period pursuant 1
-honorable charles b. rangel ranking minority member committee 1
+per-beneficiary limitations on home health agency costs for cost reporting periods 1
 health care financing administration entitled 1
+unfunded mandates reform act 1
+honorable charles b. rangel ranking minority member committee 1
+cost reporting periods pursuant 1
 honorable bill archer chairman 1
 general counsel b-279750 april 1
-national claim history standard analytical file 1
-per-beneficiary limitation on home health agency cost for cost reporting period 1
-robert p. murphy general counsel enclosure 1
 honorable donna e. shalala 1
+robert p. murphy general counsel enclosure 1
+national claims history standard analytical file 1
 honorable thomas j. bliley 1
-unfunded mandate reform act 1
+a major rule issued by the department of health and human services 1

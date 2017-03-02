@@ -39,7 +39,6 @@ appreciable impact 1
 high chemical 1
 early life 1
 sensitive endpoint 1
-disease prevention 1
 lake superior 1
 rwc + 1
 two-week exposure 1
@@ -57,7 +56,6 @@ routine basis 1
 toxicant dependent 1
 aquatic toxicity 1
 complete life 1
-static test 1
 prescribed period 1
 other glassware 1
 short-term toxicity 1
@@ -81,7 +79,6 @@ apparent toxicity 1
 graded series 1
 relative sensitivity 1
 environmental toxicology 1
-safety manual 1
 definitive test 1
 ongoing commitment 1
 28-day life-cycle 1
@@ -89,7 +86,7 @@ necessary safety 1
 effective health 1
 early life-stage 1
 7-day sheepshead 1
-general precaution 1
+disease prevention 1
 subsequent shattering 1
 annual meeting 1
 effluent toxicity 1
@@ -103,13 +100,16 @@ seven-day larval 1
 fume hood 1
 negative test 1
 great majority 1
+safety manuals 1
 same amount 1
+general precautions 1
 sufficient information 1
 same test 1
 partial lifecycle 1
 bodily injury 1
 larval survival 1
 exhaust canopy 1
+static tests 1
 negative result 1
 ongoing training 1
 enzyme activity 1
@@ -124,21 +124,21 @@ limited number 1
 fathead minnow 1
 
  Trigram NP 
-short-term toxicity test 2
 fish full life-cycle 2
+short-term toxicity tests 2
 two-day red macroalga 1
-it wide use 1
+its wide use 1
+its own waste 1
 potential temporal variability 1
 laboratory safety equipment 1
 single toxicant fathead 1
 other aquatic life 1
+types of tests 1
 health and safety 1
-it own waste 1
 their predictive value 1
 other prescribed interval 1
 lethal threshold concentration 1
 significant observed effect 1
-type of test 1
 personal safety gear 1
 
  Unigram NP 
@@ -147,7 +147,7 @@ toxicity 21
 usepa 19
 growth 18
 safety 15
-el 13
+els 13
 % 13
 survival 12
 concentration 11
@@ -165,23 +165,23 @@ reproduction 5
 permit 5
 equipment 4
 and/or 4
+organisms 4
 birge 4
 norberg 4
-waste 4
 work 4
 al 4
-organism 4
 sheepshead 3
-health 3
 handling 3
 acute 3
 oxygen 3
+health 3
 receiving 3
 program 3
 fertilization 3
 possibility 3
-embryo 3
+embryos 3
 post-hatch 3
+waste 3
 control 3
 npdes 3
 pimephales 3
@@ -189,7 +189,6 @@ silverside 3
 literature 3
 effect 3
 staff 2
-presence 2
 lc50 2
 do 2
 emergency 2
@@ -198,6 +197,7 @@ solution 2
 toxicant 2
 reduced 2
 bahia 2
+noecs 2
 fathead 2
 inland 2
 rate 2
@@ -215,7 +215,7 @@ mysid 2
 section 2
 bod 2
 copper 2
-noecs 2
+presence 2
 quality 2
 reduction 2
 incubation 2
@@ -250,6 +250,7 @@ death 1
 matcs 1
 field 1
 effort 1
+facility 1
 cyprinodon 1
 subsection 1
 lethality 1
@@ -257,7 +258,7 @@ policy 1
 b 1
 mortality 1
 al. 1
-larva 1
+loss 1
 breakage 1
 histopathology 1
 renewal 1
@@ -265,7 +266,6 @@ level 1
 jameson 1
 consensus 1
 chamber 1
-loss 1
 officer 1
 activity 1
 ohio 1
@@ -305,7 +305,6 @@ underwriter 1
 stage 1
 comparison 1
 jackim 1
-extension 1
 spill 1
 study 1
 prior 1
@@ -317,12 +316,12 @@ tetanus 1
 simple 1
 multi-concentration 1
 period 1
-facility 1
 chronic 1
 wider 1
 lima 1
 management 1
 eye 1
+larvae 1
 basis 1
 introduction 1
 permittee 1
@@ -333,7 +332,6 @@ production 1
 stephan 1
 non-renewal 1
 energy 1
-walter 1
 cleaning 1
 life 1
 benoit 1
@@ -348,6 +346,7 @@ woltering 1
 case 1
 sample 1
 account 1
+extension 1
 society 1
 macek 1
 parvula 1
@@ -362,7 +361,8 @@ pass/fail 1
 daphnia 1
 minimum 1
 ambient 1
-pimphales 1
+check 1
+walters 1
 champia 1
 percent 1
 range 1
@@ -380,12 +380,13 @@ variegatus 1
 blood 1
 typhoid 1
 invasion 1
+wastes 1
 data 1
 response 1
-check 1
 a 1
 inhalation 1
 manpower 1
+pimphales 1
 fever 1
 salinity 1
 portion 1
@@ -398,7 +399,7 @@ prevention 1
 
  Arbitary length NP 
 maximum acceptable toxicant concentration 1
-advantage and disadvantage of toxicity test type 1
-no observable effect concentration 1
-general laboratory and field operation 1
-material safety data sheet 1
+no observable effect concentrations 1
+material safety data sheets 1
+general laboratory and field operations 1
+advantages and disadvantages of toxicity test types 1

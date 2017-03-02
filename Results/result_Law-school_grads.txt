@@ -16,11 +16,11 @@ top-ranked law 1
 significant number 1
 chief deputy 1
 fellow minority 1
-it search 1
 low-income housing 1
-it history 1
+its history 1
 public defender 1
 jennifer knight 1
+its search 1
 public interest 1
 law- student 1
 legal-aid snub 1
@@ -34,8 +34,8 @@ high school 1
 northeastern university 1
 
  Trigram NP 
-colorado legal service 3
-france smylie brown 1
+colorado legal services 3
+frances smylie brown 1
 median private law 1
 tom mcghee wednesday 1
 other public service 1

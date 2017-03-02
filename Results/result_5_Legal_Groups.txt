@@ -27,9 +27,9 @@ community legal center 3
 legal aid society 2
 sweet candy company 1
 first joint office 1
-utah legal service 1
+utah legal services 1
 disability law center 1
-it own parking 1
+its own parking 1
 
  Unigram NP 
 building 7
@@ -55,7 +55,6 @@ home 1
 gateway 1
 owning 1
 equipment 1
-group 1
 office 1
 area 1
 west 1
@@ -70,6 +69,7 @@ business 1
 utah 1
 stone 1
 downtown 1
+groups 1
 half 1
 bit 1
 law 1

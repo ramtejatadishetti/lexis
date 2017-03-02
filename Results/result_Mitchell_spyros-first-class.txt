@@ -3,12 +3,12 @@
 first-class mail 54
 bill/payment mail 22
 postal service 20
-it volume 12
+its volume 12
 personal mail 11
 standard a 10
 annual decrease 10
-per-household volume 9
-it share 8
+per-household volume 8
+its share 8
 annual growth 7
 non-advertising mail 7
 annual increase 6
@@ -17,8 +17,8 @@ business mail 4
 healthy growth 4
 first number 3
 second row 3
-first row 3
 material impact 3
+first row 3
 annual volume 3
 total number 2
 only source 2
@@ -35,17 +35,15 @@ last number 2
 household mail 2
 presort mail 2
 originated mail 2
+third row 2
 stand-alone advertising 2
 fourth row 2
 total household 2
-third row 2
 other hand 2
 residual household 2
-steep volume 1
 double counting 1
 first year 1
 week-long diary 1
-it growth 1
 aforementioned assumption 1
 their volume 1
 healthy volume 1
@@ -53,7 +51,6 @@ planning u.s 1
 common knowledge 1
 household payment 1
 hh mail 1
-it source 1
 last row 1
 fifth row 1
 positive way 1
@@ -63,6 +60,7 @@ detailed description 1
 same period 1
 annual mail 1
 our attention 1
+highlights household 1
 same exercise 1
 small portion 1
 total demand 1
@@ -71,7 +69,8 @@ fiscal year 1
 general trend 1
 total advertising 1
 respective year 1
-highlight household 1
+steeper volume 1
+its source 1
 chilton research 1
 high volume 1
 first-class business 1
@@ -83,6 +82,7 @@ first time 1
 nhh-to-hh mail 1
 analysis introduction 1
 sample week 1
+its growth 1
 same time 1
 their number 1
 receive mail 1
@@ -91,19 +91,20 @@ payment mail 1
 cumulative volume 1
 other letter 1
 their importance 1
+per-household volumes 1
 
  Trigram NP 
-it annual growth 8
+its annual growth 8
 total first-class mail 3
 household diary study 2
 non-household mailstream study 1
-it current growth 1
 total hh-to-nhh volume 1
 mail • household 1
 non-household originated mail 1
 survey research center 1
 average annual rate 1
 total bill/payment mail 1
+its current growth 1
 household mailstream study 1
 bill/payment mail bill/payment 1
 total nhh-to-nhh volume 1
@@ -124,21 +125,20 @@ mail 217
 percent 101
 advertising 65
 volume 61
-household 49
+household 48
 first-class 41
 bill/payment 30
 sector 28
 business 26
 payment 24
-rate 20
+rate 19
 number 17
-table 16
 bill 15
 growth 14
 sent 13
 hds 13
 analysis 12
-column 11
+tables 10
 mailstream 9
 card 9
 credit 9
@@ -153,6 +153,8 @@ response 6
 bill-paying 6
 utility 6
 e.g 6
+column 6
+table 6
 • 6
 b 6
 telephone 6
@@ -162,6 +164,7 @@ year 5
 insurance 5
 hh-to-hh 5
 study 5
+columns 5
 information 5
 example 4
 economy 4
@@ -202,8 +205,8 @@ prevailing 2
 market 2
 use 2
 system 2
-non-household-to-household 2
 tax 2
+non-household-to-household 2
 monopoly 2
 balance 2
 figure 2
@@ -255,6 +258,7 @@ subclass 1
 content 1
 h.r 1
 bound 1
+nms 1
 importance 1
 marketing 1
 remainder 1
@@ -265,6 +269,7 @@ training 1
 piece 1
 survey 1
 invitation 1
+households 1
 forecasting 1
 radnor 1
 decrease 1
@@ -276,14 +281,15 @@ unknown 1
 class 1
 anyone 1
 assumption 1
+rates 1
 firm 1
 head 1
 elasticity 1
 relationship 1
 tolley 1
 household-to-household 1
+hms 1
 part 1
-hm 1
 july 1
 interviewer 1
 behalf 1
@@ -294,7 +300,6 @@ industry 1
 process 1
 december 1
 absolute 1
-nm 1
 latter 1
 ratemaking 1
 income 1
@@ -308,8 +313,8 @@ time 1
 model 1
 
  Arbitary length NP 
-it average annual growth 2
+its average annual growth 2
 bill/payment mail • household 2
+in first-class mail volumes with emphasis on bill/payment and advertising mail1 spyros s. xenakis office 1
 household diary study all 1
-in first-class mail volume with emphasis on bill/payment and advertising mail1 spyros s. xenakis office 1
-highlight at a glance household 1
+highlights at a glance household 1

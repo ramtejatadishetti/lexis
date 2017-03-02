@@ -6,20 +6,19 @@ international service 2
 federal register 2
 procedure act 1
 new standard 1
-communication act 1
 financial ability 1
 economic impact 1
 such approval 1
 mr. anderson 1
-it report 1
 our assessment 1
 liberalized market 1
 estimated number 1
-transportation issue 1
 statutory authorization 1
+its report 1
 et seq 1
 legal basis 1
 foreign participation 1
+transportation issues 1
 major rule 1
 jr. chairman 1
 further notice 1
@@ -28,6 +27,7 @@ james vickers 1
 annual burden 1
 our report 1
 transportation united 1
+communications act 1
 commerce house 1
 john anderson 1
 other compliance 1
@@ -35,17 +35,17 @@ our review 1
 total cost 1
 
  Trigram NP 
-independent regulatory agency 2
 ib docket no 2
+independent regulatory agency 2
 paperwork reduction act 2
 cc docket no 2
+regulatory flexibility analysis 1
 assistant general counsel 1
 other relevant information 1
-regulatory flexibility analysis 1
-federal communication commission 1
-satellite providing domestic 1
+federal communications commission 1
 gao/ogc-98-18 federal register 1
 regulatory flexibility act 1
+satellites providing domestic 1
 executive order no 1
 
  Unigram NP 
@@ -126,16 +126,16 @@ review 1
 
  Arbitary length NP 
 final regulatory flexibility analysis 2
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
 general counsel b-278773 december 1
 gao/ogc-98-18 enclosure analysis under 1
-record management federal communication commission page 1
 honorable ernest f. hollings ranking minority member committee 1
+records management federal communications commission page 1
 honorable thomas j. bliley 1
 mr. peter w. herrick amd-performance evaluation 1
-non-u.s.-licensed satellite providing domestic and international service in the united 1
+non-u.s.-licensed satellites providing domestic and international service in the united 1
 honorable john mccain chairman 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the federal communication commission entitled 1
+a major rule issued by the federal communications commission entitled 1
 world trade organization agreement 1

@@ -84,6 +84,7 @@ c-span 1
 carter 1
 election 1
 year 1
+aids 1
 hammer 1
 misfortune 1
 sentiment 1
@@ -119,7 +120,6 @@ caseload 1
 consultant 1
 cash 1
 governor 1
-aid 1
 powerless 1
 citizenship 1
 figure 1

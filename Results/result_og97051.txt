@@ -12,19 +12,18 @@ from use 2
 animal food 2
 procedure act 1
 cost-benefit analysis 1
-it implementation 1
 substantial number 1
 kathleen wannisky 1
 economic impact 1
 federalism assessment 1
 our assessment 1
+agriculture issues 1
 affected meat 1
 statutory authorization 1
 primary benefit 1
 significant impact 1
 united kingdom 1
 vast majority 1
-agriculture issue 1
 major rule 1
 statutory authority 1
 jr. chairman 1
@@ -40,16 +39,17 @@ mr. robinson 1
 effective date 1
 transmissible spongiform 1
 further analysis 1
+its implementation 1
 our review 1
 
  Trigram NP 
-animal protein prohibited 2
+animal proteins prohibited 2
+human services page 1
 cost-effective regulatory alternative 1
-human service page 1
-ruminant feed pursuant 1
 significant regulatory action 1
-paperwork reduction act 1
 other relevant information 1
+ruminant feed pursuant 1
+paperwork reduction act 1
 regulatory flexibility act 1
 small business administration 1
 associate general counsel 1
@@ -101,10 +101,10 @@ iv 2
 rin 2
 0910-aa91 2
 i 2
+operations 1
 comment 1
 code 1
 office 1
-text 1
 alternative 1
 amplification 1
 implementation 1
@@ -122,7 +122,6 @@ senate 1
 bovine 1
 cost 1
 result 1
-operation 1
 rulemaking 1
 public 1
 evaluation 1
@@ -136,6 +135,7 @@ april 1
 action 1
 addendum 1
 cc 1
+texts 1
 respect 1
 size 1
 sheep 1
@@ -165,20 +165,20 @@ disease 1
 contact 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
 final regulatory flexibility analysis 1
-substance prohibited from use in animal food or feed 1
-a major rule issued by the department of health and human service 1
+substances prohibited from use in animal food or feed 1
+animal proteins prohibited in ruminant feed 1
+gao/ogc-97-51 paperwork reduction act 1
 honorable james m. jeffords chairman 1
 general counsel b-277228 june 1
 honorable edward m. kennedy ranking minority member committee 1
 initial regulatory impact analysis 1
-animal protein prohibited in ruminant feed 1
 gao/ogc-97-51 enclosure analysis under 1
 new variant creutzfeldt-jakob disease 1
 robert p. murphy general counsel enclosure 1
 honorable donna e. shalala secretary 1
 food and drug administration entitled 1
-gao/ogc-97-51 paperwork reduction act 1
 honorable thomas j. bliley 1
+a major rule issued by the department of health and human services 1

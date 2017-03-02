@@ -1,13 +1,14 @@
 
  Bigram NP 
-regulatory fee 4
-communication act 3
+regulatory fees 4
 fiscal year 3
+communications act 3
 user information 2
 cost-benefit analysis 2
-proposed rulemaking 2
 projected reporting 2
+proposed rulemaking 2
 other compliance 2
+full text 1
 certain payment 1
 title ii 1
 mr. anderson 1
@@ -15,25 +16,24 @@ associated payment 1
 our assessment 1
 final analysis 1
 statutory authorization 1
+its submission 1
 et seq 1
 transportation united 1
+telecommunications issues 1
 federal register 1
 major rule 1
 jr. chairman 1
-it submission 1
 final rule 1
-it enforcement 1
-it fee 1
-full text 1
 final report 1
+its fee 1
 expected impact 1
 our report 1
 legal basis 1
 gao/ogc-96-28 policy 1
 commerce house 1
 annual assessment 1
-telecommunication issue 1
 detailed discussion 1
+its enforcement 1
 full consideration 1
 l. no 1
 our review 1
@@ -42,20 +42,20 @@ chief counsel 1
  Trigram NP 
 initial regulatory flexibility 3
 md docket no 2
-independent regulatory agency 1
+regulatory flexibility analysis 1
 kathleen e. wannisky 1
-paperwork reduction act 1
+their annual fee 1
 final regulatory flexibility 1
 other relevant information 1
 john h. anderson 1
-regulatory flexibility analysis 1
-federal communication commission 1
+federal communications commission 1
+paperwork reduction act 1
 certain public interest 1
 administrative procedure act 1
+independent regulatory agency 1
 regulatory flexibility act 1
 small business administration 1
 associate general counsel 1
-their annual fee 1
 
  Unigram NP 
 commission 23
@@ -82,7 +82,6 @@ office 2
 executive 2
 title 2
 year 2
-r 2
 notice 2
 pub 2
 compliance 2
@@ -91,9 +90,11 @@ number 2
 addition 2
 assessment 2
 july 2
-paragraph 2
-j 2
+r 2
+paragraphs 2
 iv 2
+j 2
+operations 1
 code 1
 pursuant 1
 trade 1
@@ -105,7 +106,6 @@ requirement 1
 work 1
 senate 1
 512-5207 1
-operation 1
 subject 1
 evaluation 1
 omb 1
@@ -153,16 +153,16 @@ contact 1
 clearance 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
 gao/ogc-96-28 enclosure analysis under 1
 honorable larry pressler chairman 1
-regulatory flexibility analysis appendix a 1
+mr. andrew s. fishel managing director federal communications commission page 1
 general counsel b-272533.1 july 1
 honorable ernest f. hollings ranking minority member committee 1
-assessment and collection of regulatory fee for fiscal 1
+regulatory flexibility analysis appendix a 1
 other relevant federal rule 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the federal communication commission entitled 1
-mr. andrew s. fishel managing director federal communication commission page 1
+a major rule issued by the federal communications commission entitled 1
 honorable thomas j. bliley 1
+assessment and collection of regulatory fees for fiscal 1

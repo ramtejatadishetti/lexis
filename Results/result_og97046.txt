@@ -11,14 +11,14 @@ jean stromberg 1
 ms. stromberg 1
 statistical rating 1
 proposed rulemaking 1
-it entirety 1
+rules implementing 1
 our assessment 1
 certain language 1
+complete copy 1
 statutory authorization 1
 stateregistered investment 1
-rule implementing 1
 certain pension 1
-complete copy 1
+its entirety 1
 et seq 1
 burden hour 1
 legal basis 1
@@ -29,27 +29,27 @@ reasonable expectation 1
 order no 1
 james vickers 1
 annual burden 1
-adviser act 1
+form adv-t 1
 our report 1
 commerce house 1
 coordination act 1
+advisers act 1
 pension consultant 1
 other compliance 1
 real estate 1
-form adv-t 1
 improvement act 1
 our review 1
 omb no 1
 
  Trigram NP 
-investment adviser act 4
+investment advisers act 4
 independent regulatory agency 2
 paperwork reduction act 2
 assistant general counsel 1
 other relevant information 1
 regulatory flexibility analysis 1
 regulatory flexibility act 1
-urban affair united 1
+urban affairs united 1
 executive order no 1
 exchange commission page 1
 
@@ -94,6 +94,7 @@ i 2
 code 1
 pursuant 1
 threshold 1
+issues 1
 impact 1
 expectation 1
 prohibition 1
@@ -102,11 +103,10 @@ sec-registered 1
 report 1
 provision 1
 512-8210 1
-issue 1
 summary 1
+securities 1
 banking 1
 benefit 1
-security 1
 work 1
 financial 1
 senate 1
@@ -151,18 +151,18 @@ pension 1
 review 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 general counsel b-277047 june 1
 honorable john d. dingell ranking minority member committee 1
 final regulatory flexibility analysis 1
-rule implementing amendment to the investment adviser act 1
+a major rule issued by the securities and exchange commission entitled 1
 honorable alfonse m. d'amato chairman 1
 gao/ogc-97-46 enclosure analysis under 1
 nationally recognized statistical rating organization 1
 honorable jonathan g. katz secretary 1
+rules implementing amendments to the investment advisers act 1
 employee retirement income security act 1
 honorable paul s. sarbanes ranking minority member committee 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the security and exchange commission entitled 1
 investment adviser supervision coordination act 1
 honorable thomas j. bliley 1

@@ -6,11 +6,13 @@ effective delivery 2
 full range 2
 private bar 2
 economical delivery 2
+program letters 1
 particular state 1
 technical assistance 1
 appropriate configuration 1
 client-eligible population 1
-full articulation 1
+internal review 1
+strategic directions 1
 regular review 1
 legal assistance 1
 cultural relevancy 1
@@ -18,23 +20,21 @@ equitable access 1
 broad spectrum 1
 relevant information 1
 high degree 1
-geographic region 1
 different configuration 1
 full continuum 1
 such planning 1
 equal access 1
 strategic use 1
 other access 1
-strategic direction 1
 best use 1
 current status 1
 effective staff 1
 same process 1
-past performance 1
+client-centered process 1
 geographical isolation 1
 legal work 1
 local bar 1
-client-centered process 1
+past performance 1
 comprehensive outreach 1
 emerging client 1
 local fundraising 1
@@ -43,7 +43,7 @@ corporation act 1
 new funding 1
 in-kind/pro bono 1
 designated state 1
-program letter 1
+geographic region 1
 comprehensive compilation 1
 comprehensive set 1
 mental disability 1
@@ -51,7 +51,6 @@ lsc board 1
 statewide capacity 1
 great weight 1
 sexual orientation 1
-internal review 1
 their deployment 1
 statutory mandate 1
 strong coordination 1
@@ -59,16 +58,17 @@ integrated state 1
 expert assistance 1
 rural areas.5 1
 appropriate allocate 1
+fuller articulation 1
 their research 1
 current funding 1
 
  Trigram NP 
 civil equal justice 3
-it statutory responsibility 1
 efficient statewide coordination 1
+emerging client needs 1
 preventive legal education 1
 statutory responsibility lsc 1
-emerging client need 1
+its statutory responsibility 1
 urban-based private capacity 1
 other equal justice 1
 key structural component 1
@@ -81,8 +81,8 @@ area 23
 inquiry 22
 delivery 16
 lsc 15
-client 10
 system 9
+client 9
 planning 6
 legal 6
 service 6
@@ -191,6 +191,7 @@ highest 1
 iii 1
 effectiveness/quality 1
 stakeholders3 1
+clients 1
 recruit 1
 nurture 1
 herein 1
@@ -204,7 +205,6 @@ application 1
 performance 1
 document 1
 advice 1
-director 1
 judgment 1
 expand 1
 a 1
@@ -212,20 +212,22 @@ duplication 1
 i 1
 age 1
 efficient 1
+directors 1
 responsibility 1
 coordinate 1
 geographic 1
 assistance 1
 
  Arbitary length NP 
-designated state planning body 2
 delivery system will be 2
-corporation state planning configuration standard 1
-legal service corporation state planning configuration standard final task force report 1
-lsc-funded program will maximize effective legal 1
+designated state planning body 1
+lsc-funded programs will maximize effective legal 1
 lsc-funded program will maximize access 1
+configuration standards final task force report 1
+designated state planning bodies 1
 other civil equal justice 1
+corporation state planning configuration standards 1
 broad civil equal justice 1
 other relevant regional delivery 1
-configuration standard final task force report 1
+legal services corporation state planning configuration standards final task force report 1
 corporation reconfiguration review process 1

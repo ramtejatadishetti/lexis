@@ -30,8 +30,8 @@ legal aid society 2
 low-income domestic violence 1
 long-term legal help 1
 utah state bar 1
-utah legal service 1
 longer-term legal help 1
+utah legal services 1
 
  Unigram NP 
 funding 5
@@ -40,9 +40,9 @@ board 5
 request 4
 custody 4
 cvr 4
-victim 3
 emergency 3
 ralphs 3
+victim 2
 grant 2
 justice 2
 effect 2
@@ -66,6 +66,7 @@ money 1
 department 1
 meeting 1
 loan 1
+victims 1
 refusal 1
 part 1
 relationship 1
@@ -80,7 +81,7 @@ organization 1
 order 1
 
  Arbitary length NP 
-crime victim reparation [ cvr ] 1
+crime victim reparations [ cvr ] 1
 salt lake tribune funding may limit legal aid 1
 domestic violence ashley broughton friday 1
 18-month civil legal assistance 1

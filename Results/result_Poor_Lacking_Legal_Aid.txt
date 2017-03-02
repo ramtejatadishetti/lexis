@@ -1,6 +1,6 @@
 
  Bigram NP 
-legal service 3
+legal services 3
 two-year period 1
 legal aid 1
 annual luncheon 1
@@ -24,8 +24,8 @@ second consecutive year 1
 greensboro bar association 1
 current annual spending 1
 joseph e. turner 1
-legal service corp. 1
 average american family 1
+legal services corp. 1
 
  Unigram NP 
 carlton 3
@@ -55,19 +55,19 @@ downtown 1
 part 1
 shortfall 1
 plan 1
-caput 1
 half 1
 law 1
 february 1
 area 1
 solution 1
+capita 1
 raleigh 1
 marriott 1
 president-elect 1
 
  Arbitary length NP 
+district court judges a. robinson hassell 1
 poor lacking legal aid 1
-district court judge a. robinson hassell 1
 supreme court chief justice henry frye 1
 alfred p. carlton jr. 1
 district attorney stuart albright 1

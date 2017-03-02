@@ -2,7 +2,7 @@
  Bigram NP 
 new york 5
 legal representation 3
-roberta chamber 2
+roberta chambers 2
 good guy 2
 fred rooney 2
 bethlehem steel 2
@@ -37,6 +37,7 @@ full fee 1
 ''seminal force 1
 his experience 1
 middle class 1
+queens village 1
 jimmy stewart-like 1
 her dream 1
 used law 1
@@ -59,7 +60,6 @@ city university 1
 perfect fit 1
 chevy nova 1
 medical care 1
-queen village 1
 whole fee 1
 large percentage 1
 
@@ -87,8 +87,6 @@ lawyer 4
 community 3
 moravian 3
 campus 3
-latino 3
-queen 2
 program 2
 working-class 2
 idea 2
@@ -102,14 +100,17 @@ look 2
 tonight 2
 something 2
 ''it 2
+latino 2
+queens 2
 client 2
+latinos 1
 help 1
+executive 1
 midwestern 1
 front 1
 part 1
 glen 1
 justice 1
-executive 1
 melting 1
 account 1
 nation 1
@@ -118,13 +119,13 @@ shadow 1
 bryan 1
 success 1
 morning 1
-chamber 1
 stuff 1
 bono 1
 malnutrition 1
 vision 1
 jamaica 1
 dean 1
+chambers 1
 folk 1
 living 1
 undergraduate 1
@@ -195,10 +196,10 @@ reception 1
 dream 1
 
  Arbitary length NP 
-community legal resource network 3
+community legal resources network 3
+moravian college alumni association 1
 u.s. rep. fred rooney 1
 new york supreme court 1
+lehigh valley legal services 1
 new york law school 1
-lehigh valley legal service 1
-moravian college alumnus association 1
 district justice michele varricchio 1

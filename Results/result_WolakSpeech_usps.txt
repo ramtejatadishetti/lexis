@@ -11,6 +11,7 @@ relative price 3
 past decade 3
 demand = 2
 aggregate demand 2
+elasticity estimates 1
 other category 1
 econometric theory 1
 on-line service 1
@@ -21,17 +22,15 @@ annual aggregate 1
 household-level use 1
 interview survey-household 1
 annual household 1
-it own-price 1
 good x 1
 same period 1
 national probability 1
-elasticity estimate 1
 other variable 1
 real postage 1
 single year 1
 household postage 1
 marital status 1
-u population 1
+postal price 1
 good j 1
 mail a-primarily 1
 same title 1
@@ -51,6 +50,8 @@ interpersonal communication 1
 substantial increase 1
 on-line information 1
 own-price increase 1
+its own-price 1
+us population 1
 postal demand 1
 15month period 1
 our sample 1
@@ -63,14 +64,14 @@ bls-recommended procedure 1
 our measure 1
 dramatic increase 1
 electronic substitution 1
-postal price 1
 electronic bill 1
 economic model 1
 
  Trigram NP 
+postal diary survey 1
 household-level postal demand 1
 traditional postal delivery 1
-postal diary survey 1
+aggregate revenue losses 1
 standard mail a 1
 formerly third class 1
 quarterly interview survey 1
@@ -81,7 +82,6 @@ aggregate household demand 1
 i good j 1
 consumer expenditure survey 1
 average household-level consumption 1
-aggregate revenue loss 1
 stanford university motivation-over 1
 our econometric model 1
 * = d 1
@@ -93,7 +93,7 @@ demand 19
 percent 16
 increase 11
 % 11
-u 10
+us 10
 p 9
 postage 9
 sector 8
@@ -111,7 +111,6 @@ computer 5
 m 5
 first-class 4
 usps 4
-percentage 4
 n 4
 telephone 4
 aggregate 4
@@ -122,6 +121,7 @@ bls 3
 k 3
 communication 3
 number 3
+percentage 3
 head 3
 ownership 3
 population 3
@@ -136,25 +136,26 @@ dj 2
 x 2
 error 2
 confidence 2
-question 2
 fraction 2
 expenditure 2
+i 2
 shift 2
 sample 2
 result 2
 income 2
-i 2
 time 2
 summer 1
 concept 1
+less 1
 course 1
 leveling-off 1
 paper 1
+questions 1
 speed 1
 occupation 1
 member 1
 indicator 1
-le 1
+periodicals 1
 labor 1
 fall 1
 using 1
@@ -196,17 +197,16 @@ estimation 1
 letter 1
 probability 1
 revenue 1
-ce 1
 variable 1
 flexibility 1
 digression 1
-periodical 1
 compuserve 1
 total 1
 electronic 1
 crossprice 1
 service 1
 housing 1
+question 1
 -0.76 1
 call 1
 way 1
@@ -240,15 +240,17 @@ characteristics-hours 1
 purpose 1
 significant 1
 end 1
+percentages 1
 quantify 1
 age 1
 analysis 1
+ces 1
 model 1
 
  Arbitary length NP 
-n quantifying demand response 1
+aggregate u.s. household postage demand elasticity estimates 1
 frank a. wolak department 1
 diary survey diary survey-each 1
-aggregate u.s. household postage demand elasticity estimate 1
+n quantifying demand responses 1
 household sector using bls 1
 x * = d 1

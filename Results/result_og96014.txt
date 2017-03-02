@@ -6,9 +6,9 @@ final rule 3
 secondary status 3
 cost-benefit analysis 2
 proposed rulemaking 2
-first report 2
 further notice 2
 final rulemaking 2
+first report 2
 statutory authorization 1
 full text 1
 private land 1
@@ -17,20 +17,21 @@ mr. anderson 1
 feasible number 1
 special consideration 1
 our assessment 1
+effective use 1
 final analysis 1
-commission's rule 1
+communications act 1
 unnecessary analysis 1
 public safety 1
-effective use 1
+its submission 1
 complete copy 1
 industry-supported clearinghouse 1
 required report 1
 senior attorney 1
 legal basis 1
+telecommunications issues 1
 special status 1
 major rule 1
 jr. chairman 1
-communication act 1
 efficient manner 1
 severe impact 1
 et seq 1
@@ -40,9 +41,8 @@ our office 1
 transportation united 1
 supplementary information 1
 commerce house 1
-telecommunication issue 1
 public interest 1
-it submission 1
+commission's rules 1
 our review 1
 chief counsel 1
 
@@ -60,21 +60,21 @@ relevant federal rule 1
 their own relocation 1
 administrative procedure act 1
 non-profit public utility 1
-john h. anderson 1
 of microwave relocation 1
-it regulatory flexibility 1
-federal communication commission 1
-personal communication service 1
+john h. anderson 1
+federal communications commission 1
+its regulatory flexibility 1
 regulatory flexibility act 1
 executive order no 1
-other relevant information 1
+personal communications services 1
 extended voluntary negotiation 1
+other relevant information 1
 small business administration 1
 
  Unigram NP 
 commission 23
-rule 20
-section 11
+rule 18
+section 10
 u.s.c 8
 analysis 8
 information 7
@@ -82,17 +82,17 @@ reg 5
 fed 5
 relocation 5
 b 5
-paragraph 5
 plan 5
 microwave 4
+paragraph 4
 date 4
 i 4
+pcs 3
 f 3
 cost 3
 federal 3
 c 3
 act 3
-pc 3
 g 3
 iv 3
 agency 3
@@ -100,6 +100,7 @@ gao/ogc-96-14 3
 order 3
 office 2
 title 2
+rules 2
 band 2
 amendment 2
 licensee 2
@@ -138,6 +139,7 @@ status 1
 requirement 1
 work 1
 senate 1
+paragraphs 1
 subject 1
 rulemaking 1
 interference 1
@@ -146,6 +148,7 @@ avoidance 1
 evaluation 1
 participation 1
 transportation 1
+sections 1
 approval 1
 likelihood 1
 license 1
@@ -187,15 +190,15 @@ attempt 1
 broadband 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
+a major rule issued by the federal communications commission entitled amendment to the commission 1
 honorable john d. dingell ranking minority member committee 1
 honorable larry pressler chairman 1
 first report and order and further notice of proposed rule making 1
+mr. andrew s. fishel managing director federal communications commission page 1
 gao/ogc-96-14 executive order no 1
 honorable ernest f. hollings ranking minority member committee 1
-a major rule issued by the federal communication commission entitled amendment to the commission 1
 american public power association 1
 robert p. murphy general counsel enclosure 1
 general counsel b-271810.5 june 1
-mr. andrew s. fishel managing director federal communication commission page 1
 honorable thomas j. bliley 1

@@ -9,7 +9,7 @@ phase ii 22
 electric utility 18
 table b1 15
 appendix b 15
-emission scorecard 15
+emissions scorecard 15
 such facility 14
 annual sulfur 14
 commercial operation 12
@@ -33,10 +33,10 @@ total heat 7
 natural gas 6
 annual fuel 6
 table a 6
+egu allocations 6
 single stack 6
 dioxide emission 6
 general account 6
-egu allocation 6
 affected source 6
 applicable implementation 6
 eighty percent 6
@@ -44,6 +44,7 @@ clean coal 6
 regulatory authority 6
 fourth year 6
 atmospheric deposition 5
+its baseline 5
 prior year 5
 allowable emission 5
 fossil fuel 5
@@ -56,7 +57,6 @@ other fuel 5
 human health 5
 environmental monitoring 5
 volumetric flow 5
-it baseline 5
 specified amount 4
 clifty creek 4
 coal-fired utility 4
@@ -84,7 +84,6 @@ annual average 3
 new jersey 3
 significant deterioration 3
 qualifying phase 3
-nitrogen oxide 3
 such election 3
 alternative method 3
 residual oil 3
@@ -93,7 +92,6 @@ such owner 3
 west virginia 3
 rhode island 3
 approved permit 3
-coal-fired unit 3
 competitive bidding 3
 continuous emission 3
 such determination 3
@@ -102,12 +100,12 @@ same manner 3
 such information 3
 their primary 3
 affected facility 3
-it primary 3
 new york 3
 such auction 3
 available control 3
 federal register 3
 such emission 3
+its primary 3
 annual total 3
 total tonnage 3
 solid waste 3
@@ -123,26 +121,29 @@ alternative emission 2
 available peer 2
 other unit 2
 anelectric utility 2
+virgin islands 2
 same precision 2
 simple cyclecombustion 2
 reduced utilization 2
 steam-electric capacity 2
-it transformation 2
+nitrogen oxide 2
 appropriate vendor 2
 industrial customer 2
 same year 2
 public health 2
-virgin island 2
 puerto rico 2
+coal-fired unit 2
+flush language 2
+general provisions 2
 nameplate fossil 2
 same violation 2
 totaladjusted baseline 2
 dry bottom 2
 applicable limitation 2
 north carolina 2
-further allocation 2
-such violation 2
 other section 2
+such violation 2
+further allocation 2
 title iv 2
 sealed bid 2
 multi-pollutant control 2
@@ -153,13 +154,11 @@ unit's baseline 2
 contiguous county 2
 ofthe product 2
 reliable compliance 2
-flush language 2
 equal amount 2
 allowable sulfur 2
 contractual obligation 2
 other category 2
 thermal energy 2
-general provision 2
 calendar year 2
 common control 2
 such application 2
@@ -176,6 +175,7 @@ gas-fired unit 2
 electricityfor sale 2
 eligible unit 2
 cfr §51.121 2
+its transformation 2
 same person 2
 third year 2
 equitable title 2
@@ -197,6 +197,7 @@ provision.- nothing 2
 orresidual oil 1
 international trading 1
 last clause 1
+its permit 1
 different distribution 1
 updated information 1
 such authorization 1
@@ -220,6 +221,7 @@ competitive bidsolicitation 1
 electric power 1
 act.- nothing 1
 simple combustion 1
+multiple combustion 1
 other biota 1
 qualified energyconservation 1
 state authority.- 1
@@ -234,7 +236,6 @@ applicable period 1
 non-utility unit 1
 leasehold agreement 1
 entire period 1
-household estimate 1
 source categories.- 1
 low cost 1
 applicable enforcement 1
@@ -242,6 +243,7 @@ implementation plan 1
 antitrust laws.- 1
 contractual reservation 1
 new subsection 1
+transitional areas.- 1
 full implementation 1
 appropriate baseline 1
 separate violation 1
@@ -262,7 +264,6 @@ annual sulfurdioxide 1
 other form 1
 title iii 1
 on-road mobile 1
-sky act 1
 effective measure 1
 unitcombusting fuel 1
 limited authorization 1
@@ -273,7 +274,7 @@ energy form 1
 auction amounts.- 1
 annual allowance 1
 regenerative combustion 1
-multiple combustion 1
+its phase 1
 onsuch substitution 1
 independent power 1
 allowance system 1
@@ -281,7 +282,6 @@ federal emission 1
 total system 1
 notice andopportunity 1
 such approval 1
-with emission 1
 underthis section 1
 certain systems. 1
 equitable interest 1
@@ -289,7 +289,6 @@ such deadline 1
 relevant allowance 1
 last application 1
 simplecycle combustion 1
-it phase 1
 commenced operation 1
 standard pursuant 1
 firm power 1
@@ -307,8 +306,7 @@ comprehensive program 1
 commercial demonstration 1
 sole discretion 1
 such equipment 1
-emission penalty 1
-it permit 1
+prior sentence 1
 title viii 1
 first-come-first-served basis 1
 such date 1
@@ -318,6 +316,7 @@ their transformation 1
 such proposal 1
 second year 1
 withholding.- pursuant 1
+emission standards 1
 fired operation 1
 orgaseous fuel 1
 contractual arrangement 1
@@ -327,11 +326,12 @@ nonutility unit 1
 such modeling 1
 specific period 1
 two-year period 1
+unclassifiable area 1
 discontinued operation 1
 new mexico 1
 required emission 1
 such peer 1
-such system 1
+other amendments 1
 such payment 1
 emission limitations.- 1
 such nitrogen 1
@@ -344,6 +344,7 @@ annual equivalent 1
 modified unit 1
 u.s. epa 1
 weighted capacity 1
+its sulfur 1
 specified part 1
 reasonable period 1
 natural background 1
@@ -364,7 +365,7 @@ generationto mercury 1
 last sentence 1
 designated unit 1
 growth states.- 1
-emission inventory 1
+cost-effectively expand 1
 same period 1
 energy conservation 1
 power supply.- 1
@@ -381,6 +382,7 @@ pursuant tosubsection 1
 state population 1
 thefirst year 1
 actual kilowatt 1
+emissions inventory 1
 such adjustment 1
 cfr §76.5 1
 atmospheric formation 1
@@ -391,10 +393,12 @@ such period 1
 following bill 1
 renewable energy.- 1
 further emission 1
+thermal units 1
 permitting authority 1
-emission data.- 1
 timely manner 1
+transitional pursuant 1
 short title 1
+its implementation 1
 alternative compliance 1
 fluidized bed 1
 such certification 1
@@ -415,8 +419,8 @@ equal tonnage 1
 relative contribution 1
 thatan owner 1
 the united 1
+its health 1
 administrator.- pursuant 1
-thermal unit 1
 retrofit application 1
 full compliance 1
 future electricitygeneration 1
@@ -436,6 +440,8 @@ sulfur dioxideemission 1
 specific cost 1
 annual rate 1
 such material 1
+nitrogen oxides 1
+emissions penalty 1
 pilot-scale mercury 1
 local deposition 1
 substitution proposals.- 1
@@ -444,14 +450,12 @@ twentieth year 1
 permanent record 1
 formal panel 1
 commercial impractibility 1
-it sulfur 1
 opportunityfor comment 1
 major source 1
 stationary combustion 1
 applicable standard 1
 and assessment 1
 such impairment 1
-transitional areas.- 1
 lignite coal 1
 similar instrument 1
 avon lake 1
@@ -464,21 +468,22 @@ petroleum-based fuel 1
 alternative limitation 1
 orfederal agency 1
 twenty-first year 1
-prior sentence 1
 such form 1
 other pollutant 1
 leasehold interest 1
 steam-electric generating 1
+total cost 1
 local air 1
 temporal distribution 1
 dry deposition 1
 standard relating 1
 such review 1
+emissions data.- 1
 such standard 1
 adequate provisions- 1
+its plan 1
 international trading.- 1
 entire baseline 1
-cost-effectively expand 1
 single person 1
 port jefferson 1
 interpollutant trading.- 1
@@ -498,15 +503,14 @@ special reserve 1
 certain municipally 1
 appropriate control 1
 new subparagraph 1
-it plan 1
+class iarea 1
 cfr §§51.121 1
 continuous basis 1
 extension units.- 1
-sky actof 1
+household estimates 1
+skies act 1
 total mercury 1
-it implementation 1
 unit's owner 1
-unclassifiable area 1
 ninety-five percent 1
 public notice 1
 theaffected unit 1
@@ -518,7 +522,7 @@ environmental impact 1
 topurchase power 1
 such calculation 1
 sulfurdioxide technology 1
-transitional pursuant 1
+coal-fired units 1
 other nonutility 1
 permit program.- 1
 annual heat 1
@@ -526,6 +530,7 @@ such increase 1
 such reserve 1
 economic usefullife 1
 responsible person 1
+with emissions 1
 thetotal baseline 1
 gaseous state 1
 such lessor 1
@@ -552,7 +557,7 @@ open manner 1
 secretaryof energy 1
 underthis title 1
 theapplicable implementation 1
-total cost 1
+such system 1
 first bid 1
 orrenewable energy 1
 effective control 1
@@ -571,12 +576,12 @@ small power 1
 such requirement 1
 highest-priced bid 1
 limitation.- any 1
+skies actof 1
 approved proposal 1
 scientific understanding 1
 such permit 1
 passive lessor 1
 acombined capacity 1
-emission standard 1
 further permit 1
 personal exposure 1
 annual quantity 1
@@ -587,23 +592,20 @@ representation.- no 1
 total sulfur 1
 actual sulfur 1
 such substitution 1
-class iarea 1
 responsible official 1
 consecutive calendar 1
 other financing 1
 applicable power 1
-it health 1
 additional control 1
 other emission 1
 combustion turbines.- 1
 amountof mercury 1
 periodic review 1
-other amendment 1
 allowance trackingsystem 1
 equal to- 1
 
  Trigram NP 
-clear sky act 23
+clear skies act 23
 allowance tracking system 21
 first covered year 10
 new affected unit 8
@@ -614,58 +616,55 @@ energy information administration 6
 such electric utility 5
 average annual heat 4
 qualified renewable energy 4
-napap emission inventory 4
 other principal category 4
-emission reduction program 3
 original affected unit 3
+emission reduction programs 3
 environmental protection agency 3
 selective catalytic reduction 3
 average annual fuel 3
+napap emissions inventory 3
 new independent power 3
 permanent clean coal 2
+its fossil-fuel capacity 2
 their primary fuel 2
 annual average quantity 2
-useful thermal energy 2
+its primary fuel 2
 collect sufficient information 2
 current scientific information 2
 fossil fuel-fired utility 2
 total nameplate capacity 2
 total atmospheric deposition 2
-it pro rata 2
 pro rata basis 2
-it primary fuel 2
+northern mariana islands 2
 federal power act 2
+its pro rata 2
 relative marginal cost 2
 total annual sulfur 2
-it fossil-fuel capacity 2
+useful thermal energy 2
 annual average basis 2
-northern mariana island 2
 consumer price index 2
 renewable energy reserve 2
 revised final statement 1
-alternative emission limitations.-the 1
 30-day rolling average 1
 average annual emission 1
 coal technology demonstrations.- 1
-major source exemption 1
 in the xxxxx 1
 total adjusted baseline 1
+peer review procedures 1
 fossil fuel-fired boiler 1
-d-mercury emission reduction 1
 unit's annual fuel 1
 c. p. crane 1
 nox trading program 1
 commenced commercial operation 1
 applicable implementation plan 1
-it proportional amount 1
 current informationavailable pursuant 1
-for additional source 1
 total coal-fired generation 1
 other fine particle 1
 such renewable energy 1
 such national primary 1
 next relevant auction 1
 alternative regulatory classification 1
+d-mercury emission reductions 1
 potential human health 1
 such other form 1
 regional air partnership 1
@@ -675,13 +674,13 @@ ormajor stationary source 1
 annual allowable emission 1
 fgd retrofit feasibility 1
 at or below 1
-sulfur dioxide requirement 1
 substitute affected unit 1
 unit's actual tonnage 1
 national annual sulfur 1
 widespread commercial use 1
 such other information 1
 such unit's heat 1
+for additional sources 1
 actual electric output 1
 minnesota high bridge 1
 such other replacement 1
@@ -695,31 +694,34 @@ commence operation between 1
 unit's maximum capacity 1
 maximum listed rate 1
 necessaryfor annual operation 1
-for additional unit 1
+its proportional amount 1
 effective upon promulgation 1
 advance auction sec 1
-oxide allowance program 1
+major source exemption 1
 such net income 1
 electric utility's purchase 1
+napap emission inventory 1
 short title.-this act 1
 state-regulated electric utility 1
 new utility units.- 1
 megawatts electrical output 1
 such other periodof 1
 sulfur dioxide allowances- 1
-industrial so2 emission 1
+alternative emission limitations.-the 1
 oil-and gas-fired unit 1
-gas-fired unit equal 1
+gas-fired units equal 1
+sulfur dioxide requirements 1
 actual annual emission 1
 major stationary source 1
 sulfur dioxide emission 1
 new electric utility 1
-peer review procedure 1
 following twenty-year period 1
 such qualified energy 1
 additional local control 1
+industrial so2 emissions 1
 alternative allowance allocation 1
 subsequent relevant auction 1
+and recordkeeping requirements 1
 state-wide annual sulfur 1
 percent oil consumed.- 1
 potential electric output 1
@@ -727,8 +729,9 @@ specified sulfur dioxide 1
 allowance tracking system. 1
 their technical expertise 1
 new york dunkirk 1
+oxides allowance program 1
 mississippi jack watson 1
-and recordkeeping requirement 1
+for additional units 1
 cheswick conemaugh hatfield 1
 sale spot auction 1
 maximum allowable emission 1
@@ -738,7 +741,7 @@ alleged factual error 1
 his own motion 1
 
  Unigram NP 
-unit 447
+unit 446
 section 376
 administrator 359
 b 241
@@ -748,15 +751,15 @@ dioxide 148
 subsection 144
 operator 139
 owner 136
-paragraph 129
 sulfur 129
+paragraph 119
 part 117
 january 111
 mercury 107
-state 99
 d 99
 amount 98
 term 98
+state 98
 facility 96
 nitrogen 95
 rate 90
@@ -777,8 +780,8 @@ allowance 57
 limitation 57
 source 53
 subpart 49
-auction 47
 compliance 46
+auction 45
 technology 45
 allocation 45
 utility 45
@@ -859,10 +862,10 @@ transfer 15
 law 14
 requirement 14
 proposal 14
+table 13
 generation 13
 regulation 13
 demonstration 13
-table 13
 cfr 12
 united 12
 oil 12
@@ -888,6 +891,7 @@ extent 10
 contribution 10
 applicability 10
 reporting 10
+paragraphs 10
 extension 10
 mmbtu 10
 operating 9
@@ -895,13 +899,13 @@ company 9
 designation 9
 u.s. 9
 service 9
-ton 9
 performance 9
 theadministrator 9
 congress 9
 subclause 9
 commencement 9
 end 8
+ton 8
 effectiveness 8
 recordkeeping 8
 implementation 8
@@ -924,7 +928,7 @@ attainment 7
 assessment 7
 report 7
 day 7
-definition 7
+definitions 7
 payment 7
 later 7
 result 7
@@ -965,11 +969,9 @@ then- 5
 methodology 5
 petition 5
 combination 5
-provision 5
 by- 5
 status 5
 prohibition.- 5
-content 5
 district 5
 percentage 5
 jurisdiction 5
@@ -1005,9 +1007,11 @@ calculation 4
 september 4
 theallocation 4
 nox 4
+provision 4
 plant 4
 columbia 4
 event 4
+content 4
 evaluation 4
 obligation 4
 enforcement 4
@@ -1054,7 +1058,6 @@ response 3
 recovery 3
 restriction 3
 recordation 3
-lb 3
 absence 3
 february 3
 incineration 3
@@ -1166,6 +1169,7 @@ thedate 2
 holder 2
 commence 2
 population 2
+lbs 2
 permits.- 2
 atmosphere 2
 planning 2
@@ -1182,6 +1186,7 @@ imposition 2
 timeliness 2
 to- 2
 fgd 2
+auctions 2
 supply 2
 location 2
 efficacy 2
@@ -1244,7 +1249,6 @@ lignite 1
 proceeds.- 1
 napap 1
 administratorand 1
-kansa 1
 lbs/hr 1
 forany 1
 enhance 1
@@ -1258,6 +1262,7 @@ grant 1
 investment 1
 business 1
 manufacturer's 1
+andimplementation 1
 foregoing 1
 maine 1
 greenidge 1
@@ -1283,10 +1288,10 @@ offset.- 1
 vehicle 1
 inthe 1
 labadie 1
-advance 1
 thegovernor 1
 employee 1
 shallallocate 1
+states 1
 hour 1
 substitutions.- 1
 subchapter 1
@@ -1321,7 +1326,9 @@ nonperformance 1
 montrose 1
 transferor 1
 conjunction 1
+lb 1
 consistingprimarily 1
+fate 1
 writing 1
 permanent 1
 policy 1
@@ -1330,6 +1337,7 @@ electricitygeneration 1
 acidification 1
 iowa 1
 material 1
+modification 1
 qualified 1
 heatinput 1
 lbs./mmbtu 1
@@ -1358,11 +1366,11 @@ inconsultation 1
 utilityduring 1
 independence 1
 transferunit 1
-ass 1
 arbitration 1
 wisconsin 1
 activity 1
 marine 1
+advance 1
 theimplementation 1
 shallimplement 1
 florida 1
@@ -1395,7 +1403,6 @@ powerplant 1
 andcompliance 1
 budget 1
 acquisition 1
-andimplementation 1
 documentation 1
 general.- 1
 sales.- 1
@@ -1404,6 +1411,7 @@ thereto 1
 manner 1
 need 1
 theperformance 1
+contents 1
 redesignation 1
 conversion 1
 issue 1
@@ -1496,7 +1504,6 @@ itssection 1
 deduction 1
 connection 1
 conservationmeasure 1
-context 1
 tradingprogram 1
 comment 1
 relevant 1
@@ -1506,7 +1513,7 @@ address 1
 producedelectricity 1
 satisfaction 1
 approveddesignation 1
-atmosphericdeposition 1
+tons 1
 panel 1
 compliance.- 1
 epa.- 1
@@ -1539,11 +1546,12 @@ themodification 1
 alb/mmbtu 1
 of- 1
 ashtabula 1
-modification 1
+units 1
 baselineand 1
 /s 1
 turbineand 1
 unitedstates 1
+context 1
 allowances.-for 1
 v. 1
 issuance 1
@@ -1569,7 +1577,7 @@ plan.- 1
 allowanceprogram 1
 vii 1
 march 1
-fate 1
+provisions 1
 format 1
 boilers.the 1
 fuel/time 1
@@ -1578,6 +1586,7 @@ adjustment. 1
 average 1
 recipient 1
 purchaser 1
+atmosphericdeposition 1
 officer 1
 undertaking 1
 amendment 1
@@ -1598,6 +1607,7 @@ seller 1
 h.r 1
 collaboration 1
 be 1
+kansas 1
 unitand 1
 processing 1
 expansion 1
@@ -1614,6 +1624,7 @@ mmbtu/lb 1
 therein 1
 washington 1
 nurf 1
+assess 1
 appropriate 1
 deduct 1
 determine 1
@@ -1678,74 +1689,74 @@ megawatt 1
 quantity 1
 
  Arbitary length NP 
-limitation on total emission 4
+limitations on total emissions 4
 solid waste disposal act 3
-gas-fired unit le than 2
-major source preconstruction review and best available retrofit control technology requirement 2
-nitrogen oxide emission reduction program 2
+major source preconstruction review and best available retrofit control technology requirements 2
+nitrogen oxides emission reduction program 2
 federal energy regulatory commission 2
+gas-fired units less than 2
 national utility reference file 2
-emission reduction program part a 1
-disposition of sulfur dioxide allowance allocated under subpart 1
-c- nitrogen oxide emission reduction 1
-b-sulfur dioxide emission reduction 1
-state plant name alabama colbert e.c 1
-it potential electric output 1
-top emitting generating station 1
-emission level evaluation report.- 1
-public utility holding company act.- 1
-table a..- total so2 allowance allocated or auctioned for egus 1
-innovative control technologies.-the administrator 1
-pre-2008 nitrogen oxide allowance 1
-allowance transfer system.- allowance 1
+btu-weighted average annual emission 1
+table a.- total mercury allowances allocated or auctioned for egus 1
 industrial fuel use act 1
+emissions levels evaluation report.- 1
+carryforward of pre-2008 nitrogen oxides allowances 1
+public utility holding company act.- 1
+innovative control technologies.-the administrator 1
+top emitting generating stations 1
+nitrogen oxides allowance program 1
+permits and compliance plans 1
+illinois baldwin coffeen grand tower hennepin joppa steam kincaid meredosia vermilion indiana bailly breed cayuga clifty creek e. w. stout f. b. culley f. e. ratts gibson 1
+c- nitrogen oxides emission reductions 1
+pre-2008 nitrogen oxides allowances 1
 western regional air partnership 1
 very clean units.- physical 1
-e- national emission standard 1
-d. mercury emission reduction sec 1
-fgd retrofit cost factor 1
-btu-weighted average annual emission 1
-integrated gasification combined cycle plant 1
-general compliance with other provision 1
+of limitations on total sulfur dioxide 1
+their sulfur dioxide allowances 1
+b-sulfur dioxide emission reductions 1
+from major source reconstruction review requirements and best available retrofit control technology requirements 1
+allowance transfer system.- allowances 1
+its potential electric output 1
 power plants.- beginning january1 1
-ozone season nox budget program 1
 national ambient air quality 1
-and mercury emission that start in 1
-incentive for sulfur dioxide emission control technology 1
+state plant name alabama colbert e.c 1
+ozone season nox budget program 1
+table a.- total nox allowances allocated or auctioned for egus in zone 1
 conservationand renewable energy reserve 1
-part b. sulfur dioxide emission reduction subpart 1
-c-nitrogen oxide emission reduction 1
+e- national emission standards 1
+season nox budget program 1
+allow alternative contemporaneous annual emission 1
 alternative contemporaneous annual emission 1
-clean coal technology regulatory incentive 1
+electric utility steam generating units.- 1
 such unit's annual allowance 1
-permit and compliance plan 1
+ferry martins creek portland shawville sunbury tennessee allen cumberland gallatin johnsonville west virginia albright fort martin harrison 1
+of federal administration of nox 1
 federal advisory committee act 1
 michigan j. h. campbell 1
-table a.- total mercury allowance allocated or auctioned for egus 1
+national emission standards for affected units 1
+integrated gasification combined cycle plants 1
 million ton cap.- whenever 1
-ferry martin creek portland shawville sunbury tennessee allen cumberland gallatin johnsonville west virginia albright fort martin harrison 1
+and mercury emissions that start in 1
 sulfur dioxide allowance program 1
-national emission standard for affected unit 1
+fgd retrofit cost factors 1
+table c- number of allowances available for auction year 1
 national acid precipitation assessment program 1
-illinois baldwin coffeen grand tower hennepin joppa steam kincaid meredosia vermilion indiana bailly breed cayuga clifty creek e. w. stout f. b. culley f. e. ratts gibson 1
+clean coal technology regulatory incentives 1
 clean air act amend- 1
-season nox budget program 1
-from major source reconstruction review requirement and best available retrofit control technology requirement 1
-table a.- affected source and unit in phase 1
-electric utility steam generating units.- 1
-clean air act amendment 1
-their sulfur dioxide allowance 1
-of limitation on total sulfur dioxide 1
-carryforward of pre-2008 nitrogen oxide allowance 1
+emission reduction programs part a 1
+part b. sulfur dioxide emission reductions subpart 1
+table a..- total so2 allowances allocated or auctioned for egus 1
+table a.- affected sources and units in phase 1
+c-nitrogen oxides emission reductions 1
 gaston florida big bend crist georgia bowen hammond j. mcdonough wansley yates generator phase 1
 modified major stationary source 1
-table a.- total nox allowance allocated or auctioned for egus in zone 1
 public utility holding company act 1
 energy- clean coal technology 1
 such other subsequent year 1
-table b.- total nox allowance allocated or auctioned for egus in 1
-allow alternative contemporaneous annual emission 1
-phase ii sulfur dioxide requirement 1
-nitrogen oxide allowance program 1
-of federal administration of nox 1
-table c- number of allowance available for auction year 1
+table b.- total nox allowances allocated or auctioned for egus in 1
+phase ii sulfur dioxide requirements 1
+d. mercury emissions reductions sec 1
+incentives for sulfur dioxide emission control technology 1
+disposition of sulfur dioxide allowances allocated under subpart 1
+clean air act amendments 1
+general compliance with other provisions 1

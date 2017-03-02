@@ -3,7 +3,7 @@
 final rule 13
 paper production 3
 hazardous air 3
-pretreatment standard 3
+pretreatment standards 3
 cost-benefit analysis 2
 federal register 2
 source category 2
@@ -15,7 +15,7 @@ reasonable number 1
 private sector 1
 extensive discussion 1
 combined impact 1
-it consideration 1
+its consideration 1
 burdensome alternative 1
 our assessment 1
 peter guerrero 1
@@ -40,12 +40,12 @@ major rule 1
 national emission 1
 jr. chairman 1
 proposed rulemaking 1
+order no 1
 james vickers 1
 annual burden 1
 our report 1
 commerce house 1
 regulatory management 1
-order no 1
 printing congress 1
 3-year cost 1
 epa gao/ogc-98-45 1
@@ -58,20 +58,20 @@ additional information 1
  Trigram NP 
 clean water act 7
 clean air act 5
-effluent limitation guideline 3
+effluent limitations guidelines 3
 new source performance 2
-national emission standard 2
+national emission standards 2
 environmental protection agency 2
+maximum achievable control 1
+assistant general counsel 1
 paperwork reduction act 1
 other relevant information 1
-assistant general counsel 1
-maximum achievable control 1
-public work united 1
 paperboard category pursuant 1
-environmental protection issue 1
+public works united 1
 and paperboard category 1
 regulatory flexibility act 1
 native american subsistence 1
+environmental protection issues 1
 congressional review act 1
 
  Unigram NP 
@@ -180,7 +180,7 @@ inability 1
 order 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
 mr. thomas e. kelly director 1
 gao/ogc-98-45 paperwork reduction act 1
@@ -188,11 +188,11 @@ honorable john w. warner chairman 1
 general counsel b-279798 april 1
 honorable john h. chafee chairman 1
 a major rule issued by the environmental protection agency entitled 1
-and new source performance standard 1
 honorable william m. thomas vice chairman joint committee 1
+and new source performance standards 1
 gao/ogc-98-45 enclosure analysis under 1
 honorable max baucus ranking minority member committee 1
 robert p. murphy general counsel enclosure 1
 information environmental protection agency page 1
+national emission standards for hazardous air pollutants for source category 1
 honorable thomas j. bliley 1
-national emission standard for hazardous air pollutant for source category 1

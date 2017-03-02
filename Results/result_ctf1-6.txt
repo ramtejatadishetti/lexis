@@ -4,15 +4,15 @@ toxicant test 15
 chronic toxicity 13
 green alga 8
 full life-cycle 7
-test organism 6
+test organisms 6
 quality assurance 5
 toxicant testing 5
 aquatic toxicity 5
 static renewal 5
 deionized water 5
 receiving water 5
-tap water 4
 standard deviation 4
+tap water 4
 data analysis 4
 same test 4
 additional reference 3
@@ -32,6 +32,7 @@ recent data 3
 interlaboratory precision 3
 individual test 3
 short exposure 2
+usepa methods 2
 acceptable test 2
 sample preparation 2
 larval growth 2
@@ -41,7 +42,6 @@ their use 2
 possible loss 2
 na na 2
 electrical equipment 2
-usepa method 2
 same source 2
 fish toxicity 2
 safe concentration 2
@@ -77,6 +77,7 @@ probit analysis 2
 instrument manufacturer 1
 central tendency 1
 equivalent system 1
+epa-821-r-02-013 disclaimer 1
 same life 1
 particular sample 1
 decreased test 1
@@ -87,10 +88,10 @@ empirical confidence 1
 dose-response relationship 1
 specified percent 1
 concurrent toxicity 1
-general precaution 1
 lake superior 1
 alternate test 1
 chemical hazard 1
+relative standard 1
 such use 1
 undiluted receiving 1
 and/or measure 1
@@ -118,9 +119,9 @@ fixed number 1
 adequate do 1
 environmental toxicology 1
 specific test 1
+general requirements 1
 acceptable laboratory 1
 strong appeal 1
-analytical method 1
 dose-response information 1
 culture water 1
 operator error 1
@@ -143,14 +144,10 @@ relevant test 1
 initial use 1
 rapid shift 1
 flow-through rate 1
-it use 1
-other point 1
 millipore® qpak™2 1
 significant reduction 1
-and supply 1
 natural environment 1
 cooperative research 1
-general requirement 1
 fish mortality 1
 laboratory management 1
 organism disposal 1
@@ -163,15 +160,15 @@ and/or reproduction 1
 food quality 1
 ic25 reproduction 1
 sample collection 1
-test specie 1
 appropriate state 1
+safety manuals 1
+its suitability 1
 first edition 1
 percent coefficient 1
 good condition 1
 net result 1
 final effluent 1
 cumulative trend 1
-static test 1
 larval survival 1
 cumulative mean 1
 same type 1
@@ -179,9 +176,11 @@ dry yeast 1
 remote test 1
 direct estimate 1
 side-by-side toxicity 1
-it suitability 1
+additional information 1
+life-cycle test 1
 legal liability 1
 local grocery 1
+its identity 1
 their identification 1
 reagent grade 1
 sufficient quantity 1
@@ -191,7 +190,6 @@ self-monitoring permit 1
 necessary safety 1
 logical approach 1
 environment canada 1
-toxicity test 1
 immediate investigation 1
 subsequent shattering 1
 sensitive indicator 1
@@ -208,7 +206,6 @@ analysis division 1
 other hand 1
 critical life-stage 1
 real-time basis 1
-consumable material 1
 live brine 1
 test acceptability 1
 test precision 1
@@ -227,7 +224,6 @@ appropriate dilution 1
 potential acute 1
 non-disposable sample 1
 good housekeeping 1
-it identity 1
 effective health 1
 minute period 1
 chemical analysis 1
@@ -242,9 +238,10 @@ high chemical 1
 µg/g wet 1
 original bench 1
 early life 1
-additional information 1
+its ability 1
 good repeatability 1
 rwc + 1
+toxicant dependent 1
 rwc = 1
 sodium dodecyl 1
 annual meeting 1
@@ -255,7 +252,8 @@ commercial laboratory 1
 off-site testing 1
 cfr part 1
 routine basis 1
-toxicant dependent 1
+consumable materials 1
+its use 1
 high quality 1
 statistical method 1
 other equipment 1
@@ -265,7 +263,6 @@ fecal material 1
 maximum precision 1
 personal safety 1
 dilution water 1
-first aid 1
 high cost 1
 non-phosphate detergent 1
 general section 1
@@ -275,7 +272,6 @@ laboratory-prepared dilution 1
 commercial stock 1
 net flow 1
 graded series 1
-safety manual 1
 taxonomic specialist 1
 chronic endpoint 1
 effluent sample 1
@@ -295,10 +291,12 @@ such party 1
 sufficient information 1
 mobile laboratory 1
 large-mouth screw-cap 1
+static tests 1
 cross contamination 1
 required age 1
 sample handling 1
 negative result 1
+first aid 1
 static type 1
 natural occurring 1
 concentrated acid 1
@@ -325,9 +323,11 @@ good laboratory 1
 fry growth 1
 stiff-bristle brush 1
 entire group 1
+toxicity tests 1
 appreciable impact 1
 control chart 1
 laboratory sample 1
+and supplies 1
 one-tenth capacity 1
 endpoint number 1
 icpin method 1
@@ -335,7 +335,7 @@ same dilution 1
 instrument calibration 1
 general guidance 1
 detailed guidance 1
-epa-821-r-02-013 disclaimer 1
+other point 1
 important factor 1
 preconditioned water 1
 heavy-duty kitchen 1
@@ -350,12 +350,12 @@ excess food 1
 ic50 reproduction 1
 national study 1
 vertical axis 1
-relative standard 1
+analytical methods 1
 seven-day-old fathead 1
-reference toxicant 1
 warm water 1
+reference toxicants 1
 equivalent water 1
-life-cycle test 1
+test species 1
 apparent toxicity 1
 bodily injury 1
 relative sensitivity 1
@@ -367,6 +367,7 @@ laboratory analyst 1
 local fire 1
 h period 1
 record keeping 1
+general precautions 1
 under-counter type 1
 tests2 cv 1
 entire surface 1
@@ -385,7 +386,6 @@ undergravel filter 1
 disposable polystyrene 1
 additional precision 1
 agricultural point 1
-it ability 1
 third party 1
 diseased condition 1
 l.0 mg 1
@@ -395,15 +395,15 @@ limited number 1
 number page section 4
 short-term chronic toxicity 3
 chronic toxicity test 3
-short-term toxicity test 2
 total residual chlorine 2
 fish full life-cycle 2
 partial life-cycle toxicity 2
+short-term toxicity tests 2
 inherent maximum precision 2
 equivalent mixed-bed water 1
 na na na 1
-it own waste 1
 potential temporal variability 1
+receiving water sampling 1
 other aquatic life 1
 health and safety 1
 their predictive value 1
@@ -413,26 +413,26 @@ noec minus loec 1
 same toxicant yield 1
 laboratory safety equipment 1
 other pertinent information 1
-response using effluent 1
+chronic toxicity endpoints 1
+types of tests 1
 lethal threshold concentration 1
-type of test 1
-calibration and standardization 1
-receiving water sampling 1
-and test chamber 1
+its wide use 1
+its own waste 1
 good physical condition 1
 full life-cycle toxicity 1
 and laboratory apparatus 1
 total interlaboratory variability 1
+responses using effluent 1
 effluent2 sd cv 1
 other prescribed interval 1
 moderately-hard synthetic freshwater 1
 balston® grade bx 1
+and test chambers 1
 partial life-cycle test 1
-it wide use 1
-alfalfa rabbit pellet 1
+alfalfa rabbit pellets 1
 single toxicant fathead 1
 unsaturated fatty acid 1
-chronic toxicity endpoint 1
+calibration and standardization 1
 linear interpolation method 1
 their third brood 1
 significant observed effect 1
@@ -446,45 +446,45 @@ toxicity 64
 usepa 64
 laboratory 45
 reference 44
-organism 42
 control 37
 use 37
 % 33
 growth 30
-section 29
+section 28
 dilution 28
+organisms 25
 concentration 24
 quality 22
-effluent 22
+effluent 21
 equipment 20
 food 19
 toxicant 18
+organism 17
 safety 16
 precision 14
 method 13
 receiving 13
 reproduction 13
 program 12
-cv 12
 temperature 12
 survival 12
 culturing 11
 permit 11
 pimephales 11
-el 11
 fish 11
 capricornutum 11
 selenastrum 11
 sensitivity 11
 culture 11
+els 11
 ceriodaphnia 11
 exposure 11
 minnow 10
 result 10
 npdes 10
-health 9
 solution 9
 sample 9
+health 9
 number 9
 dubia 9
 performance 9
@@ -502,8 +502,8 @@ mount 8
 shrimp 7
 daphnid 7
 glassware 7
+cv 7
 rinse 7
-condition 6
 glass 6
 minimum 6
 evaluation 6
@@ -515,7 +515,8 @@ norberg 6
 contact 6
 interval 6
 kcl 5
-new 5
+condition 5
+cvs 5
 chemical 5
 oxygen 5
 mean 5
@@ -524,15 +525,14 @@ copper 5
 chart 5
 factor 5
 mortality 5
+new 5
 qa 5
 birge 5
-supply 5
 development 5
 effect 5
 cleaning 5
 analysis 5
 source 5
-facility 5
 width 5
 al 5
 chance 5
@@ -541,6 +541,7 @@ age 5
 month 4
 level 4
 hcl 4
+supplies 4
 study 4
 work 4
 stress 4
@@ -559,7 +560,6 @@ inhouse 4
 identification 4
 s 4
 addition 4
-waste 4
 handling 4
 ic50 4
 duration 4
@@ -573,6 +573,7 @@ sulfate 3
 al. 3
 ml 3
 application 3
+ph 3
 cost 3
 cfr 3
 degree 3
@@ -595,7 +596,6 @@ reason 3
 acute 3
 marine 3
 lc50s 3
-embryo 3
 pcbs 3
 noecs 3
 size 3
@@ -604,6 +604,7 @@ preparation 3
 guidance 3
 federal 3
 period 3
+waste 3
 teratogenicity 3
 literature 3
 identity 3
@@ -612,13 +613,15 @@ wet 3
 manual 3
 chamber 3
 authority 3
-ph 3
+embryos 3
+facility 3
 volume 3
 post-hatch 3
 rejection 3
 calibration 3
 rubber 3
 deviation 3
+facilities 2
 / 2
 zn 2
 rate 2
@@ -640,10 +643,11 @@ toxic 2
 date 2
 data 2
 light 2
-feed 2
+dechlorination 2
 acetone 2
 importation 2
 fiberglass 2
+feed 2
 grade 2
 centrifuge 2
 store 2
@@ -659,7 +663,6 @@ acceptability 2
 nauplii 2
 staff 2
 implementation 2
-dechlorination 2
 report 2
 bioril® 2
 ability 2
@@ -692,7 +695,6 @@ loss 2
 success 2
 officer 2
 reduced 2
-reagent 2
 table 2
 depletion 2
 equivalent 2
@@ -721,6 +723,7 @@ balston® 1
 deionized 1
 detergent 1
 effort 1
+carboys 1
 jensen 1
 advantage 1
 yeast 1
@@ -746,7 +749,6 @@ k2cr2o7 1
 pipet 1
 yct 1
 cell 1
-prohibit 1
 conduct 1
 ground 1
 body 1
@@ -758,13 +760,14 @@ dqos 1
 aoac 1
 prior 1
 healthier 1
+reagents 1
 c-1 1
 extra 1
 intralaboratory 1
-treatment 1
 highly 1
 apha 1
 lima 1
+bulbs 1
 eye 1
 reinhardti 1
 beginning 1
@@ -780,6 +783,7 @@ ward 1
 starter 1
 logarithm 1
 account 1
+extension 1
 science 1
 carefully 1
 example 1
@@ -810,7 +814,6 @@ departure 1
 supervision 1
 locomotor 1
 egg 1
-sd 1
 interpretation 1
 help 1
 office 1
@@ -825,13 +828,14 @@ combination 1
 alkalinity 1
 thiosulfate 1
 base 1
+instructions 1
 name 1
-chronic 1
 investigator 1
 plasticware 1
 l 1
 ventilation 1
 die 1
+prohibit 1
 storage 1
 receipt 1
 constitute 1
@@ -846,9 +850,9 @@ matc 1
 dursban® 1
 midpoint 1
 standard 1
+labs 1
 posthatch 1
 continental® 1
-lab 1
 cross-contamination 1
 algae 1
 publication 1
@@ -870,13 +874,12 @@ cooling 1
 stephan 1
 relationship 1
 waster 1
-fleischmann 1
+wastes 1
 cereal 1
 consult 1
 x1 1
 b 1
 require 1
-instruction 1
 embryogenic 1
 illness 1
 noaec 1
@@ -895,6 +898,7 @@ persistence 1
 variegatus 1
 eagleson 1
 mouth 1
+fleischmann 1
 ] 1
 delivery 1
 polyethylene 1
@@ -928,10 +932,10 @@ conductivity 1
 chlamydomonas 1
 review 1
 routine 1
+conditions 1
 arrival 1
 silicone 1
 hypothesis 1
-carboy 1
 magna 1
 teflon® 1
 region 1
@@ -939,6 +943,7 @@ density 1
 plankton 1
 estimation 1
 co 1
+point 1
 simple 1
 carbon 1
 vessel 1
@@ -947,12 +952,11 @@ basis 1
 production 1
 non-renewal 1
 maintenance 1
-walter 1
+treatment 1
 disinfection 1
 benoit 1
 gas 1
 parrish 1
-bulb 1
 woltering 1
 hardness 1
 frozen 1
@@ -969,9 +973,11 @@ technology 1
 wide-bore 1
 format 1
 dichromate 1
+fill 1
 biomonitoring 1
+sops 1
 typhoid 1
-larva 1
+airstone 1
 companion 1
 ±3s 1
 fabrication 1
@@ -998,7 +1004,7 @@ death 1
 matcs 1
 majority 1
 absorption 1
-point 1
+supply 1
 instrument 1
 decontamination 1
 government 1
@@ -1013,6 +1019,7 @@ satisfactory 1
 sleight 1
 tempered 1
 understood 1
+reagent 1
 comparability 1
 mckim 1
 bottom 1
@@ -1025,7 +1032,6 @@ trout 1
 qpak™2 1
 pressure 1
 percentile 1
-extension 1
 industry 1
 foil 1
 flake 1
@@ -1033,19 +1039,22 @@ page 1
 warranty 1
 tetanus 1
 year 1
-sop 1
+chronic 1
 female 1
 purina 1
+larvae 1
 prepare 1
 area 1
 jameson 1
 transfer 1
 altitude 1
 oil-free 1
+sections 1
 energy 1
 cloth 1
 function 1
 thiosulfate/l 1
+sds 1
 potassium 1
 heat 1
 sheepshead 1
@@ -1064,10 +1073,9 @@ engineering 1
 warning 1
 file 1
 check 1
-fill 1
+walters 1
 detail 1
 reality 1
-airstone 1
 book 1
 scrub 1
 separate 1
@@ -1077,41 +1085,42 @@ brass 1
 appoint 1
 portion 1
 ingestion 1
+effluents 1
 original 1
 
  Arbitary length NP 
 national interlaboratory study of chronic toxicity test precision 2
-source of test organism 1
+responses using a reference toxicant1 organism endpoint no 1
+variability in toxicity test results 1
+acceptability of short-term chronic toxicity tests 1
+contents page figures section 1
 wet interlaboratory variability study 1
-u.s. environmental protection agency 1
-quality of test organism 1
-na na na ceriodaphnia survival 1
-number page table section 1
-material safety data sheet 1
-apparatus and equipment for culturing and toxicity test 1
-national pollutant discharge elimination system 1
-method for estimating chronic toxicity 1
-and reference toxicant sample types1 1
 observed and/or potential variability 1
+u.s. environmental protection agency 1
+na na na ceriodaphnia survival 1
+national pollutant discharge elimination system 1
+sources of food for culture and toxicity tests 1
+and reference toxicant sample types1 1
+methods for estimating chronic toxicity 1
+holding and handling test organisms 1
+environmental monitoring systems laboratory-cincinnati 1
 national eutrophication research program 1
 effluent and receiving water sampling and handling 1
-advantage and disadvantage of toxicity test type 1
-holding and handling test organism 1
-freshwater organism fourth edition october 1
 u.s. environmental protection agencyoffice 1
-variability in toxicity test result 1
 millipore® milli-q® or qpak™2 1
-environmental monitoring system laboratory-cincinnati 1
-replication and test sensitivity 1
+number page tables section 1
+sources of test organisms 1
 transportation to the test site 1
+advantages and disadvantages of toxicity test types 1
+replication and test sensitivity 1
 maximum acceptable toxicant concentration 1
+apparatus and equipment for culturing and toxicity tests 1
+general laboratory and field operations 1
 demonstrating acceptable laboratory performance 1
-general laboratory and field operation 1
-acceptability of short-term chronic toxicity test 1
+material safety data sheets 1
 documenting ongoing laboratory performance 1
+freshwater organisms fourth edition october 1
 monthly short-term chronic toxicity 1
+quality of test organisms 1
 usepa's ambient water quality 1
-response using a reference toxicant1 organism endpoint no 1
 laboratory water used for culturing and test dilution water 1
-content page figure section 1
-source of food for culture and toxicity test 1

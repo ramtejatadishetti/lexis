@@ -2,20 +2,21 @@
  Bigram NP 
 effective date 4
 60-day delay 4
-interim rule 3
 good cause 3
 procedure act 2
-ph act 2
+phs act 2
 public comment 2
-human service 2
 federal register 2
 jr. chairman 2
 order no 2
+human services 2
+interim rules 2
 public interest 2
 statutory authorization 1
 cost-benefit analysis 1
 such time 1
 economic impact 1
+interim rule 1
 private sector 1
 annual aggregate 1
 finance united 1
@@ -26,24 +27,24 @@ the treasury 1
 mental health 1
 workforce house 1
 interim basis 1
-federal government 1
 william scanlon 1
-mean house 1
+congressional review 1
+federal government 1
 public procedure 1
 actual increase 1
-congressional review 1
+means house 1
+budgetary impact 1
 mr. scanlon 1
 proposed rulemaking 1
 james vickers 1
 aggregate health 1
 et seq 1
-system issue 1
 our report 1
+systems issues 1
 further discussion 1
 commerce house 1
 brief statement 1
 medicare program 1
-budgetary impact 1
 our review 1
 federal agency 1
 see department 1
@@ -52,19 +53,19 @@ see department 1
 paperwork reduction act 3
 internal revenue service 3
 taxpayer relief act 2
-welfare benefit administration 2
+welfare benefits administration 2
 internal revenue code 2
-regulatory impact analysis 1
+human services page 1
+other relevant information 1
 assistant general counsel 1
 final regulatory flexibility 1
 1-percent increased cost 1
-human service page 1
+gao/ogc-98-22 burdensome alternative 1
 mental health parity 1
 congressional budget office 1
 executive order no 1
-welfare benefit department 1
-other relevant information 1
-gao/ogc-98-22 burdensome alternative 1
+welfare benefits department 1
+regulatory impact analysis 1
 regulatory flexibility act 1
 planned regulatory action 1
 
@@ -89,7 +90,6 @@ december 4
 agency 4
 l. 3
 january 3
-secretary 3
 reg 3
 pub 3
 period 3
@@ -103,6 +103,7 @@ office 2
 executive 2
 impact 2
 title 2
+secretary 2
 §§ 2
 erisa 2
 approval 2
@@ -122,6 +123,7 @@ lybrand 1
 b-275552 1
 guidance 1
 conformance 1
+secretaries 1
 emergency 1
 b-275549 1
 finding 1
@@ -137,6 +139,7 @@ authority 1
 election 1
 insurance 1
 subject 1
+ways 1
 state 1
 evaluation 1
 eligibility 1
@@ -157,7 +160,6 @@ respect 1
 management 1
 legislation 1
 regulation 1
-way 1
 assessment 1
 gao 1
 expenditure 1
@@ -187,23 +189,23 @@ fact 1
  Arbitary length NP 
 health care financing administration 3
 mental health parity act 2
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable william v. roth 1
+regulations unit internal revenue service department 1
+the department of health and human services 1
 public health service act 1
 employee retirement income security act 1
 gao/ogc-98-22 enclosure analysis under 1
 honorable william l. clay ranking minority member committee 1
 honorable olena berg assistant secretary 1
+pension and welfare benefits administration 1
 mental health parity pursuant 1
-the department of health and human service 1
 honorable charles b. rangel ranking minority member committee 1
 health care financing administration entitled 1
-pension and welfare benefit administration 1
 robert p. murphy general counsel enclosure 1
 honorable donna e. shalala 1
 general counsel b-278894 january 1
 honorable john d. dingell ranking minority member committee 1
-interim rule for mental health parity 1
 labor ms. cynthia grigsby chief 1
 honorable william f. goodling chairman 1
 total annual direct impact 1
@@ -211,6 +213,6 @@ honorable thomas j. bliley 1
 honorable daniel patrick moynihan ranking minority member committee 1
 the department of labor 1
 small business regulatory enforcement fairness act 1
+interim rules for mental health parity 1
 honorable bill archer chairman 1
-regulation unit internal revenue service department 1
 a major rule issued by the department 1

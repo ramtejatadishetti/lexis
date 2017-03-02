@@ -2,14 +2,13 @@
  Bigram NP 
 federal register 5
 fcc rcd 3
-effective date 2
 projected reporting 2
+telecommunications equipment 2
 advisory committee 2
-telecommunication equipment 2
 final report 2
+effective date 2
 other compliance 2
-it date 1
-it belief 1
+full text 1
 title ii 1
 large part 1
 mr. anderson 1
@@ -22,11 +21,13 @@ supplementary information 1
 et seq 1
 control number 1
 legal basis 1
+telecommunications issues 1
+its rule 1
 major rule 1
 jr. chairman 1
 proposed rulemaking 1
 final rule 1
-full text 1
+its proposal 1
 informal comment 1
 our report 1
 unanimous consent 1
@@ -35,12 +36,11 @@ aid compatible 1
 commerce house 1
 john anderson 1
 new hearing 1
-certain hearing 1
 public comment 1
-it rule 1
-it proposal 1
+its date 1
+its belief 1
 our review 1
-telecommunication issue 1
+certain hearing 1
 chief counsel 1
 
  Trigram NP 
@@ -49,8 +49,8 @@ independent regulatory agency 1
 significant additional cost 1
 other relevant information 1
 kathleen e. wannisky 1
+federal communications commission 1
 paperwork reduction act 1
-federal communication commission 1
 administrative procedure act 1
 lengthy phase-in period 1
 regulatory flexibility act 1
@@ -116,6 +116,7 @@ recordkeeping 2
 fcc-96-285 2
 letter 2
 response 2
+operations 1
 code 1
 deadline 1
 increase 1
@@ -129,7 +130,6 @@ senate 1
 512-5207 1
 result 1
 year 1
-operation 1
 subject 1
 cost-benefit 1
 proceeding 1
@@ -188,19 +188,20 @@ time 1
 
  Arbitary length NP 
 hearing aid compatibility act 4
-hearing aid compatibility negotiated rulemaking committee 3
 initial regulatory flexibility analysis 3
-final regulatory flexibility analysis 2
-unfunded mandate reform act 2
+hearing aid compatibility negotiated rulemaking committee 3
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
-mr. andrew s. fishel managing director federal communication commission page 1
+final regulatory flexibility analysis 1
 honorable larry pressler chairman 1
-background of report and order 1
-access to telecommunication equipment and service by person with disability 1
+final regulatory flexibility analyses 1
+mr. andrew s. fishel managing director federal communications commission page 1
 gao/ogc-96-36 enclosure analysis under 1
 gao/ogc-96-36 paperwork reduction act 1
 honorable ernest f. hollings ranking minority member committee 1
+access to telecommunications equipment and services by persons with disabilities 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the federal communication commission entitled 1
+a major rule issued by the federal communications commission entitled 1
+background of report and order 1
 honorable thomas j. bliley 1
 general counsel b-274142 august 1

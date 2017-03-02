@@ -4,20 +4,23 @@ final rule 4
 television programming/revision 3
 television act 3
 cost-benefit analysis 2
-programming policy 2
-proposed rulemaking 2
 final analysis 2
 federal register 2
+proposed rulemaking 2
+programming policies 2
 statutory authorization 1
 public inspection 1
 full text 1
-major portion 1
-it review 1
+such information 1
 significant information 1
 core programming 1
 mr. anderson 1
+major portion 1
+its review 1
+our office 1
 general public 1
 our assessment 1
+communications act 1
 complete copy 1
 unnecessary analysis 1
 modified information 1
@@ -25,64 +28,61 @@ suitable definition 1
 et seq 1
 senior attorney 1
 transportation united 1
-communication act 1
+telecommunications issues 1
 major rule 1
 jr. chairman 1
-our office 1
 order no 1
 their core 1
 annual receipt 1
+later date 1
 safe harbor 1
 total number 1
-late date 1
-such information 1
+chief counsel 1
 expected impact 1
 our report 1
 legal basis 1
 final rulemaking 1
 commerce house 1
-telecommunication issue 1
 small business 1
 census bureau 1
-chief counsel 1
 our review 1
 standardized reporting 1
 
  Trigram NP 
-independent regulatory agency 2
-rule concerning child 2
 regulatory flexibility analysis 2
-federal communication commission 2
+federal communications commission 2
+rules concerning children 2
 mm docket no 2
+independent regulatory agency 2
 regulatory flexibility act 2
 small business administration 2
 james w. vickers 1
+television broadcast stations 1
 relevant federal rule 1
-other relevant information 1
-it regulatory flexibility 1
 final regulatory flexibility 1
+initial regulatory flexibility 1
+other relevant information 1
 john h. anderson 1
 estimated annual burden 1
 television programming report 1
-initial regulatory flexibility 1
-television broadcast station 1
 administrative procedure act 1
+its regulatory flexibility 1
 executive order no 1
 paperwork reduction act 1
 
  Unigram NP 
 commission 19
 rule 18
-section 9
 u.s.c 9
 analysis 9
+section 8
 information 7
 reg 5
 fed 5
 b 5
+children 4
 programming 4
 gao/ogc-96-37 4
-child 4
 collection 4
 i 4
 omb 3
@@ -92,7 +92,6 @@ comment 3
 number 3
 broadcast 3
 television 3
-paragraph 3
 iv 3
 agency 3
 office 2
@@ -112,6 +111,7 @@ approval 2
 compliance 2
 april 2
 cta 2
+paragraph 2
 j 2
 ii 2
 percent 2
@@ -121,7 +121,6 @@ code 1
 discretion 1
 period 1
 october 1
-review 1
 512-8210 1
 method 1
 page 1
@@ -130,6 +129,7 @@ right 1
 senate 1
 authority 1
 affiliation 1
+paragraphs 1
 subject 1
 network 1
 inadequacy 1
@@ -140,6 +140,7 @@ avoidance 1
 evaluation 1
 participation 1
 transportation 1
+sections 1
 processing 1
 beginning 1
 license 1
@@ -157,6 +158,7 @@ proposal 1
 type 1
 enforcement 1
 form 1
+review 1
 iii 1
 case 1
 commerce 1
@@ -182,16 +184,16 @@ broadcasting 1
 order 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 honorable john d. dingell ranking minority member committee 1
+policies and rules concerning children 1
 honorable larry pressler chairman 1
 general counsel b-274332 september 1
+mr. andrew s. fishel managing director federal communications commission page 1
 honorable ernest f. hollings ranking minority member committee 1
-television broadcast station pursuant 1
-programming policy for television broadcast station 1
-policy and rule concerning child 1
 gao/ogc-96-37 enclosure analysis under 1
+programming policies for television broadcast stations 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the federal communication commission entitled 1
-mr. andrew s. fishel managing director federal communication commission page 1
+a major rule issued by the federal communications commission entitled 1
 honorable thomas j. bliley 1
+television broadcast stations pursuant 1

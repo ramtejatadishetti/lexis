@@ -3,8 +3,8 @@
 postal service 29
 rural delivery 22
 possible delivery 16
-rural route 11
 rural carrier 10
+rural route 10
 docket r90-1 7
 universal service 6
 first quintile 6
@@ -19,12 +19,11 @@ evaluated time 3
 average city 3
 average labor 3
 populated quintile 3
-postal operation 2
 rural vehicle 2
 total number 2
 postal labor 2
 total cost 2
-united nation 2
+postal operations 2
 comprehensive statement 2
 rural box 2
 new york 2
@@ -36,6 +35,7 @@ residential delivery 2
 their post 2
 serve city 2
 attributable cost 2
+united nations 2
 census bureau 2
 urban delivery 1
 recent analysis 1
@@ -45,7 +45,6 @@ ongoing work 1
 national report 1
 t value 1
 their cost 1
-extensive list 1
 overall surplus 1
 out-of-office delivery 1
 real difference 1
@@ -53,25 +52,27 @@ real difference 1
 certain city 1
 constant elasticity 1
 sizeable deficit 1
-social affair 1
+city delivery 1
 general population 1
 average time 1
 average profit 1
 many deliver 1
-national total 1
 same direction 1
 appendix f. 1
 curbline city 1
 -the cost 1
 similar edit 1
-see footnote 1
+its city 1
+overnight delivery 1
 direct labor 1
 international economic 1
 certain labor 1
 foot route 1
+see footnote 1
 virtual equality 1
 standard time 1
 independent estimate 1
+different composition 1
 postal monopoly 1
 -27.45 percent 1
 postal rate 1
@@ -80,8 +81,8 @@ different route 1
 usps delivery 1
 relevant data 1
 previous section 1
-further analysis 1
-overnight delivery 1
+social affairs 1
+rural routes 1
 important factor 1
 residential route 1
 curbside delivery 1
@@ -101,7 +102,6 @@ corresponding time 1
 federal express 1
 technical analysis 1
 in-office costs.13 1
-it time 1
 attributable cost28 1
 close proximity 1
 appendix f 1
@@ -113,7 +113,6 @@ delivered piece 1
 major explanation 1
 early version 1
 annual salary 1
-city delivery 1
 -78.60 percent 1
 other city 1
 direct comparison 1
@@ -132,18 +131,19 @@ appendix d 1
 selective averagesa 1
 new england 1
 actual compensation 1
+national totals 1
 their level 1
 per box 1
 six-day-a-week delivery 1
 1-the revenue 1
 other hand 1
 small difference 1
-it city 1
+extensive list 1
 low end 1
 their route 1
 recent rate 1
 ordinary rate 1
-different composition 1
+further analysis 1
 profitable volume 1
 complex issue 1
 rural service 1
@@ -156,6 +156,7 @@ usps fy 1
 detailed comparison 1
 major finding 1
 fifth quintile 1
+its time 1
 residential city 1
 same revenue 1
 third type 1
@@ -165,14 +166,16 @@ weight report 1
  Trigram NP 
 national mail count 4
 average possible delivery 2
+rural areas table 2
 see appendix a 2
 postal rate commission 2
-rural area table 2
 daily evaluated time 1
-rural delivery route 1
+data sources a.1 1
+docket r90-1 opinion 1
 business all businessb 1
--the average city 1
 carrier time required 1
+-the average city 1
+rural delivery routes 1
 in-office cost system 1
 prc library reference 1
 recent omnibus rate 1
@@ -182,9 +185,8 @@ usps city delivery 1
 estimated daily vehicle 1
 see appendix c. 1
 average annual cost 1
-docket r90-1 opinion 1
+major long distance 1
 see appendix b 1
-world population trend 1
 carrier cost system 1
 mixed rural park 1
 united parcel service 1
@@ -194,19 +196,18 @@ average attributable cost27 1
 -the total loss 1
 total annual profit 1
 city delivery all 1
-major long distance 1
+its simple structure 1
+world population trends 1
 their total time 1
 evaluated rural route 1
-it simple structure 1
 population density a 1
-data source a.1 1
 their per- box 1
 
  Unigram NP 
 city 57
 cost 55
 delivery 48
-box 34
+box 33
 percent 30
 time 29
 carrier 23
@@ -216,7 +217,7 @@ service 18
 route 17
 density 16
 day 16
-piece 15
+piece 14
 paper 11
 business 11
 vehicle 11
@@ -254,22 +255,22 @@ nondelivery 3
 factor 3
 d 3
 level 3
-fuel 3
 table 3
 transportation 3
 variability 3
 processing 3
 c 3
 census 3
-cc 3
 total 3
 figure 3
 basis 3
 system 3
 function 3
 maintenance 3
+fuel 3
 hour 3
 e.g. 3
+ccs 3
 receptacle 3
 information 3
 data 3
@@ -284,7 +285,6 @@ number 2
 minute 2
 rate 2
 network 2
-case 2
 highway 2
 coefficient 2
 perception 2
@@ -299,21 +299,23 @@ allowance 2
 use 2
 scope 2
 building 2
-remark 2
 part 2
 e 2
+case 2
 account 2
 distribution 2
 example 2
 year 2
 sample 2
 six 2
+remarks 2
 revenue/cost 2
 a 2
 telephone 2
 rural 2
 fact 2
 rating 1
+logarithms 1
 bush 1
 fy 1
 surplus 1
@@ -343,6 +345,7 @@ dependent 1
 exception 1
 piece13.24 1
 finding 1
+boxes 1
 workload 1
 background 1
 press 1
@@ -428,14 +431,13 @@ minute.17 1
 usps-lr-f-342 1
 full-time 1
 spectrum 1
-policy 1
 input 1
 fifth 1
-logarithm 1
 accordance 1
 l.6/l.7 1
 air 1
 points.8,9 1
+policies 1
 depreciation 1
 perspective 1
 bearing 1
@@ -445,6 +447,7 @@ calculation 1
 household 1
 mind 1
 argument 1
+pieces 1
 cluster 1
 minimum 1
 sense 1
@@ -477,16 +480,16 @@ quantity 1
 
  Arbitary length NP 
 the universal service obligation 1
-city delivery national total report 1
 simple log- linear model 1
 direct labor plus vehicle cost 1
 investigation robert h. cohen william w. ferguson spyros s. xenakis postal rate commission office 1
 foot curb loop city residential 1
-demographically designated rural area 1
 delivery carrier data most 1
 city delivery carrier data 1
 .29 .37 .44 .53 .57 .44 thus 1
 delivery vehicle cost rural 1
+demographically designated rural areas 1
 city item residential park 1
 total all foot curb loop total 1
+city delivery national totals report 1
 rural carrier national mail count 1

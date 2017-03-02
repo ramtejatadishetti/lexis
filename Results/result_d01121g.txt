@@ -5,7 +5,7 @@ your request 3
 federal law 3
 electronic evidence 3
 inspector general 2
-special investigation 2
+special investigations 2
 criminal investigator 2
 e-mail address 1
 electronic law 1
@@ -39,10 +39,10 @@ public-key infrastructure 1
 useful reminder 1
 
  Trigram NP 
+special investigations washington 1
 keith a. rhodes 1
 u.s. attorney's office 1
 robyn d. stewart 1
-special investigation washington 1
 financial fraud institute 1
 m. jane hunt 1
 your e-mail request 1
@@ -53,7 +53,6 @@ guide 13
 enforcement 6
 app 5
 access 5
-investigation 4
 office 3
 internet 3
 @ 2
@@ -63,6 +62,8 @@ information 2
 introduction 2
 encryption 2
 web 2
+investigation 2
+investigations 2
 gao 2
 cd 2
 gao.gov 2
@@ -77,14 +78,15 @@ technology 1
 512-3086 1
 united 1
 number 1
-discus 1
+publication 1
 service 1
+e-mail 1
 agency 1
 please 1
 submit 1
-e-mail 1
 authentication 1
 identification 1
+https 1
 department 1
 suite 1
 document 1
@@ -92,7 +94,6 @@ document 1
 law 1
 development 1
 fax 1
-http 1
 conduct 1
 search 1
 dc 1
@@ -103,7 +104,7 @@ date 1
 treasury 1
 instructor 1
 iii 1
-publication 1
+discuss 1
 chapter 1
 february 1
 include 1
@@ -122,11 +123,11 @@ duplication 1
  Arbitary length NP 
 general accounting office office 2
 federal law enforcement training center 1
-cybercop secure community vpn 1
-distribution outside federal law enforcement entity gao-01-121g united 1
+special investigations gao february 1
 electronic law enforcement introduction 1
 small business administration's counsel 1
 robert h. hast managing director office 1
+cybercop secure communities vpn 1
 u.s. general accounting office 1
-special investigation gao february 1
 contains sensitive law enforcement 1
+distribution outside federal law enforcement entities gao-01-121g united 1

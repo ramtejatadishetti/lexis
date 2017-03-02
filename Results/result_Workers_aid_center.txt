@@ -3,19 +3,19 @@
 mission college 2
 his employer 1
 david jordan 1
-north hill 1
 minimum wage 1
 self-help center 1
 other center 1
 important thing 1
 nonprofit organization 1
-my bos 1
+north hills 1
 legal information 1
 legal representation 1
 30-year-old father 1
 state bar 1
 legal help 1
 edgar villatoro 1
+my boss 1
 nancy cervantes 1
 same construction 1
 their residency 1
@@ -25,7 +25,7 @@ van nuys 1
 unpaid labor 1
 
  Trigram NP 
-neighborhood legal service 3
+neighborhood legal services 3
 monroe high school 1
 san fernando valley 1
 
@@ -56,19 +56,19 @@ employment 1
 saturday 1
 information 1
 termination 1
+type 1
 goal 1
 grant 1
+workers 1
 supply 1
 campus 1
 money 1
 party 1
 villatoro 1
-type 1
+thousands 1
 today 1
 door 1
 form 1
-thousand 1
-worker 1
 immigration 1
 construction 1
 california 1
@@ -92,4 +92,4 @@ aid 1
 advantage 1
 
  Arbitary length NP 
-holly edward staff writer july 1
+holly edwards staff writer july 1

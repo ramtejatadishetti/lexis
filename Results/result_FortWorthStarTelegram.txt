@@ -22,18 +22,18 @@ improper taking 1
 worth-based nonprofit 1
 executive director 1
 waive service 1
+legal services 1
 budgetary target 1
 whole lot 1
 federal poverty 1
 fort worth 1
-legal service 1
 vital work 1
 justice foundation 1
 betty torres 1
 
  Trigram NP 
 west texas legal 3
-legal service corp. 2
+legal services corp. 2
 u.s. supreme court 1
 texas equal access 1
 texas supreme court 1
@@ -58,7 +58,6 @@ dec. 2
 court 2
 washington 2
 potter 1
-lawyer 1
 decline 1
 constitutionality 1
 midland 1
@@ -69,6 +68,7 @@ percent 1
 guideline 1
 branch 1
 assistance 1
+lawyers 1
 congress 1
 doubt 1
 time 1
@@ -88,8 +88,8 @@ tarrant 1
 chapter 1
 
  Arbitary length NP 
-west texas legal service 1
+fort worth justice project 1
 fort worth star-telegram grant 1
 max b. baker november 1
+west texas legal services 1
 northwest texas legal aid 1
-fort worth justice project 1

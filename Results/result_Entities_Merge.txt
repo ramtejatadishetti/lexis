@@ -8,10 +8,8 @@ legal assistance 1
 wide range 1
 positive move 1
 st. mary 1
-battered woman 1
 national organization 1
 local coordinator 1
-it fearless 1
 controversial advocacy 1
 central texas 1
 south texas 1
@@ -19,6 +17,7 @@ legal arm 1
 his plan 1
 southwest texas 1
 san antonio 1
+its fearless 1
 same computer 1
 richard loza 1
 legal representation 1
@@ -28,6 +27,7 @@ corpus christi 1
 good thing 1
 legal aid 1
 former executive 1
+battered women 1
 diverse landscape 1
 super-sized law 1
 high impact 1
@@ -40,8 +40,8 @@ brendan gill 1
  Trigram NP 
 analisa nazareno july 1
 val verde county 1
+legal services workers 1
 rio grande valley 1
-legal service worker 1
 texas law school 1
 ku klux klan 1
 
@@ -121,6 +121,6 @@ making 1
 bexar county legal aid 3
 texas rural legal aid 2
 st. mary's university law school 1
-area legal aid entity merge 1
-family violence prevention service 1
+area legal aid entities merge 1
+family violence prevention services 1
 new 68-county legal aid 1

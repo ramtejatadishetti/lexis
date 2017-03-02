@@ -12,6 +12,7 @@ referral system 1
 public access 1
 his death 1
 his email 1
+its staff 1
 migrant farm 1
 sub-standard housing 1
 college creek 1
@@ -26,18 +27,18 @@ economic stability 1
 creative advocacy 1
 former parking 1
 affordable housing 1
+historic-area building 1
 increased staff 1
 new housing 1
-it leadership 1
+contentious custody 1
 general public 1
 janet labella 1
 statewide law 1
 senior vice 1
-contentious custody 1
+its leadership 1
 lead player 1
 annual budget 1
 remote area 1
-it staff 1
 u.s. department 1
 defender association 1
 20-year representation 1
@@ -45,7 +46,6 @@ national demonstration 1
 private consultant 1
 chief attorney 1
 joe surkiewicz 1
-historic-area building 1
 bottom line 1
 martha bergmark 1
 legal hotline 1
@@ -67,25 +67,25 @@ urban development 1
 
  Trigram NP 
 legal aid bureau 7
+its remarkable sense 1
 last black neighborhood 1
-robert j. rhudy 1
-equal justice council 1
-it remarkable sense 1
 national legal aid 1
 legal aid service 1
+robert j. rhudy 1
 open society institute 1
+johns hopkins university 1
 first black attorney 1
 anne arundel county 1
-people law library 1
+michael a. millemann 1
+peoples law library 1
 john a. tull 1
-john hopkins university 1
+law examiners co 1
 new waterfront housing 1
 decatur h. miller 1
-law examiner co 1
-legal service corp. 1
-it annual revenue 1
+equal justice council 1
+its annual revenue 1
 first black graduate 1
-michael a. millemann 1
+legal services corp. 1
 
  Unigram NP 
 bureau 11
@@ -208,9 +208,9 @@ chief 1
 block 1
 
  Arbitary length NP 
+maryland legal services corp 1
 maryland legal assistance network 1
-maryland legal service corp. 1
 charles h. dorsey jr. 1
 hannah e. m. lieberman 1
-maryland legal service corp 1
 wilhelm h. joseph jr. 1
+maryland legal services corp. 1

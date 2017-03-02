@@ -9,14 +9,14 @@ substantial number 1
 public docket 1
 similar notice 1
 private sector 1
-regulatory affair 1
-per vehicle 1
+motor vehicles 1
 such information 1
 lead time 1
 annual certification 1
 additional time 1
 our assessment 1
 peter guerrero 1
+its submission 1
 tailpipe emission 1
 protection agency 1
 other statute 1
@@ -33,18 +33,18 @@ federal register 1
 actual driving 1
 major rule 1
 jr. chairman 1
-it submission 1
 order no 1
 james vickers 1
 typical manufacturer 1
 high acceleration 1
 new motor 1
 our report 1
+regulatory affairs 1
 commerce house 1
 regulatory management 1
 director office 1
 high-speed and/or 1
-motor vehicle 1
+per vehicle 1
 public hearing 1
 mechanical integrity 1
 sierra club 1
@@ -60,20 +60,20 @@ clean air act 4
 regulatory impact analysis 3
 regulatory flexibility act 2
 administrative procedure act 1
-full environmental cell 1
 final regulatory flexibility 1
+full environmental cell 1
+significant economic impact 1
 other relevant information 1
 thomas e. kelly 1
 reflect real road 1
-public work united 1
-environmental protection issue 1
+public works united 1
 paperwork reduction act 1
-planned regulatory action 1
 significant regulatory action 1
-information collection request 1
-significant economic impact 1
+motor vehicles pursuant 1
+planned regulatory action 1
+environmental protection issues 1
 executive order no 1
-motor vehicle pursuant 1
+information collection request 1
 
  Unigram NP 
 epa 19
@@ -205,11 +205,11 @@ honorable john d. dingell ranking minority member committee 1
 general counsel b-274402 november 1
 a major rule issued by the environmental protection agency entitled 1
 honorable john h. chafee chairman 1
-final regulation for revision to the federal test procedure for emission from motor vehicle 1
+unfunded mandates reform act 1
+final regulations for revisions to the federal test procedure for emissions from motor vehicles 1
 gao/ogc-96-42 paperwork reduction act 1
 honorable max baucus ranking minority member committee 1
 robert p. murphy general counsel enclosure 1
 information environmental protection agency page 1
 gao/ogc-96-42 enclosure analysis under 1
 honorable thomas j. bliley 1
-unfunded mandate reform act 1

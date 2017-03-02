@@ -2,8 +2,6 @@
  Bigram NP 
 good thing 2
 your money 2
-legal service 2
-it distribution 1
 legal hotline 1
 main requirement 1
 sudden concern 1
@@ -29,11 +27,14 @@ amy turner 1
 anthem inc. 1
 executive director 1
 prepaid burial 1
+legal services 1
+its distribution 1
 negative impact 1
 insurer's conversion 1
 mutual company 1
 medical transportation 1
 christopher holly 1
+legal service 1
 legal-aid lawyer 1
 lee richardson 1
 justice foundation 1
@@ -131,4 +132,4 @@ result 1
 
  Arbitary length NP 
 northern kentucky legal aid society 1
-anthem payout pose problem 1
+anthem payout poses problem 1

@@ -4,15 +4,15 @@ financial management 30
 private sector 17
 financial information 15
 human capital 10
-owen corning 10
+owens corning 10
 cfo council 10
 organizational culture 9
 cfo act 9
 new technology 8
 federal finance 8
 clingercohen act 7
-result act 7
 strategic planning 6
+results act 6
 unqualified audit 6
 unqualified opinion 6
 general ledger 5
@@ -24,27 +24,27 @@ right mix 5
 top management 5
 external reporting 5
 key business 4
+government accountants 4
 overall business 4
 financial reporting 4
 finance function 4
 our case 4
-government accountant 4
 hewlett packard 4
 strategic support 3
 personnel management 3
+information links 3
 research foundation 3
-management accountant 3
 hackett group 3
 • apply 3
 doing business 3
-their time 3
 routine accounting 3
 first step 3
 strategic management 3
 their information 3
+management accountants 3
 cfo survey 3
+their time 3
 resultsoriented government 3
-information link 3
 pfizer inc 3
 organizational structure 3
 conference board 3
@@ -61,48 +61,47 @@ missionrelated work 2
 limited modification 2
 planned staff 2
 fiscal year 2
+specific agency 2
 financial condition 2
 chief executive 2
 their focus 2
 reliable information 2
-agency leader 2
-it use 2
+agency leaders 2
 independent audit 2
 strategic business 2
-it charter 2
 boeing company 2
-specific agency 2
 internal auditing 2
 strategic decisionmaking 2
+♦ redefine 2
 new york 2
 financial analysis 2
 same time 2
 consultative role 2
 clerical role 2
-it business 2
 finance organization 2
 government performance 2
 corporate finance 2
+its use 2
 many finance 2
 continual improvement 2
 committed support 2
 relevant information 2
-♦ redefine 2
 financial accounting 2
 reform legislation 2
 global market 2
+its charter 2
 shared service 2
+its business 2
 significant technology 2
 senior finance 2
 financial improvement 2
-federal agency 2
 following illustration 1
 electronic commerce 1
 l = 1
 general business 1
+its progress 1
 internal customer 1
 analyze outsourcing 1
-it performance 1
 james b. 1
 financial service 1
 perunitcost efficiency 1
@@ -110,18 +109,17 @@ financerelated efficiency 1
 general accounting 1
 new role 1
 rigorous discipline 1
+state governments 1
 public accounting 1
-it culture 1
+• providing 1
 entitywide priority 1
 same cost 1
 operational performance 1
-business result 1
 gallup organization 1
 • make 1
 ready access 1
 public sector 1
 federal environment 1
-internal auditor 1
 extensive review 1
 same management 1
 humancapital management 1
@@ -148,6 +146,7 @@ fiveyear plan 1
 leadership's ability 1
 your level 1
 explicit workforce 1
+its performance 1
 performance metricsaverage 1
 resulting competency 1
 successful career 1
@@ -178,8 +177,6 @@ product cost 1
 traditional controllership 1
 strategic application 1
 nonfinancial information 1
-it process 1
-it focus 1
 clear career 1
 attractive alternative 1
 basic management 1
@@ -187,42 +184,36 @@ professional education 1
 improved business 1
 web- www.rutgers.edu/accounting/ 1
 fiscal impact 1
-dc order 1
 teambased approach 1
 financial leadership 1
 outsourcing transaction 1
 first stage 1
-complex finance 1
 understandable information 1
 general indication 1
-top quartile 1
 business competence 1
 electronic information 1
 vital link 1
 governmentwide progress 1
 our literature 1
 human resource 1
-operation key 1
-competency key 1
 empowered organization 1
 m = 1
-it lack 1
+organize finance 1
 specific information 1
 advanced technology 1
 frederick c. 1
 their staff 1
-it progress 1
 different career 1
 adhoc analysis 1
 meaningful career 1
 many agency 1
 final stage 1
 comprehensive reengineering 1
+competencies key 1
 total cost 1
 executive report 1
 practice analysis 1
 competitive advantage 1
-it comptrollership 1
 legislative branch 1
 new reporting 1
 effective configuration 1
@@ -231,17 +222,18 @@ new software 1
 ongoing basis 1
 financial accountability 1
 ambitious agenda 1
-compare cot 1
 their legacy 1
 patrick j. 1
+its process 1
 drive profitability 1
 key factor 1
-• providing 1
 primary leadership 1
 advisory group 1
 subsequent lack 1
+federal agencies 1
 tough resource 1
 financial world 1
+reasonable assurance 1
 individual need 1
 middle management 1
 individual agree 1
@@ -250,17 +242,14 @@ our draft 1
 operational planning 1
 creating value 1
 • consolidating 1
-vested interest 1
 identified leadership 1
 online access 1
 crucial role 1
 shared need 1
-state government 1
-defense audit 1
 controller magazine 1
 primary reason 1
 major business 1
-financial transaction 1
+business results 1
 h = 1
 initial plan 1
 urban development 1
@@ -271,6 +260,7 @@ motivated workforce 1
 various business 1
 agencies' ability 1
 cfo compensation 1
+its lack 1
 financial personnel 1
 top priority 1
 public practice 1
@@ -281,7 +271,9 @@ necessary investment 1
 different learning 1
 internal service 1
 understand shareholder 1
+complex finance 1
 importance/personal* use 1
+its finance 1
 advanced accounting 1
 discretionary budget 1
 top leadership 1
@@ -289,22 +281,23 @@ commercial offtheshelf 1
 educational organization 1
 vital purposeit 1
 routine transaction 1
-labor cost 1
+its culture 1
 management accounting 1
 senior executive 1
 steady introduction 1
 overall strategy 1
 professional staff 1
 reliable cost 1
+top quartile 1
 • web 1
 robert s. 1
-it influence 1
 his organization 1
 canada secretariat- 1
 global competition 1
 organizational design 1
 • nonfinancial 1
-reasonable assurance 1
+defense audits 1
+its ability 1
 integrated budget 1
 accessible information 1
 overall agency 1
@@ -312,36 +305,36 @@ last decade 1
 internal auditors-www.theiia.org 1
 organizational support 1
 individual plan 1
-management accountants- 1
+financial transaction 1
 detailed description 1
 organizational restructuring 1
 applied technology 1
 powerful message 1
 future product 1
 effective risk 1
+results acts 1
 their business 1
 • top 1
 long history 1
 solid foundation 1
 industry best 1
 daily list 1
-result actwas 1
 e-mail message 1
 technical guidance 1
+compare cots 1
 effective mitigation 1
 congressional support 1
 specific need 1
 integral part 1
 specific performance 1
+its focus 1
 cpa newsletter 1
 senior government 1
 ideal occasion 1
+operations key 1
 add value 1
-it transaction 1
-operation planning 1
 detailed survey 1
 internal area 1
-organize finance 1
 their approach 1
 common software 1
 profitable growth 1
@@ -349,23 +342,25 @@ excellent growth 1
 functionalbased organization 1
 reallife business 1
 their review 1
+its vision 1
 sound training 1
-cpa link 1
 other hand 1
 american institute 1
+vested interest 1
 relevant cost 1
-basic levelas 1
 previous system 1
 basic application 1
 much time 1
 timely information 1
 • operate 1
+its comptrollership 1
 interim approach 1
 �� information 1
 comprehensive management 1
+internal auditors 1
+labor costs 1
 many management 1
 executivelevel reporting 1
-accounting function 1
 certain transaction 1
 jr. chairman 1
 key leadership 1
@@ -378,10 +373,12 @@ crossfunctional process 1
 their ability 1
 prior month 1
 significant modification 1
+veteran affairs 1
 quarterly progress 1
 regular mail 1
 linda garrison 1
 vice president 1
+results actwas 1
 shared vision 1
 useful information 1
 accountability that 1
@@ -390,9 +387,11 @@ accountability report 1
 whole aim 1
 similar core 1
 their management 1
+cpa links 1
 expose staff 1
-it finance 1
 vast majority 1
+management accountants- 1
+basic levelas 1
 sobering news 1
 important factor 1
 financerelated improvement 1
@@ -401,11 +400,11 @@ fixed asset 1
 g sts 1
 corresponding shift 1
 �� make 1
-it vision 1
 international institute 1
 strategic performance 1
 • lead 1
 processbased organization 1
+accounting functions 1
 texas similarly 1
 state auditor 1
 executive management 1
@@ -438,27 +437,30 @@ individual cost 1
 �� recognize 1
 common technology 1
 their goal 1
+operations planning 1
 federal decisionmaking 1
-veteran affair 1
 practical use 1
 internal audit 1
 selfassessment checklist 1
 public service 1
 assistant director 1
 governmental accounting 1
+its transaction 1
 related executive 1
 same way 1
 activitybased accounting 1
 key program 1
 st. nw 1
 report fraud 1
+its influence 1
+dc orders 1
 costeffective technology 1
 key process 1
-it ability 1
 successful finance 1
 necessary foundation 1
 balanced scorecard 1
 federal career 1
+federal agency 1
 
  Trigram NP 
 federal financial management 11
@@ -467,16 +469,15 @@ our advisory group 4
 their financial management 4
 other routine accounting 3
 grant thornton llp 3
-chief financial officer 3
 good financial management 2
 reliable financial information 2
 chase manhattan corporation 2
 hewlett packard company 2
 future human capital 2
-financial service center 2
-it organizational structure 2
 general electric company 2
 customer fulfillment process 2
+its organizational structure 2
+chief financial officer 2
 �� • use 2
 average worldclass cost 1
 balance scorecard institute- 1
@@ -487,10 +488,10 @@ elizabeth m. mixon 1
 social security administration 1
 senior executive service 1
 national professional accountancy 1
-case study entity 1
+project advisor acknowledgements 1
 retains talent key 1
 changing global role 1
-diane g. handley 1
+case study entities 1
 appendix iv comparison 1
 francine m. delvecchio 1
 program management office 1
@@ -511,27 +512,31 @@ overall strategic approach 1
 good financial managementnot 1
 self assessment checklist 1
 several crossfunctional process 1
+worldclass performance metrics 1
+its overall effort 1
 many federal finance 1
 overall strategic planning 1
+certified public accountants-www.aicpa.org 1
+public accounts state 1
 asqc quality press 1
-project advisor acknowledgement 1
 outstanding financial management 1
 partnership between finance 1
 their old management 1
 agencywide strategic approach 1
 other financial management 1
 traditional financial management 1
-tool treasury board 1
-worldclass performance metric 1
+diane g. handley 1
+financial service center 1
+selected federal agencies 1
 robert c. benchmarking 1
 marshall l. hamlett 1
 many private sector 1
 frequent financial reporting 1
 modern financial management 1
 many common reengineering 1
-certified public accountants-www.aicpa.org 1
 make financial management 1
 processbased federal organization 1
+financial service centers 1
 monthly financial report 1
 provide meaningful information 1
 following private sector 1
@@ -540,10 +545,10 @@ gerald r. riso 1
 better support mission 1
 clear strong executive 1
 update human capital 1
-public account state 1
 productive strategic support 1
 performance management key 1
 their routine accounting 1
+tools treasury board 1
 successful financial reengineering 1
 software engineering institute 1
 �� • analyze 1
@@ -560,8 +565,7 @@ our previous report 1
 subsequent related legislation 1
 their human capital 1
 major financial management 1
-selected federal agency 1
-it overall effort 1
+chief financial officers 1
 major public accounting 1
 case study training 1
 translate financial data 1
@@ -585,13 +589,12 @@ agency 27
 improvement 26
 process 24
 change 23
-practice 23
 • 23
 team 19
+practice 19
 example 18
 control 18
 accounting 18
-cfo 17
 mission 17
 system 17
 government 17
@@ -604,10 +607,11 @@ value 15
 analysis 15
 support 15
 department 15
-cot 14
+cots 14
 addition 14
 site 14
 role 14
+cfo 13
 customer 13
 development 13
 case 13
@@ -617,7 +621,6 @@ planning 12
 transaction 12
 budget 11
 access 11
-goal 11
 training 11
 part 11
 report 11
@@ -640,6 +643,7 @@ virginia 8
 level 7
 opinion 7
 use 7
+goal 7
 foundation 7
 quality 7
 omb 7
@@ -664,7 +668,6 @@ service 6
 percentage 6
 compensation 6
 accuracy 6
-result 6
 gmra 6
 identify 6
 cafr 6
@@ -677,6 +680,7 @@ need 5
 guidance 5
 treasury 5
 culture 5
+result 5
 approach 5
 ability 5
 reporting 5
@@ -711,8 +715,11 @@ talent 4
 pace 4
 partner 4
 person 4
+practices 4
+cfos 4
 ffmia 4
 market 4
+goals 4
 detail 4
 ge 3
 cap 3
@@ -739,7 +746,6 @@ group 3
 methodology 3
 texas 3
 day 3
-mean 3
 measurement 3
 benchmarking 3
 tomorrow 3
@@ -749,6 +755,7 @@ measure 3
 build 3
 plan 3
 fact 3
+means 3
 attention 3
 importance 3
 configuration 3
@@ -759,10 +766,8 @@ acceptance 3
 workshop 3
 define 3
 productivity 3
-document 3
 opportunity 3
 cycle 3
-skill 3
 march 3
 % 3
 scale 3
@@ -802,7 +807,6 @@ production 2
 jfmip 2
 financial 2
 assurance 2
-ass 2
 imaging 2
 advisor 2
 e.g 2
@@ -813,6 +817,7 @@ appreciation 2
 target 2
 instruction 2
 valuecreating 2
+contact 2
 note 2
 objective 2
 effectiveness 2
@@ -849,15 +854,15 @@ partnership 2
 gao.gov 2
 explanation 2
 format 2
+document 2
 http 2
-contact 2
 inc. 2
 human 2
+skill 2
 web 2
 functionality 2
 pertinent 2
 invoice 2
-cooper 2
 lead 2
 integration 2
 board- 2
@@ -866,6 +871,7 @@ pressure 2
 gao/ggd99179 2
 selfassessment 2
 act 2
+assess 2
 determine 2
 head 2
 form 2
@@ -892,8 +898,10 @@ include 1
 fax 1
 end 1
 consolidation 1
+results 1
 difference 1
 www.tbssct.gc.ca 1
+skills 1
 strategist 1
 personnel.10 1
 purchase/work 1
@@ -916,6 +924,7 @@ section 1
 learner 1
 profitability 1
 adhoc 1
+coopers 1
 new 1
 method 1
 movement 1
@@ -941,7 +950,7 @@ visit 1
 governance 1
 overhead 1
 asset 1
-vehicle 1
+criteria 1
 administering 1
 type 1
 reevaluate 1
@@ -960,7 +969,6 @@ sense 1
 monitoring 1
 purpose 1
 fourto 1
-criterion 1
 auditnet- 1
 employee 1
 jablonsky 1
@@ -1023,11 +1031,11 @@ increase 1
 fte 1
 reader 1
 /business 1
+millions 1
 evaluation 1
 gao/aimd/nsiad9843 1
 workflow 1
 upon 1
-million 1
 standard 1
 closingcycle 1
 estimate 1
@@ -1074,6 +1082,7 @@ revenues/outlays 1
 www.gasb.org 1
 competency 1
 benchmarking6 1
+documents 1
 sound 1
 internal 1
 kaplan 1
@@ -1092,6 +1101,7 @@ flow 1
 enterprise 1
 requirement 1
 assistance 1
+catalyst 1
 sector 1
 thomas 1
 certification 1
@@ -1210,7 +1220,6 @@ world 1
 desire 1
 standardization 1
 testimony 1
-collect 1
 benefit 1
 continue 1
 page 1
@@ -1224,6 +1233,8 @@ growth 1
 home 1
 accomplishment 1
 recognition 1
+cooper 1
+collect 1
 gateway 1
 visionand 1
 innovation 1
@@ -1250,11 +1261,11 @@ keating 1
 select 1
 medium 1
 interagency 1
+vehicle 1
 financenet- 1
 delivery 1
 failure 1
 link 1
-catalyst 1
 automated 1
 strategythat 1
 www.auditnet.org 1
@@ -1290,70 +1301,70 @@ gao/aimd00134 ♦ executive guide 15
 value through worldclass financial management 9
 u.s. government standard general ledger 4
 entitywide priority ♦ practice 2
-financial executive research foundation 2
 ♦ make financial management 2
+financial executives research foundation 2
 value through worldclass financial management appendix v ♦ related 2
-case study entity table 2
-better support mission objective ♦ practice 2
 value through worldclass financial management appendix iv ♦ comparison 2
-large private sector corporation 1
-cfo council fellow program 1
+better support mission objectives ♦ practice 2
+case study entities table 2
 u.s. general accounting office p.o 1
 federal financial management status report 1
-staff acknowledgement ♦ linda p. garrison 1
+chief information officer xerox corporation gao/aimd00134 ♦ executive guide 1
 implementing new technology key 1
-value through worldclass financial management ordering information 1
-information management division content background learning 1
-accountancy george washington university patricia m. wallington vice president 1
+bruce h. adams senior vice president 1
 their outstanding financial management 1
 company revenues/outlays cfo bonus total 1
-value through worldclass financial management appendix vii leading organization contact 1
-value through worldclass financial management case study 1
 chase manhattan bank david devonshire chief financial officer ingersoll rand corporation 1
-internal auditing world wide web- 1
+value through worldclass financial management case study 1
+its overall financial position 1
 information management division april 1
-riso cornelius e. tierney professor 1
+cfo council fellows program 1
 other related financial reform 1
 federal financial management improvement act 1
+its new financial management 1
 carnegie mellon software engineering institute- 1
 virginia william c. steere 1
 worldclass finance organization a 1
 world-class financial management gao/aimd-00-134 preface 1
-value through worldclass financial management appendix iii worldclass finance performance metric 1
+boeing company's personal planning guide 1
 financial management international federation 1
 texas william landsidle comptroller commonwealth 1
-boeing company's personal planning guide 1
+large private sector corporations 1
 julia carroll chief financial officer naperville 1
-it new financial management 1
 strong executive leadership key 1
-selected case study entity 1
-meeting mission objective key 1
-appendix viii gao contact 1
-government management reform act 1
-case study entity appendix v related 1
+information management division contents background learning 1
+comprehensive annual financial reports 1
 chief executive officer private sector council edward j. mazur vice president virginia state university john l. puckett assistant vice president information technology 1
-daytoday accounting activity key 1
+u.s. general accounting office washington 1
 harvard business school press 1
 general electric general electric 1
 chief executive officer pfizer inc william kilmartin vice president american management 1
 boeing company richard l. hoddeson vice president 1
-tool appendix vi bibliography buckingham 1
+appendix viii gao contacts 1
 lynn l. saylor general electric directorcorporate finance general electric company boyd e. givan 1
-tool gao/aimd00134 ♦ executive guide 1
-it overall financial position 1
+analysis pfizer inc larry lazicki executive assistantfiscal mgmnt 1
+tools appendix vi bibliography buckingham 1
+worldclass companies process measure average worldclass payables invoice 1
 federal emergency management agency 1
 appendix ii supplemental case study information 1
 chief executive officer riso 1
+case study entities appendix v related 1
 joint financial management improvement program 1
-analysis pfizer inc larry lazicki executive assistantfiscal mgmnt 1
-bruce h. adam senior vice president 1
+tools gao/aimd00134 ♦ executive guide 1
+value through worldclass financial management ordering information 1
+daytoday accounting activities key 1
 jeffrey c. steinhoff acting assistant comptroller general accounting 1
 line management • training 1
-financial accounting standard board 1
-comprehensive annual financial report 1
-worldclass company process measure average worldclass payable invoice 1
+financial accounting standards board 1
+selected case study entities 1
+staff acknowledgements ♦ linda p. garrison 1
+accountancy george washington university patricia m. wallington vice president 1
+internal auditing world wide web- 1
 executive guide creating value 1
-chief information officer xerox corporation gao/aimd00134 ♦ executive guide 1
-u.s. general accounting office washington 1
+riso cornelius e. tierney professor 1
+meeting mission objectives key 1
+value through worldclass financial management appendix vii leading organization contacts 1
 other federal financial management 1
+value through worldclass financial management appendix iii worldclass finance performance metrics 1
+government management reform act 1
 illinois thomas v. fritz president 1

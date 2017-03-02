@@ -11,16 +11,18 @@ limited forum 2
 full advice 1
 impermissible viewpoint 1
 programmatic message 1
+its discretion 1
 current welfare 1
+its rationale 1
 supreme court 1
 judicial function 1
+federal judiciaries 1
 vital respect 1
 constitutional scrutiny 1
 district court 1
 instant restriction 1
 independent judiciary 1
 fundamental restriction 1
-it program 1
 alternative source 1
 severe impairment 1
 truncated representation 1
@@ -29,12 +31,11 @@ lsc act 1
 legal system 1
 arkansas ed 1
 wis. system 1
-federal judiciary 1
+its program 1
 point-based funding 1
 substantial restriction 1
 private nature 1
 stark contrast 1
-it discretion 1
 the united 1
 attorney's advice 1
 vital information 1
@@ -46,7 +47,6 @@ same way 1
 dissenting opinion 1
 traditional role 1
 proper presentation 1
-it rationale 1
 their nature 1
 preliminary injunction 1
 insufficient basis 1
@@ -66,14 +66,14 @@ governmental message 1
 
  Trigram NP 
 rosenberger v. rector 2
-it own program 1
+legal services corporation 1
 free legal assistance 1
-it usual functioning 1
-it own message 1
+its usual functioning 1
+its own message 1
 velazquez et al 1
 u. s. ____ 1
 serious statutory validity 1
-legal service corporation 1
+its own program 1
 
  Unigram NP 
 lsc 13
@@ -83,8 +83,8 @@ rust 6
 court 6
 attorney 5
 pp 5
-program 4
 welfare 4
+program 4
 congress 4
 funding 3
 univ 3
@@ -111,7 +111,7 @@ souter 1
 fairness 1
 scalia 1
 litigation 1
-regent 1
+forbes 1
 board 1
 latitude 1
 velazquez 1
@@ -132,7 +132,6 @@ decision 1
 comm'n 1
 legal 1
 state 1
-appeal 1
 public 1
 exercise 1
 patient 1
@@ -143,6 +142,7 @@ petitioner 1
 act 1
 opinion 1
 withdraws 1
+appeals 1
 family 1
 stevens 1
 sullivan 1
@@ -156,7 +156,6 @@ adequacy 1
 subsidy 1
 syllabus 1
 regulation 1
-forbes 1
 way 1
 certiorari 1
 scheme 1
@@ -180,6 +179,7 @@ no 1
 corporation 1
 invalid 1
 instance 1
+regents 1
 speaker 1
 consultation 1
 province 1
@@ -196,6 +196,6 @@ organization 1
 order 1
 
  Arbitary length NP 
-legal service corporation act 1
-certiorari to the united state court of appeal for the second circuit no 1
-syllabus legal service corporation 1
+syllabus legal services corporation 1
+legal services corporation act 1
+certiorari to the united states court of appeals for the second circuit no 1

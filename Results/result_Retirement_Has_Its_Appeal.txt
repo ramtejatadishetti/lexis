@@ -3,6 +3,7 @@
 his cousin 2
 70th birthday 1
 his trademark 1
+lawyers @ 1
 herbert hershfang 1
 important need 1
 full time 1
@@ -11,8 +12,8 @@ jack reilly 1
 cape cod 1
 sixtyfive percent 1
 wonderful job 1
+retirement has 1
 retired judge 1
-probate court 1
 their case 1
 carter ] 1
 right time 1
@@ -24,7 +25,7 @@ marital law 1
 same problem 1
 his presidency 1
 our court 1
-retirement ha 1
+probate court 1
 foreign country 1
 judge ginsburg 1
 full-time venture 1
@@ -42,15 +43,14 @@ meg connolly 1
 longfellow place 1
 new hampshire 1
 long-standing family 1
-lawyer @ 1
 other family 1
 former newton 1
 expert tapper 1
 
  Trigram NP 
-boston municipal court 1
-volunteer lawyer project 1
 boston bar association 1
+boston municipal court 1
+volunteer lawyers project 1
 thomas b. concannon 1
 expert legal service 1
 president jimmy carter 1
@@ -151,7 +151,7 @@ model 1
 opportunity 1
 
  Arbitary length NP 
+indigent clients christine mcconville sunday 1
 massachusetts continuing legal education inc 1
+appeal lawyers form group 1
 middlesex county judge edward ginsburg 1
-appeal lawyer form group 1
-indigent client christine mcconville sunday 1

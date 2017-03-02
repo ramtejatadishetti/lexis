@@ -33,19 +33,19 @@ their credit 1
  Trigram NP 
 utah state bar 3
 community legal center 3
-utah legal service 2
+john a. adams 2
+utah legal services 2
 disability law center 2
-john a. adam 2
 legal aid society 2
-our legal system 1
 not-for-profit legal service 1
+our legal system 1
 supporting legal center 1
 their vital mission 1
-it prior owner 1
 utah bar foundation 1
 utah state legislature 1
 salt lake county 1
 sen. pete suazo 1
+its prior owner 1
 deseret news friday 1
 
  Unigram NP 

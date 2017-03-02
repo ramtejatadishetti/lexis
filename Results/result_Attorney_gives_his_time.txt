@@ -1,6 +1,7 @@
 
  Bigram NP 
 same time 1
+his time 1
 dumb mistake 1
 twyla sketchley 1
 his assistant 1
@@ -15,11 +16,10 @@ his dedication 1
 foolish question 1
 his shoulder 1
 my brain 1
-his time 1
+legal services 1
 real proud 1
 chesterfield smith 1
 north florida 1
-legal service 1
 beatrice jackson 1
 kris knab 1
 
@@ -79,5 +79,5 @@ bond 1
 sketchley 1
 
  Arbitary length NP 
-wakulla county senior citizen council 1
+wakulla county senior citizens council 1
 james l. rosica thursday 1

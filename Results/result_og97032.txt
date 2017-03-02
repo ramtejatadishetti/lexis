@@ -14,7 +14,7 @@ federal register 3
 your inquiry 3
 judiciary united 3
 expedited removal 2
-removal proceeding 2
+removal proceedings 2
 our report 2
 order no 2
 statutory authorization 1
@@ -24,25 +24,25 @@ new detention 1
 regular removal 1
 procedure act 1
 federalism assessment 1
-regulatory affair 1
 our office 1
 mere existence 1
+asylum procedures 1
 120-day comment 1
 our assessment 1
-justice issue 1
+new immigration 1
 annual cost 1
 attorney general 1
 immigration court 1
 norman rabkin 1
 federal government 1
 et seq 1
-asylum procedure 1
-new immigration 1
+regulatory affairs 1
 budgetary impact 1
+legal support 1
 removal form 1
 james vickers 1
+justice issues 1
 insufficient federalism 1
-legal support 1
 additional immigration 1
 public procedure 1
 government reform 1
@@ -68,23 +68,23 @@ paperwork reduction act 2
 honorable john conyers 2
 assistant general counsel 1
 significant economic impact 1
+regulatory affairs committee 1
 omb control no 1
 increased budgetary impact 1
 dear mr. chairman 1
-in form i-589 1
-regulatory affair committee 1
-asylum procedure pursuant 1
+other relevant information 1
 regulatory flexibility act 1
 naturalization service page 1
 significant regulatory action 1
-other relevant information 1
+asylum procedures pursuant 1
+ins form i-589 1
 national economic growth 1
 civil justice reform 1
 congressional review act 1
 planned regulatory action 1
 
  Unigram NP 
-in 19
+ins 19
 rule 14
 u.s.c 9
 eoir 9
@@ -96,9 +96,9 @@ april 6
 removal 5
 omb 5
 notice 5
-alien 4
 title 4
 justice 4
+aliens 4
 iirira 4
 exception 4
 department 4
@@ -130,9 +130,9 @@ compliance 2
 cc 2
 period 2
 fed 2
+iv 2
 ii 2
 official 2
-iv 2
 rin 2
 congress 2
 effect 2
@@ -226,21 +226,21 @@ review 1
 honorable patrick j. leahy ranking minority member committee 2
 honorable henry j. hyde chairman 2
 honorable orrin g. hatch chairman 2
+inspection and expedited removal of aliens 1
 honorable doris meissner commissioner immigration 1
 health care financing administration medicare program major rule 1
 general accounting office gao washington 1
-conduct of removal proceeding 1
-medicare program major rule report 1
+conduct of removal proceedings 1
 small business regulatory enforcement fairness act 1
 honorable david mcintosh chairman 1
-detention and removal of alien 1
+medicare program major rule report 1
 gao/ogc-97-32 executive order no 1
+unfunded mandates reform act 1
 gao/ogc-97-32 enclosure analysis under 1
 robert p. murphy general counsel 1
 immigration and naturalization service and executive office for immigration review entitled 1
 general counsel b-276475.2 may 1
 robert p. murphy general counsel enclosure 1
 a major rule issued by the department of justice 1
-inspection and expedited removal of alien 1
 general counsel b-276475 march 1
-unfunded mandate reform act 1
+detention and removal of aliens 1

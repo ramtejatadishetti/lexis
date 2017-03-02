@@ -1,13 +1,13 @@
 
  Bigram NP 
-march comment 494
+march comments 490
 north carolina 107
 march testimony 102
-legal service 92
 april testimony 91
+legal services 90
 legal assistance 59
 shelley latin 52
-april comment 51
+april comments 51
 jose padilla 40
 michael wyatt 36
 legal aid 32
@@ -16,8 +16,8 @@ rob williams 30
 cynthia rice 29
 lisa butler 28
 mid-new york 23
-robert salzman 23
 new york 23
+robert salzman 23
 charlotte sibley 23
 legal representation 22
 nan schivone 22
@@ -28,9 +28,9 @@ legislative history 18
 michael carlin 17
 their employment 17
 victor lara 16
-javier rioja 15
 nationality act 15
 anita soucy 15
+javier riojas 15
 permanent resident 14
 patrick mcintyre 14
 l. no 12
@@ -45,13 +45,13 @@ h-2a program 9
 jim albright 9
 catholic diocese 9
 bruce iwasaki 8
-lawyer committee 8
-civil right 8
 their home 8
 legal action 8
+lawyers committee 8
 federal register 8
 lynn coyle 8
 los angeles 8
+civil rights 8
 mark talamantes 7
 education fund 7
 washington alliance 6
@@ -93,11 +93,11 @@ important context 4
 immigration law 4
 statutory scheme 4
 agricultural labor 4
-eligible alien 4
 their employer 4
 lsc-funded representation 4
 garry geffert 4
 administrative level 4
+march comment 4
 mark miller 4
 general counsel 4
 new mexico 4
@@ -107,7 +107,6 @@ legal authority 3
 dol report 3
 erlenborn commission 3
 first time 3
-public law 3
 mark schacht 3
 daily ed 3
 house report 3
@@ -119,11 +118,9 @@ other hand 3
 professor aleinikoff 3
 emma torres 3
 social policy 3
-appropriation act 3
 their contract 3
 lsc act 3
 their way 3
-legal claim 3
 foreign country 3
 their residence 3
 walt auvil 3
@@ -133,6 +130,7 @@ equal access 3
 vast majority 3
 state bar 3
 their status 3
+appropriations act 3
 gabriel medel 3
 lawful immigration 3
 social security 3
@@ -140,13 +138,13 @@ specific employment 2
 their community 2
 general representation 2
 final report 2
-it context 2
+its plain 2
 public housing 2
+its context 2
 ordinary meaning 2
-alien h-2a 2
 irca § 2
 legislative crafting 2
-it plain 2
+federally-authorized travel 2
 n.c. justice 2
 h-2a worker 2
 current law 2
@@ -154,9 +152,11 @@ their job 2
 daily basis 2
 first half 2
 fifty percent 2
+public law 2
 long-standing practice 2
 howard berman 2
 only category 2
+h. conf 2
 sole exception 2
 pennsylvania school 2
 agricultural employer 2
@@ -168,9 +168,12 @@ h-2a visa 2
 political calamity 2
 migrant stream 2
 dawn burtt 2
+legal service 2
 their case 2
+aliens h-2a 2
 live testimony 2
 alien client 2
+eligible alien 2
 administrative law 2
 such section 2
 his employer 2
@@ -182,7 +185,8 @@ single interpretation 2
 legal system 2
 carnegie endowment 2
 narrow range 2
-h. conf 2
+eligible aliens 2
+its regulation 2
 federal law 2
 private attorney 2
 central element 2
@@ -193,21 +197,20 @@ careful consideration 2
 statutory context 2
 their lack 2
 florida h-2a 2
+legal claim 2
 alternative representation 2
 [ t 2
-federally-authorized travel 2
-indigent defendant 2
 standing committee 2
 legal education 2
 international migration 2
 corporation board 2
 constitutional law 2
+indigent defendants 2
 clear purpose 2
 formal motion 2
 international peace 2
 immediate context 2
 cornell university 2
-it regulation 2
 h-2 program 2
 lsc board 2
 practical matter 2
@@ -228,6 +231,7 @@ migrant farmworkers 1
 statutory restriction 1
 seasonal agriculture 1
 john levy 1
+nonimmigrant classification 1
 extreme dependency 1
 del rey 1
 loyala university 1
@@ -236,9 +240,9 @@ dupage county 1
 temporary worker 1
 congressional purpose 1
 contractual relationship 1
+its compliance 1
 low relative 1
 indiana university 1
-g. burden 1
 her career 1
 temporary trip 1
 designated employer 1
@@ -246,10 +250,9 @@ unauthorized representation 1
 vegetable harvesting 1
 only interpretation 1
 their farmworker 1
-air force 1
 legal a 1
 successful resolution 1
-alien eligible 1
+daily routine 1
 sen. rudman 1
 financial assistance 1
 their work 1
@@ -259,6 +262,7 @@ daily log 1
 new interpretation 1
 exhaustive study 1
 large fee 1
+virgin islands 1
 geographic location 1
 her claim 1
 dangerous field 1
@@ -266,6 +270,7 @@ inexpensive housing 1
 public citizen 1
 district court 1
 adverse impact 1
+economic barrier 1
 lawful status 1
 their labor 1
 small percentage 1
@@ -281,16 +286,16 @@ twenty percent 1
 individual ability 1
 large labor 1
 her home 1
-attorney advisor 1
 full extent 1
 fiscal year 1
 their exemption 1
 alternative meaning 1
 subject matter 1
-well-established rule 1
 special a 1
+administrative agency 1
 skadden fellow 1
 yale university 1
+glaring problem 1
 significant season 1
 pro bono 1
 contiguous territory 1
@@ -298,12 +303,13 @@ ofgeneral abode 1
 mexican side 1
 actual length 1
 procedural abuse 1
+following spring 1
+seventy-one percent 1
 appellate work 1
 rural labor 1
 h-2a case 1
 expanded list 1
 much aware 1
-nonimmigrant classification 1
 federal employment 1
 improper use 1
 citizen population 1
@@ -318,6 +324,7 @@ loyola university 1
 upward trend 1
 her father 1
 spanish speaking 1
+government operations 1
 u.s. congress 1
 rep. mazzoli 1
 ct. app 1
@@ -328,10 +335,7 @@ administrative practice 1
 legal profession 1
 other family 1
 such migrancy 1
-low-income alien 1
 congressman berman 1
-nonimmigrant visa 1
-it placement 1
 gao reportat 1
 employer violation 1
 their term 1
@@ -367,16 +371,17 @@ state representative 1
 his government 1
 financial incentive 1
 h. practice 1
+air force 1
 federal government 1
 alleged desire 1
 relevant question 1
 other mass 1
 nancy rogers 1
 adequate housing 1
-factual finding 1
 following testimony 1
 bad housing 1
 migrant health 1
+its placement 1
 public a 1
 civil impact 1
 notre dame 1
@@ -385,7 +390,6 @@ lawful status.15 1
 alien assistance 1
 academic administration 1
 voluntary departure 1
-it time 1
 related injury 1
 their transportation 1
 ] [ 1
@@ -414,28 +418,26 @@ fresno county 1
 adequate source 1
 continued representation 1
 private representation 1
-alien current 1
 recent year 1
 stringent interpretation 1
 nonprofit corporation 1
-limited purpose 1
+low-income aliens 1
 medical care 1
 sugar cane 1
 academic study 1
-daily routine 1
+burdens several 1
 stanford university 1
 short time 1
 temporary departure 1
 their office 1
 effective mediation 1
 filing discovery 1
-appeal council 1
 brief period 1
 bilingual capacity 1
 int'l union 1
 permissible representation 1
+its interpretation 1
 representative morrison 1
-government operation 1
 civil money 1
 associated justice 1
 their farm 1
@@ -452,27 +454,27 @@ vincent beckman 1
 basic employment 1
 rep. berman 1
 their income 1
-administrative agency 1
 platt professor 1
 h-2a representation 1
 caribbean h-2a 1
+limited purpose 1
 associate editor 1
 viable alternative 1
 federal challenge 1
 weak enforcement 1
+temporary visas 1
 full year 1
 alien described 1
 their alien 1
 congressional committee 1
 thorough analysis 1
+public laws 1
 paula gupton 1
 their travel 1
-it interpretation 1
 total work 1
 low level 1
 client's absence 1
 absolute showstopper 1
-virgin island 1
 omnibus consolidated 1
 assistant state 1
 immigrant community 1
@@ -487,7 +489,6 @@ specialized knowledge 1
 fourteen month 1
 legal fiction 1
 legitimate field 1
-temporary visa 1
 receive funding 1
 our nation 1
 common claim 1
@@ -509,6 +510,7 @@ nonimmigrant worker 1
 consistent practice 1
 illegal wage 1
 dependency h-2a 1
+legal claims 1
 engine div. 1
 continuous representation 1
 oxford university 1
@@ -517,7 +519,6 @@ domestic farm 1
 such county 1
 their representation 1
 minimum access 1
-immigration briefing 1
 eastern district 1
 following season 1
 clinton administration 1
@@ -534,38 +535,35 @@ particular significance 1
 opposing counsel 1
 certified period 1
 particular emphasis 1
-burden several 1
+attorney advisor 1
 immigration judge 1
-following spring 1
-seventy-one percent 1
 specific set 1
 h-2a report 1
 direct impact 1
 texas school 1
 legal process 1
+c. implications 1
 long history 1
 faculty advisor 1
 member board 1
 university life 1
-it compliance 1
 dispute resolution 1
 roundtrip transportation 1
 united automobile 1
-book prize 1
 editorial board 1
 her work 1
 substitute counsel 1
-glaring problem 1
+its time 1
 u.s. dol 1
 utterly meaningless 1
 executive department 1
 el paso 1
+aliens eligible 1
 specific context 1
 foreign residence 1
 administrative review 1
 unsafe housing 1
 new language 1
-c. implication 1
 rep. simpson 1
 representative berman 1
 full freedom 1
@@ -602,9 +600,13 @@ statutory change 1
 extensive record 1
 agricultural workforce 1
 her absence 1
+nonimmigrant visas 1
 targeted enforcement 1
 y ] 1
 private enforcement 1
+immigration briefings 1
+book prizes 1
+well-established rule 1
 full restitution 1
 own education 1
 equivalent insurance 1
@@ -621,13 +623,14 @@ seventy-five percent 1
 west chester 1
 u.s.-mexico border 1
 statistical sampling 1
-economic barrier 1
 other type 1
 unpaid wage 1
 regular mail 1
 other travel 1
+g. burdens 1
 federal cause 1
 her position 1
+aliens current 1
 cost-sharing component 1
 effective advocacy 1
 his career 1
@@ -638,6 +641,7 @@ act [ 1
 added incentive 1
 legislative compromise 1
 conference report 1
+factual findings 1
 green v. 1
 olga pedroza 1
 applicable law 1
@@ -650,6 +654,7 @@ valid employment 1
 three-fourths guarantee 1
 proposed legislation 1
 discretionary readmission 1
+appeals council 1
 specialized practice 1
 formal regulation 1
 short period 1
@@ -676,7 +681,7 @@ minimum vehicle 1
  Trigram NP 
 cynthia l. rice 40
 garry g. geffert 33
-florida legal service 31
+florida legal services 31
 d. michael dale 30
 oregon law center 30
 legal aid society 24
@@ -684,12 +689,12 @@ patricia c. kakalec 23
 farmworker law project 22
 mary lee hall 21
 robert j. willis 21
-farmworker legal service 15
+farmworker legal services 15
 daniel g. ford 14
 james f. schmidt 14
 northwest justice project 14
 arthur n. read 12
-columbia legal service 11
+columbia legal services 11
 keith s. ernst 10
 francisco j. bricio 9
 d. michael hancock 8
@@ -697,12 +702,12 @@ marilyn j. endriss 8
 legal aid foundation 8
 kevin g. magee 8
 lawful permanent resident 7
+community legal services 6
 sarah m. singleton 6
-community legal service 6
+howard l. berman 5
 wake county human 5
 vincent h. beckman 5
 american bar association 5
-howard l. berman 5
 janet e. hill 5
 provided legal assistance 4
 meaningful legal representation 4
@@ -711,24 +716,24 @@ jena l. matzen 4
 community development center 4
 federal register notice 4
 garry m. restaino 4
-legal service act 3
 continuous physical presence 3
 john w. morehouse 3
-colombia legal service 3
 effective legal representation 3
+colombia legal services 3
 michael l. monahan 3
-omnibus consolidated recission 3
 yale law school 3
+legal services act 3
+omnibus consolidated recissions 3
 larry b. sitton 3
+its ordinary meaning 2
 gary m. restaino 2
 virginia justice center 2
-it ordinary meaning 2
 john n. erlenborn 2
 georgia j. lewis 2
 north carolina justice 2
 seasonal agricultural work 2
-alien agricultural worker 2
 romano l. mazzoli 2
+alien agricultural worker 2
 sister evelyn mattern 2
 north carolina council 2
 vincent h. beckmann 2
@@ -739,16 +744,17 @@ preliminary administrative process 1
 their h-2 contract 1
 his outstanding career 1
 u.s. district court 1
+commission hearing transcripts 1
 express congressional intent 1
 yankton sioux tribe 1
-commission hearing transcript 1
+other legal representation 1
 prudential insurance company 1
 their own country 1
 complex regulatory scheme 1
 second leading country 1
 valid unexpired passport 1
+agricultural implement workers 1
 administration john mckay 1
-h-2a worker private 1
 omnibus continuing resolution 1
 membership corp.,454 u.s. 1
 comparative citizenship project 1
@@ -759,35 +765,36 @@ illegal immigration reform 1
 immigration lawyers' association 1
 their current status 1
 adequate legal counsel 1
-march comment ] 1
 seasonal agricultural worker 1
+legal services corporation 1
 h-2a report ] 1
 statutory twenty-five percent 1
-legal service corporation 1
+global labor rights 1
 chief legal officer 1
 texas law review 1
 their authorized stay 1
 victor m. fortuno 1
 further medical attention 1
 specialized legal expertise 1
-western grower association 1
-john a. hartingh 1
 valid unexpired immigrant 1
 philadelphia bar association 1
 march testimony ] 1
-chief operating officer 1
+john a. hartingh 1
+h-2a workers private 1
+western growers association 1
 harry a. blackmun 1
 government agency enforcement 1
 particular agricultural sector 1
+chief operating officer 1
+e. time periods 1
 april testimony ] 1
 daily postal service 1
 their limited access 1
+foreign labor certifications 1
 general accounting office 1
 research report no 1
-agency appropriation act 1
 non-lsc funded nonprofit 1
 relevant legislative history 1
-april comment ] 1
 public international law 1
 employment opportunity commission 1
 same political party 1
@@ -795,25 +802,21 @@ their bonded status 1
 special agricultural worker 1
 associate attorney general 1
 honorable edward weinfeld 1
-temporary foreign workers.19 1
+shell oil co. 1
 their green card 1
 contested north carolina 1
 nancy hardin rogers 1
 general high employment 1
 their cultural heritage 1
-shell oil co. 1
 his academic career 1
-foreign labor certification 1
 her legal right 1
 federal civil procedure 1
 her legal career 1
-e. time period 1
+temporary foreign workers.19 1
 executive associate commissioner 1
 illinois general assembly 1
 final legal authority 1
-other legal representation 1
 american arbitration association 1
-agricultural implement worker 1
 delayed mid-contract transportation 1
 u.s. district judge 1
 farmworkers law project 1
@@ -824,6 +827,7 @@ u.s. supreme court 1
 prior work-related injury 1
 mary mccarthy fellowship 1
 their legal problem 1
+march comments ] 1
 stanford law school 1
 public interest law 1
 john t. broderick 1
@@ -834,15 +838,16 @@ only other country 1
 special minimum wage 1
 stanford law review 1
 primary federal statute 1
-global labor right 1
-related appropriation act 1
+agencies appropriations act 1
+related appropriations act 1
 president john kennedy 1
 effective collective ability 1
-other alien category 1
+april comments ] 1
 their basic human 1
 el paso/ciudad juarez 1
 significant spanish-speaking bar 1
 their own behalf 1
+other alien category 1
 ohio state university 1
 international labor organization 1
 bock laundry mach 1
@@ -853,9 +858,9 @@ united 217
 testimony 201
 law 170
 h-2a 137
-attorney 130
 representation 129
-alien 114
+attorney 129
+alien 112
 lsc 94
 id 80
 congress 72
@@ -877,8 +882,8 @@ oregon 36
 u.s.c 36
 al 35
 labor 34
-program 33
 immigration 33
+program 31
 statute 31
 mexico 29
 litigation 28
@@ -915,15 +920,14 @@ act 16
 b 15
 irca 15
 record 15
+border 14
 fact 14
 h 14
 job 14
-border 14
 claim 13
 pub 13
 florida 13
 number 13
-friend 13
 application 13
 recipient 13
 stat 13
@@ -932,16 +936,15 @@ course 12
 result 12
 april 12
 cong 12
-director 12
 mediation 12
 ina 12
 meaning 12
+friends 12
 exploitation 11
 university 11
 rec 11
 california 11
 statement 11
-visa 11
 georgia 11
 oct. 10
 lack 10
@@ -949,6 +952,7 @@ fy 10
 category 10
 cause 10
 wisconsin 10
+visa 10
 c 10
 family 10
 professor 10
@@ -997,8 +1001,8 @@ eligibility 6
 consideration 6
 fed 6
 history 6
-process 6
 a 6
+directors 6
 bracero 6
 return 6
 practice 6
@@ -1006,16 +1010,15 @@ aba/sclaid 6
 nothing 6
 assistance 6
 fear 6
-art 6
 immigrant 6
 ability 6
-parent 6
 point 6
+evidence 6
+director 6
 citizen 6
 d 6
 washington 6
 bus 6
-evidence 6
 department 6
 persecution 6
 e 6
@@ -1024,6 +1027,7 @@ experience 5
 trial 5
 telephone 5
 none 5
+process 5
 reg 5
 base 5
 service 5
@@ -1034,7 +1038,6 @@ divorce 5
 enforcement 5
 part 5
 isolation 5
-saw 5
 asylum 5
 availability 5
 express 5
@@ -1045,7 +1048,6 @@ november 5
 addition 5
 firm 5
 kentucky 5
-grantee 5
 english 5
 emergency 5
 government 5
@@ -1055,12 +1057,12 @@ education 5
 outreach 5
 rule 5
 resolution 5
+arts 4
 bill 4
 deportation 4
 degree 4
 hour 4
 f 4
-in 4
 information 4
 farm 4
 light 4
@@ -1082,6 +1084,7 @@ commuter 4
 bachelor 4
 present 4
 iv 4
+grantee 4
 center 4
 illinois 4
 complaint 4
@@ -1089,6 +1092,7 @@ eviction 4
 ice 4
 h.r 4
 area 4
+ins 4
 harvest 4
 intent 4
 possibility 3
@@ -1096,7 +1100,7 @@ cost 3
 public 3
 understanding 3
 change 3
-study 3
+saws 3
 scope 3
 type 3
 phone 3
@@ -1125,23 +1129,25 @@ migratory 3
 dispute 3
 familiarity 3
 discovery 3
+parent 3
 46-47 3
 whole 3
 prospect 3
 community 3
-church 3
 custody 3
 pt 3
 c. 3
 gao 3
 commerce 3
 texas 3
+study 3
 procedure 3
 vulnerability 3
 site 3
 unity 3
 party 3
 money 3
+parents 3
 preference 3
 right 3
 80-81 3
@@ -1173,6 +1179,7 @@ design 2
 substitute 2
 aba 2
 chicago 2
+churches 2
 staff 2
 compliance 2
 apple 2
@@ -1231,7 +1238,6 @@ person 2
 investment 2
 majority 2
 contact 2
-conferee 2
 cane 2
 26-27 2
 termination 2
@@ -1246,6 +1252,7 @@ assistant 2
 bar 2
 tobacco 2
 dministration 2
+art 2
 college 2
 matter 2
 arkansas 2
@@ -1262,11 +1269,13 @@ unavailability 2
 situation 2
 resident 2
 january 2
+saw 2
 supra 2
 inquiry 2
 catholic 2
 24-25 2
 reference 2
+programs 2
 i 2
 tit 2
 relief 2
@@ -1274,6 +1283,7 @@ inc. 2
 62-63 2
 adjunct 2
 harvesting 2
+conferees 2
 judiciary 2
 repossession 2
 inter 2
@@ -1286,10 +1296,10 @@ core 2
 chairman 2
 stay 2
 nonimmigrant 2
+aliens 2
 forth 2
 payment 2
 intention 2
-appeal 2
 house 2
 pre-litigation 2
 october 2
@@ -1348,7 +1358,6 @@ brief 1
 debate 1
 schumer 1
 conduct 1
-s29836 1
 contrast 1
 agreement 1
 full 1
@@ -1362,7 +1371,7 @@ poverty 1
 naws 1
 n.y 1
 congestion 1
-principle 1
+standard 1
 engage 1
 comptroller 1
 juarez 1
@@ -1402,11 +1411,11 @@ practicing 1
 challenge 1
 remain 1
 paragraph 1
-monitoring 1
 control 1
 stream 1
 129-131 1
 106-107 1
+monitoring 1
 agent 1
 minimum 1
 34-37 1
@@ -1429,6 +1438,7 @@ lab 1
 expectation 1
 client's 1
 ethnic 1
+ethics 1
 response 1
 37-39 1
 element 1
@@ -1441,7 +1451,6 @@ iiraira 1
 licensure 1
 grantee.14 1
 agricultural 1
-ethic 1
 leader 1
 video 1
 group 1
@@ -1452,9 +1461,11 @@ farmer 1
 subparagraph 1
 66-67 1
 ninety 1
+demographics 1
 intimidation 1
 gao/hehs-98-20 1
 textron 1
+attorneys 1
 nonrefoulement 1
 l. 1
 certainty 1
@@ -1468,11 +1479,10 @@ fragomen 1
 week 1
 ed 1
 energy 1
+principles 1
 literature 1
 operation 1
-kansa 1
 event 1
-standard 1
 unenforcement 1
 sector 1
 forty 1
@@ -1490,7 +1500,9 @@ bernsen 1
 threat 1
 ssistant 1
 consequence 1
+grantees 1
 arose 1
+appeals 1
 suspension 1
 §214.2 1
 guam 1
@@ -1507,6 +1519,7 @@ olan 1
 anyone 1
 scrutiny 1
 scheme 1
+friend 1
 nursery 1
 ceiling 1
 western 1
@@ -1562,7 +1575,9 @@ awareness 1
 michigan 1
 out-of-pocket 1
 whistle 1
+s29836 1
 207-208 1
+processes 1
 so.2d 1
 hiring 1
 corporation.21 1
@@ -1577,6 +1592,7 @@ individual 1
 115-16 1
 fail 1
 jury 1
+audits 1
 capacity 1
 mortgage 1
 review 1
@@ -1602,6 +1618,7 @@ expense 1
 laude 1
 55-56 1
 tennessee 1
+church 1
 respect 1
 writing 1
 consuming 1
@@ -1627,7 +1644,6 @@ clerkship 1
 h9867 1
 contradiction 1
 behavior 1
-mcnary 1
 honorable 1
 canon 1
 19-20 1
@@ -1652,7 +1668,6 @@ student 1
 nation 1
 opportunity 1
 kid 1
-audit 1
 argue 1
 no 1
 analysis 1
@@ -1665,7 +1680,6 @@ touch 1
 death 1
 adr 1
 mediator 1
-demographic 1
 mixtec 1
 dc 1
 contractor 1
@@ -1677,6 +1691,7 @@ residency 1
 discontinue 1
 cf 1
 aerospace 1
+mcnary 1
 adjudication 1
 desire 1
 loss 1
@@ -1727,6 +1742,8 @@ colorado 1
 alien-representation 1
 bankruptcy 1
 philadelphia 1
+visas 1
+appeal 1
 lot 1
 call 1
 .7 1
@@ -1754,6 +1771,7 @@ forestry 1
 recognition 1
 lsc-grantees 1
 49-50 1
+kansas 1
 journey 1
 massachusetts 1
 130-31 1
@@ -1774,31 +1792,31 @@ cir 1
 texas rural legal aid 75
 california rural legal assistance 68
 virginia farmworkers legal assistance project 52
-west virginia legal service plan 37
-florida rural legal service 30
-georgia legal service program 22
+west virginia legal services plan 37
+florida rural legal services 30
+georgia legal services program 22
 golden gate university school 10
 illinois migrant legal assistance project 8
-national employment lawyer association 6
-american friend service committee 4
+national employment lawyers association 6
 seasonal agricultural worker protection act 4
+american friends service committee 4
 north carolina bar association 4
 california rural legal assistance foundation 3
 u.s. department of labor 2
 california rural legal assistance program 2
-colombia convention center revenue 2
 georgetown university law center 2
-u.s. see march comment 2
 louis d. brandeis school 2
+u.s. see march comments 2
+colombia convention center revenues 2
 southwest florida regional planning council 1
 gilbert f. casellas professor sarah h. cleveland professor nancy h. rogers professor enid f. trucios-haynes 1
-report on the use of temporary foreign worker in the florida sugar cane industry 1
+california industrial relations department 1
 john n. erlenborn john erlenborn 1
+harvard human rights journal 1
 the presence requirement together 1
-legal service corporation act 1
+honorable thomas d. lambros 1
 enid f. trucios-haynes enid trucios-haynes 1
-human resource david l. richardson 1
-alien tort claim act 1
+report on the use of temporary foreign workers in the florida sugar cane industry 1
 chairman professor t. alexander aleinikoff hon 1
 puerto rican legal defense 1
 jr. edna fairbanks-williams f.wm 1
@@ -1806,50 +1824,50 @@ mccalpin maria luisa mercado professor nancy h. rogers thomas f. smegal 1
 information technology michael a. genz 1
 treasurer edward h. faris 1
 kingston legal aid clinic 1
-california industrial relation department 1
+gilbert f. casellas gilbert casellas 1
 program performance executive summary 1
 georgetown immigration law journal 1
 duke university law school 1
-yale law school lowenstein international human right clinic 1
+north carolina growers association 1
 president danilo a. cardona 1
 north carolina farm bureau federation 1
-gilbert f. casellas gilbert casellas 1
+directors douglas s. eakeley 1
 sarah h. cleveland sarah cleveland 1
 u.s. census monitoring board 1
 social science research council 1
 staff of house committee on education and labor 1
-requiring lsc funded attorney 1
-harvard human right journal 1
+legal services corporation act 1
 corporate secretary james j. hogan 1
-director douglas s. eakeley 1
 american bar association standing committee 1
 hispanic national bar association 1
 alternative dispute resolution mediation 1
+alien tort claims act 1
+national agricultural workers survey 1
 legal analysis part iii 1
 north carolina farm bureau 1
-annual human right award 1
-emergency supplemental appropriation act 1
+yale law school lowenstein international human rights clinic 1
 north carolina industrial commission 1
-income and use of service 1
-non-lsc funded non-profit organization 1
+southern new mexico legal services 1
+annual human rights award 1
+legal services corporation erlenborn commission members hon 1
+changes could better improve services toemployers andbetter protect workers 1
 hulett h. askew laveeda m. battle hon 1
 pension benefit guaranty corporation 1
-honorable thomas d. lambros 1
+alien labor certification appeals 1
+emergency supplemental appropriations act 1
 study offederally funded legal aid formigrant farmworkers 1
+appendix erlenborn commission members thomas alexander aleinikoff thomas alexander aleinikoff 1
 a profile of u.s. farmworkers 1
 new york farm bureau 1
-national agricultural worker survey 1
+income and use of services 1
 jr. ernestine p. watlington management 1
-alien labor certification appeal 1
 many lawful permanent resident 1
 erlenborn commission hearing transcript 1
-southern new mexico legal service 1
-legal service corporation erlenborn commission member hon 1
-appendix erlenborn commission member thomas alexander aleinikoff thomas alexander aleinikoff 1
+requiring lsc funded attorneys 1
 economic instability in an unstable labor market 1
 hendricks county rural elec 1
-change could better improve service toemployers andbetter protect worker 1
+human resources david l. richardson 1
 information management leslie q. russell 1
 joseph v. okeelanta corp. 1
-north carolina grower association 1
+non-lsc funded non-profit organizations 1
 farmworkers in southwest florida 1

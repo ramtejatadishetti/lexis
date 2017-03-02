@@ -1,16 +1,16 @@
 
  Bigram NP 
-base estimate 35
+base estimate 34
 chronic bronchitis 33
 premature mortality 30
-alternative estimate 22
+alternative estimate 18
 u.s. epa 17
 real income 15
-base case 14
+base case 13
 statistical life 13
 c-r function 12
+us epa 12
 adverse health 12
-u epa 12
 recreational visibility 11
 our analysis 10
 air pollution 10
@@ -21,7 +21,6 @@ human health 9
 long-term exposure 9
 particulate matter 9
 avoided premature 9
-fine particle 8
 percent discount 8
 american journal 7
 environmental quality 7
@@ -29,27 +28,30 @@ scientific literature 7
 avoided health 6
 adjustment factor 6
 public health 6
-economic analysis 6
-concentration-response function 6
 distributed lag 5
+fine particle 5
 prospective study 5
 short-term exposure 5
 prospective cohort 4
+us department 4
 advisory council 4
 single day 4
+alternative estimates 4
 policy analysis 4
 contingent valuation 4
+economic analysis 4
 analytical approach 4
 double counting 4
-u department 4
+concentration-response function 4
 central tendency 3
 great deal 3
 prospective analysis 3
 d.w. dockery 3
 increased mortality 3
 tier ii 3
-daily death 3
+initial assessments 3
 base year 3
+fine particles 3
 short-term mortality 3
 title iv 3
 reasonable specification 3
@@ -57,7 +59,6 @@ large number 3
 baseline incidence 3
 follow-up period 3
 pollutant concentration 3
-initial assessment 3
 jim democker 3
 improved exposure 3
 new york 3
@@ -66,34 +67,39 @@ present value 3
 pollution-related case 3
 severe case 3
 affected population 3
+non-copd related 2
 guideline value 2
 cambridge ma 2
-respiratory symptom 2
 national morbidity 2
+unit values 2
 myocardial infarction 2
 electric power 2
+a. zanobetti 2
 statistical uncertainty 2
+mean estimate 2
 endpoint pollutant 2
-human service 2
 downward bias 2
 national median 2
 assumed threshold 2
 old individual 2
 single-lag model 2
+benefits analysis 2
 r.j. burchette 2
-sky act 2
-unit value 2
 c.v. mathai 2
 full impact 2
 appropriate adjustment 2
+economic analyses 2
 harvard six 2
-non-copd related 2
+asthma attack 2
+daily deaths 2
 substantial body 2
 ton/yr cap 2
 cardiovascular disease 2
+cleaner vehicles 2
 chronic health 2
 icf consulting 2
 fatal risk 2
+health perspectives 2
 united kingdom 2
 individual health 2
 fine particulate 2
@@ -102,14 +108,12 @@ single function 2
 human perception 2
 recreational fishing 2
 improved visibility 2
-mobile source 2
 k. ito 2
 considerable uncertainty 2
 remsad version 2
 absolute level 2
 alternative valuation 2
 west longitude 2
-c. mccowan 2
 household income 2
 capita income 2
 scientific community 2
@@ -117,7 +121,6 @@ medical care 2
 part ii 2
 appropriate way 2
 federal class 2
-benefit analysis 2
 air quality 2
 copd related 2
 county-specific adjustment 2
@@ -126,18 +129,15 @@ premature death 2
 first step 2
 annual mortality 2
 original study 2
-cleaner vehicle 2
-mean estimate 2
 atmospheric clarity 2
-asthma attack 2
 b. smith 2
+human services 2
 zanobetti a 2
-health perspective 2
 present analysis 2
 g.d. thurston 2
-a. zanobetti 2
 economic theory 2
 total incidence 2
+concentration-response functions 2
 across-study variation 2
 pollution-related mortality 2
 chronic exposure 2
@@ -147,8 +147,11 @@ ozone due 2
 economic value 2
 cardiovascular emergency 2
 quantitative sensitivity 2
+c. mccowan 2
+skies act 2
 extreme adjustment 2
 future year 2
+respiratory symptoms 2
 forced expiratory 2
 reasonable alternative 2
 ambient air 2
@@ -176,7 +179,6 @@ reduced risk 2
 r.t. burnett 2
 significant uncertainty 2
 m.j. thun 2
-total benefit 2
 disease control 2
 studnicka m 1
 dose-response function 1
@@ -186,22 +188,23 @@ particular threshold 1
 recreational areas.17 1
 agricultural production 1
 available evidence 1
+washington university 1
 relative sense 1
 section iii 1
 national program 1
 meteorological data 1
 quenel p 1
-private responsibility 1
+agricultural crop 1
+seasonal patterns 1
 same set 1
 statistical issue 1
 pollution-induced mortality 1
+national vital 1
 particular region 1
 toxic deposition 1
-national park 1
 mean concentration-response 1
 biased approach 1
 m. raizenne 1
-federal program 1
 primary research 1
 increased cost-of-illness 1
 non-copd premature 1
@@ -226,30 +229,31 @@ ozone-related health 1
 samet jm 1
 s. zeger 1
 f. lalonde 1
-same criterion 1
 much wider 1
 future target 1
 non-zero risk 1
 5-month period 1
-multiple pollutant 1
 correct form 1
 regulatory impact 1
 environmental health 1
 prolonged suffering 1
+epa report 1
 modest effect 1
 commercial forest 1
 average case 1
 mobile highway 1
+its kind 1
 p. amar 1
-severe morbidity 1
-icf resource 1
+particular value 1
 curriero f 1
 threshold sensitivity 1
-hypothesized relationship 1
+new algorithms 1
+symptoms subtotal 1
 see abt 1
+total benefits 1
 nitrogen deposition 1
 system-specific realism 1
-5-year loss 1
+benefits economic 1
 i. tombach 1
 average length 1
 commercial freshwater 1
@@ -257,7 +261,7 @@ up-to-date assessment 1
 present age 1
 important crop 1
 variable meteorology 1
-benefit economic 1
+c voluntariness 1
 second row 1
 analagous term 1
 respiratory disease 1
@@ -270,25 +274,24 @@ same level 1
 sample size 1
 non-threshold effect 1
 full implementation 1
-gryparis a 1
 wp src2 1
 location-specific baseline 1
-american review 1
+respiratory ailments 1
 recent literature 1
 distributed fashion 1
 his review 1
 their income 1
 extensive field 1
-potential extrapolation 1
 monetary compensation 1
-principal diagnosis 1
+time-series studies 1
+original air 1
 expected increase 1
-modeling inventory 1
 separate issue 1
 next section 1
 current levels.1 1
 j. vimont 1
 visibility estimating 1
+proper calculation 1
 considerable variation 1
 exposure analysis 1
 statistical premature 1
@@ -297,10 +300,9 @@ g. norris 1
 decreased ambient 1
 r. wyzga 1
 narrow population 1
-f. repetto 1
+n. nishino 1
 same impact 1
 certain crop 1
-u bureau 1
 human mortality 1
 various sensitivity 1
 current law 1
@@ -313,11 +315,12 @@ appendix h 1
 appendix j 1
 same year 1
 sulfuric acid 1
-respiratory ailment 1
+monetized benefit 1
+5-year loss 1
 daily basis 1
 conservative measure 1
 5-month ozone 1
-original air 1
+toxicological mechanisms 1
 annual incidence 1
 large percentage 1
 sab advisory 1
@@ -333,6 +336,9 @@ emissions-weighted approach 1
 distributional analysis 1
 measurement error 1
 mandatory emission 1
+same criteria 1
+private responsibilities 1
+estimate exhibits 1
 specific adjustment 1
 upward bias 1
 monetary benefit 1
@@ -398,6 +404,7 @@ grid cell 1
 daily exposure 1
 valid measure 1
 total number 1
+daily death 1
 • ecosystem 1
 atkinson r 1
 reasonable certainty 1
@@ -406,11 +413,11 @@ distance-weighted average 1
 agricultural sector 1
 a. alberini 1
 our examination 1
-new algorithm 1
 major problem.6 1
-monetized benefit 1
+visibility benefits 1
 winter wheat 1
 nitric acid 1
+modeling inventories 1
 alternative specification 1
 pm-related premature 1
 improved treatment 1
@@ -425,12 +432,12 @@ visual range 1
 cooperative institute 1
 c. battista 1
 bobros j 1
-symptom pm10 1
 main analysis 1
 analytic framework 1
 full-season ozone 1
 different visibility 1
 nutrient nitrogen 1
+acid aerosols 1
 federal government 1
 long-term mortality 1
 cancer society 1
@@ -438,7 +445,7 @@ full set 1
 d. waldman 1
 greenbaum d. 1
 minor health 1
-sky initiative 1
+m. heintzelman 1
 ostro b.d 1
 single age 1
 e.l. korn 1
@@ -449,10 +456,12 @@ lipfert f.w. 1
 siemiatycki j 1
 recreational class 1
 sudden death 1
+mobile source 1
 further confirmation 1
 recent air 1
-n. nishino 1
+skies act.d 1
 agricultural supply 1
+icf resources 1
 additional discussion 1
 pm2.5-mortality c-r 1
 national level 1
@@ -462,25 +471,25 @@ important investment 1
 national visibility 1
 particular specification 1
 other health 1
-visibility benefit 1
 total dollar 1
+base cases 1
 general point 1
 appropriate measure 1
 other class 1
-resource consultant 1
 average willingness 1
 r. goeree 1
+vehicle standards 1
 other job 1
 available estimate 1
 future-year ozone 1
 lipfert f.w 1
+federal programs 1
 fine fraction 1
 their report 1
 precise exercise 1
 pm-related health 1
 temporal pattern 1
 second step 1
-sky act.26 1
 pm10 pollution 1
 brief summary 1
 spatial interpolation 1
@@ -488,7 +497,6 @@ pervasive pollutant 1
 nc december 1
 unadjusted mean 1
 km population 1
-particle alone 1
 wet deposition 1
 vertical resolution 1
 celko m 1
@@ -504,9 +512,8 @@ smoking-related disease 1
 individual's willingness-to-pay 1
 recent pollution 1
 downward revision 1
-v. gianelle 1
-ozone reduction 1
 intermediate value 1
+ambient pollution 1
 burnett rt 1
 national assessment 1
 little confidence 1
@@ -522,17 +529,16 @@ pm-related case 1
 increased risk 1
 light extinction 1
 reduced premature 1
+northeastern us 1
 extensive study 1
 broad applicability 1
 updated set 1
 appropriate method 1
-peer-reviewed status 1
 personal communication 1
 j. cunningham 1
-clear sky 1
 g.van houtven 1
 pooled estimate 1
-avoided case 1
+cross-sectional income 1
 termed class 1
 non-fatal heart 1
 user's guide 1
@@ -546,7 +552,7 @@ individual information 1
 total value 1
 additional chronic 1
 social welfare 1
-agricultural crop 1
+potential extrapolation 1
 lung disease 1
 t. stewart 1
 daily average 1
@@ -559,17 +565,21 @@ c cumulative 1
 p. koutrakis 1
 pm/mortality c-r 1
 shorttern exposure 1
+skies act.26 1
 low-end estimate 1
+minor respiratory 1
 substantial difference 1
 empirical evidence 1
 strong pollution 1
-essential input 1
 valuation survey 1
 thorough discussion 1
 r.a. hedinger 1
+clear skies 1
 acute mortality 1
 chemical composition 1
 individual level 1
+national parks 1
+f. repetto 1
 long-term cohort 1
 potential relationship 1
 careful attention 1
@@ -577,35 +587,36 @@ total health 1
 basil blackwell 1
 same drop 1
 particular importance 1
-northeastern u 1
 electric utility 1
-washington university 1
+introduction background 1
 analytical framework 1
 non-fatal injury 1
 particular amount 1
 medina s 1
 remsad pm 1
-particular value 1
+monetary importance 1
+fort collins 1
 all cardiovascular 1
 physical risk 1
 lung function 1
 • ozone 1
+multiple pollutants 1
 attack asthma 1
 cumulative index 1
 grand canyon 1
 age-adjusted value 1
+american review 1
 g. loomes 1
 regional analysis 1
 their chemical 1
-u congress 1
 final step 1
 baseline level 1
 actual mortality 1
-health benefit 1
 involuntary nature 1
 authorized emission 1
 significant advance 1
 maximum impact 1
+principal diagnosis 1
 alternative model 1
 tight confidence 1
 current probability 1
@@ -620,8 +631,8 @@ estimated effect 1
 a. mcsermott 1
 ambient ozone 1
 same health 1
-estimate exhibit 1
 single death 1
+children-respiratory symptoms 1
 large set 1
 observational study 1
 rabczenko d 1
@@ -631,7 +642,6 @@ sulfur dioxide 1
 commercial fishing 1
 logarithmic scale 1
 national-level incidence 1
-m. heintzelman 1
 accumulated mercury 1
 coarse fraction 1
 particulate air 1
@@ -639,17 +649,16 @@ white wh 1
 reasonable range 1
 analytic sequence 1
 broad class 1
-acid aerosol 1
 particular study 1
 our inability 1
 spatial adjustment 1
-a.a. arroyo 1
+symptoms pm10 1
 longitudinal time 1
 peer-reviewed method 1
 mercury neurological 1
-similar context 1
 significant improvement 1
 reasonable benefit 1
+goldbert ms 1
 identified life 1
 additional uncertainty 1
 five-year lag 1
@@ -675,7 +684,6 @@ significant development 1
 specification test 1
 statistical incidence 1
 respiratory illness 1
-toxicological mechanism 1
 full support 1
 coherent nature 1
 further clarification 1
@@ -683,19 +691,16 @@ south dakota 1
 futureyear air 1
 field test 1
 our approach 1
-c voluntariness 1
-time-series study 1
+hypothesized relationship 1
 short-term risk 1
 accurate representation 1
 hypothetical study 1
-regional benefit 1
 their study 1
-goldbert m 1
-life instrument 1
-ontario resident 1
+v. gianelle 1
+gryparis a 1
+life instruments 1
 significant health 1
-ambient pollution 1
-monetary importance 1
+essential input 1
 urban-scale simulation 1
 national health 1
 threshold relationship 1
@@ -709,7 +714,6 @@ aqueous-phase chemistry 1
 man-made mercury 1
 cumulative health 1
 u.s. a 1
-minor respiratory 1
 assumed ozone 1
 c sudden 1
 s. fox 1
@@ -721,11 +725,11 @@ krewski d 1
 h.m. perry 1
 observed mortality 1
 day-to-day basis 1
-it incidence 1
+peer-reviewed status 1
+resource consultants 1
 recent meta-analysis 1
-seasonal pattern 1
 direct health 1
-children-respiratory symptom 1
+ontario residents 1
 cost-of illness 1
 non-asthma respiratory 1
 general willingness 1
@@ -734,6 +738,7 @@ agricultural product 1
 d. o'reilly 1
 full planning 1
 environmental market 1
+respiratory health 1
 all-cause mortality 1
 on-the-job mortality 1
 advective transport 1
@@ -761,6 +766,7 @@ zeger sl 1
 single value 1
 concerted effort 1
 present information 1
+ozone reductions 1
 nmmaps pm10 1
 our estimation 1
 implicit tradeoff 1
@@ -773,6 +779,7 @@ s. rothschild 1
 careful consideration 1
 inverse distance 1
 individual area 1
+us congress 1
 r. bloxam 1
 municipal waste 1
 kunzli n 1
@@ -784,12 +791,12 @@ ammonium/nitrate/sulfate equilibrium 1
 second adjustment 1
 d. krewski 1
 sip call 1
-symptom subtotal 1
 c level 1
 identical magnitude 1
 relevant resource 1
 monetary value 1
 dc march 1
+a.a. arroyo 1
 protracted death 1
 j. irwin 1
 support package 1
@@ -803,6 +810,7 @@ analytical blueprint 1
 relevant range 1
 lost life 1
 pollutant exposure 1
+us bureau 1
 g. yarwood 1
 current analysis 1
 recent section 1
@@ -811,14 +819,15 @@ such benefit 1
 econometric-simulation model 1
 extensive reexamination 1
 our understanding 1
-it kind 1
 gaseous sulfur 1
 improved specification 1
 related mortality 1
 selected health 1
 touloumi g 1
 their willingness 1
+severe morbidity 1
 legislative form 1
+mobile sources 1
 important confounding 1
 socioeconomic status 1
 valuable health 1
@@ -837,15 +846,16 @@ jerrett m 1
 statistical package 1
 co july 1
 complex computer 1
+avoided cases 1
 only crop 1
 developed quantitative 1
-national vital 1
 concentration-response relationship 1
 surface-layer ozone 1
+health benefits 1
 industrial economics 1
 sophisticated computer 1
+its incidence 1
 individual air 1
-cross-sectional income 1
 one-way nesting 1
 averting behavior 1
 north dakota 1
@@ -864,11 +874,10 @@ michael jones-lee 1
 morbidity revisited 1
 further discussion 1
 national estimate 1
-introduction background 1
-fort collins 1
+skies initiative 1
+similar contexts 1
 researchtriangle park 1
 actual monitoring 1
-epa report 1
 risk anal 1
 individual's willingness-to-accept 1
 pollutant mix 1
@@ -880,14 +889,12 @@ actuarial evidence 1
 time-series suties 1
 single number 1
 kaiser r 1
-proper calculation 1
 dockery dw 1
 light symptom 1
 s. pattanayak 1
-sky act.d 1
 supplemental calculation 1
 assessment population 1
-respiratory health 1
+regional benefits 1
 current age 1
 adequate data 1
 environmental research 1
@@ -901,7 +908,6 @@ agricultural yield 1
 indirect market 1
 outdoor origin 1
 renal function 1
-vehicle standard 1
 continued research 1
 abrahamowicz m 1
 l. deck 1
@@ -913,8 +919,11 @@ important health 1
 adequate review 1
 personal control 1
 particular strength 1
+total benefit 1
 nps-managed wilderness 1
 only risk 1
+particles alone 1
+base estimates 1
 inhalation toxicology 1
 continental-scale simulation 1
 dominici f 1
@@ -926,60 +935,60 @@ previous risk 1
 limited number 1
 
  Trigram NP 
-clear sky act 70
+clear skies act 70
 clean air act 8
-health effect institute 6
+health effects institute 6
 regulatory impact analysis 5
 science advisory board 5
 air quality planning 5
 omb circular a-94 4
 harvard six-cities study 4
-work loss day 4
+ecological effects subcommittee 4
 particulate air pollution 4
 integrated planning model 4
 waste management association 4
-ecological effect subcommittee 4
 research triangle park 3
-regional modeling system 3
 acid rain program 3
-generalized additive model 2
+regional modeling system 3
+future discussion paper 2
+base benefits description 2
 regulatory modeling system 2
 mortality chronic exposure 2
+work loss days 2
 unconstrained distributed lag 2
-base benefit description 2
 mean monetized health 2
 nox sip call 2
 heavy duty diesel 2
+key sensitivity analyses 2
+work loss day 2
 air pollution study 2
-environmental effect modeling 2
 american medical association 2
+generalized additive models 2
 national park service 2
-future discussion paper 2
+krewski/harvard six-city studyd 2
 environmental protection agency 2
 state u.s. population 2
 engine/diesel fuel ria 2
 american lung association 2
-key sensitivity analysis 2
-krewski/harvard six-city studyd 2
+environmental effects modeling 2
 appropriate economic value 1
 specific scientific evidence 1
 same underlying relationship 1
-acid rain provision 1
-consideration comment peer 1
+national academy press 1
+consideration comments peer 1
 mortality short-term exposure 1
-pm criterion document 1
+welfare recreational visibility 1
 environmental economics management 1
 single true relationship 1
-bea regional projection 1
 respiratory critical care 1
 time series analysis 1
 long-term prospective cohort 1
-national emission inventory 1
 deposition modeling air 1
 peer-reviewed scientific literature 1
 krupnick chronic bronchitis 1
 other contingent valuation 1
-respiratory symptom reporting 1
+c exposure/mortality lags 1
+ozone criteria document 1
 long-range research portfolio 1
 draft analytical plan 1
 air quality estimation 1
@@ -987,108 +996,111 @@ voronoi neighbor averaging 1
 heavy-duty engine/diesel fuel 1
 gam-time series issue 1
 le tertre a 1
-air quality control 1
-information retrieval system 1
+benefit analysis results 1
+welfare benefits methods 1
+potential cumulative effect 1
 short-term fine particle 1
 pertinent atmospheric chemistry 1
 small additional mortality 1
 old individual dying 1
 increased computational performance 1
-research report no 1
+battle environmental threats 1
 horizontal turbulent diffusion 1
 colorado state university 1
-c exposure/mortality lag 1
 health policy research 1
-john hopkins school 1
+available epidemiological evidence 1
 federal clean air 1
+air quality changes 1
 regional haze rule 1
+national emissions inventory 1
 worse asthma status 1
-activity day pm 1
+v. references abbey 1
 adverse human health 1
 health care policy 1
-welfare recreational visibility 1
 draft final report 1
 appropriate geographic level 1
 fine grid resolution 1
 basic economic tenet 1
 only significant difference 1
 contingent valuation method 1
-available epidemiological evidence 1
+respiratory symptom reporting 1
 average pollution-related case 1
-total suspended particulate 1
-benefit analysis method 1
+krewski-harvard six cities 1
+long-term chronic effect 1
+contingent valuation benefit 1
 baseline incidence rate 1
-krewski-harvard six city 1
+human health effects 1
+acid rain provisions 1
 horizontal grid size 1
 highway diesel fuel 1
 other pollutant transformation 1
 high monetary value 1
+new motor vehicles 1
+clear skies scenarios 1
+airborne particulate matter 1
 u.s. census bureau 1
 their atmospheric transformation 1
-ozone criterion document 1
-nonelderly asthma hospital 1
+dc us department 1
+results base estimate 1
+waste managment association 1
+environmental health risks 1
+activity days pm 1
 important public good 1
 acute respiratory morbidity 1
-mortality risk reduction 1
-health risk valuation 1
-nox emission projection 1
+aranguez ruiz e 1
+tier ii rules 1
 other specific threshold 1
 intensive independent reanalysis 1
 next prospective study 1
-waste managment association 1
 current scientific literature 1
-dc u department 1
-tier ii rule 1
+nonelderly asthma hospital 1
 endpoint pollutant valuation 1
 l. j. okamoto 1
 hourly average ozone 1
 middle-aged working population 1
-motor vehicle emission 1
-aranguez ruiz e 1
-clear sky scenario 1
+research report no 1
 environment task force 1
 net present value 1
+limited scientific information 1
 short-term mortality subtotal 1
-human health effect 1
 document number epa 1
+human health symptoms 1
+state implementation plans 1
 underlying economic literature 1
 extensive scientific literature 1
-potential cumulative effect 1
+information retrieval system 1
 minor respiratory illness 1
 regional haze ria 1
 premature mortality valuation 1
 additional aqueous sulfate 1
 fossil fuel-fired combustion 1
 additional empirical support 1
-asthma attack respiratory 1
+health state utilities 1
 persistent public health 1
 scientific peer review 1
 potential economic value 1
-john hopkins university 1
-same proportional increase 1
-state implementation plan 1
-dc u govt 1
-acute ozone exposure 1
+asthma attacks pm 1
+long-term ambient concentrations 1
 significant downward bias 1
 analysis pm-related mortality 1
 their overall ecosystem 1
 cancer society study 1
 summer air pollution 1
+mortality risk reductions 1
 various recent rulemaking 1
 their recent report 1
 new england journal 1
-result base estimate 1
 sophisticated atmospheric dispersion 1
-air quality change 1
 regulatory scenario development 1
+c regional differences 1
+welfare benefits valuation 1
 independent chronic effect 1
 several hazardous air 1
-asthma attack pm 1
 full alternative estimate 1
 perceptible scenic change 1
-benefit analysis result 1
+nox emissions projections 1
 horak f jr 1
-welfare benefit valuation 1
+bea regional projections 1
 the benefit analysis 1
 u.s. southwest residential 1
 reduced fine particle 1
@@ -1097,45 +1109,44 @@ clean air compliance 1
 critical care medicine 1
 second prospective analysis 1
 other economic valuation 1
-chronic bronchitis chronic 1
+benefits analysis methods 1
 chronic respiratory disease 1
-health state utility 1
 national research council 1
 obstructive pulmonary disease 1
-limited scientific information 1
-nmmaps morbidity data 1
 single c-r function 1
-welfare benefit method 1
-national academy press 1
+nmmaps morbidity data 1
+same proportional increase 1
+acute ozone exposures 1
+nitrogen oxides respiratory 1
 contingent valuation-based value 1
-new motor vehicle 1
 final important difference 1
 several important time 1
 future year mass 1
 regional adjustment random 1
+dc us govt 1
+johns hopkins school 1
 relevant economic literature 1
 eulerian photochemical dispersion 1
 independent scientific analysis 1
 likely causal role 1
 complex atmospheric chemistry 1
-long-term ambient concentration 1
 regulatory benefit-cost analysis 1
-environmental health risk 1
+pm criteria document 1
+asthma attacks respiratory 1
 oxford university press 1
 other unfavorable job 1
 heavy-duty diesel engine 1
-battle environmental threat 1
-airborne particulate matter 1
+motor vehicle emissions 1
+johns hopkins university 1
 national data book 1
 los angeles area 1
-long-term chronic effect 1
+total suspended particulate 1
 total avoided premature 1
-contingent valuation benefit 1
-human health symptom 1
+health risk valuations 1
 mortality associated specifically 1
 awma/epa international specialty 1
 transport assessment group 1
-nitrogen oxide respiratory 1
+chronic bronchitis chronic 1
 minor health effect 1
 same general approach 1
 try working paper 1
@@ -1145,62 +1156,59 @@ critical analytical step 1
 biological exposure-response information 1
 same statistical package.11 1
 only possible interpretation 1
+air quality control 1
 median weekly wage 1
 primary economic research 1
-v. reference abbey 1
 long term variability 1
-c regional difference 1
 
  Unigram NP 
 mortality 141
 health 97
 pm 90
 analysis 81
-risk 79
-value 79
 wtp 79
-air 74
-study 72
+risk 78
+value 78
+air 72
+study 71
 visibility 67
 ozone 61
 estimate 54
 valuation 45
 population 43
 al 43
-exhibit 41
 epa 41
 pollution 41
-age 41
+exhibit 40
 vsl 40
 c-r 36
 effect 36
+age 35
 adjustment 34
 percent 34
 model 33
 exposure 33
 pm2.5 31
-reduction 31
-change 30
 relationship 30
 quality 29
+change 28
 schwartz 28
 time 28
-section 26
-incidence 26
+reduction 26
+section 25
 rate 24
 remsad 24
+incidence 24
 approach 24
 number 23
-life 21
 premature 21
+life 21
 office 20
-function 20
 mercury 19
 jones-lee 19
-result 19
 case 19
+function 19
 chestnut 19
-benefit 18
 example 17
 base 17
 impact 17
@@ -1219,48 +1227,49 @@ respiratory 14
 e.g. 14
 matter 14
 pope 14
-unit 14
 grid 14
 growth 14
 baseline 14
 use 13
 viscusi 13
 rowe 13
-report 13
 sensitivity 13
 estimation 13
 cb 13
 basis 13
+unit 13
 so2 13
 deposition 12
 information 12
-method 12
 part 12
 factor 12
 sulfur 12
+report 12
 literature 12
 scenario 12
 % 12
 level 11
-cost 11
 cell 11
 endpoint 11
 control 11
 alternative 11
-income 11
+benefit 11
 individual 11
+income 11
 research 10
 discount 10
 ipm 10
 damage 10
 capms 10
 assumption 10
+result 10
 extent 10
 cv 10
 asthma 10
 journal 10
 distribution 10
 measure 10
+results 9
 al. 9
 room 9
 particulate 9
@@ -1268,14 +1277,12 @@ pollutant 9
 united 9
 lag 9
 order 9
-standard 9
+method 9
 class 9
-threshold 9
 procedure 9
 death 9
 dollar 8
 september 8
-mean 8
 development 8
 series 8
 size 8
@@ -1285,21 +1292,24 @@ power 8
 krupnick 8
 type 8
 krewski 8
+cost 7
 cap 7
 cohort 7
 market 7
 nitrogen 7
+mean 7
 generation 7
+benefits 7
 season 7
 morbidity 7
 hei 7
+threshold 7
 review 7
 nature 7
 proposal 7
 emergency 7
 improvement 7
 loss 7
-extension 7
 washington 7
 congress 7
 welfare 6
@@ -1324,26 +1334,26 @@ need 6
 note 6
 cropper 6
 km 6
-aerosol 6
 fact 6
 selection 6
 implementation 6
 summary 6
 april 6
 period 6
+ages 6
 demand 6
 radiation 6
-ac 6
 status 6
+acs 6
+extensions 6
 chronic 6
+lrs 5
+standards 5
+guidelines 5
 contingent 5
-cause 5
-guideline 5
-emission 5
 equation 5
 severity 5
 existence 5
-lr 5
 policy 5
 domain 5
 agriculture 5
@@ -1353,7 +1363,9 @@ willingness 5
 concentration 5
 u.s 5
 average 5
+urs 5
 atmosphere 5
+reductions 5
 activity 5
 set 5
 caaa 5
@@ -1361,12 +1373,12 @@ country 5
 composition 5
 survival 5
 panel 5
+aerosols 5
 transfer 5
 october 5
-ur 5
+us 5
 reliability 5
 detail 5
-u 5
 electricity 4
 iii 4
 spengler 4
@@ -1378,10 +1390,12 @@ crop 4
 l.g 4
 degree 4
 i.e 4
+cause 4
 case3 4
 wealth 4
 hospital 4
 nclan 4
+emission 4
 account 4
 science 4
 discussion 4
@@ -1392,8 +1406,8 @@ commodity 4
 prepared 4
 monitor 4
 abbey 4
-day 4
 increase 4
+standard 4
 option 4
 reanalysis 4
 speizer 4
@@ -1406,24 +1420,24 @@ pneumonia 4
 omb 4
 context 4
 coi 4
-smith 4
 mcclelland 4
 prevalence 4
 thurston 4
+costs 4
+smith 4
 otag 4
+finding 4
 tier 4
 r.d 4
 respect 4
 inflammation 4
 willingness-to-pay 4
-finding 4
 j 4
 evidence 4
 application 4
 june 4
 epa-sab-council-adv-01-004 3
-child 3
-jr. 3
+children 3
 environment 3
 choice 3
 haze 3
@@ -1444,12 +1458,12 @@ dennis 3
 ratio 3
 may 3
 advice 3
-dc 3
 dominici 3
 documentation 3
 correlation 3
 cardiovascular 3
 production 3
+day 3
 susceptibility 3
 deciview 3
 possibility 3
@@ -1458,13 +1472,13 @@ management 3
 ton 3
 percentage 3
 sisler 3
-symptom 3
 grid-cell 3
 altered 3
 specification 3
 surplus 3
-fuel 3
 concentration-response 3
+dc 3
+methods 3
 µg/m3 3
 resource 3
 j. 3
@@ -1476,7 +1490,6 @@ c 3
 region 3
 wtps 3
 pm-mortality 3
-consideration 3
 table 3
 bronchitis 3
 transformation 3
@@ -1486,19 +1499,19 @@ error 3
 surface 3
 bias 3
 ambient 3
+jr. 3
 inventory 3
 pm/mortality 3
 shape 3
 nmmaps 3
 supply 3
-sky 3
 source 3
 east 3
+skies 3
 omission 3
+acute 3
 community 3
 seattle 3
-acute 3
-particle 3
 neumann 3
 transport 3
 vol 3
@@ -1518,16 +1531,15 @@ ecological 3
 m.e 3
 structure 3
 resolution 3
-d. 2
-thomas 2
+lack 2
 unsworth 2
 concept 2
 ozkaynak 2
+airs 2
 sulfate 2
 program 2
 safety 2
 southwest 2
-lack 2
 md 2
 accumulation 2
 design 2
@@ -1557,19 +1569,19 @@ process 2
 producer 2
 topic 2
 council 2
-methodology 2
 profile 2
 aging 2
-j.m 2
 l.g. 2
 light 2
 rowlatt 2
 ito 2
+thresholds 2
+combinations 2
 cambridge 2
+thomas 2
 style 2
 absence 2
 texas 2
-combination 2
 practice 2
 dataset 2
 february 2
@@ -1583,22 +1595,25 @@ care 2
 origin 2
 flood 2
 probability 2
-dickie 2
 multi-city 2
+peters 2
+j.m 2
 draft 2
 national 2
 pittsburgh 2
 ostro 2
 environmental 2
+symptom 2
 december 2
-b 2
 compensation 2
 future 2
-j.e. 2
 residential 2
+dickie 2
 stream 2
 concern 2
+fuels 2
 mact 2
+transactions 2
 elixhauser 2
 sector 2
 advisory 2
@@ -1607,6 +1622,7 @@ iec 2
 environ 2
 rest 2
 usepa 2
+j.e. 2
 body 2
 variability 2
 prevention 2
@@ -1618,14 +1634,15 @@ harvard 2
 j.h 2
 relevant 2
 s-plus 2
+consideration 2
 i.e. 2
+d. 2
 west 2
 breath 2
 field 2
 corresponding 2
 c. 2
 tolley 2
-gas 2
 gam 2
 commerce 2
 tsp 2
@@ -1638,7 +1655,7 @@ g.e 2
 l.m 2
 purpose 2
 g/m3 2
-transaction 2
+changes 2
 baltimore 2
 six-city 2
 chemistry 2
@@ -1649,10 +1666,10 @@ density 2
 adoption 2
 overview 2
 input 2
-test 2
+particle 2
 specific 2
+incidences 2
 r.g 2
-peter 2
 rulemaking 2
 stieb 2
 moderate 2
@@ -1680,21 +1697,26 @@ education 2
 cotton 2
 credibility 2
 role 2
+test 2
 m.l 2
 infection 2
 variable 2
 interval 2
 acs/pope 1
+nonsmokers 1
 code 1
 fishe 1
 green 1
+causes 1
 row 1
+particles 1
 //www.camx.com/overview.html 1
 technique 1
 removal 1
 hdd 1
 double-counting 1
 brown 1
+allergy 1
 premium 1
 advantage 1
 asthmatic 1
@@ -1702,7 +1724,6 @@ school 1
 post-control 1
 transmission 1
 disease 1
-kansa 1
 epa-sab-council-adv-98-003 1
 1987-1994 1
 l.m. 1
@@ -1713,7 +1734,6 @@ s.f 1
 upper 1
 loehman 1
 s.v 1
-perspective 1
 remainder 1
 acid 1
 cfr 1
@@ -1733,7 +1753,7 @@ larson 1
 understanding 1
 acadia 1
 operating 1
-arch 1
+a.e.s 1
 separation 1
 [ 1
 pm/ 1
@@ -1747,19 +1767,19 @@ experience 1
 scatter 1
 pooling 1
 postprocessing 1
-s.e 1
 tightness 1
-classification 1
 m.t. 1
 motor 1
 cloud 1
 monetization 1
 re-analysis 1
 triggering 1
+ministers 1
 w.k. 1
 whittemore 1
 call 1
 vehicle 1
+timing 1
 simpler 1
 subsistence 1
 carmody 1
@@ -1774,6 +1794,7 @@ hour 1
 rio 1
 oxide 1
 nebraska 1
+values 1
 f.e. 1
 male 1
 heart 1
@@ -1790,19 +1811,22 @@ goal 1
 january 1
 chemical 1
 immune 1
+methodology 1
 fourth 1
 parameter 1
-administrator 1
+influence 1
 plant 1
 morphological 1
 variant 1
 collection 1
 manitoba 1
-sip 1
+t.v 1
 j.s 1
+blood 1
 cardiac 1
 president 1
 stnut 1
+nps 1
 fo 1
 individual's 1
 sw 1
@@ -1817,16 +1841,15 @@ insight 1
 vary 1
 trade 1
 presence 1
-timing 1
 november 1
 no2 1
-nonsmoker 1
 delay 1
 outer 1
 chosen 1
 r.l 1
 recreational 1
 multicity 1
+symptoms 1
 c.a 1
 a.k.a 1
 main 1
@@ -1866,11 +1889,13 @@ oklahoma 1
 vehicle/gasoline 1
 fullseason 1
 investigation 1
+hwang 1
 re-evaluation 1
 locations.22 1
 j.x 1
 theory 1
 dirt 1
+mechanisms 1
 nti 1
 rothschild 1
 term 1
@@ -1881,18 +1906,19 @@ japca 1
 derivation 1
 corn 1
 transferability 1
-a.e. 1
+days 1
 turn 1
 length 1
 place 1
 incorporated 1
 blumenschein 1
 appropriateness 1
-blood 1
+user 1
+g.s 1
 third 1
 critique 1
-lawson 1
 preservation 1
+equilibria 1
 lettuce 1
 50:238-247 1
 characteristic 1
@@ -1903,18 +1929,21 @@ introduction 1
 opportunity 1
 top 1
 consistent 1
-park 1
+studies 1
 immediate 1
 00-37 1
 palsy 1
 manifestation 1
 longer-term 1
 distance 1
+b 1
 target 1
 accordance 1
 validity 1
+risks 1
 minus 1
 non-asthma 1
+perspective 1
 p.r 1
 a.j. 1
 generalization 1
@@ -1928,7 +1957,6 @@ violette 1
 southeast 1
 agency 1
 k. 1
-mechanism 1
 reliance 1
 chest 1
 potential 1
@@ -1936,19 +1964,18 @@ welldeveloped 1
 energy 1
 performance 1
 impairment 1
-e.p 1
+totals 1
 vegetation 1
 accuracy 1
 electric 1
-heath 1
+park 1
 epa-230-09-86-018 1
-allergy 1
 mis-estimation 1
 phase 1
+subset 1
 america 1
 segment 1
 wypij 1
-r.p 1
 koutrakis 1
 fahien 1
 chicago 1
@@ -1956,10 +1983,10 @@ statistic 1
 prematurity 1
 face 1
 yang 1
+aerosol 1
 se 1
 b.d 1
 quantifying 1
-presentation 1
 evna 1
 v.h 1
 synopsis 1
@@ -1973,10 +2000,11 @@ epa-sab-council-adv-99-005 1
 aspect 1
 sheppard 1
 jan 1
-equilibrium 1
+fuel 1
+means 1
 j.f 1
 quantified 1
-arrhythmia 1
+arch 1
 progress 1
 conjunction 1
 circulation 1
@@ -1988,7 +2016,6 @@ one-fourth 1
 freshwater 1
 conduct 1
 view 1
-user 1
 m.m 1
 art 1
 committee 1
@@ -1996,7 +2023,7 @@ reference 1
 e.t. 1
 edition 1
 defense 1
-knutsen 1
+sips 1
 angina 1
 namboodiri 1
 days** 1
@@ -2013,6 +2040,7 @@ neonatal 1
 problem 1
 both 1
 wta 1
+arrhythmias 1
 risk-risk 1
 protection 1
 retarded 1
@@ -2025,9 +2053,9 @@ cancer 1
 point 1
 format 1
 dispatch 1
-na 1
 initiative 1
-denver 1
+exhibits 1
+nas 1
 conference 1
 che 1
 ] 1
@@ -2037,31 +2065,33 @@ estimated 1
 treatment 1
 top-down 1
 nrc 1
-influence 1
 government 1
+gas 1
 precision 1
 ecosystem 1
 age-specificity 1
-minister 1
 smoking 1
 present 1
 raizenne 1
 exception 1
+classifications 1
 hde 1
 balance 1
 sorghum 1
 guide 1
 mucus 1
 iv 1
+reports 1
 carbon 1
 controversy 1
 regression 1
 ria 1
 j.q 1
 capture 1
-italy 1
+knutsen 1
 winter 1
 fewer 1
+units 1
 decibel 1
 document 1
 workplace 1
@@ -2078,7 +2108,6 @@ meta-analysis 1
 l.b 1
 lower 1
 inhalation 1
-hwang 1
 page 1
 person 1
 severe 1
@@ -2092,6 +2121,7 @@ d.m. 1
 w.e 1
 w.k 1
 sequestration 1
+administrator 1
 day-to-day 1
 shorthand 1
 :1132-41 1
@@ -2111,6 +2141,7 @@ subcommittee 1
 //www.healtheffects.org/pubs/nmmapsletter.pdf 1
 d 1
 = 1
+italy 1
 fev1 1
 preference 1
 l. 1
@@ -2123,18 +2154,20 @@ r.m 1
 sequence 1
 senate 1
 authority 1
-g.s 1
+heath 1
 b.l 1
 duration 1
 pain 1
+r.p 1
 e.e 1
-total 1
+s.e 1
 epa-sab-council-adv-00-001 1
 koenig 1
 :23-30 1
 ii-mortality 1
-t.v 1
+lawson 1
 a.s. 1
+presentation 1
 judgment 1
 core 1
 noise 1
@@ -2142,10 +2175,13 @@ wheat 1
 pressure 1
 risk-aversion 1
 diet 1
+bs 1
+e.p 1
 stay 1
 chapter 1
 comparison 1
 census 1
+extension 1
 industry 1
 simulation 1
 rossley 1
@@ -2154,7 +2190,7 @@ horizon 1
 addendum 1
 predictor 1
 xu 1
-subset 1
+considerations 1
 m. 1
 respondent 1
 wilderness 1
@@ -2167,15 +2203,18 @@ countylevel 1
 baty 1
 x.p 1
 area 1
+gases 1
 dispersion 1
 ahcpr 1
 low 1
 summertime 1
 house 1
+sections 1
 fish 1
 h.r.5266 1
 complete 1
 form 1
+c.w 1
 hyattsville 1
 laboratory 1
 visitation 1
@@ -2191,9 +2230,9 @@ reproductive 1
 default 1
 de 1
 robustness 1
-mcdonnell 1
 below 1
 exploration 1
+emissions 1
 sum 1
 recognition 1
 taylor 1
@@ -2201,16 +2240,17 @@ associated 1
 certain 1
 abstract 1
 linearity 1
+kansas 1
 w.a 1
 confounding 1
 hypertension 1
 file 1
 et 1
 lifetime 1
+functions 1
 rias 1
 oar 1
-np 1
-mass 1
+mcdonnell 1
 residence 1
 conclusion 1
 picture 1
@@ -2219,104 +2259,104 @@ comprehensiveness 1
 shenandoah 1
 discharge 1
 lang 1
-c.w 1
+denver 1
 lb/mmbtu 1
+methodologies 1
 consumer 1
 curve 1
 rule 1
 notion 1
 calle 1
 portion 1
+mass 1
 epa-410-r-99-001 1
 beeson 1
 missouri 1
 
  Arbitary length NP 
-u environmental protection agency 13
-clean air act amendment 8
+us environmental protection agency 13
+clean air act amendments 8
 heavy-duty engine/diesel fuel ria 8
 comprehensive air quality model 6
-clear sky act case 2
 pm-related premature mortality krewski/acs study regional 2
-heavy duty diesel rule 2
-criterion air pollutant modeling system 2
-adverse health effect associated 2
+health endpoints estimated value health 2
+new national park visibility value estimates 2
 adjustment modelb pope/acs studyc 2
-health endpoint estimated value health 2
+clear skies act case 2
+criteria air pollutant modeling system 2
 pm-related premature mortality a 2
 u.s. environmental protection agency 2
-new national park visibility value estimate 2
-analysis avoided incidence estimate adjusted 2
+heavy duty diesel rules 2
+analysis avoided incidences estimate adjusted 2
 respiratory critical care medicine 2
+adverse health effects associated 2
 heavy-duty standards/diesel fuel rulemaking 1
-multi-emissions reduction proposal benefit analysis baseline 1
-lung cancer cardiopulmonary mortality 1
+work loss days work loss days 1
+johns hopkins univeristy press 1
 full potential multi-day mortality 1
-acute bronchitis pm2.5 upper respiratory symptom pm10 lower respiratory symptom pm2.5 asthma attack pm10 1
 [ hei ] reanalysis project 1
-harvard six city study 1
-final regional haze rule 1
-ozone work loss day pm2.5 minor restricted activity day pm2.5 1
+acute bronchitis pm2.5 upper respiratory symptoms pm10 lower respiratory symptoms pm2.5 asthma attacks pm10 1
+hospital admissions -all respiratory 1
+profile development emissions inventories emission 1
+lung cancer cardiopulmonary mortality 1
+symptoms acute bronchitis upper respiratory symptoms lower respiratory symptoms work loss days minor restricted activity days 1
 am j public health 1
-the clear sky initiative september 1
 clean air compliance analysis 1
-hospitalization copd admission pm10 pneumonia admission pm10 cardiovascular admission pm10 asthma admission pm2.5 all respiratory admission ozone dysrhythmia admission ozone emergency room visit 1
-association between ambient particle 1
+harvard six cities study 1
+work loss days pm ostro 1
+dc us environmental protection agency 1
 fine particulate air pollution 1
-pm national ambient air quality standard 1
-health benefit estimate within-study variation within-study 1
-pm2.5 pm10 pm2.5 pm2.5 pm2.5 1
+the clear skies initiative september 1
 willingness-to-pay national sample survey 1
-air pollutant pollutant quantified effect unquantified effect particulate matter recreational 1
-hospitalization / er visit copd admission pneumonia admission cardiovascular admission asthma admissionsall respiratory admission dysrhythmia admission emergency room visit 1
-admission chronic obstructive pulmonary disease 1
-minor restricted activity day 1
-general benefit transfer consideration 1
+pm2.5 pm10 pm2.5 pm2.5 pm2.5 1
+[ harvard six cities ] 1
+asthma hospitalization / er visits subtotal minor respiratory illness 1
 hei peer review panel 1
-ecological valuation issue initial study 1
 welfare per incidence derivation 1
 all respiratory variable dysrhythmia 1
-gasoline sulfur control requirement 1
+upper respiratory symptoms pm pope 1
+ecological valuation issues initial studies 1
+air pollutants pollutant quantified health effects unquantified health effects ozone minor 1
 ozone national ambient air quality 1
-asthma hospitalization / er visit subtotal minor respiratory illness 1
 clean air act compliance analysis 1
-hospitalization upper respiratory symptom 1
-fatal cancer risk reduction 1
-symptom acute bronchitis upper respiratory symptom lower respiratory symptom work loss day minor restricted activity day 1
+general health services intramural research 1
 clean air scientific advisory committee 1
-ecological effect initial study 1
-lower respiratory symptom pm schwartz 1
+hospitalization copd admissions pm10 pneumonia admissions pm10 cardiovascular admissions pm10 asthma admissions pm2.5 all respiratory admissions ozone dysrhythmia admissions ozone emergency room visits 1
+health benefit estimates within-study variation within-study 1
 agriculture worker productivity pm 1
 projected real income growth 1
 base estimate restricted activity 1
-uncertainty in benefit analysis 1
-clear sky act analytical support package 1
-profile development emission inventory emission 1
+final regional haze rule 1
+pm national ambient air quality standards 1
+ozone work loss days pm2.5 minor restricted activity days pm2.5 1
+sulfur dioxide hospital admissions -all respiratory 1
 chronic illness chronic bronchitis pm10 pm2.5 1
-it associated conceptual basis 1
+symptoms subtotal total health benefits 1
 c-r relationship nationwide whether 1
 nox sip call ria 1
-hospital admission -all respiratory 1
+gasoline sulfur control requirements 1
 clean air science advisory committee 1
 distributed lag between air pollution 1
 epri veterans' cohort mortality study 1
+association between ambient particles 1
 air quality management division 1
-john hopkins univeristy press 1
-sulfur dioxide hospital admission -all respiratory 1
 heavy duty engine diesel fuel rule 1
-air pollutant pollutant quantified health effect unquantified health effect ozone minor 1
-hospitalization / er visit subtotal minor respiratory illness 1
+hospitalization / er visits subtotal minor respiratory illness 1
 welfare per incidence endpoint 1
-[ harvard six city ] 1
-dc u environmental protection agency 1
-work loss day work loss day 1
+ecological effects initial studies 1
+multi-emissions reduction proposal benefits analysis baseline 1
+fatal cancer risk reductions 1
+clear skies act analytical support package 1
 chronic obstructive pulmonary disease 1
+hospitalization / er visits copd admissions pneumonia admissions cardiovascular admissions asthma admissionsall respiratory admissions dysrhythmia admissions emergency room visits 1
 hei health review committee 1
+lower respiratory symptoms pm schwartz 1
 benefit adjustment factor adjustment factor category 1
+minor restricted activity days 1
+heavy-duty engine/diesel fuel rias 1
 ozone acute bronchitis pm dockery 1
 extensive new primary research 1
 income over time recent sab 1
-symptom subtotal total health benefit 1
 chronic premature mortality* acute premature mortality ‡* bronchitis 1
 heavy duty engine/diesel fuel ria 1
 chronic illness chronic bronchitis pm10 1
@@ -2326,14 +2366,16 @@ environmental economics advisory committee 1
 future discussion paper qe 1
 awma/epa international specialty conference 1
 a public health defense system 1
-estimate base estimate premature mortality value 1
+hospitalization upper respiratory symptoms 1
+uncertainties in benefits analysis 1
+admissions chronic obstructive pulmonary disease 1
 clean air compliance analysis advisory 1
 heavy-duty engine/diesel fuel rule 1
 epa science advisory board 1
-general health service intramural research 1
 heavy-duty engine / diesel fuel rule 1
-upper respiratory symptom pm pope 1
-heavy-duty engine/diesel fuel rias 1
-work loss day pm ostro 1
+estimates base estimate premature mortality value 1
+its associated conceptual basis 1
+general benefits transfer considerations 1
 pm mortality relationship health 1
 pew environmental health commission 1
+air pollutants pollutant quantified effects unquantified effects particulate matter recreational 1

@@ -13,7 +13,7 @@ bexar meet 1
 south side 1
 paso hondo 1
 civil court 1
-it kind 1
+its kind 1
 my life 1
 right hand 1
 executive director 1
@@ -38,7 +38,7 @@ free legal aid 1
 lawyer lamont jefferson 1
 free legal counseling 1
 community justice program 1
-it first day 1
+its first day 1
 st. mary's school 1
 
  Unigram NP 

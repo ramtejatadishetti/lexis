@@ -33,7 +33,7 @@ violence ruling 1
 executive director 1
 
  Trigram NP 
-family court judge 1
+family court judges 1
 our big concern 1
 ms. dunford- jackson 1
 thick domestic abuse 1
@@ -99,10 +99,10 @@ docket 1
 order 1
 
  Arbitary length NP 
-new york time january 1
 kentucky domestic violence association 1
-central kentucky legal service 1
-billie lee dunford- jackson 1
-francis x. cline exington 1
+francis x. clines exington 1
 judge megan lake thornton 1
+central kentucky legal services 1
+billie lee dunford- jackson 1
+new york times january 1
 fayette county district court 1

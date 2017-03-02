@@ -1,9 +1,9 @@
 
  Bigram NP 
-total cost 14
+total cost 13
 poste italiane 10
-la poste 4
 • percentage 4
+la poste 4
 unaddressed mail 4
 full time 3
 john waller 3
@@ -20,7 +20,6 @@ hourly wage 2
 our hypothesis 2
 actual cost 2
 total volume 2
-postal market 2
 window service 2
 posti finland 2
 low coverage 2
@@ -44,7 +43,6 @@ our model 1
 kommunikationsdienste gmbh 1
 average revenue 1
 long run 1
-industrialized country 1
 simple model 1
 additional research 1
 average time 1
@@ -54,16 +52,16 @@ italian labor 1
 annual report 1
 usps lr-i-481 1
 the hypothesis 1
-cost function 1
-finding empirical 1
-piggyback factor 1
 single unit 1
-postal activity 1
+industrialized country 1
 cost heterogeneity 1
 actual unit 1
 unknown amount 1
 additional cost 1
 specific volume 1
+references bernard 1
+piggyback factors 1
+unit costs 1
 robert cohen 1
 piecea canada 1
 top line 1
@@ -78,12 +76,15 @@ bottom line 1
 introduction mailhandling 1
 small number 1
 significant virtue 1
-large volume 1
+volumes percentage 1
+cost functions 1
 small deviation 1
-intra city 1
+total costs 1
 our sample 1
 normal mail 1
+intra city 1
 ctt correios 1
+postal market 1
 sufficient cost 1
 constant coefficient 1
 postal economics 1
@@ -92,23 +93,24 @@ base year 1
 vertical axis 1
 low delivery 1
 basic total 1
+unique shape 1
+findings empirical 1
 general shape 1
 universal service 1
 usps operational 1
-unique shape 1
 above formula 1
 delivery economics 1
 high volume 1
 william ferguson 1
 predicted line 1
+large volume 1
 marginal cost.4 1
 actual mail 1
 • productive 1
-reference bernard 1
 large percentage 1
 10th conference 1
 fixed route 1
-structural difference 1
+postal activity 1
 trend analysis 1
 downward adjustment 1
 extreme range 1
@@ -118,7 +120,6 @@ model cost 1
 fixed delivery 1
 exact correspondence 1
 high coverage 1
-unit cost 1
 total percentage 1
 capita country 1
 traveling salesman 1
@@ -127,9 +128,10 @@ german delivery 1
 köenigswinter seminar 1
 bernard roy 1
 accurate predictor 1
-volume percentage 1
 gennaro scarfiglieri 1
+structural differences 1
 same shape 1
+postal markets 1
 cost model 1
 reasonable proxy 1
 reasonable accuracy 1
@@ -143,19 +145,19 @@ carla pace 1
  Trigram NP 
 our previous paper 3
 data canada post 1
-kluwer academic publisher 1
+its annual report 1
 p / v 1
-productive hourly wage 1
+vincenzo visco comandini 1
 unit cost benchmarked 1
 their operational cost 1
 classic hyperbolic shape 1
 prc docket no 1
+kluwer academic publishers 1
 true marginal cost 1
-vincenzo visco comandini 1
 alternative iocs methodology 1
 post office box 1
 many individual cost 1
-it annual report 1
+productive hourly wage 1
 p = population 1
 v / p 1
 their entire route 1
@@ -165,8 +167,8 @@ institutional mail processing 1
 cost 42
 model 34
 mail 25
-volume 24
-caput 23
+capita 23
+volume 23
 delivery 22
 processing 20
 u.s. 19
@@ -193,7 +195,6 @@ piece 5
 slope 4
 comparison 4
 respect 4
-data 4
 appendix 4
 b 4
 u.s 4
@@ -201,6 +202,7 @@ estimate 4
 mix 4
 = 4
 week 4
+data 4
 number 3
 network 3
 correios 3
@@ -208,11 +210,11 @@ correios 3
 transportation 3
 intercept 3
 route 3
-range 3
 size 3
 service 3
 france 3
 sample 3
+range 3
 worksharing 3
 test 3
 germany 3
@@ -246,7 +248,6 @@ includes 2
 analysis 2
 person 2
 part 2
-burden 1
 excel 1
 adjusted 1
 course 1
@@ -269,17 +270,17 @@ conjecture 1
 above 1
 stop 1
 exception 1
+burden 1
 loss 1
 level 1
 lr-i-81 1
 activity 1
 x 1
-conclusion 1
 deviation 1
 density 1
 past 1
 rate 1
-pricing 1
+value 1
 table 1
 liberalization 1
 scale 1
@@ -299,6 +300,7 @@ ctt 1
 c 1
 example 1
 etc 1
+amount 1
 cancellation 1
 major 1
 decrease 1
@@ -313,12 +315,14 @@ from 1
 prc 1
 bernard 1
 introduction 1
+] 1
 oecd 1
 regulation 1
 assumption 1
 way 1
 today 1
 relationship 1
+conclusions 1
 update 1
 validity 1
 countries.7 1
@@ -327,11 +331,12 @@ ma 1
 hour 1
 equation 1
 consignia 1
-value 1
+us 1
 preparation 1
 behavior 1
 shape.1 1
 study 1
+pricing 1
 v 1
 boston 1
 p.r 1
@@ -341,7 +346,6 @@ vulnerability 1
 need 1
 crew 1
 turn 1
-amount 1
 book 1
 potsdam 1
 document 1
@@ -352,23 +356,22 @@ united 1
 coverage 1
 variable 1
 productivity 1
-] 1
 response 1
 structure 1
 a 1
 average 1
 y-intercepts 1
 portion 1
-u 1
+volumes 1
 ratecommission 1
 order 1
 
  Arbitary length NP 
 reduced total variable cost 1
-ty mail processing unit cost 1
-model cost revenue estimate 1
+model cost revenue estimates 1
 model estimated coststo actual revenue 1
 rate commission docket r2000-1 1
+ty mail processing unit costs 1
 portugal matthew robinson postal rate commission ricardo santos ctt 1
 portugal gennaro scarfiglieri poste italiane vincenzo visco comandini poste italiane john waller postal rate commission spyros xenakis postal rate commission *the 1
 general postal service cost function* robert cohen postal rate commission carla pace poste italiane antónia rato ctt 1

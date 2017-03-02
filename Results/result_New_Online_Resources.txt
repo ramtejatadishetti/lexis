@@ -30,11 +30,11 @@ chicago bar foundation 2
 general legal community 2
 small legal aid 2
 robert a. glaves 1
+local legal aid 1
 anne stalder nelson 1
 our legal aid 1
 illinois technology center 1
-legal service corp. 1
-local legal aid 1
+legal services corp. 1
 
  Unigram NP 
 web 7
@@ -53,7 +53,6 @@ area 2
 illinois 2
 information 2
 internet 2
-director 2
 work 2
 list 2
 time 2
@@ -78,6 +77,7 @@ board 1
 practice 1
 d.c. 1
 processing 1
+director 1
 efficiency 1
 lot 1
 library 1
@@ -90,11 +90,12 @@ duplication 1
 resource 1
 center 1
 www.illinoislegalaid.org 1
+directors 1
 illinoisprobono.org 1
 software 1
 
  Arbitary length NP 
-chicago daily law bulletin new online resource available 1
-legal aid attorney adam w. lasker october 1
-cabrini green legal aid clinic 1
+legal aid attorneys adam w. lasker october 1
 itc executive director lisa a. colpoys 1
+cabrini green legal aid clinic 1
+chicago daily law bulletin new online resources available 1

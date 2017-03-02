@@ -3,8 +3,8 @@
 final rule 9
 fresh pork 3
 frozen pork 2
-hog cholera 2
 statutory authorization 2
+hog cholera 2
 federal register 2
 executive order 2
 stringent mitigating 2
@@ -13,13 +13,14 @@ certain animal 1
 procedure act 1
 substantial number 1
 commercial pork 1
-it review 1
+economic impact 1
 private sector 1
 title ii 1
 second alternative 1
-retroactive effect 1
+its review 1
 prepared pork 1
 our assessment 1
+agriculture issues 1
 anticipated impact 1
 significant risk 1
 negligible risk 1
@@ -27,18 +28,17 @@ environmental assessment 1
 environmental impact 1
 significant impact 1
 slight risk 1
-federal regulation 1
+retroactive effect 1
 retail weight 1
 live swine 1
 legal basis 1
-agriculture issue 1
 scientific evidence 1
 major rule 1
 forestry united 1
+federal regulations 1
 90-day period 1
 order no 1
 robert robinson 1
-economic impact 1
 agriculture page 1
 et seq 1
 farrow-to-finish swine 1
@@ -61,7 +61,6 @@ sonora gao/ogc-97-43 1
 
  Trigram NP 
 paperwork reduction act 2
-it potential impact 1
 regulatory impact analysis 1
 free trade agreement 1
 other relevant information 1
@@ -71,6 +70,7 @@ significant regulatory action 1
 regulatory flexibility analysis 1
 significant economic impact 1
 regulatory flexibility act 1
+its potential impact 1
 additional 60-day comment 1
 associate general counsel 1
 civil justice reform 1
@@ -128,6 +128,7 @@ recordkeeping 2
 disease 2
 contact 2
 time 2
+operations 1
 sector 1
 mexican 1
 september 1
@@ -140,9 +141,8 @@ seq 1
 senate 1
 administrator 1
 512-5207 1
-l997 1
+respect 1
 et 1
-operation 1
 subject 1
 cost-benefit 1
 shipment 1
@@ -153,8 +153,9 @@ change 1
 reaction 1
 addition 1
 amount 1
+tariffs 1
 cc 1
-respect 1
+l997 1
 quality 1
 management 1
 introduction 1
@@ -165,7 +166,6 @@ nutrition 1
 gao 1
 demand 1
 july 1
-tariff 1
 ii 1
 accordance 1
 work 1
@@ -192,16 +192,16 @@ decision 1
 
  Arbitary length NP 
 plant health inspection service 6
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 final regulatory flexibility analysis 1
 honorable tom harkin ranking minority member committee 1
 domestic and/or foreign pork 1
 animal and plant health inspection service entitled 1
 honorable bob smith chairman 1
 importation of pork from sonora 1
-national environmental policy act 1
 honorable charles w. stenholm ranking minority member committee 1
 a major rule issued by the department of agriculture 1
+national environmental policy act 1
 gao/ogc-97-43 enclosure analysis under 1
 robert p. murphy general counsel enclosure 1
 terry l. medley administrator animal 1

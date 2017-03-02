@@ -11,10 +11,8 @@ substantial number 1
 legislative history 1
 private sector 1
 reduced program 1
-regulatory affair 1
 finance united 1
 6-year period 1
-it entirety 1
 our assessment 1
 new collection 1
 cost-benefit assessment 1
@@ -23,14 +21,17 @@ good cause 1
 statutory authorization 1
 annual hour 1
 federal government 1
+comments pursuant 1
 one-time disability 1
-mean house 1
 et seq 1
+regulatory affairs 1
+means house 1
 budgetary impact 1
 major rule 1
 staff office 1
 jr. chairman 1
 james vickers 1
+its entirety 1
 public law 1
 new information 1
 jane ross 1
@@ -38,24 +39,24 @@ our report 1
 social security 1
 congressional intent 1
 ms. ross 1
-comment pursuant 1
 our review 1
 omb no 1
 
  Trigram NP 
-interim final rule 10
+interim final rule 8
 social security administration 4
+interim final rules 2
 administrative procedure act 1
 yearly usage rate 1
 assistant general counsel 1
-income security issue 1
 paperwork reduction act 1
 state disability determination 1
 other relevant information 1
 significant regulatory action 1
 effective upon enactment 1
-new functional assessment 1
 supplemental security income 1
+new functional assessments 1
+income security issues 1
 significant economic impact 1
 regulatory flexibility act 1
 executive order no 1
@@ -112,6 +113,8 @@ result 1
 year 1
 0960-0568 1
 rulemaking 1
+ways 1
+comments 1
 state 1
 reg 1
 notice 1
@@ -119,7 +122,6 @@ reason 1
 compliance 1
 medicaid 1
 nprm 1
-comment 1
 cc 1
 enactment 1
 period 1
@@ -130,7 +132,6 @@ management 1
 addition 1
 legislation 1
 reduction 1
-way 1
 form 1
 gao 1
 iii 1
@@ -152,20 +153,20 @@ time 1
 order 1
 
  Arbitary length NP 
+unfunded mandates reform act 2
 work opportunity reconciliation act 2
-unfunded mandate reform act 2
 determining disability for a child under age 1
 honorable daniel patrick moynihan ranking minority member committee 1
 childhood disability evaluation form 1
 honorable william v. roth 1
 general counsel b-276222 february 1
-mr. brian coyne chief 1
 honorable charles b. rangel ranking minority member committee 1
 commissioner social security administration page 1
 honorable bill archer chairman 1
-interim final rule with request 1
-child raise eligibility question 1
+interim final rules with request 1
+mr. brian coyne chief 1
 robert p. murphy general counsel enclosure 1
+children raise eligibility questions 1
 gao/ogc-97-23 executive order no 1
 a major rule issued by the social security administration entitled 1
 gao/ogc-97-23 enclosure analysis under 1

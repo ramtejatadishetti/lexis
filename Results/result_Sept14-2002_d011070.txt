@@ -4,13 +4,13 @@ logistics center 10
 human capital 10
 fiscal year 9
 their work 8
-program risk 7
+program risks 7
 top leadership 7
 public assistance 6
-veteran affair 6
-management challenge 6
+management challenges 6
 regional office 5
 federal government 5
+veterans affairs 5
 integrated product 5
 our review 5
 personnel management 4
@@ -23,41 +23,41 @@ government management 3
 other team 3
 insurance service 3
 on-the-job training 3
+formal training 2
 their view 2
 enhanced flexibility 2
-it performance 2
 significant shift 2
 our work 2
 individual team 2
 his vision 2
-result act 2
 organizational performance 2
 their ability 2
 major management 2
 logan airport 2
-formal training 2
 new technology 2
 aeronautical center 2
-federal employee 2
-it decision 2
+their performance 2
+management reform 2
 new environment 2
 high-risk series 2
+its decision 2
+its performance 2
 internal revenue 2
 ranking member 2
-their performance 2
-operation center 2
 their progress 2
 new position 2
-management reform 2
+operations center 2
+results act 2
 private sector 2
 dod teaming 2
 timely manner 2
 on-the-job cross 2
-broad range 1
 new director 1
 organizational change 1
+involved employees 1
 pervasive challenge 1
 ongoing relationship 1
+its backlog 1
 integrated way 1
 branch chief 1
 new business 1
@@ -72,12 +72,10 @@ valuable asset 1
 support directorate 1
 open door 1
 false return 1
-governmental affair 1
 irs' wage 1
 direct supervision 1
 focal point 1
 her team 1
-involved employee 1
 long-term effort 1
 processing time 1
 heavy workload 1
@@ -85,21 +83,21 @@ average number 1
 their missions.3 1
 severe weather 1
 new system 1
-private use 1
-substitute tax 1
-submission processing 1
-considerable time 1
+significant role 1
 john lesser 1
+positive workplace 1
 additional state 1
 new information 1
 monthly newsletter 1
 modern performance 1
 overall performance 1
-front-line employee 1
 new training 1
+accounts management 1
 michelle sager 1
 fifth agency 1
 retirement system 1
+submissions processing 1
+its knowledge 1
 businesslike manner 1
 new work 1
 their workforce 1
@@ -108,14 +106,12 @@ effective improvement 1
 worldwide federation 1
 ensured accuracy 1
 modernization program 1
-international organization 1
 ongoing working 1
 goal-setting process 1
-critical factor 1
 supervisory approval 1
 ground-based radar 1
 on-site staff 1
-renee chafitz 1
+timely processing 1
 complete control 1
 actual experience 1
 critical role 1
@@ -125,10 +121,8 @@ tom beall 1
 susan ragland 1
 accountability series 1
 gerard burke 1
-it backlog 1
 recovery directorate 1
 financial assistance 1
-reducing delay 1
 public sector 1
 national accuracy 1
 strategic approach 1
@@ -137,35 +131,35 @@ organizational structure 1
 key element 1
 sustained leadership 1
 sufficient workforce 1
+substitute tax 1
 district page 1
-it customer 1
+its customer 1
 teams-based approach 1
-federal service 1
 improved automation 1
 their workload 1
 further reform 1
 improved communication 1
-new decision 1
+benefits administration 1
 separate review 1
 high quality 1
+federal employee 1
 high-performing organizations.16 1
 irs funding 1
-it retirement 1
+its retirement 1
 one-stop case 1
 gao/t- ggd-00-26 1
-agency comment 1
-our attention 1
+its organization.12 1
 financial management 1
-same building 1
-government employee 1
+appropriate time 1
 front-line perspective 1
 specific agency 1
 federal performance 1
 high risk.1 1
 constructive dialog 1
-involve employee 1
-it organization 1
+new decision 1
+critical part 1
 continuous dialog 1
+involve employees 1
 new team 1
 standardized training 1
 different grade 1
@@ -174,22 +168,22 @@ major reorganization 1
 central strategy 1
 their time 1
 middle management 1
+our attention 1
+governmental affairs 1
 her performance 1
 organizational flexibility 1
 weekly basis 1
 frequent team 1
 equal share 1
+same building 1
 360-degree performance 1
-appropriate time 1
+front-line employees 1
 certain title 1
-account management 1
 disseminate information 1
 sharon hogan 1
 great extent.21 1
 demonstrated commitment 1
 our request 1
-critical part 1
-benefit administration 1
 integrated working 1
 workforce planning 1
 good business 1
@@ -198,15 +192,15 @@ nteu president 1
 columbia committee 1
 new york 1
 entails time 1
-it organization.12 1
-it knowledge 1
+federal services 1
+renee chafitz 1
 individual performance 1
 shirley bates 1
 procurement authority 1
+government employees 1
 front line 1
 common vision 1
 governmentwide perspective 1
-it issue 1
 organizational direction 1
 key agency 1
 further distribution 1
@@ -218,45 +212,49 @@ cost-effective mitigation 1
 address correction 1
 key empowerment 1
 long-term customer 1
+critical factor 1
 progress encouraging 1
+agency comments 1
 first time 1
 their job 1
 voice mail 1
 irs restructuring 1
+long-term transformation 1
 oklahoma city 1
 self-directed employee 1
 advance notice 1
 his top-level 1
 open work 1
 claims-processing staff 1
-item manager 1
 meet current 1
 improved training.9 1
-it modernization 1
 federal agency 1
 effective leadership 1
 particular concern 1
-significant role 1
-long-term transformation 1
+private use 1
+its promises.4 1
+items managers 1
+equipment specialists 1
 appropriate authority 1
 new authority 1
 bulletin no 1
 cognizant agency 1
-gi00 united 1
 specific reference 1
 their approach 1
 enough money 1
-positive workplace 1
+international organization 1
 increased staffing 1
 greg whitney 1
 pilot program 1
+federal employees 1
 full range 1
 certain dollar 1
-equipment specialist 1
 balanced set 1
 improved satisfaction 1
+veteran affairs 1
 high workload 1
 their review 1
+reducing delays 1
 faa administrator 1
 aviation rulemaking 1
 quality management 1
@@ -264,11 +262,14 @@ seven-point plan 1
 organizational success 1
 your request 1
 open environment 1
+its issue 1
 similar problem 1
 balanced perspective 1
-it air 1
+its modernization 1
+gi00 united 1
 their expertise 1
 increased number 1
+considerable time 1
 cassandra joseph 1
 support culture 1
 direct feedback 1
@@ -281,76 +282,78 @@ new job 1
 investment division 1
 integrated team 1
 los angeles 1
-it promises.4 1
+its air 1
 balanced scorecard 1
-timely processing 1
+its organization 1
+broad range 1
 performance-based program 1
 
  Trigram NP 
-achieving key outcome 4
+achieving key outcomes 4
 gao-01-1070 human capital 3
-it fiscal year 3
-u.s. fire administration 2
-it strategic plan 2
+its fiscal year 3
 strategic human capital 2
-public assistance coordinator 2
+achieving potential results 2
+its strategic plan 2
+u.s. fire administration 2
 faa logistics center 2
-achieving potential result 2
-human capital agency 1
+governmental affairs united 1
+faa's logistics center 1
 internal revenue service 1
 their formal job 1
-many federal agencies-and 1
-their day-to-day work 1
-new operational approach 1
-claimed agency saving 1
+human capital delegating 1
+successful improvement initiatives 1
+federal acquisition regulations 1
+its own mission 1
+contents related gao 1
 investment operating division 1
 their delegated authority 1
-performance support system 1
+its human capital 1
 their organizational hierarchy 1
-implementation issue implementation 1
 governmentwide high-risk challenge 1
-presorted standard postage 1
+new operational approach 1
 u.s. senate september 1
 n. scott einhorn 1
 radar product division 1
-employee union involving 1
-federal acquisition regulation 1
-accomplish agency mission 1
+performance support system 1
+human capital agencies 1
 little direct supervision 1
-management capability needed 1
+public financial assistance 1
 overall organizational success 1
-it wake-up call 1
 their personal commitment 1
 their daily work 1
 federal aviation administration 1
-governmental affair united 1
 irs restructuring act 1
 their human capital 1
 their own work 1
+public assistance coordinators 1
 human capital sharing 1
 several private sector 1
 leadership commitment top 1
 opm branch chief 1
-public financial assistance 1
-successful improvement initiative 1
-content related gao 1
-faa's logistics center 1
-human capital delegating 1
-air traffic control 1
-it human capital 1
-it own mission 1
-official business penalty 1
 first cross-training initiative 1
+employee unions involving 1
 clear end-to-end accountability 1
+public assistance coordinator 1
+claimed agency savings 1
+presorted standard postage 1
+their day-to-day work 1
+its wake-up call 1
+accomplish agency missions 1
+air traffic control 1
+management capability needed 1
+many federal agencies-and 1
+implementation issues implementation 1
+official business penalty 1
 
  Unigram NP 
-team 62
 performance 62
+team 61
 example 43
 information 39
 irs 35
-agency 30
 vba 28
+agency 28
 training 25
 management 25
 opm 25
@@ -388,13 +391,13 @@ csrs 7
 review 7
 addition 7
 director 7
-business 7
 department 7
+business 7
 share 6
 office 6
 part 6
-restructuring 6
 percent 6
+restructuring 6
 program 5
 following 5
 response 5
@@ -429,10 +432,8 @@ buy-in 4
 administration 4
 consensus 4
 way 4
-problem 4
 june 4
 oct. 3
-graph 3
 oversight 3
 level 3
 budget 3
@@ -448,6 +449,7 @@ everyone 3
 issue 3
 workforce 3
 revenue 3
+graphs 3
 certification 3
 staff 3
 radar 3
@@ -466,6 +468,7 @@ innovation 3
 washington 3
 delivery 3
 ut 3
+problem 3
 building 3
 ogden 3
 gao-01-127 2
@@ -498,9 +501,7 @@ increase 2
 district 2
 target 2
 compensation 2
-result 2
 gao-01-510 2
-veteran 2
 empowered 2
 instance 2
 boyers 2
@@ -511,6 +512,7 @@ august 2
 state 2
 cooperation 2
 importance 2
+agencies 2
 approval 2
 acceptance 2
 teamwork 2
@@ -523,7 +525,6 @@ airport 2
 columbia 2
 model 2
 identify 2
-skill 2
 mix 2
 location 2
 emergency 2
@@ -548,10 +549,11 @@ tpss 2
 pension 2
 coach 1
 dollar 1
+results 1
 concept 1
 staffing 1
 federation 1
-wave 1
+skills 1
 solution 1
 self-assessment 1
 logistics 1
@@ -574,7 +576,7 @@ involved 1
 step 1
 action 1
 establish 1
-attendance 1
+valuing 1
 feb 1
 working 1
 therefore 1
@@ -584,7 +586,7 @@ sharing 1
 award 1
 gao-01-254 1
 md 1
-challenge 1
+veterans 1
 remain 1
 gao-01-357t 1
 01-07 1
@@ -593,7 +595,6 @@ claim 1
 involve 1
 gao/ggd- 1
 united 1
-goal 1
 six 1
 methodology 1
 mar 1
@@ -601,6 +602,7 @@ collection 1
 efficiency.20 1
 date 1
 president 1
+wave 1
 classroom 1
 effective 1
 gao/t-hehs-99-77 1
@@ -635,11 +637,13 @@ year 1
 marshaling 1
 insurance 1
 gao/hehs-00-65 1
+attendance 1
 research 1
 internet 1
 receiving 1
 foundation 1
 confidence 1
+mechanisms 1
 iso 1
 think 1
 benchmarking 1
@@ -651,26 +655,28 @@ appreciation 1
 512-6806 1
 accordance 1
 instruction 1
+result 1
 boston 1
 trusting 1
 manner 1
 concentration 1
 reassigning 1
+veteran 1
 complexity 1
-mechanism 1
+incentive 1
 emphasis 1
 build 1
 concern 1
 persistence 1
 track 1
+visitors 1
 rationale 1
+entry 1
 retaining 1
 root.14 1
 gao-01-959t 1
-valuing 1
 bulletin 1
 dot 1
-visitor 1
 reorganize 1
 may31 1
 impact 1
@@ -678,6 +684,7 @@ guidance 1
 treasury 1
 processes.17 1
 comply 1
+teams 1
 processes.5 1
 goals.15 1
 gao-01-700t 1
@@ -697,6 +704,7 @@ extent 1
 competent 1
 understanding 1
 jfk 1
+conclusions 1
 budgeting 1
 incident 1
 assure 1
@@ -733,17 +741,15 @@ document 1
 literature 1
 effect 1
 procurement 1
-entry 1
 pa. 1
-storage 1
 accurate 1
+technicians 1
 interim 1
-incentive 1
+skill 1
 coordination 1
 wage 1
 transformation 1
 march 1
-test 1
 traffic 1
 listening 1
 gao/t-ggd-99-151 1
@@ -758,6 +764,7 @@ eliminate 1
 leader 1
 participation 1
 be 1
+problems 1
 gao-01-262 1
 post 1
 ok 1
@@ -774,8 +781,9 @@ overtime 1
 manufacture 1
 town-hall 1
 interest 1
-technician 1
+goals 1
 line 1
+challenges 1
 october 1
 front-line 1
 request 1
@@ -785,44 +793,45 @@ file 1
 pedestal 1
 az 1
 stake 1
+storage 1
 laws.6 1
 gao/t-ggd/aimd-95-187 1
 branch 1
-conclusion 1
+test 1
 phoenix 1
 reorganization 1
 gao-01-832 1
 resolution 1
 
  Arbitary length NP 
-addressing major management challenge 4
+addressing major management challenges 4
 federal emergency management agency 3
 general accounting office washington 2
-claim processor need evaluation 2
-ensuring top leadership skill 2
-key management issue vary widely 2
+ensuring top leadership skills 2
+claims processors needs evaluation 2
+key management issues vary widely 2
 senate dear senator voinovich 1
-human capital using employee team 1
-involve employee • demonstrating 1
+involve employees • demonstrating 1
 faa logistics center director 1
-emerging human capital challenge 1
 sharing performance information • physically 1
-human capital six key practice helped empower 1
+national security affairs office 1
+emerging human capital challenges 1
 mike monroney aeronautical center 1
+accountability series-major management challenges 1
+human capital six key practices helped empower 1
 j. christopher mihm director 1
-national security affair office 1
-it strategic human capital 1
-human capital • irs 1
+national treasury employees union 1
+strategic issues related gao 1
+challenges facing disability claims processing 1
+human capital using employee teams 1
 civil service retirement system 1
-accountability series-major management challenge 1
+its strategic human capital 1
 serious federal human capital 1
-it rating-related claims-processing timeliness 1
-challenge facing disability claim processing 1
 logistics center radar product division 1
-national treasury employee union 1
-strategic issue related gao 1
+human capital • irs 1
 general accounting office ranking member 1
 honorable george v. voinovich ranking member subcommittee 1
 human capital • use 1
-fee paid gao permit no 1
 fema's u.s. fire administration 1
+fees paid gao permit no 1
+its rating-related claims-processing timeliness 1

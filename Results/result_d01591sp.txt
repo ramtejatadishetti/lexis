@@ -19,18 +19,16 @@ personal income 17
 fiscal policy 15
 current account 14
 current income 14
-consumer finance 14
-budget issue 13
+budget issues 13
 long run 13
 national bureau 12
-fiscal year 12
 federal spending 12
 paper no 12
 economic research 12
 economic outlook 11
-economic perspective 11
+economic perspectives 11
 private investment 10
-unified surplus 9
+fiscal year 10
 next decade 9
 elderly population 9
 annual report 9
@@ -40,49 +38,50 @@ economic activity 8
 new york 8
 individual retirement 8
 their retirement 8
-oasdi trustee 7
+consumer finances 8
 discretionary spending 7
 net worth 7
 private sector 7
 research service 7
+oasdi trustees 7
 local government 7
 personal spending 7
+unified surpluses 7
 federal reserve 7
 federal saving 7
 nonfederal saving 7
 federal investment 6
 john sabelhaus 6
-net debt 6
+consumer finance 6
+product accounts 6
 net income 6
 future living 6
 future consumption 6
+net debt 6
 foreign investment 6
 great deal 6
 other spending 6
-product account 6
 current consumption 5
 current law 5
-future challenge 5
 federal revenue 5
 increased government 5
-policy priority 5
 economic model 5
 productive capacity 5
 additional dollar 5
 new saving 5
 meaningful reform 5
-budget surplus 5
+medicare trustees 5
 future tax 5
 gross saving 5
 overall level 5
 annamaria lusardi 5
+policy priorities 5
 cbo memorandum 5
 text box 5
+future challenges 5
 ultimate effect 5
 net effect 5
 public awareness 5
-medicare trustee 5
-individual account 5
 federal tax 4
 domestic capital 4
 important way 4
@@ -90,8 +89,8 @@ real estate 4
 current production 4
 david a 4
 75-year period 4
-federal surplus 4
 ricardian equivalence 4
+brookings papers 4
 comprehensive revision 4
 our simulation 4
 bls handbook 4
@@ -109,25 +108,24 @@ current spending 4
 preferential tax 4
 martha starr-mccluer 4
 future income 4
-brookings paper 4
+u.s. department 4
 total population 4
 federal old-age 4
 st. louis 4
 precautionary saving 4
-u.s. department 4
 employer-sponsored pension 4
 saver act 4
 executive office 4
 wealth-income ratio 4
-new direction 4
 large share 4
 medicare reform 4
+projected budget 3
 postsecondary education 3
-opposite direction 3
 financial literacy 3
+micro facts 3
 economic cooperation 3
 depreciated capital 3
-projected budget 3
+brian w. 3
 human capital 3
 empirical evidence 3
 individual household 3
@@ -135,25 +133,27 @@ recent research 3
 absent reform 3
 virtual disappearance 3
 same amount 3
+hi trustees 3
 international investment 3
-our modeling 3
+net increase 3
+long-term simulations 3
 nation's capital 3
 economic pie 3
+federal surplus 3
 debt management 3
 high saving 3
 long-term perspective 3
 social security's 3
 actuarial balance 3
 j. shoven 3
-net increase 3
 rental income 3
 household wealth 3
 washington d.c. 3
+budget surplus 3
 federal dissaving 3
 long-term productivity 3
 economic performance 3
 additional investment 3
-micro fact 3
 philippe bacchetta 3
 long-term process 3
 viable strategy 3
@@ -169,7 +169,6 @@ new investment 3
 chicago press 3
 direct way 3
 same rate 3
-long-term simulation 3
 education campaign 3
 long-term outlook 3
 foreign capital 3
@@ -179,16 +178,13 @@ our model 3
 their wealth 3
 nation's income 3
 economic capacity 3
-needy family 3
 gail makinen 3
 unspecified mix 3
 economic literature 3
 annual growth 3
 aggregate household 3
 n. gregory 3
-brian w. 3
 appendix ii 3
-hi trustee 3
 great depression 3
 long-term financing 3
 new capital 3
@@ -198,8 +194,10 @@ federal health 3
 steven venti 3
 financial status 3
 net interest 3
+individual account 3
 jonathan skinner 3
 disability insurance 3
+our modeling 3
 d. bernheim 3
 big ticket 3
 long-term care 2
@@ -207,17 +205,20 @@ milka s. 2
 trade deficit 2
 significant improvement 2
 down payment 2
-international comparison 2
+its debt 2
 personal saving-both 2
 technical change 2
 midsession review 2
 triennial survey 2
+its wealth 2
 population aging 2
 overall affordability 2
 primary measure 2
 current saving 2
 direct investment 2
+capital flows 2
 public about 2
+opposite directions 2
 paper series 2
 next period 2
 common cause 2
@@ -225,15 +226,15 @@ felt sooner 2
 personal retirement 2
 information technology 2
 comprehensive discussion 2
-financial empowerment 2
+higher levels 2
 owner-occupied housing 2
-general tax 2
-capital flow 2
 second half 2
-it debt 2
+unified surplus 2
 underlying capital 2
 government doing 2
 empirical research 2
+policy options 2
+its effect 2
 simplified example 2
 defined benefit 2
 household saving 2
@@ -243,29 +244,26 @@ retirement income 2
 nber conference 2
 their deduction 2
 kenneth rogoff 2
-it effect 2
-current issue 2
 our benefit 2
 determine who 2
 public attention 2
 past borrowing 2
 additional consumption 2
 dartmouth college 2
-improved technology 2
-higher level 2
-analytical perspective 2
 aggregate respond 2
 combined labor 2
 low level 2
 borrowing affect 2
-it use 2
 other investment 2
+improved technology 2
 permanent tax 2
 economic co-operation 2
+analytical perspectives 2
 assumed borrowing 2
 future spending 2
 important information 2
 personal dissaving 2
+experts disagree 2
 luis serven 2
 central role 2
 foreign borrowing 2
@@ -273,18 +271,19 @@ rainy day 2
 their consumption 2
 whether retirement 2
 one-to-one match 2
-elderly household 2
+gift taxes 2
 long-term health 2
 global context 2
 employer-sponsored retirement 2
 improved quality 2
 financial security 2
 trust fund 2
+elderly households 2
 political economy 2
+general tax 2
 demographic tidal 2
+budget outlook 2
 prentice hall 2
-policy option 2
-gift tax 2
 taxable payroll 2
 consistent frame 2
 special tax 2
@@ -292,45 +291,51 @@ unspecified policy 2
 first glance 2
 rate so 2
 saver-spender theory 2
+international comparisons 2
 persistent u.s. 2
 lengthy lag 2
 individual development 2
 barry bosworth 2
 investor education 2
 potential benefit 2
+official measure 2
 their standard 2
+alternative taxes 2
 3-year period 2
 potential impact 2
+fiscal years 2
+global aging 2
+its use 2
 1990s-and slower 2
 open economy 2
-official measure 2
 buffer-stock saving 2
 productive potential 2
 nominal value 2
 intangible capital-are 2
 longterm outlook 2
-technological change 2
+key assumptions 2
 single reason 2
 pre-retirement income 2
-key assumption 2
 economic downturn 2
 5-year demonstration 2
 useful perspective 2
 medicare hi 2
+budget surpluses 2
 joint committee 2
 wealth conference 2
+technological change 2
 residual category 2
 annual contribution 2
 current interest 2
 10-year budget 2
 average household 2
 old age 2
+current issues 2
 independence act 2
-it wealth 2
 wealth dispersion 2
+investment decisions 2
 nation's retirement 2
 our economy 2
-budget outlook 2
 21st century 2
 substantial drain 2
 institutional environment 2
@@ -338,12 +343,11 @@ continued employment 2
 increased wealth 2
 much labor 2
 common frame 2
-investment decision 2
 dual role 2
 key source 2
+new directions 2
 considerable debate 2
 sophisticated approach 2
-expert disagree 2
 s. kirova 2
 appendix iv 2
 other tax 2
@@ -351,9 +355,10 @@ current budget 2
 much retirement 2
 total income 2
 robert greenstein 2
+needy families 2
 enlarged surplus 2
 projected exhaustion 2
-global aging 2
+individual accounts 2
 absent program 2
 heavy burden 2
 our work 2
@@ -365,36 +370,38 @@ klaus schmidt-hebbel 2
 current government 2
 past saving 2
 sustainable footing 2
+industrial nations 2
 useful information 2
+new direction 2
 saving rate 2
 downward trend 2
-industrial nation 2
 exchange commission 2
 real investment 2
 disposable income 2
-alternative tax 2
 their lifetime 2
-it composition 2
+its composition 2
 force-the nation 2
 critical assessment 2
 federal income 2
 third quarter 2
+financial empowerment 2
 important role 1
 dramatic drop 1
 jules lichtenstein 1
 major component 1
 guarantees-to state 1
 individuals' retirement 1
-william g. 1
 pretax income 1
-it reliance 1
+genetic medicine 1
 poor investment 1
 future health 1
 intermediate assumption 1
 38social security 1
 economy's rate 1
 personal finance 1
+its saving 1
 short term 1
+smi trustees 1
 christopher d. 1
 quarterly journal 1
 policy summit 1
@@ -404,47 +411,43 @@ neoclassical growth 1
 defined contribution 1
 absent policy 1
 b. kennickell 1
+much income 1
 financial outlook 1
 life-cycle saver's 1
 10-year budgetary 1
+opposite direction 1
 financial planning 1
 temporary divergence 1
+productivity measures 1
 economy q3.1 1
-fund account 1
+basic hypothesis 1
 constant saving 1
-recent burst 1
 life-cycle saver 1
-budgetary cost 1
 planned spending 1
 medical technology 1
 fiscal responsibility 1
-public pension 1
 economic literacy 1
 busy policymaker 1
 president clinton 1
-it pension 1
+supplemental health 1
 strong correlation 1
 likely result 1
-roth ira 1
 arthur j 1
 economic life 1
 managing director 1
-genetic medicine 1
 brief summary 1
-it return 1
 retirement-through borrowing 1
-short period 1
-fixed level 1
+permanent-income hypothesis 1
 greater-than-usual uncertainty 1
 ready access 1
 federal surplus/deficit 1
+fiscal discipline 1
 ira contribution 1
 respectively-increasing contribution 1
 individual income 1
-medicare board 1
-bipartisan summit 1
+virgin islands 1
 detailed information 1
--0.1 percent 1
+its peak 1
 aggregate measure 1
 nation's output 1
 useful framework 1
@@ -459,7 +462,7 @@ disability trust 1
 high-yielding information 1
 federal employee 1
 new tax 1
-abbreviation preface 1
+healthy economy 1
 economic development 1
 main determinant 1
 35-year generation 1
@@ -468,15 +471,17 @@ recent study 1
 minimum level 1
 federal deficit 1
 permanent change 1
+reduced wealth 1
 moderate income 1
-it baseline 1
 personal saving.18 1
 international saving 1
 straightforward way 1
+budgetary cost 1
 low saving 1
 managerial efficiency.2 1
 large portion 1
 little benefit 1
+sizeable wealth 1
 bold type 1
 pay-as-you-go basis 1
 public anticipate.18 1
@@ -485,18 +490,20 @@ second income 1
 implicit rate 1
 lengthy slowdown 1
 recent assumption 1
+survivors insurance 1
 sustained stock 1
 intangible capital 1
 gross business 1
 federal borrowing 1
-outstanding debt 1
+saving mystery 1
 james horney 1
 valuable tool 1
 progressive benefit 1
-key issue 1
+implausible doomsday 1
 can u.s 1
-equivalent increase 1
+potential outcome 1
 joshua gleason 1
+medicare boards 1
 entire economy 1
 economic stagnation 1
 economic growth.21 1
@@ -513,24 +520,29 @@ long-run equilibrium 1
 20th century 1
 workers' compensation 1
 alternative budget 1
-permanent-income hypothesis 1
+appendix v 1
 nominal dollar 1
+its return 1
 traditional program 1
 douglas b 1
 cumulative stock 1
 p. olivei 1
 douglas w. 1
 increased budget 1
+j. steven 1
+how has 1
 mandatory account 1
-potential outcome 1
 long run.21 1
 additional future 1
 voluntary page 1
+simple iras 1
 national level 1
 marginal tax 1
-nonprofit community 1
 their capital 1
+its creation 1
+mit press 1
 fourth leg 1
+global rate 1
 • e-mail 1
 single power 1
 whereas nipa 1
@@ -545,13 +557,14 @@ principal source 1
 potential effect 1
 infrastructure spending 1
 perceived need 1
-substantial volatility 1
+shorter period 1
+prompt action 1
 dramatic saving 1
 distant future 1
 ethan s. 1
 upward trend 1
 our interest 1
-new equipment 1
+private organizations.36 1
 separate trust 1
 olivier blanchard 1
 cash-based budget 1
@@ -562,22 +575,19 @@ hi trust 1
 common sense 1
 aggregate labor 1
 major appliances.4 1
-recent summary 1
+budget projections 1
 wealth-for example 1
 current cost 1
 retirement-the retirement 1
 laura m. 1
 martin browning 1
-future standard 1
 technological advancement 1
-reduced wealth 1
 low earner 1
 robert j 1
 17means-tested government 1
-a hi 1
+recent burst 1
 current tax 1
 historical average 1
-virgin island 1
 significant income 1
 national saving-as 1
 financial mainstream 1
@@ -587,6 +597,7 @@ structural change 1
 fundamental determinant 1
 key model 1
 arnold j. 1
+william g. 1
 united kingdom 1
 mistaken notion 1
 private spending 1
@@ -598,7 +609,6 @@ standard model 1
 jonathan parker 1
 downward pressure 1
 potential retirement 1
-basic hypothesis 1
 key measure 1
 public consumption 1
 federal investment.20 1
@@ -606,6 +616,7 @@ high standard 1
 federal position 1
 robert m. 1
 early access 1
+recent years 1
 different trend 1
 gross investment 1
 money go 1
@@ -617,8 +628,8 @@ federal retirement 1
 paul yakoboski 1
 used measure 1
 wondrous map 1
-retired person 1
 robust growth 1
+1federal debt 1
 brent r. 1
 standard postage 1
 saving-any mix 1
@@ -630,16 +641,17 @@ average labor 1
 net saver 1
 giovanni p. 1
 short-term wellbeing 1
-low-income saver 1
+improved access 1
+its baseline 1
 much profit 1
 financial problem 1
 single investor 1
 new economy 1
 past deficit 1
+annual depreciation 1
 little effect 1
-it purpose 1
+bradley r. 1
 their future 1
-much income 1
 first survey 1
 edwin r. 1
 life-cycle saving 1
@@ -650,7 +662,7 @@ economic change 1
 difficult choice 1
 original model 1
 first year 1
-1federal debt 1
+funds accounts 1
 program- absent 1
 net debtor 1
 let's start 1
@@ -659,12 +671,12 @@ possible concern 1
 cash-equivalent measure 1
 generous matching 1
 living standard 1
-supplemental health 1
 cbo's october 1
 aggregate debt 1
-aggregate effect 1
+much bleaker 1
 summary section 1
 gloomy simulation 1
+bipartisan summit 1
 public opinion 1
 vital source 1
 fixed capital 1
@@ -676,10 +688,11 @@ affect government 1
 total change 1
 j. purcell 1
 financial emergency 1
-simulation japan 1
 important determinant 1
+fixed level 1
 equal maturity 1
 strong consumer 1
+public pensions 1
 appendix iii 1
 short-term consumption 1
 average worker 1
@@ -695,14 +708,13 @@ last source 1
 simple example 1
 employer-sponsored saving 1
 jagadeesh gokhale 1
-durable manufacturing 1
+long-term solvency 1
 -200 -400 1
 federal ownership 1
 second edition 1
 compounding-how money 1
 governmentsubsidized saving 1
 particular course 1
-first copy 1
 affect future 1
 percent government 1
 accumulated wealth 1
@@ -710,10 +722,9 @@ address correction 1
 new era 1
 personal investment 1
 unified deficit 1
+accumulated household 1
 typical estimate 1
-recent year 1
 private use 1
-much bleaker 1
 average interest 1
 nation's total 1
 total program 1
@@ -727,16 +738,16 @@ fourth edition 1
 different retirement 1
 j. alexander 1
 current structure 1
+sep iras 1
 outdated benefit 1
 foreign asset 1
 same effect 1
 desired effect 1
-long-term solvency 1
 postwar low 1
+gao/t- hehs-00-101 1
 public education 1
 overall revenue 1
 other portion 1
-smi trustee 1
 shelby herman 1
 nation's capacity 1
 nation's future 1
@@ -748,18 +759,20 @@ political interference 1
 entitlement reform 1
 fiscal position 1
 unified budget.41 1
+first copy 1
 typical household 1
 possible budget 1
-survivor insurance 1
 general rule 1
 jonathan a 1
 skilled operator 1
 unspent retirement 1
 fiscal capacity 1
+individual equity 1
 nonrefundable tax 1
 government's contribution 1
 optimal saving 1
 catch-all category 1
+equivalent increase 1
 future legislation 1
 their income.38 1
 retirement planner 1
@@ -768,17 +781,17 @@ literate tend 1
 detailed discussion 1
 personal wealth 1
 private pensions.45 1
-mit press 1
+its purpose 1
 human capital-as 1
 difficult budget 1
 consumption behaviour 1
 basic information 1
-general research 1
 administrative structure 1
 seminal work 1
 • payroll 1
 other government 1
 identity-reclassifying software 1
+general revenue 1
 fumio hayashi 1
 rapid depreciation 1
 average rate 1
@@ -799,17 +812,17 @@ your income 1
 general government 1
 • web 1
 significant change 1
-it influence 1
 other revenue 1
 gross outlay 1
 domestic investment.27 1
-global rate 1
+new technology 1
 right level 1
 our use 1
+-0.1 percent 1
 peripheral equipment 1
 present law 1
 federal interest 1
-international trend 1
+durable manufacturing 1
 orazio p. 1
 significant part 1
 bill martin 1
@@ -822,35 +835,35 @@ total amount 1
 washington university 1
 analytical framework 1
 economic theory 1
-bradley r. 1
 mandatory spending 1
 future growth 1
+outstanding debt 1
 last time 1
 entire reform 1
 other health 1
 full cost 1
+low-income savers 1
 33these replacement 1
 flow chart 1
 dollar-for-dollar basis 1
 oasdi trust 1
-it creation 1
-further improvement 1
 private wealth 1
-working age 1
 large-scale asset 1
 table ii.1 1
 understandable manner 1
-individual equity 1
+roth iras 1
 economic output 1
 realistic goal 1
 own saving 1
 cost-of-living adjustment 1
 mathew greenwald 1
 married couple 1
+low-income households 1
 standard practice 1
-new technology 1
+abbreviations preface 1
 russell b 1
 good indicator 1
+its pension 1
 gross basis 1
 j. mathieson 1
 foreign-owned u.s. 1
@@ -860,16 +873,17 @@ significant portion 1
 massive government 1
 simple representation 1
 employer-sponsored plan 1
+sharp drop 1
 over-is growing 1
 key form 1
 inadequate retirement 1
-healthy economy 1
 rapid growth 1
 hypothetical couple 1
 scientific research 1
 simple percentage 1
 double-edged sword 1
 major source 1
+working age 1
 surplus/deficit position 1
 new coalition 1
 low depreciation 1
@@ -877,6 +891,7 @@ dollar-for-dollar relationship 1
 attainable goal 1
 near future 1
 declining personal 1
+increased value 1
 comprehensive review 1
 future-the capital 1
 their liabilities.6 1
@@ -885,6 +900,8 @@ extensive discussion 1
 productive private-sector 1
 today-the substitution 1
 imprecise process 1
+private saving-which 1
+future standard 1
 developed country 1
 sophisticated way 1
 richard peach 1
@@ -893,7 +910,7 @@ online retirement 1
 taxable maximum 1
 unified theory 1
 new spending 1
-market fluctuation 1
+market fluctuations 1
 net flow 1
 19th century 1
 slow-growing workforce 1
@@ -907,17 +924,15 @@ nation's investment 1
 separate bank 1
 u.s. gnp 1
 important source 1
-prompt action 1
 retirement act 1
 economic security 1
 net investment-that 1
-annual depreciation 1
-income flow 1
+recent summary 1
+further improvement 1
 local governments-would 1
-sizeable wealth 1
 consumer spending 1
 stanley fischer 1
-fiscal discipline 1
+its reliance 1
 international trade 1
 1960s average 1
 south carolina 1
@@ -929,45 +944,44 @@ press secretary 1
 total cash 1
 projected decline 1
 current market 1
-sustainable solvency 1
+general research 1
 complementary theory 1
 quick overview 1
 conventional measure 1
 united states- 1
 our analysis 1
-household survey 1
 declined-the opposite 1
 donald j. 1
 technological improvement 1
 measured level 1
+key issues 1
 pronounced aging 1
 their rate 1
 underlying sustainability 1
 percent short 1
 eric m. 1
 productive investment 1
-it consumption 1
-steven f. 1
+refundable tax 1
+sustainable solvency 1
 vast improvement 1
 current payroll 1
 life-cycle model.9 1
 federal insurance 1
 economic doomsday 1
 steady earning 1
-it saving 1
 nonfarm business 1
-gao/t- hehs-00-101 1
 market wealth 1
+simulations japan 1
 liabilities.29 figure 1
+needy family 1
 cbo's january 1
 explosive growth 1
-budget projection 1
 individual's ability 1
 systematic way 1
 student-loan interest 1
 possible explanation 1
 anticipated wealth 1
-saving mystery 1
+75year period 1
 real gdp 1
 additional retirement 1
 their health 1
@@ -980,22 +994,21 @@ small business 1
 virtuous cycle 1
 figure s.1 1
 outreach program 1
-refundable tax 1
 security administration 1
+steven f. 1
 current dollar 1
 net inflow 1
 daily list 1
 eugene p. 1
 accepted government 1
 inherent uncertainty 1
-implausible doomsday 1
 fourth quarter 1
 possible relationship 1
 employersponsored retirement 1
 vicious cycle 1
 unexpected increase 1
 implied interest 1
-increased value 1
+nonfederal saving-saving 1
 budget policy 1
 additional government 1
 retired population 1
@@ -1019,7 +1032,6 @@ r. glenn 1
 comprehensive set 1
 large workforce 1
 intermediate estimates.49 1
-private-sector level 1
 other saving 1
 only source 1
 arnold katz 1
@@ -1032,11 +1044,12 @@ three-legged stool 1
 rapid increase 1
 empirical debate 1
 actual course 1
+aggregate trend 1
 economic projections7 1
 1960s-an era 1
 individual accounts.44 1
 random house 1
-certainty-the population 1
+income flows 1
 appreciated asset 1
 turn lead 1
 average earner 1
@@ -1048,12 +1061,10 @@ demographic shift 1
 nonresidential investment 1
 foreign sector 1
 new account 1
-it peak 1
 vital role 1
 national debt 1
 lose value 1
 basic life-cycle 1
-how ha 1
 positive saving 1
 low skill 1
 detailed approach 1
@@ -1062,18 +1073,17 @@ child support 1
 discretionary spending-which 1
 their willingness 1
 and/or tax 1
+household surveys 1
 capita-would fall 1
 substantial reduction 1
-simple ira 1
 non-social security 1
 progressive matching 1
 medium-term cash 1
-sharp drop 1
 individual firm 1
 pent-up demand 1
 via satellite 1
 low standard 1
-sep ira 1
+private-sector level 1
 net creditor 1
 key difference 1
 traditional saving 1
@@ -1082,6 +1092,8 @@ previous year.6 1
 effective cost 1
 used capital 1
 different tax 1
+nonprofit community 1
+its influence 1
 controversial measure 1
 short-term plan 1
 total investment 1
@@ -1097,27 +1109,25 @@ long-term projections.12 1
 fiscal imbalance 1
 other retirement 1
 alternative policy 1
-nonfederal saving-saving 1
 specific formula 1
 significant share 1
 opportune time 1
-accumulated household 1
+federal surpluses 1
 annual deficit 1
 longterm assumption 1
-aggregate trend 1
+substantial volatility 1
 financial situation 1
 stylized representation 1
-low-income household 1
 important component 1
 total output 1
+dc orders 1
 19fiscal policy 1
-general revenue 1
 related equipment 1
 conservative assumption 1
 patrick j 1
 net borrower 1
 complete picture 1
-report fraud 1
+international trends 1
 negative saving 1
 inflated baseline 1
 historical benchmark 1
@@ -1128,17 +1138,16 @@ gao/hehs- 00-187 1
 federal government's 1
 national infrastructure 1
 f. venti 1
+its consumption 1
 a guide 1
 america save 1
 other programs.44 1
-j. steven 1
 white house 1
-private saving-which 1
+certainty-the population 1
 saving-the portion 1
 regular sources-before 1
 postwar decline 1
 biennial report 1
-private organizations.36 1
 further assume 1
 international environment 1
 dampen household 1
@@ -1146,15 +1155,15 @@ excess cash 1
 new car 1
 claude giorno 1
 david ricardo 1
+aggregate effect 1
 progressive match- 1
 public debt 1
 small difference 1
 income level 1
 their treatment 1
+retired persons 1
 elderly health 1
 future prosperity 1
-dc order 1
-improved access 1
 personal savingb 1
 additional tax 1
 financial aid 1
@@ -1165,16 +1174,14 @@ fixed share 1
 stems government 1
 d. oliner 1
 other extreme 1
-75year period 1
 same period.4 1
 after-tax return 1
-productivity measure 1
 dissaving-they subtract 1
 2,000-the maximum 1
 economic trend 1
 retirement-income stool 1
 local property 1
-appendix v 1
+new equipment 1
 sophie m. 1
 various reform 1
 gregory mankiw 1
@@ -1185,9 +1192,11 @@ rapid decline 1
 future generations.8 1
 near term 1
 economic commentary 1
+a hi 1
 their peak 1
 68-percent increase 1
 g. gale 1
+report fraud 1
 barbara m. 1
 inpatient hospital 1
 other consumer 1
@@ -1198,7 +1207,7 @@ gross national saving 21
 net national saving 16
 social security administration 16
 net foreign investment 13
-social security surplus 13
+social security surpluses 13
 disposable personal income 13
 congressional budget office 13
 federal reserve bank 10
@@ -1210,40 +1219,40 @@ long-term economic growth 7
 their current income 7
 federal reserve board 6
 their own behalf 5
-debt management action 5
+debt management actions 5
 alternative fiscal policy 5
 national saving rate 5
 robert p. parker 4
 their own retirement 4
 william c. brainard 4
-gdp per caput 4
 brian j. surette 4
 brookings institution press 4
 future economic capacity 4
 household saving rate 4
+gdp per capita 4
+personal saving rate 4
 n. gregory mankiw 4
 federal reserve bulletin 4
 robert e. lipsey 4
 michael j. harper 4
-personal saving rate 4
 william g. gale 4
 national saving percent 4
 george l. perry 4
 balancing fiscal risk 3
 future budgetary flexibility 3
-social security trustee 3
 u.s. trade deficit 3
 budget enforcement act 3
 eugene p. seskin 3
 modern medical technology 3
 affect national saving 3
 social security reform 3
+international monetary fund 3
 future economic growth 3
 other mandatory spending 3
 long-term fiscal outlook 3
 congressional research service 3
 common economic framework 3
-international monetary fund 3
+social security trustees 3
 net international investment 3
 edwin r. dean 3
 bruce t. grimm 2
@@ -1251,87 +1260,86 @@ daniel e. sichel 2
 ultimately economic growth 2
 international investment position 2
 new economic output 2
-real national priority 2
+u.s. international transactions 2
 their personal benefit 2
 federal income tax 2
 nber macroeconomics annual 2
 encouraging nonfederal saving 2
-long-run budget simulation 2
+programs increase saving 2
 federal budget analysis 2
 federal reserve system 2
-it outstanding debt 2
+educational issues associated 2
 new cbo surplus 2
 long-term budget outlook 2
 economic outlook change 2
 our hypothetical couple 2
-smi trustee report 2
 do social security 2
-major industrialized nation 2
-u.s. international transaction 2
-educational issue associated 2
-long-term budget issue 2
+public investment programs 2
+future living standards 2
+federal budget estimates 2
+key policy issues 2
+long-run budget simulations 2
 world war ii 2
+its current form 2
 steven f. venti 2
 their wealth-income target 2
 measure personal saving 2
 total u.s. population 2
-are key issue 2
+steven a. sass 2
 aggregate net worth 2
 government stock investing 2
 retirement confidence survey 2
 national saving figure 2
-future living standard 2
 private saving tend 2
 sean p. keehan 2
+six major puzzles 2
 total federal revenue 2
 robert k. triest 2
-it current form 2
 u.s. series ee 2
 conference series no 2
 between personal saving 2
 evaluating national saving 2
 additional personal saving 2
 recent economic research 2
+highest retirement incomes 2
+frequently asked questions 2
 louise m. sheiner 2
-steven a. sas 2
-key policy issue 2
+savings education council 2
 enough additional saving 2
+real national priorities 2
 john karl scholz 2
 robert j. gordon 2
-program increase saving 2
-saving education council 2
-six major puzzle 2
+arthur b. kennickell 2
+household wealth has 2
+are key issues 2
 st. louis review 2
 their old age 2
 upper saddle river 2
 entire unified surplus 2
 evaluating pension reform 2
-federal budget estimate 2
+long-term budget issues 2
 rapid economic growth 2
-arthur b. kennickell 2
-frequently asked question 2
-highest retirement income 2
 overall national saving 2
 authorized federal funding 2
 overall economic growth 2
-household wealth ha 2
-public investment program 2
 long-term economic outlook 2
 federal government saving/dissaving 2
 census bureau data 2
 aggregate production function 2
 personal saving compare 2
+smi trustees reports 2
+major industrialized nations 2
 strong economic growth 2
 jonathan s. skinner 2
 u.s. national income 2
 personal saving overall 2
 garry j. schinasi 2
+its outstanding debt 2
 should america save 1
 7-23. current income-or 1
 increase national saving 1
 large permanent tax 1
-it increased wealth 1
-it own standard 1
+its own standard 1
 their future retirement 1
 recent empirical research 1
 low national saving 1
@@ -1342,11 +1350,11 @@ traditional defined-benefit pension 1
 useful analytical concept 1
 discretionary domestic spending 1
 our long-term growth 1
-it first surplus 1
+costly centralized system 1
 new tax-subsidized saving 1
 fiscal good fortune 1
 past few years.16 1
-it economic output.4 1
+its low point 1
 longterm economic growth 1
 dr. craig venter 1
 real after-tax rate 1
@@ -1358,34 +1366,35 @@ general revenue financing 1
 sound public infrastructure 1
 15these fiscal policy 1
 laurence j. kotlikoff 1
+national saving billions 1
 high-income workers-would serve 1
 growth-a major component 1
 social security note 1
-entail considerable challenge 1
 longterm economic outlook 1
 government investment u.s. 1
 time-both47 overview overall 1
-it high rate 1
-it own saving 1
 gross federal debt 1
 barbara m. fraumeni 1
+cgross national saving 1
+its own saving 1
 annual appropriations-will grow 1
 their financial future 1
 brent r. moulton 1
 ensuring fiscal sustainability 1
 a cohort analysis 1
-international financial flow 1
+gao's long-term simulations 1
 other postsecondary education 1
 percent-the average interest 1
-it current income 1
 budget office memorandum 1
 dr. francis collins 1
 economy12 national saving 1
 our long-term assumption 1
 long-term economic outlook-but 1
 medicare hi cost 1
+time series econometrics 1
 medicaid social security 1
 national saving young 1
+entail considerable challenges 1
 their other saving 1
 urban institute press 1
 balanced budget act 1
@@ -1394,21 +1403,21 @@ nation's productive capacity 1
 alternative minimum tax 1
 part b smi 1
 zero national debt 1
-it gross rate 1
+its increased wealth 1
 world wide web 1
+federal tax expenditures 1
 reproducible tangible wealth 1
 their own standard 1
+its first surplus 1
 obsolete physical infrastructure 1
-national saving billion 1
 james m. poterba 1
-costly centralized system 1
 cgross nonfederal saving 1
 u.s. census bureau 1
 owner-occupied residential property 1
 national saving section 1
+its high rate 1
 great fiscal challenge 1
 eric m. engen 1
-medicare trustees' report 1
 long-range financial condition 1
 michael g. palumbo 1
 their future standard 1
@@ -1424,6 +1433,7 @@ percent-average nonfederal saving 1
 national saving q2.3 1
 national saving q2.2 1
 paul l. posner 1
+its annual cash 1
 program's long-term solvency 1
 national saving q4.10 1
 percent-an annual rate 1
@@ -1433,6 +1443,7 @@ methodology personal saving 1
 nber working paper 1
 frequently asked questions- 1
 traditional defined benefit 1
+federal investment outlays 1
 national saving q4.11 1
 reported personal saving 1
 low-income rental housing 1
@@ -1445,7 +1456,6 @@ long-term analysis.10 interest 1
 tax-deferred individual account.33 1
 scarce private saving 1
 aggregate wealth-income ratio 1
-it annual cash 1
 their disposable income 1
 long-term sustainable solvency 1
 negative personal saving 1
@@ -1458,17 +1468,16 @@ retirement security q1.1 1
 modernization are needed 1
 ways-gross national saving 1
 basic life-cycle model 1
+its gross rate 1
 online retirement planner 1
 new personal saving 1
 their expected income 1
 alternative macroeconomic measure 1
 their annual income 1
-gao's long-term simulation 1
 laura m. beall 1
 advanced industrial economy 1
 expected long-run level 1
 bea advisory committee 1
-it longterm trend 1
 csis policy summit 1
 various federal tax 1
 their current level 1
@@ -1477,24 +1486,20 @@ disposable personal income-over 1
 gross national income 1
 over-and-above basic life-cycle 1
 labor input economic 1
-it low point 1
 their current rate 1
 appropriate fiscal policy 1
-charles l. memo 1
 overall economic growth-since 1
 national income account 1
 direct federal funding 1
 gross national product 1
 postwar economic expansion-unemployment 1
-it direct spending 1
 united states.14 so 1
 long-term economic future 1
 report.10 long-term medicare 1
+its own investment 1
 possible fiscal policy 1
-federal tax expenditure 1
 douglas w. elmendorf 1
 unspecified permanent policy 1
-individual development account 1
 overall federal surplus 1
 compose national saving 1
 aggregate physical capital 1
@@ -1503,9 +1508,11 @@ future productive capacity 1
 their current consumption 1
 princeton university press 1
 their apparent wealth 1
+its current income 1
+its anticipated budget 1
 third scenario-the impact 1
-federal investment outlay 1
 undercutting national saving 1
+individual development accounts 1
 other federal spending 1
 median elderly household 1
 other discretionary spending 1
@@ -1515,6 +1522,7 @@ their pre-retirement living 1
 local surplus/deficita net 1
 macro economy today 1
 financial imbalance-increasing payroll 1
+medicare trustees' reports 1
 households' real estate 1
 their own saving 1
 research paper no 1
@@ -1527,16 +1535,14 @@ oecd economic outlook 1
 ever-increasing foreign investment 1
 maximum taxable amount 1
 simplified flow chart 1
-cgross national saving 1
+its economic output.4 1
 affect personal saving 1
-it own investment 1
 addressing program solvency 1
 robert m. solow 1
 overall economic growth.2 1
 aggregate private saving 1
 major personal saving 1
 long-term fiscal challenge 1
-it anticipated budget 1
 combined financial burden 1
 their final working 1
 their wealth-to-income target 1
@@ -1544,17 +1550,20 @@ tremendous political pressure 1
 u.s. national saving 1
 retirement confidence survey,36 1
 r. glenn hubbard 1
-time series econometrics 1
+international financial flows 1
 social security financing 1
 large retired population 1
 economy-a national income 1
 national saving department 1
+its longterm trend 1
 bnet personal saving 1
 net rental value 1
 our current model 1
+its direct spending 1
 frbny quarterly review 1
 their early working 1
 alternative personal saving 1
+charles l. memos 1
 chief scientific officer 1
 modest annual rate 1
 economic model note 1
@@ -1568,14 +1577,14 @@ j. steven landefeld 1
 
  Unigram NP 
 retirement 157
-investment 153
 government 153
+investment 152
 gdp 141
 percent 141
 rate 126
 income 111
-saving 105
 nation 103
+saving 103
 nipa 97
 medicare 91
 capital 88
@@ -1600,28 +1609,26 @@ debt 47
 d.c. 47
 march 45
 example 44
-simulation 43
 increase 42
 july 42
 trust 42
 public 41
 survey 41
-program 40
+simulation 40
+program 39
 gao 39
 consumption 38
-household 37
 health 37
-fund 37
+household 36
 market 35
 information 35
 report 35
-measure 35
+measure 34
 future 34
 bureau 34
+fund 34
 living 33
 reform 33
-source 33
-pension 33
 level 32
 amount 32
 population 32
@@ -1629,16 +1636,18 @@ analysis 32
 year 32
 section 31
 effect 31
+source 31
 security 31
 education 31
-value 30
+pension 31
 return 30
+value 30
 cbo 29
 january 29
 today 27
 state 27
 cash 27
-deficit 27
+deficit 26
 care 25
 revenue 25
 february 25
@@ -1646,38 +1655,37 @@ decline 24
 payroll 22
 save 22
 part 21
-ira 21
 april 21
 output 21
-way 21
-caput 20
+capita 20
 business 20
 time 20
 change 19
-incentive 19
 r 19
 extent 19
 addition 19
 balance 19
+way 19
 department 19
 flow 18
 d 18
 journal 18
 portion 18
 dollar 17
-account 17
 president 17
+incentive 17
 note 17
 surplus 17
 model 17
-benefit 17
 k 16
-ida 16
 office 16
 september 16
 turn 16
+benefit 16
 june 16
 net 15
+account 15
+ira 15
 infrastructure 15
 point 15
 period 15
@@ -1685,20 +1693,19 @@ hi 15
 age 15
 force 14
 ma 14
-trustee 14
 policy 14
 standard 14
-assumption 14
 national 14
 worker 14
 depreciation 14
+trustees 14
 may 13
+assumption 13
 equipment 13
 price 13
 plan 13
 ratio 13
 result 13
-proposal 13
 board 13
 cambridge 13
 cost 12
@@ -1714,6 +1721,7 @@ research 11
 percentage 11
 average 11
 whole 11
+proposal 11
 technology 11
 burden 11
 october 11
@@ -1742,12 +1750,13 @@ need 9
 consumer 9
 sector 9
 individual 9
-governor 9
 development 9
+governors 9
 rest 9
 economic 9
 software 9
 path 8
+ida 8
 order 8
 generation 8
 actuary 8
@@ -1755,6 +1764,7 @@ taxation 8
 text 8
 calendar 8
 capacity 8
+idas 8
 medicaid 8
 center 8
 no 8
@@ -1777,7 +1787,6 @@ paper 7
 oasdi 7
 composition 7
 theory 7
-option 7
 bea 7
 sum 7
 employer 7
@@ -1794,25 +1803,25 @@ life 7
 evidence 7
 role 7
 accumulation 6
-trend 6
+perspective 6
+iras 6
 scope 6
 definition 6
 personal 6
 magnitude 6
+insurance 6
 base 6
 estimate 6
 training 6
 • 6
-perspective 6
+option 6
 u.s 6
 mid 6
-implication 6
 reference 6
 law 6
 attention 6
 cut 6
 prescription 6
-deduction 6
 couple 6
 finance 6
 literature 6
@@ -1821,13 +1830,10 @@ money 6
 revaluation 6
 package 6
 macroeconomics 6
-transfer 6
 low 6
-insurance 6
 chicago 5
 experience 5
 action 5
-spendthrift 5
 n.y. 5
 simplicity 5
 use 5
@@ -1856,22 +1862,23 @@ effectiveness 5
 gao-01-317 5
 gross 5
 outlook 5
+transfer 5
 question 5
+implications 5
 management 5
 represent 4
 gao/ocg-99-27 4
 index 4
 estate 4
-survivor 4
 gao/aimd-00-272r 4
 product 4
 water 4
 trade 4
+timing 4
 bank 4
 term 4
 society 4
 bls 4
-method 4
 number 4
 q4.10 4
 target 4
@@ -1881,14 +1888,15 @@ fact 4
 debate 4
 impact 4
 access 4
-timing 4
 edition 4
 dividend 4
+deduction 4
 reduction 4
 scenario 4
 current-law 4
 measurement 4
 flexibility 4
+methods 4
 motive 4
 abroad 4
 certainty 4
@@ -1901,7 +1909,9 @@ funding 4
 focus 3
 gao-01-385t 3
 primer 3
+puzzles 3
 list 3
+trend 3
 surpluses-and 3
 eds. 3
 exchange 3
@@ -1923,14 +1933,12 @@ quintile 3
 discussion 3
 how 3
 methodology 3
-criterion 3
 a 3
 gao/t-aimd-96-66 3
 light 3
 gao/ocg-92-2 3
 existence 3
 group 3
-taxpayer 3
 sooner 3
 hereafter 3
 micro 3
@@ -1940,6 +1948,7 @@ internet 3
 formula 3
 foundation 3
 gao-01-539t 3
+spendthrifts 3
 size 3
 xxxiv 3
 relationship 3
@@ -1950,13 +1959,13 @@ reliance 3
 gao/aimd-99-270 3
 old-age 3
 sale 3
+federal 3
 knowledge 3
 q1.8 3
 q1.5 3
 q1.1 3
 summary 3
 fertility 3
-federal 3
 importance 3
 cashell 3
 one-third 3
@@ -1979,6 +1988,7 @@ supply 3
 gao/t-aimd/oce-98-83 3
 rebound 3
 replacement 3
+trends 3
 equivalent 3
 matching 3
 lead 3
@@ -1988,12 +1998,13 @@ q4.3 3
 range 3
 administration 3
 improvement 3
-puzzle 3
 entitlement 3
 g-7 3
+funds 3
 allocation 3
 elimination 3
 contribute 3
+simulations 3
 variety 3
 whereas 3
 detail 3
@@ -2005,16 +2016,17 @@ gao/ocg-99-29 2
 anticipation 2
 lawrence 2
 disability 2
+pensions 2
 charge 2
 advantage 2
 wave 2
+sensitivity 2
 annamaria 2
 gao/aimd/hehs-00-29 2
 government's 2
 design 2
 jcx-29-99 2
 gao/rced/aimd-00-35 2
-recommendation 2
 availability 2
 current 2
 international 2
@@ -2030,7 +2042,9 @@ s.2 2
 table 2
 trustees' 2
 property 2
+survivor 2
 cause 2
+taxpayers 2
 q4.5 2
 q4.4 2
 q4.6 2
@@ -2044,6 +2058,7 @@ type 2
 gao/t-hehs-99-94 2
 behalf 2
 hope 2
+spendthrift 2
 history 2
 high 2
 council 2
@@ -2054,34 +2069,31 @@ conversely 2
 jagadeesh 2
 arrangement 2
 significance 2
-purchase 2
 essence 2
 move 2
 thumb 2
 organisation 2
-sensitivity 2
+survivors 2
 mail 2
+transit 2
 phone 2
 greater 2
 food 2
 gao/t-aimd-95-178 2
 yearend 2
+accounts 2
 mean 2
 expectancy 2
 everyone 2
 house 2
 idea 2
 martin 2
-event 2
 gao/ggd-98-37 2
 gao/hehs-00-131 2
-issue 2
 erisa 2
 kirova 2
 reason 2
 advance 2
-two-to-one 2
-steward 2
 place 2
 info 2
 one 2
@@ -2092,13 +2104,13 @@ sheet 2
 service 2
 reminder 2
 enforcement 2
+purchase 2
 q4.11 2
 measured 2
 matter 2
 prospect 2
 gale 2
 rent 2
-transit 2
 collapse 2
 acceleration 2
 resurgence 2
@@ -2109,6 +2121,7 @@ gao/t-aimd/hehs-99-113 2
 enough 2
 equity 2
 do 2
+incentives 2
 q3.4 2
 q3.2 2
 q3.3 2
@@ -2119,16 +2132,14 @@ gokhale 2
 virginia 2
 higher 2
 browning 2
-statistic 2
-administrator 2
 practice 2
 mortgage 2
+ways 2
 illusory 2
 cxii 2
 tend 2
 tendency 2
 cooperation 2
-approach 2
 efficiency 2
 exclusion 2
 firstgov 2
@@ -2140,6 +2151,7 @@ vacation 2
 slowly 2
 website 2
 gao-01-199sp 2
+warning 2
 study 2
 inputs-multifactor 2
 unit 2
@@ -2150,12 +2162,14 @@ calculation 2
 director 2
 bequest 2
 transaction 2
-database 2
 instance 2
 spent 2
+savings 2
+two-to-one 2
 inc. 2
 gao/aimd-98-184 2
 background 2
+sources 2
 bibliography 2
 mix 2
 medicare's 2
@@ -2169,28 +2183,34 @@ gao/aimd/hehs-98-74 2
 cleveland 2
 little 2
 insolvency 2
-senior 2
+database 2
 lottery 2
 comparison 2
 surge 2
+proposals 2
+seniors 2
 commitment 2
 accumulated 2
 france 2
+statistics 2
 housing 2
 gao/hehs-98-5 2
 ed 2
 overhang 2
 plunge 2
 complacency 2
+criteria 2
 slump 2
 immigration 2
+administrators 2
+deductions 2
 absent 2
 multifactor 2
 limit 2
 constant 2
 paycheck-to-paycheck 2
-warning 2
 peach 2
+event 2
 bracket 2
 poor 2
 explaining 2
@@ -2211,7 +2231,6 @@ infusion 1
 behalf-could 1
 jr. 1
 services-consumption 1
-a5.1 1
 paris 1
 digger 1
 flash 1
@@ -2221,13 +2240,13 @@ mathieson 1
 ira.31 1
 life-cycle 1
 crest 1
+superintendent 1
 gao/aimd-94-40 1
 @ 1
 fax 1
 outside 1
 blanchard 1
 none 1
-liability 1
 m-29 1
 billion.b 1
 condition 1
@@ -2246,7 +2265,7 @@ escalation 1
 concise 1
 prediction 1
 understanding 1
-grant 1
+www.gao.gov 1
 corner 1
 wealth-to-income 1
 years.11 1
@@ -2255,7 +2274,8 @@ even 1
 power 1
 richard 1
 investing 1
-saving.7 1
+oliner 1
+recommendation 1
 laurence 1
 fifth 1
 increasing 1
@@ -2276,6 +2296,7 @@ discount 1
 shift 1
 q4.11-affect 1
 dri 1
+grants-in-aid 1
 advertising 1
 olivier 1
 opinion 1
@@ -2288,7 +2309,6 @@ enactment 1
 association 1
 defense 1
 july−august 1
-www.gao.gov 1
 elmendorf 1
 crime 1
 period.9 1
@@ -2296,6 +2316,7 @@ challenging 1
 q4.1 1
 q4.2 1
 intermediate 1
+subsidies 1
 obsolescence 1
 houses,1 1
 mismatch 1
@@ -2308,13 +2329,13 @@ public.7 1
 elwell 1
 hold 1
 effort 1
-document 1
 saving.22 1
 caroline 1
 characterize 1
 thaler 1
 mo 1
 coalition 1
+measures 1
 remain 1
 v 1
 gao/hehs-98-33 1
@@ -2323,11 +2344,13 @@ www.sec.gov/oiea1.htm 1
 weinberg 1
 rates-which 1
 quarter 1
+assumptions 1
 caution 1
 clothing 1
 goal 1
 inheritance 1
 vital 1
+criterion 1
 symposium 1
 stock-has 1
 tdd 1
@@ -2343,6 +2366,7 @@ lot 1
 wealthincome 1
 consisting 1
 winter 1
+liability 1
 short 1
 third 1
 investment.16 1
@@ -2360,18 +2384,21 @@ choices-some 1
 daniel 1
 drawdown 1
 affect 1
+documents 1
 peterson 1
 a2.3 1
 a2.2 1
 a2.1 1
-le 1
+venti 1
+taxpayer 1
 a2.4 1
 reluctance 1
 ii.1 1
-wealth.31 1
 versus 1
+wynne 1
 whole.17 1
 someone 1
+demographics 1
 ,1 1
 cross-country 1
 market-could 1
@@ -2405,21 +2432,25 @@ day 1
 safety 1
 www.bea.doc.gov/bea.dnl.htm 1
 americans' 1
+issue 1
 assurance 1
-lag 1
+stewards 1
 solvent 1
-associate 1
+saving.7 1
+recommendations 1
 above-has 1
 investment.6 1
 difficulty 1
 proxy 1
 span 1
-years.20 1
+lag 1
 labonte 1
 spending.19 1
+benefits 1
 jet 1
 standards.9 1
 july/august 1
+steward 1
 american 1
 abuse 1
 gordon 1
@@ -2434,13 +2465,13 @@ accordance 1
 bchange 1
 quality 1
 tomorrow 1
-a4.5 1
+doomsday 1
 publication 1
 achange 1
 introduction 1
 opportunity 1
 maurice 1
-doomsday 1
+households 1
 a4.4 1
 a4.7 1
 a4.1 1
@@ -2449,9 +2480,10 @@ a4.2 1
 rose-which 1
 a4.9 1
 a4.8 1
+gao/hehs-00-187 1
 methodolog 1
 rsa 1
-immediate 1
+a4.5 1
 bbenefit 1
 retirement.39 1
 january/february 1
@@ -2467,14 +2499,17 @@ high-cost 1
 cchange 1
 satyendra 1
 acquisition 1
+goods-plant 1
 illness 1
 willingness 1
 martha 1
 partnership 1
+cohort 1
 gao/t-hehs/aimd-00-103 1
 godley 1
 harper 1
 levels-which 1
+meeting 1
 deepening 1
 commentary 1
 carroll 1
@@ -2495,8 +2530,6 @@ landefeld 1
 starr-mccluer 1
 government13 1
 bernheim 1
-e.g. 1
-superintendent 1
 construction 1
 snapshot 1
 deductibility 1
@@ -2513,7 +2546,7 @@ principal 1
 trade-off 1
 implementation 1
 plans-together 1
-gao/hehs-00-187 1
+less 1
 nonfederal 1
 princeton 1
 irs 1
@@ -2529,13 +2562,13 @@ maintenance-of-effort 1
 reinsdorf 1
 taxes.13 1
 ssi 1
-oliner 1
 borrower 1
 downturn 1
 //www.ebri.org/rcs/2001/index.htm 1
 future.24 1
 q3.1 1
-wynne 1
+years.20 1
+issues 1
 taxes-would 1
 ditch-digging 1
 q1.4 1
@@ -2545,6 +2578,7 @@ decade.13 1
 gao/t-aimd/hehs-99-236 1
 activity 1
 september/october 1
+implication 1
 standard.32 1
 requirement 1
 set 1
@@ -2553,6 +2587,7 @@ committee 1
 job 1
 csis 1
 summer 1
+relative 1
 intensity 1
 paul 1
 saving-government 1
@@ -2560,12 +2595,12 @@ q5.1 1
 degree 1
 engen 1
 astate 1
+approach 1
 corruption 1
 carve-out 1
 knowing 1
 alimony 1
 comparable 1
-relative 1
 eye 1
 horney 1
 aircraft 1
@@ -2577,10 +2612,10 @@ q2.5 1
 assets.15 1
 planner 1
 seskin 1
-countries- 1
+deficits 1
 drug 1
 s 1
-period.8 1
+iv 1
 long-term 1
 operating 1
 attanasio 1
@@ -2590,6 +2625,7 @@ gao/aimd/oce- 1
 measure.24 1
 loan 1
 s.1 1
+3-14 1
 sondra 1
 modeling 1
 respect 1
@@ -2600,7 +2636,7 @@ linkage 1
 craig 1
 olivei 1
 widening 1
-meeting 1
+q4.8- 1
 universal 1
 exhaustion 1
 direction 1
@@ -2614,7 +2650,6 @@ look 1
 hand-in-hand 1
 gao.gov 1
 air 1
-q4.8- 1
 expiration 1
 schultze 1
 bin 1
@@ -2622,11 +2657,11 @@ changed 1
 century 1
 thus 1
 freund 1
-iv 1
+countries- 1
 year.48 1
 gao/t-hehs/aimd-99-294 1
 -600 1
-cohort 1
+period.8 1
 different 1
 hubbard 1
 a4.10 1
@@ -2661,9 +2696,12 @@ nonhealth 1
 recent 1
 surplus/deficitc 1
 marshall 1
+programs 1
+options 1
 person 1
 contact 1
 inability 1
+investments 1
 tomorrow's 1
 big-ticket 1
 just 1
@@ -2672,7 +2710,6 @@ mechanism 1
 www.federalreserve.gov/releases/z1/current/data.htm 1
 discipline 1
 rates.6 1
-demographic 1
 return-that 1
 relevance 1
 consideration 1
@@ -2687,6 +2724,7 @@ nipa-can 1
 unified 1
 testimony 1
 solow 1
+grants 1
 fully 1
 beverly 1
 balance.17 1
@@ -2698,6 +2736,7 @@ difference.1 1
 morris 1
 seller 1
 stock.7 1
+a5.1 1
 amounts.30 1
 expenditures.40 1
 jonathan 1
@@ -2708,7 +2747,6 @@ conference 1
 denominator 1
 processing 1
 confidence 1
-grant-in-aid 1
 substitution 1
 a. 1
 www.asec.org 1
@@ -2723,14 +2761,16 @@ rationale 1
 risk-on 1
 presence 1
 visit 1
+wealth.31 1
 usa 1
 drain 1
 appropriate 1
 rapidly-peaking 1
 browne 1
+transfers 1
 contributor 1
 gao/t-aimd-00-126 1
-subsidy 1
+e.g. 1
 computer 1
 additional 1
 deteriorating 1
@@ -2739,7 +2779,6 @@ translate 1
 windfall 1
 function 1
 fiscal 1
-3-14 1
 gain 1
 indiana 1
 line 1
@@ -2751,17 +2790,18 @@ maximum 1
 fraudnet 1
 -i.e. 1
 record 1
+approaches 1
 distribution 1
 barro 1
 display 1
 purcell 1
-goods-plant 1
 cuts-are 1
 stock- 1
 taste 1
 abstract 1
 influence 1
 alarm 1
+associates 1
 keogh 1
 gruber 1
 visa 1
@@ -2774,8 +2814,8 @@ menu 1
 ny 1
 old 1
 niip 1
-venti 1
 ffas 1
+immediate 1
 poterba 1
 wealth.20 1
 aincome 1
@@ -2804,116 +2844,116 @@ health care financing administration 5
 bls productivity measurement program 4
 employee benefit research institute 4
 new england economic review 3
+disability insurance trust funds 3
 new benefit underscore need 3
 fixed reproducible tangible wealth 3
-alternative fiscal policy simulation 3
-disability insurance trust fund 3
 frequently asked questions-an update 3
+alternative fiscal policy simulations 3
 federal hospital insurance trust fund 2
-personal saving rate ha 2
-social security surplus simulation 2
 national saving rate affected investment 2
-social security reform conference proceeding 2
 may affect income security 2
+does u.s. national saving compare 2
 life cycle/permanent income hypothesis 2
 international finance discussion paper no 2
 economics discussion series paper no 2
-establishing individual account affect national saving 2
-evaluating social security reform proposal 2
+current fiscal policy choices 2
+does national saving contribute 2
+establishing individual accounts affect national saving 2
 labor force without pension coverage 2
-population nearly double from today 2
+evaluating social security reform proposals 2
+personal saving rate has 2
+social security reform conference proceedings 2
+has u.s. national saving changed 2
 national saving text box 2
-government bond net wealth 2
+government bonds net wealth 2
 federal government have been aimed 2
 personal saving rate changed 2
-doe u.s. national saving compare 2
+has federal fiscal policy affected u.s. national saving 2
 social security reform affect national saving 2
-doe national saving contribute 2
+loan provisions enhance participation 2
 publicly held federal debt 2
-loan provision enhance participation 2
 reform affect national saving 2
+research division working papers 2
 government investment affect national saving 2
 alternative gross national saving 2
-current fiscal policy choice 2
 federal supplementary medical insurance trust fund 2
-ha u.s. national saving changed 2
-ha federal fiscal policy affected u.s. national saving 2
+social security surpluses simulation 2
 japan economic institute report 2
-research division working paper 2
+population nearly doubles from today 2
 affect future budgetary flexibility 2
 nber working paper no 1
 national saving appendix iii glossary wealth 1
 u.s. general accounting office p.o 1
 reduced private saving-would increase 1
 retirement security9 national saving overview11 national saving 1
+alternative personal saving assumptions 1
 general accounting office washington 1
 u.s. trade deficit review commission 1
 see russell b. scholl 1
 omnibus budget reconciliation act 1
-hospital insurance trust fund face insolvency 1
-social security surplus simulation percent 1
 third fourth fifth income level 1
 percent-of net national saving 1
+flat annual general tax 1
+social security surpluses simulation percent 1
 jerome levy economics institute 1
 national human genome research institute 1
-dri oecd national income account 1
 peter g. will america grow 1
 our long-term economic growth 1
 assets-particularly financial assets-have dwarfed 1
-simulation long-term budget issue 1
+tables personal saving table 1
+major sections personal saving 1
 current long-term economic outlook 1
 national saving overview q2.1 1
-budget issue federal debt 1
-current policy issue q5.1 1
+fees paid gao permit no 1
+century challenges prompt fresh 1
 imputed net rental value 1
 gross national producta gdp 1
-table personal saving table 1
 ebri issue brief number 1
 economics department working paper no 1
 u.s. national saving so low 1
-care- receive preferential treatment 1
+dri oecd national income accounts 1
 national saving social security 1
 japan italy france germany canada united united kingdom 1
+private pensions budget trends 1
+appendix v related gao products 1
 their current disposable income 1
 government u.s. national saving 1
-paul l. posner susan j. irving managing director federal budget analysis strategic issue director federal budget analysis strategic issue summary 1
 current disposable personal income 1
 part a hospital insurance 1
-u.s. general accounting office washington 1
 federal hospital insurance trust 1
 part b supplementary medical insurance 1
-alternative personal saving assumption 1
+key questions contents preface 1
+its high postwar investment 1
 double net national saving 1
 opinion research corporation international 1
-design decision lie ahead 1
 huge long-range financial imbalance 1
-private pension budget trend 1
-appendix v related gao product 1
+budget issues federal debt 1
+simulations long-term budget issues 1
 foreign assets-the net international investment 1
 appendix iv bibliography alexander 1
-policy issue appendix appendix 1
-major section personal saving 1
 national saving total factor productivity 1
 prime minister tony blair 1
-harcourt brace college publisher 1
-estimated net present value 1
+paul l. posner susan j. irving managing director federal budget analysis strategic issues director federal budget analysis strategic issues summary 1
+policy issues appendixes appendix 1
+entire human genome project 1
+design decisions lie ahead 1
+current policy issues q5.1 1
 aggregate household net worth 1
 private sector's long-term productivity 1
-fee paid gao permit no 1
 -2 -1000 -4 -1500 1
-flat annual general tax 1
-it high postwar investment 1
-social security trust fund face insolvency 1
+u.s. general accounting office washington 1
+social security trust fund faces insolvency 1
 aarp public policy institute 1
-entire human genome project 1
 general accounting office gao june 1
 percent average annual decline 1
 ebri issue brief no 1
+care- receive preferential treatment 1
 federal reserve chairman greenspan 1
 affected net national saving 1
 economic output-gross national product 1
-key question content preface 1
 little net economic benefit- 1
 national saving table ii.1 1
+estimated net present value 1
 our long-term fiscal challenge 1
-century challenge prompt fresh 1
+harcourt brace college publishers 1
+hospital insurance trust fund faces insolvency 1

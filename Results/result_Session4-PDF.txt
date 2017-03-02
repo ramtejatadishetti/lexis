@@ -11,9 +11,9 @@ rivara fp 4
 bernstein j 4
 bernstein e 4
 substance abuse 4
-injured patient 4
 j trauma 4
 american college 4
+injured patient 4
 national institute 3
 clinical research 3
 d'onofrio g 3
@@ -33,35 +33,35 @@ formal screening 3
 emergency medicine 3
 alcohol-related research 3
 important role 2
+insurance legislators 2
 at-risk drinking 2
 substantial number 2
 their effectiveness 2
 collaborative process 2
-peter j 2
 indirect rate 2
 national survey 2
 epidemiologic shift 2
 miller wr 2
 geller g 2
 his paper 2
-alcohol problem 2
+peters j 2
 project match 2
-insurance legislator 2
+alcohol problems 2
+insurance commissioners 2
 severe dependence 2
 brooker c 2
 strategic position 2
 medical care 2
-tonigan j 2
 mccabe c 2
 domestic violence 2
 many emergency 2
-insurance commissioner 2
 acute alcohol 2
 national conference 2
 clinical judgment 2
 chronic alcohol 2
 primary function 2
 their implementation 2
+tonigan js 2
 positive blood 2
 hazardous drinking 2
 joint commission 2
@@ -81,13 +81,12 @@ disease control 1
 sensitive issues.53 1
 his hospital 1
 attitudinal change 1
-it success 1
+cost-benefit analysis 1
 main effect 1
 our practice 1
 translational research 1
 little integration 1
 patient confidentiality 1
-federal regulation 1
 richard ries 1
 sufficient relationship 1
 substantial portion 1
@@ -104,20 +103,17 @@ galvin rw 1
 separate category 1
 myocardial infarction 1
 other staff 1
-u trauma 1
 our task 1
 his alcohol 1
 over-coming resistance 1
 non-md publishing 1
 good medicine 1
 main area 1
-it cost-effectiveness 1
 surgical expense 1
 social strategy 1
 chassin mr 1
 edward bernstein 1
 relative lack 1
-cost-benefit analysis 1
 peer-review group 1
 their need 1
 new partnership 1
@@ -132,7 +128,7 @@ long way 1
 hospital-based screening 1
 extended treatment 1
 significant issue 1
-project assert 1
+collaborative model 1
 their grant 1
 garrett ja 1
 mueller ba 1
@@ -150,7 +146,6 @@ barry kl 1
 integral component 1
 informational material 1
 extra staff 1
-collaborative model 1
 new ground 1
 jensen nm 1
 college-based binge 1
@@ -184,11 +179,13 @@ little cross-dissemination 1
 financial loss 1
 suitable outcome 1
 grossman dc 1
+standard curricula 1
 inadequate access 1
 routine screening 1
 ronald maio 1
 outpatient treatment 1
 critical care 1
+cheryl cherpitel 1
 our field 1
 bleecker t 1
 great collaboration 1
@@ -220,12 +217,12 @@ primary outcome 1
 their relevance 1
 their state 1
 bien th 1
+federal regulations 1
 their insurance 1
 intensive treatment 1
 standardized intervention 1
 alcohol-related disorder.21 1
-md individual 1
-alcohol intervention 1
+project assert 1
 average emergency 1
 primary emergency 1
 national level 1
@@ -239,27 +236,27 @@ medical service 1
 standard intervention 1
 physician behavior 1
 gerstein dr 1
+its cost-effectiveness 1
 simple referral 1
 limited access 1
 timely conference 1
 interdisciplinary research 1
 sickness insurance 1
 moore rd 1
-standard curriculum 1
 richard longabaugh 1
 strong support 1
 bone lr 1
-it evidence 1
 wilk ai 1
 chang g 1
 seek treatment 1
 stephen hargarten 1
-bank sm 1
 accurate information 1
 early diagnosis 1
 kenaston t 1
 other hand 1
 simple phone 1
+its adoption 1
+md individuals 1
 clinical trial 1
 project match.56 1
 blume aw 1
@@ -284,6 +281,7 @@ tesh e 1
 clinical detection 1
 barnett np 1
 little interaction 1
+particular project 1
 french mt 1
 horgan c 1
 johnson intervention 1
@@ -301,7 +299,6 @@ peer-review process 1
 physician advice 1
 total amount 1
 great merit 1
-kern tj 1
 important research 1
 national dissemination.30 1
 comparable coverage 1
@@ -325,6 +322,7 @@ criminal justice 1
 learning opportunity 1
 overall quality 1
 physician education 1
+alcohol interventions 1
 meyers rj 1
 uniform adherence 1
 oxman ad 1
@@ -359,6 +357,7 @@ his proposal 1
 patient population 1
 current funding 1
 their drinking 1
+banks sm 1
 multi-institutional trial 1
 standard operating 1
 significant contribution 1
@@ -381,9 +380,10 @@ positive change.33 1
 new intervention 1
 external body 1
 similar approach 1
+kerns tj 1
 astrachan b 1
 intensive treatment.8 1
-particular project 1
+its success 1
 recent analysis 1
 danielson pe 1
 21st century 1
@@ -407,9 +407,8 @@ selzer ml 1
 katon w 1
 noordsy dl 1
 specialized care 1
-marginal capacity 1
-it adoption 1
 tollefson s 1
+marginal capacity 1
 practical psychology 1
 significant predictor 1
 primary goal 1
@@ -419,7 +418,7 @@ ed.2-6 a 1
 special protection 1
 likely explanation 1
 heavy alcohol 1
-cheryl cherpitel 1
+us trauma 1
 thoughtful research 1
 mueser kt 1
 federal confidentiality 1
@@ -434,6 +433,7 @@ quantity/ frequency 1
 richard brown 1
 drake re 1
 such commitment 1
+healthcare organizations 1
 optimal resource 1
 harm reduction 1
 stand-alone treatment.40 1
@@ -473,10 +473,10 @@ social issue 1
 medical problem 1
 alcohol-related problem 1
 behavioral health 1
+its evidence 1
 ed-based research 1
 ann surg 1
 common concern 1
-healthcare organization 1
 ever-increasing demand 1
 daniel pollock 1
 clinical setting 1
@@ -502,6 +502,7 @@ ann emerg med 2
 general medical care 2
 nih publication no 2
 boston medical center 1
+health care professionals 1
 our shared goal 1
 ann intern med 1
 their national stature 1
@@ -510,34 +511,33 @@ brief motivational counseling 1
 their professional development 1
 basic legislative structure 1
 gen hosp psychiatry 1
+hospitalized trauma patients 1
 vor korff m 1
 much alcohol-related assessment 1
 d'onofrio g. screening 1
 their clinical setting 1
 general medical record 1
-alcoholism treatment approach 1
+hhs publication no 1
 their legitimate expectation 1
+alcoholism treatment approaches 1
 new diagnostic instrument 1
 health care quality 1
-it annual meeting 1
 von korff m 1
 am j psychiatry 1
 serious medical error.32 1
 active referral process 1
+government printing office 1
 successful multi-center trial 1
 dr. larry gentilello 1
 receive necessary treatment 1
 their primary care 1
-government printing office 1
+its own right 1
 drph dr. gentilello 1
-hhs publication no 1
 brief physician advice 1
 uniform individual accident 1
 brief motivational intervention 1
-emergency department referral 1
-it own domain 1
 special treatment-resistant subgroup 1
-health care professional 1
+its own domain 1
 unique clinical community 1
 little external validity 1
 medicine national roundtable 1
@@ -547,15 +547,15 @@ minor physical injury 1
 cross national trial 1
 their own field 1
 institutional review board 1
-implementing preventive intervention 1
-hospitalized trauma patient 1
+emergency department referrals 1
 current procedural terminology 1
-it own right 1
+implementing preventive interventions 1
 brief contact setting 1
 general medical consent 1
-connecticut general statute 1
 their own insurance 1
+connecticut general statutes 1
 indian health service 1
+its annual meeting 1
 j addict dis 1
 accid anal prev 1
 connecticut public act 1
@@ -571,10 +571,10 @@ department 64
 treatment 59
 medicine 42
 intervention 41
-ed 36
 care 35
 abuse 31
 substance 30
+ed 28
 use 28
 trauma 26
 health 26
@@ -586,11 +586,11 @@ al 20
 staff 16
 gentilello 15
 injury 15
-study 14
 policy 14
 development 14
 knowledge 14
 model 14
+study 13
 center 13
 funding 12
 patient 12
@@ -605,6 +605,7 @@ addiction 9
 order 9
 provision 9
 system 9
+eds 8
 example 8
 information 8
 law 8
@@ -641,10 +642,9 @@ institute 5
 survey 5
 control 5
 process 5
-surgeon 5
+surgeons 5
 service 5
 number 5
-review 5
 approach 5
 addition 5
 physician 5
@@ -670,6 +670,7 @@ outcome 4
 c.f.r 4
 course 4
 detection 4
+review 4
 screen 4
 respect 4
 efficacy 4
@@ -809,7 +810,6 @@ content 1
 agent/vehicle 1
 presentation 1
 advantage 1
-far 1
 activation 1
 time.10 1
 mph 1
@@ -825,10 +825,12 @@ bacon 1
 literature 1
 design 1
 depression 1
+patient's 1
 chicago 1
 jeopardy 1
 report1 1
 discharge.45 1
+psychiatrist 1
 principal 1
 public 1
 movement 1
@@ -844,6 +846,7 @@ rehabilitation 1
 amount 1
 action 1
 skepticism 1
+studies 1
 purview 1
 generalizability 1
 county 1
@@ -868,13 +871,13 @@ disruption 1
 methodologic 1
 hour 1
 challenge 1
-patient's 1
+reviews 1
 root 1
 e.g. 1
 share 1
 re-submitting 1
 discussion 1
-psychiatrist 1
+means 1
 damage 1
 abuse.10,13-18 1
 dwi 1
@@ -883,12 +886,15 @@ rise 1
 :115-8 1
 advice 1
 philosophy 1
+acess 1
 mesh 1
+fars 1
 man 1
 readiness 1
 effective 1
 peer-review 1
 doctor 1
+columbia 1
 sect 1
 service.44 1
 proportionate 1
@@ -916,7 +922,7 @@ financial 1
 operationalization 1
 frequency 1
 year 1
-columbia 1
+aids 1
 category 1
 furthermore 1
 increase 1
@@ -1002,6 +1008,7 @@ non-payment 1
 continuum 1
 summary 1
 experience 1
+ems 1
 withdrawal 1
 release 1
 smast 1
@@ -1012,7 +1019,6 @@ individual 1
 college 1
 calendar 1
 project 1
-expert 1
 federal 1
 :806-16 1
 irb 1
@@ -1046,12 +1052,12 @@ case 1
 prominence 1
 governor 1
 behavior 1
-aid 1
 property 1
 :163-6 1
 :1043-8 1
 site 1
 p.a 1
+experts 1
 il 1
 resources.3 1
 soderstrom 1
@@ -1107,10 +1113,7 @@ epidemiology 1
 leadership 1
 stage 1
 uniformity 1
-ace 1
 horizon 1
-mean 1
-em 1
 dilemma 1
 facility 1
 communication 1
@@ -1123,6 +1126,7 @@ instrument 1
 medicare/medicaid 1
 insured 1
 proposal 1
+us 1
 verification 1
 worthwhile 1
 influence 1
@@ -1137,7 +1141,6 @@ outreach 1
 variation 1
 cpt 1
 age 1
-u 1
 resolution 1
 
  Arbitary length NP 
@@ -1145,36 +1148,36 @@ saem substance abuse task force 3
 am j drug alcohol abuse 3
 robert wood johnson foundation 3
 j consult clin psychol 2
-drug abuse patient record 2
+mental health services administration 2
 am j public health 2
-mental health service administration 2
+drug abuse patient records 2
 twelve step facilitation therapy manual 2
 fatal accident reporting system 1
 levenson s. project assert 1
-advanced cardiac life support 1
-general discussion jeffrey runge 1
-robert wood johnson clinical scholar 1
-substance abuse interest group 1
 sickness policy provision law 1
+advanced cardiac life support 1
+alcohol health res world 1
+substance abuse interest group 1
+alcohol use disorders identification test 1
 retirement income security act 1
 u.s. government printing office 1
 new york state office 1
-alcohol health re world 1
 advanced pediatric life support 1
-prehospital trauma life support 1
-consideration linda c. degutis 1
-alcohol use disorder identification test 1
-national highway traffic safety administration 1
+considerations larry m. gentilello 1
+robert wood johnson clinical scholars 1
+act concerning substance abuse emergency room screening 1
+considerations linda c. degutis 1
 advanced trauma life support 1
 advanced alcohol problem identification 1
 world health organization brief intervention study group 1
-act concerning substance abuse emergency room screening 1
 j gen intern med 1
 public health task force 1
 their current legal right 1
 presentation stephen m. hargarten 1
+national highway traffic safety administration 1
+prehospital trauma life support 1
 national treatment plan initiative 1
 social security death index 1
+general discussion jeffrey runge 1
 national treatment plan.36 alcohol 1
 national alcohol screening day 1
-consideration larry m. gentilello 1

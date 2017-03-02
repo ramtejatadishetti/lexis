@@ -10,14 +10,15 @@ eulerian air 2
 acid deposition 2
 fine particle 2
 broad range 1
-national park 1
+multiple allowance 1
 projected impact 1
 other year 1
 future ozone 1
 negative percent 1
 base year 1
+same return 1
 sulfur deposition 1
-total change 1
+its capability 1
 retail power 1
 private sector 1
 regional manner 1
@@ -25,17 +26,18 @@ cost-of-service basis 1
 western u.s. 1
 advanced energy 1
 various demand 1
+delayed response 1
+combines ipm 1
 economic value 1
-main case 1
+its outlook 1
 cost-of-service pricing 1
 8-hour ozone 1
 improved visibility 1
 different allowance 1
 freshwater modeling 1
-it capability 1
 same tax 1
 nationwide mix 1
-multiple allowance 1
+national parks 1
 recreational visibility 1
 entire region 1
 particulate matter 1
@@ -49,7 +51,6 @@ avoided health 1
 macro-driven spreadsheet 1
 important limitation 1
 public power 1
-combine ipm 1
 same emission 1
 0-50 µeq/l 1
 asthma attack 1
@@ -59,42 +60,41 @@ exchangeable base 1
 current air 1
 nitrogen deposition 1
 competitive pricing 1
-same return 1
+main case 1
 relative price 1
-delayed response 1
-it outlook 1
+total change 1
 likely deregulation 1
 direct response 1
 broad array 1
+benefits modeling 1
 limited experience 1
-benefit modeling 1
 analytical framework 1
 environmental market 1
-it ability 1
 non-electric generating 1
 geologic history 1
 electricity demand 1
+its ability 1
 
  Trigram NP 
 integrated planning model 3
-average retail electricity 1
 regional modeling system 1
-clear sky act 1
+its detail-rich representation 1
 estimated economic value 1
 mesoscale meteorological model 1
 air quality modeling 1
 ipm • epa 1
-national emission inventory 1
-it profit-maximizing level 1
-it detail-rich representation 1
+national emissions inventory 1
+updating model uses 1
 model include • 1
 key analytical tool 1
-president's clear sky 1
-updating model us 1
+average retail electricity 1
+clear skies act 1
+its profit-maximizing level 1
+president's clear skies 1
 acid neutralizing capacity 1
 
  Unigram NP 
-model 22
+model 21
 ipm 13
 electricity 12
 quality 11
@@ -103,10 +103,10 @@ demand 8
 air 8
 generation 7
 allowance 7
-emission 7
 visibility 7
 change 6
 anc 6
+emission 6
 remsad 5
 ozone 5
 deposition 5
@@ -147,6 +147,7 @@ segment 3
 analysis 3
 lake 2
 removal 2
+catchments 2
 program 2
 sulfur 2
 capms 2
@@ -167,10 +168,8 @@ formation 2
 modeling 2
 pm2.5 2
 improvement 2
-size 2
 addition 2
 west 2
-catchment 2
 adirondacks 2
 rate 2
 country 2
@@ -186,16 +185,17 @@ effect 2
 allocation 2
 pool 2
 industry 2
+results 1
 epa 1
 data 1
 perfect 1
 northeast 1
 asthma 1
-application 1
+maps 1
 source 1
 treatment 1
 east 1
-equilibrium 1
+phasing 1
 mm-5 1
 capital 1
 period 1
@@ -203,15 +203,18 @@ condition 1
 napap 1
 level 1
 recovery 1
+sizes 1
 solution 1
 summary 1
 banking 1
+individuals 1
 freshwater 1
 � 1
+application 1
 energy 1
 zero 1
 trading 1
-result 1
+pricing 1
 year 1
 columbia 1
 operation 1
@@ -220,34 +223,38 @@ co2 1
 nei 1
 section 1
 availability 1
+buffer 1
+empowerment 1
 approach 1
+limitations 1
 impact 1
 august 1
 expansion 1
 southeast 1
 base 1
-input 1
-empowerment 1
+aerosols 1
 g 1
 shift 1
 study 1
 area 1
 restructuring 1
 experience 1
+rams 1
 adjustment 1
-place 1
+extensions 1
 incorporated 1
 california 1
 //www.epa.gov/airmarkets/epa-ipm/index.html 1
 number 1
 carbon 1
 market 1
+size 1
 mercury 1
 e.g. 1
 district 1
 basis 1
 neutralizing 1
-phasing 1
+equilibria 1
 class 1
 bedrock 1
 way 1
@@ -260,45 +267,41 @@ july 1
 hg 1
 updating 1
 population 1
-extension 1
-individual 1
+input 1
+future 1
+emissions 1
 distribution 1
 outcome 1
 region 1
-pricing 1
 uncertainty 1
 calculator 1
-ram 1
 reliability 1
 information 1
 baseline 1
 variety 1
 percent 1
 chemical 1
-limitation 1
+place 1
 switching 1
-map 1
 http 1
-buffer 1
+models 1
 june 1
 aggregate 1
-future 1
 exposure 1
 center 1
 scenario 1
 percentage 1
 so2 1
-aerosol 1
 quantity 1
 
  Arbitary length NP 
-it own net profit 1
 regional atmospheric modeling system 1
 ipm is well suited 1
 heavy duty diesel engine 1
 comprehensive air quality model 1
 national regulatory research institute 1
 national acid precipitation assessment program 1
-retail electricity price model primary attribute 1
-criterion air pollutant modeling system 1
-model multi-emission control program • 1
+criteria air pollutant modeling system 1
+model multi-emission control programs • 1
+its own net profit 1
+retail electricity price model primary attributes 1

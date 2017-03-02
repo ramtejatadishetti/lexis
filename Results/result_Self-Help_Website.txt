@@ -15,16 +15,16 @@ upper arlington 1
 federal agency 1
 
  Trigram NP 
-legal service corp. 3
-self-help website thursday 1
-ohio legal service 1
+legal services corp. 3
+ohio legal services 1
 new federal technology 1
+federal legal aid 1
 civil equal justice 1
 federal legal-aid money 1
 your federal funding 1
 tim doulin a 1
+self-help website thursday 1
 online legal self-help 1
-federal legal aid 1
 
  Unigram NP 
 ohio 5

@@ -11,16 +11,16 @@ his home 2
 my wife 1
 his artist 1
 entire life 1
-legal assistance 1
+black-and-white photographs 1
 my life 1
 minimum wage 1
 his leather 1
 enough money 1
 same time 1
-black-and-white photograph 1
+lower valley 1
 tragic event 1
 other board 1
-late visit 1
+iron horses 1
 national team 1
 motorcycle-car accident 1
 valuable insight 1
@@ -30,7 +30,6 @@ his kitchen 1
 fresh voice 1
 korean war 1
 his identity 1
-iron horse 1
 strange twist 1
 junior league 1
 lico subia 1
@@ -41,13 +40,14 @@ adair margo 1
 mickie subia 1
 subia jr 1
 last weekend 1
-lower valley 1
+later visit 1
 adjacent room 1
 international garment 1
 my son 1
 unforgettable quality 1
 great contributor 1
 new role 1
+legal assistance 1
 first meeting 1
 his family 1
 felipe adame 1
@@ -56,13 +56,13 @@ second meeting 1
 cesar viramontes 1
 
  Trigram NP 
-legal service corp. 2
+legal services corp. 2
 maribel villalva sunday 1
 my gray hair 1
 chamizal national memorial 1
 his 21-year-old son 1
-south el paso 1
 then-texas first lady 1
+south el paso 1
 
  Unigram NP 
 subia 25
@@ -70,7 +70,6 @@ mickie 6
 lico 6
 home 4
 president 4
-bush 3
 board 3
 day 3
 margo 3
@@ -80,6 +79,7 @@ money 2
 motorcycle 2
 florentino 2
 father 2
+bush 2
 nunie 2
 friendship 2
 washington 2
@@ -117,6 +117,7 @@ vivero 1
 christmas 1
 handful 1
 barrio 1
+bushes 1
 d.c 1
 experience 1
 introduction 1

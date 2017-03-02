@@ -4,34 +4,33 @@ fiscal year 34
 government performance 30
 results-oriented management 17
 strategic planning 16
-result act 16
+results act 16
 annual performance 15
 coast guard 11
 cfo act 11
 our work 10
 their performance 10
-it mission 10
+its mission 10
 federal agency 9
 federal government 8
 organizational level 7
 case illustration 7
-it performance 6
+its performance 6
 marine safety 6
 cfo council 6
 strategic plan 5
 public sector 4
 their information 4
 their program 4
-custom service 3
+its progress 3
 their budget 3
 human resource 3
-it progress 3
 carey award 3
 executive guide 3
 actual performance 3
 top leadership 3
 federal management 3
-accountability report 3
+customs service 3
 atmospheric administration 2
 particular practice 2
 new zealand 2
@@ -44,36 +43,36 @@ new focus 2
 united kingdom 2
 puerto rico 2
 summary report 2
-important part 2
 organizational mission 2
 momentum essential 2
 financial reporting 2
+provide insights 2
 medical care 2
 general agreement 2
 private sector 2
+its implementation 2
 congressional decisionmaking 2
-it management 2
 central computer 2
 abroad suggest 2
-provide insight 2
+important part 2
+its ability 2
 starting point 2
 civil service 2
 build expertise 2
-it staff 2
 international trade 2
-it implementation 2
+veterans affairs 2
+its management 2
 public administration 2
 their ability 2
 traditional focus 2
 achieving gpra 2
+its staff 2
+accountability report 2
 major reorganization 2
 their organization 2
 their mission 2
-veteran affair 2
 executive branch 2
-it ability 2
 internal environment 1
-workforce issue 1
 their cultures.29 1
 applied research 1
 appropriate authorization 1
@@ -85,31 +84,32 @@ important business 1
 australian government 1
 easy transition 1
 federal program 1
-it power 1
 significant role 1
 their core 1
+private innovations 1
 national institute 1
-it dissemination 1
+its context 1
 other stakeholders.32 1
 introduction page 1
 businesslike manner 1
 vital goal 1
+many health 1
 our purpose 1
+execution system 1
 wide range 1
 pilot basis 1
 personnel management 1
 our mission 1
 results-oriented environment 1
+accountability reports 1
 initial pilot 1
 total count 1
 public prior 1
 efficient government 1
-it program 1
 long-term commitment 1
 their work 1
-g sts 1
 key business 1
-basic approach 1
+agency's report 1
 traditional lecture 1
 outstanding inspection 1
 their transition 1
@@ -124,21 +124,20 @@ factual analysis 1
 medical insurance 1
 broad array 1
 different program 1
+its dissemination 1
 career leadership 1
 other management 1
 public alike 1
 year-out budget 1
 food safety 1
-prominent mean 1
 hurricane hugo 1
+prominent means 1
 costly program 1
 key information 1
 public review 1
-it core 1
 unhealthy air 1
 their judgment 1
 other information 1
-it responsiveness 1
 prestigious award 1
 financial condition 1
 her contribution 1
@@ -154,7 +153,6 @@ proper notification 1
 time-of providing 1
 legitimate movement 1
 interactive approach 1
-it context 1
 unsafe drinking 1
 federal employment 1
 basic understanding 1
@@ -166,18 +164,15 @@ federal agency-are 1
 american public 1
 associate director 1
 external environment 1
-it focus 1
-it care 1
 new information 1
 comprehensive mission 1
 endemic situation 1
 successful outcome 1
-key performance 1
 reliable information 1
-it work 1
+its power 1
 improved performance 1
+its organization 1
 particular document 1
-it agenda 1
 sequential approach 1
 full-time staff 1
 support mission 1
@@ -191,48 +186,49 @@ our guide 1
 • create 1
 valuable expertise 1
 fact-based performance 1
-independent audit 1
+customs service-the 1
 national importance 1
 crucial information 1
 south florida 1
 post-disaster assistance 1
-it human 1
 governmentwide basis 1
 results-oriented government 1
 rural development 1
 single individual 1
-organization show 1
 innovative use 1
 their field 1
 same analysis 1
+internal management 1
 henry mintzberg 1
 organizationwide performance 1
-it goal 1
 important information 1
-it future 1
+consistent data 1
 integrate management 1
 new statutory 1
 other agency 1
 appropriate process 1
 whole picture 1
-army corp 1
 organizational competencies.31 1
-many health 1
 lead time 1
 project manager 1
 organizational culture 1
 their government 1
+army corps 1
 final section 1
 subsequent processing 1
 possible exclusion 1
 financial accountability 1
-seriously-which help 1
+basic approach 1
 their budgets.20 1
 national academy 1
 intense criticism 1
+its core 1
 individual behavior 1
 challenging task 1
+organizations show 1
+management issues 1
 political appointees.25 1
+its agenda 1
 low vaccination 1
 southern california 1
 same period 1
@@ -243,13 +239,11 @@ budgeting report 1
 occasional event 1
 new york 1
 maintenance program 1
-multiple priority 1
 proposed staff 1
 first class 1
 flood insurance 1
 strategic thinking 1
 entry-level crew 1
-bureaucratic organization 1
 businesslike framework 1
 address correction 1
 our study 1
@@ -259,9 +253,8 @@ significant injury 1
 last decade 1
 realistic improvement 1
 their home 1
-content preface 1
+federal disaster 1
 unified effort.34 1
-r. shame 1
 circular no 1
 radioactive waste 1
 related gao 1
@@ -274,7 +267,7 @@ strategic information 1
 frees staff 1
 time-consuming task 1
 appropriate performance 1
-representative sample 1
+successful management 1
 first copy 1
 appropriate degree 1
 strong commitment 1
@@ -282,7 +275,8 @@ essential link 1
 early progress 1
 paper-driven exercise 1
 principles-goal setting 1
-management issue 1
+26organizational culture 1
+its future 1
 important tool 1
 federal spending 1
 governmentwide success 1
@@ -293,6 +287,7 @@ current work 1
 formal guidance 1
 additional guidance 1
 formal recognition 1
+its culture 1
 assign accountability 1
 direct linkage 1
 practice-may find 1
@@ -301,12 +296,16 @@ successful implementation 1
 fundamental building 1
 total import 1
 gross budget 1
+bureaucratic organization 1
 federal agencies-away 1
+its budget 1
 outcome-the agency 1
-it business 1
+its commitment 1
+key performance 1
 program evaluation 1
 trade office 1
 sufficient flexibility 1
+its program 1
 much change 1
 direct relationship 1
 inclusive process 1
@@ -319,24 +318,22 @@ local government 1
 detailed description 1
 high risk 1
 cardiac surgery 1
-it disaster 1
 results-oriented organization 1
 first one 1
 statutory mission 1
 potential danger 1
-it commitment 1
 presidential reorganization 1
 accurate hurricane 1
 g100 united 1
 first round 1
-change belief 1
 eighty-nine engineering 1
-federal disaster 1
 coordinated effort 1
 unreported injury 1
-issue critical 1
+multiple priorities 1
 their differing 1
+its activity 1
 daily list 1
+workforce issues 1
 adequate program 1
 long-range planning 1
 understanding government 1
@@ -347,50 +344,49 @@ real growth 1
 e-mail message 1
 29organizational culture 1
 agency's program 1
-it accuracy 1
 their investment 1
 different information 1
 data-the agency 1
+concerted effort 1
 general usefulness 1
 fax number 1
-individual program 1
+its focus 1
 excessive number 1
+its approach 1
 medical attention 1
 difficult challenge 1
-execution system 1
-it installation 1
-it organization 1
+its plan 1
+its statewide 1
 new hurricane 1
 fiscal accountability 1
 clear connection 1
-custom service-the 1
 nontechnical reader-that 1
 24-hour lead 1
 private use 1
-it budget 1
+demonstrate results 1
 government reform 1
 modern information 1
 our observation 1
 data-which show 1
 organizational performance.35 1
-performance measure 1
 their review 1
 their success 1
 acceptable level 1
 major agency 1
+r. shames 1
 major finding 1
 phased implementation 1
-it plan 1
 overall effectiveness 1
 several category 1
 various management 1
 tribal government 1
 air force-consist 1
-demonstrate result 1
+core processes 1
 federal response 1
 postoperative hospital 1
 unanticipated program 1
 accepted government 1
+issues critical 1
 comprehensive management 1
 legislative basis 1
 ongoing effort 1
@@ -398,69 +394,68 @@ their commitment 1
 real value 1
 first year 1
 central laboratory 1
-concerted effort 1
 michael brostek 1
 appropriate authority 1
 organization's success 1
 senior career 1
 long run 1
-successful management 1
+representative sample 1
 their policy 1
-agency's report 1
-core process 1
+independent audits 1
 effective organization 1
 annual report 1
 large body 1
 federal programs.23 1
 hurricane andrew 1
-internal management 1
 subsequent year 1
 new approach 1
+its safety 1
 their management 1
+its oversight 1
 federal contribution 1
 their relationship 1
+federal managers 1
 live classroom 1
-it safety 1
-it culture 1
 new part 1
 serious neglect 1
-it approach 1
-26organizational culture 1
-it foundation 1
+g sts 1
+st. nw 1
+its care 1
 information flow 1
 are limited 1
 strategic plan-that 1
 confusing excess 1
 health-can require 1
+its goals.8 1
 their staffs-remembering 1
 reliable crash 1
-dc order 1
-it statewide 1
 principal mission 1
-marine corp 1
 federal deficit 1
 extensive use 1
 congressional action 1
+performance measures 1
+its accuracy 1
 1improving government 1
 special attention 1
-private innovation 1
 continuous improvement 1
 23financial management 1
 historical perspective 1
 individual performance 1
-consistent data 1
+contents preface 1
+its business 1
 active duty 1
 their tax 1
+its goal 1
 single source 1
-it goals.8 1
 new challenge 1
 environmental information 1
 small inpatient 1
 u.s. army 1
 vital few 1
 federal government's 1
-st. nw 1
-it mission-effectiveness 1
+its responsiveness 1
+its work 1
+its installation 1
 reported towing 1
 substantial promise 1
 little rock 1
@@ -468,12 +463,13 @@ user-friendly manner 1
 external information 1
 environmental protection 1
 integrated approach 1
+its foundation 1
 significant decline 1
-federal manager 1
 well-defined mission 1
 following address 1
 assistant director 1
-it activity 1
+its mission-effectiveness 1
+marine corps 1
 physical condition 1
 standard format 1
 a report 1
@@ -481,125 +477,132 @@ descriptive information 1
 their mortality 1
 environmental monitoring 1
 human error 1
-it oversight 1
+individual program 1
+its human 1
+its disaster 1
+dc orders 1
 project staff 1
 fatal pneumonia 1
 large extent 1
 future performance 1
 overall trophy 1
+seriously-which helps 1
 annual program 1
 urban institute 1
+change beliefs 1
 
  Trigram NP 
 gpra implementation committee 5
-chief financial officer 5
-result act practice 4
-general estimate system 4
-it annual performance 4
-federal management reform 4
+results act practice 4
+general estimates system 4
+its annual performance 4
+federal management reforms 3
+chief financial officers 3
 their results-oriented management 2
-it marine safety 2
-veteran health administration 2
 national performance review 2
+its marine safety 2
+veterans health administration 2
 their annual performance 2
+chief financial officer 2
 primary legislative framework 1
+important strides forward 1
 overall federal government 1
-result act experience 1
 customarily high rate 1
-it fiscal year 1
 previous fiscal year 1
+gpra pilot projects 1
+its own environment 1
 protection agency involving 1
 successful results-oriented organizations- 1
-it desired outcomes-reduction 1
 their strategic planning 1
 • present performance 1
 third key step 1
 their overall performance 1
-improve service delivery 1
+performance reports gpra 1
 their new authority 1
 intense public scrutiny 1
 full-time equivalent staff 1
 a gao-sponsored symposium 1
+results act omb 1
 army materiel command 1
 first annual performance 1
+its fiscal year 1
 other relevant information 1
 useful self-assessment tool 1
+its medical center 1
 many forces-both inside 1
 certain top leadership 1
 new fiscal year 1
-identify performance gap 1
+gpra performance reports 1
 free trade agreement 1
-it own environment 1
 appendix iii major 1
-gpra performance report 1
-enhance management reform 1
+its lead time 1
+their incomplete status 1
+its specific environment 1
 first step-define mission 1
 effective federal government 1
-it own course 1
-it lead time 1
 j. christopher mihm 1
-appendix ii objective 1
 their fiscal year 1
+financial integrity act 1
+identify performance gaps 1
+its own course 1
 excessive diagnostic testing 1
-integrate management reform 1
+its pneumonia immunization 1
 army research laboratory 1
 their cumulative effect 1
 single overriding issue 1
-management improvement effort 1
-it other education 1
 new outpatient program 1
 environmental protection agency 1
 major federal agency 1
 federal financial management 1
 our other management 1
 major foodborne illnesses.3 1
-it statewide information 1
-financial officer council 1
 minnesota trade office 1
-it civil operation 1
-designing accountability provision 1
-gpra pilot project 1
-it first business 1
-it organizational structure 1
+results act congress 1
+its short-term warning 1
 prentice hall international 1
-financial integrity act 1
+results act experiences 1
+its organizational structure 1
 official business penalty 1
 chief financial officers' 1
 complex political environment 1
-it medical center 1
 third step-use performance 1
 second key step 1
 american lung association 1
-their incomplete status 1
 philadelphia regional office 1
-it pneumonia immunization 1
 their organizations-can influence 1
+designing accountability provisions 1
 overarching legislative mission 1
-result act congress 1
-u.s. army corp 1
-important stride forward 1
-result act omb 1
-it short-term warning 1
+federal highway administration 1
+results act putting 1
+its desired outcomes-reduction 1
+its civil operation 1
+u.s. army corps 1
 total quality management 1
+its other education 1
 their statutory intent 1
-it specific environment 1
+improve service delivery 1
 robert w. carey 1
 previous medical history 1
+its first business 1
 prompt payment act 1
 bowsher comptroller general 1
+integrate management reforms 1
+its statewide information 1
 broad environmental goal 1
-federal highway administration 1
+management improvement efforts 1
+enhance management reforms 1
 their ideal performance 1
-result act putting 1
+appendix ii objectives 1
+financial officers council 1
+federal management reform 1
 their human resource 1
-performance report gpra 1
 
  Unigram NP 
 performance 142
 gpra 87
 agency 75
 information 61
-program 52
+program 51
 congress 43
 management 41
 omb 28
@@ -625,7 +628,6 @@ guide 14
 time 14
 use 13
 planning 13
-result 13
 fema 13
 addition 13
 technology 13
@@ -638,11 +640,11 @@ public 11
 va 11
 effort 11
 goal 11
-accountability 11
 part 11
 arl 11
 progress 11
 noaa 11
+accountability 11
 june 11
 environment 10
 dod 10
@@ -652,12 +654,13 @@ department 10
 safety 9
 case 9
 united 9
+result 9
 reform 9
 improvement 9
 industry 9
 year 9
 way 9
-corp 8
+corps 8
 vehicle 8
 office 8
 effectiveness 8
@@ -695,11 +698,13 @@ implementation 5
 requirement 5
 gao 5
 analysis 5
+results 4
 rate 4
 degree 4
 experience 4
 work 4
 travel 4
+customs 4
 date 4
 president 4
 data 4
@@ -710,6 +715,7 @@ health 4
 u.s. 4
 • 4
 care 4
+database 4
 request 4
 guidance 4
 activity 4
@@ -720,13 +726,11 @@ administration 4
 development 4
 reporting 4
 director 4
-database 4
 page 4
 business 4
 leadership 4
 spending 4
 support 4
-custom 4
 towing 4
 jan. 4
 staffing 3
@@ -747,7 +751,6 @@ district 3
 preparation 3
 future 3
 order 3
-principle 3
 culture 3
 project 3
 ability 3
@@ -756,10 +759,8 @@ connection 3
 mitigation 3
 gmra 3
 gap 3
-value 3
 procurement 3
 consistency 3
-veteran 3
 loss 3
 decisionmaking 3
 output 3
@@ -774,6 +775,7 @@ link 3
 role 3
 groundwork 2
 lack 2
+veterans 2
 gao/t-ggd-96-79 2
 cfo 2
 accomplishment 2
@@ -803,6 +805,7 @@ framework 2
 day 2
 january 2
 series 2
+principles 2
 event 2
 canada 2
 research 2
@@ -817,7 +820,6 @@ draft 2
 relationship 2
 population 2
 target 2
-instruction 2
 aug. 2
 mind 2
 majority 2
@@ -825,9 +827,9 @@ potential 2
 achievement 2
 gao/t-aimd-96-10 2
 knowledge 2
-resource 2
 gao/ggd-96-66r 2
 respond 2
+danger 2
 timeliness 2
 review 2
 approach 2
@@ -847,6 +849,7 @@ gao/t-ggd/aimd-95-166 2
 define 2
 sound 2
 governmentwide 2
+value 2
 property 2
 return 2
 productivity 2
@@ -857,7 +860,7 @@ workforce 2
 model 2
 gao/ggd-95-22 2
 coordination 2
-danger 2
+instruction 2
 australia 2
 security 2
 employment 2
@@ -921,9 +924,7 @@ outgrowth 1
 shift 1
 study 1
 justice 1
-graph 1
 ineffectiveness 1
-engineer 1
 technique 1
 gao/ggd-91-74 1
 county 1
@@ -939,12 +940,13 @@ infrastructure 1
 phone 1
 appendix 1
 agency's 1
-document 1
 sample 1
 room 1
 science 1
 challenge 1
 gao/aimd-94-115 1
+values 1
+resources 1
 nonstatutory 1
 control 1
 heart 1
@@ -1014,7 +1016,6 @@ benchmarking 1
 management-that 1
 revenue 1
 legislation 1
-arl's 1
 gao/ggd-91-59 1
 done 1
 submit 1
@@ -1047,6 +1048,8 @@ visa 1
 phase 1
 volume 1
 average 1
+graphs 1
+principle 1
 gao/nsiad-92-105 1
 duplication 1
 section 1
@@ -1074,6 +1077,7 @@ notation 1
 etc. 1
 instance 1
 merchandise 1
+resource 1
 summary 1
 goals.18 1
 vision 1
@@ -1121,6 +1125,7 @@ behavior 1
 discretion 1
 situation 1
 flooding 1
+engineers 1
 perpetuate 1
 outcomes.9 1
 reasonableness 1
@@ -1139,15 +1144,18 @@ material 1
 upon 1
 companion 1
 statutory 1
+documents 1
 purpose 1
-tariff 1
+arl's 1
 413-0006 1
 cost-effectiveness 1
 center 1
+programs 1
 gao/ggd-94-115fs 1
 contact 1
 relief 1
 landmark 1
+veteran 1
 prevention 1
 unified 1
 gao/t-rced-94-71 1
@@ -1191,6 +1199,7 @@ stay 1
 panel 1
 corps' 1
 http 1
+tariffs 1
 pollution 1
 battlefield 1
 appropriate 1
@@ -1236,42 +1245,42 @@ age 1
 arkansas 1
 
  Arbitary length NP 
+results act case illustration 3
 information technology management reform act 3
-result act case illustration 3
-national environmental goal project 3
+national environmental goals project 3
 fatal accident reporting system 2
-achieve cfo act goal 2
+objectives requires strong congressional role 2
 mission performance through strategic information management 2
 national highway traffic safety administration 2
 government management reform act 2
+achieve cfo act goals 2
 federal emergency management agency 2
-objective requires strong congressional role 2
 army research laboratory taken 1
-report performance information case illustration 1
-it 28-day inpatient detoxification 1
-federal acquisition streamlining act 1
-fee paid gao permit no 1
-fmfia [ federal managers' financial integrity act ] 1
 u.s. general accounting office p.o 1
+report performance information case illustration 1
+civil works directorate's operation 1
+its core processes-for example 1
+federal acquisition streamlining act 1
+streamlining governmentwide statutory reports 1
+fmfia [ federal managers' financial integrity act ] 1
+robert w. carey quality award 1
 change dod inventory management culture 1
-civil work directorate's operation 1
-stephen altman thomas m. beall barbara h. bordelon janet c. eackloff carolyn j. hill donna m. lei victoria m. o'dea dorothy l. self katherine m. wheeler related gao 1
+stephen altman thomas m. beall barbara h. bordelon janet c. eackloff carolyn j. hill donna m. leiss victoria m. o'dea dorothy l. self katherine m. wheeler related gao 1
+its first agencywide strategic planning 1
+results act g ao 1
 general accounting office washington 1
 u.s.-canada free trade agreement 1
 general accounting office comptroller general 1
 was-and remains-an enormous challenge 1
 external peer review program 1
-robert w. carey quality award 1
-executive guide l. nye stevens 1
+its desired outcomes-a reduction 1
+results act abbreviations introduction a changing environment demands federal management reform 1
 world wide web home page 1
-streamlining governmentwide statutory report 1
-executive schedule position requiring senate confirmation 1
+chief financial officers council 1
+its 28-day inpatient detoxification 1
+executive guide l. nye stevens 1
 u.s. general accounting officewashington 1
-chief financial officer council 1
 printed on recycled paper bulk rate postage 1
-it desired outcomes-a reduction 1
+executive schedule positions requiring senate confirmation 1
 strategic management process would improve service 1
-it core processes-for example 1
-result act g ao 1
-it first agencywide strategic planning 1
-result act abbreviation introduction a changing environment demand federal management reform 1
+fees paid gao permit no 1

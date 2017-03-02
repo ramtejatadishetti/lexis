@@ -54,7 +54,6 @@ clark 1
 statewide 1
 tuesday 1
 eviction 1
-lawyer 1
 year 1
 accounting 1
 trust 1
@@ -66,6 +65,7 @@ writer 1
 percent 1
 favor 1
 samp 1
+lawyers 1
 d.c. 1
 monday 1
 june 1
@@ -83,4 +83,4 @@ organization 1
 closing 1
 
  Arbitary length NP 
-washington state legal aid program challenge reach u.s. high court paul queary 1
+washington state legal aid program challenge reaches u.s. high court paul queary 1

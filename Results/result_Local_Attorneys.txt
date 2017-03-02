@@ -2,8 +2,8 @@
  Bigram NP 
 larimer county 4
 northern colorado 3
-equal access 2
 warren rudman 2
+equal access 2
 fort collins 2
 ongoing quandary 1
 money magazine 1
@@ -11,12 +11,13 @@ common good 1
 paralegal coordinator 1
 domestic dissolution 1
 our power 1
-local bar 1
+public defender 1
 broad net 1
 low income 1
 single parent 1
 kris merkel 1
 same time 1
+legal system 1
 pro se 1
 other address 1
 big bite 1
@@ -27,15 +28,15 @@ past year 1
 domestic law 1
 his staff 1
 our program 1
-it predictability 1
 both rivera 1
 r-new hampshire 1
 51-week period 1
 president bush 1
 parental responsibility 1
-public defender 1
+local bar 1
+attorneys lend 1
 federal support 1
-legal system 1
+its predictability 1
 amy rosenberg 1
 most-dedicated attorney 1
 same place 1
@@ -46,12 +47,11 @@ legal sophistication 1
 legal-aid coordinator 1
 long history 1
 legal counsel 1
-attorney lend 1
 minimum-wage job 1
 short notice 1
 
  Trigram NP 
-legal service corp. 3
+legal services corp. 3
 pro bono project 1
 out-of-sight real estate 1
 legal aid foundation 1
@@ -162,6 +162,6 @@ fact 1
 
  Arbitary length NP 
 larimer county bar association 2
-colorado lawyer trust account foundation 1
 hand jane d albritton upon 1
+colorado lawyers trust account foundation 1
 legal services/pre bono committee 1

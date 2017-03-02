@@ -1,7 +1,7 @@
 
  Bigram NP 
-new york 5
 mr. gray 5
+new york 5
 mr. rothenberg 4
 legal aid 4
 ms. locker 3
@@ -11,15 +11,15 @@ new generation 2
 mr. greenberg 2
 public service 2
 my father 2
-executive director 2
 public law 2
-lawyer alliance 2
+executive director 2
 ms. schwartz 2
 private law 2
 ms. arons 2
 public interest 2
+lawyers alliance 2
 corporate lawyer 2
-his father 1
+human rights 1
 documentary filmmaker 1
 disabled sibling 1
 limited income 1
@@ -27,49 +27,51 @@ singer llp 1
 enormous tuition 1
 top-tier law 1
 disabled client 1
-bronx defender 1
+warren court 1
 late administrator 1
 administrative board 1
 national administration 1
 virginia school 1
 large salary 1
-easy decision 1
 poorer than 1
 worthy campaign 1
 perspective midway 1
-successful appeal 1
-human right 1
-lawyer committee 1
+mr. delany 1
+easy decision 1
 legal advocacy 1
 relative handful 1
-ms. vogelstein 1
+bronx defenders 1
 harvard law 1
 big sacrifice 1
 long struggle 1
 stephanie schwartz 1
 new breed 1
 social impact 1
+successful appeal 1
 big influence 1
 carol schwartz 1
 sean delany 1
 her mother 1
+his father 1
 your income 1
 national standard 1
 criminal defense 1
 lynn vogelstein 1
 my family 1
 stanley rothenberg 1
+my mother 1
 his part 1
+lawyers committee 1
 gray jr. 1
 young poverty 1
 incredible inflation 1
-mr. delany 1
+steeper price 1
 your mother 1
 jennifer arons 1
-my mother 1
-warren court 1
+my brother 1
 social security 1
 loan repayment 1
+ms. vogelstein 1
 social activism 1
 youthful idealism 1
 her project 1
@@ -78,14 +80,11 @@ her career 1
 real commitment 1
 legal service 1
 divisive war 1
-steep price 1
-my brother 1
 important part 1
 her tuition 1
 
  Trigram NP 
-new york lawyer 3
-salary far greater 1
+new york lawyers 3
 so-called red diaper 1
 columbia law school 1
 political odd couple 1
@@ -95,6 +94,7 @@ michael a. rothenberg 1
 his public law 1
 new york city 1
 legal aid society 1
+salaries far greater 1
 average first-year associate 1
 american bar association 1
 daniel l. greenberg 1
@@ -140,9 +140,10 @@ forgiveness 2
 columbia 2
 summer 1
 office 1
+less 1
 nyu 1
 idealism 1
-le 1
+difference 1
 father 1
 bench 1
 moses 1
@@ -187,7 +188,6 @@ it's 1
 question 1
 system 1
 commission 1
-difference 1
 suit 1
 john 1
 war 1
@@ -197,7 +197,6 @@ part 1
 wake 1
 baby 1
 behalf 1
-volunteer 1
 counsel 1
 prosecutor 1
 hand 1
@@ -232,11 +231,12 @@ proud 1
 portion 1
 responsibility 1
 mother 1
+volunteers 1
 
  Arbitary length NP 
-south brooklyn legal service 4
+south brooklyn legal services 4
 thomas adcock new york law journal march 1
+new york city family courts 1
 mcdonald education advocacy project 1
 new york university school 1
 our [ criminal justice 1
-new york city family court 1

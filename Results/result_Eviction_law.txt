@@ -1,13 +1,14 @@
 
  Bigram NP 
-grand rapid 5
 public housing 5
+grand rapids 5
 creston plaza 3
 executive director 2
 aubrey robertson 1
 carlos sanchez 1
 single family 1
 michael chielens 1
+criminal act 1
 leslie curry 1
 ted roelofs 1
 last year 1
@@ -20,22 +21,21 @@ basic security 1
 large-scale drug 1
 urban development' 1
 her mother 1
-his home 1
+disabled daughter 1
 his daughter 1
 subsidized housing 1
 his wife 1
 complex diminish 1
-criminal act 1
 casual drug 1
-disabled daughter 1
+his home 1
 other family 1
 local tenant 1
 
  Trigram NP 
-michigan legal service 2
+michigan legal services 2
 u.s. supreme court 1
-our legal tradition 1
 her 17-year-old son 1
+our legal tradition 1
 basic due process 1
 
  Unigram NP 
@@ -119,4 +119,4 @@ notion 1
 husband 1
 
  Arbitary length NP 
-grand rapid housing commission 1
+grand rapids housing commission 1

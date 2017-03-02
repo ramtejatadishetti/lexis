@@ -2,21 +2,20 @@
  Bigram NP 
 passaic county 9
 federal funding 3
-new jersey 2
-it state 2
+its state 2
 head start 2
-legal service 2
+legal services 2
+new jersey 2
 tri-county agency 2
 treasury department 1
 eric kleiman 1
 similar preschool 1
 deputy director 1
-proper hearing 1
+federal agency 1
 economic development 1
 supreme court 1
 his decision 1
 randi youells 1
-lauded history 1
 excessive staff 1
 his board 1
 accumulated value 1
@@ -25,41 +24,42 @@ tri- county 1
 anna navatta 1
 last year 1
 criticized office 1
-federal agency 1
-random sample 1
 innovative program 1
 jersey city 1
+new computer 1
 non-profits incorporate 1
-full state 1
+proper hearing 1
 bureaucratic bullying 1
+random sample 1
 his staff 1
-autonomous county 1
+its imposition 1
+its lawsuit 1
 current office 1
 maxim thorne 1
 shoddy accounting 1
 ample opportunity 1
 new service 1
 legal aid 1
-it imposition 1
+lauded history 1
 federal official 1
 legal-aid funding 1
 poor morale 1
+autonomous county 1
 essential service 1
 last week 1
 undesirable merger 1
 sudden proposal 1
 coming year 1
 federal body 1
-it lawsuit 1
+full state 1
 large part 1
 public assistance 1
 his focus 1
 soon-to-be head 1
 private practice 1
-it suit 1
+its suit 1
 optimal configuration 1
 new location 1
-new computer 1
 their case 1
 defective relocation 1
 new agency 1
@@ -68,19 +68,19 @@ federal lawsuit 1
 month-to-month basis 1
 
  Trigram NP 
-legal service corp. 4
+legal services corp. 4
 entire tri-county area 1
 timothy k. madden 1
 long-shot legal victory 1
-douglas crouse friday 1
 paterson housing authority 1
 our sole motivation 1
 hudson county legal 1
 lowfee legal help 1
 their [ merger 1
 u.s. district court 1
-her personal history 1
+douglass crouse friday 1
 higher-level legal aid 1
+her personal history 1
 
  Unigram NP 
 office 19
@@ -194,8 +194,8 @@ order 1
 
  Arbitary length NP 
 passaic county legal aid society 1
-bergen county legal service 1
-northeast new jersey legal service 1
+northeast new jersey legal services 1
+bergen county legal services 1
 melville d. miller jr. 1
 executive director john atlas 1
 rep. william pascrell jr. 1

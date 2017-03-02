@@ -47,7 +47,7 @@ full waiting 1
 my husband 1
 
  Trigram NP 
-utah legal service 2
+utah legal services 2
 his own discount 1
 same federal poverty 1
 good legal work 1
@@ -104,11 +104,12 @@ mid-july 1
 mon 1
 upstream 1
 d 1
+sundays 1
 clientele 1
 logan 1
+saturdays 1
 year 1
 advertise 1
-saturday 1
 progress 1
 schedule 1
 deadbeat 1
@@ -138,7 +139,6 @@ heard 1
 something 1
 grant 1
 barboza 1
-sunday 1
 luxury 1
 june 1
 m 1

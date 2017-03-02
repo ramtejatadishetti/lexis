@@ -15,7 +15,6 @@ fixed delivery 3
 postal delivery 3
 postal service's 3
 actual total 3
-international comparison 2
 representative sample 2
 second firm 2
 hypothetical duopoly 2
@@ -27,11 +26,9 @@ technical appendix 2
 direct linear 2
 michael a 2
 rural delivery 2
-wage premium 2
 different approach 2
 total volume 2
 total market 2
-top curve 2
 detailed street 2
 docket no 2
 duopoly firm 2
@@ -46,6 +43,7 @@ natural monopoly 2
 receive mail 2
 fixed portion 2
 elemental load 2
+top curve 2
 basic line 2
 their mail 2
 postal bargaining 1
@@ -67,6 +65,7 @@ technological agnosticism 1
 estimated coefficient 1
 general case 1
 following question 1
+international comparison 1
 r76-1 rate 1
 second argument 1
 scduopoly = 1
@@ -77,13 +76,14 @@ annual leave 1
 postal worker 1
 automated mail 1
 new coverage 1
-u.s. a 1
 first argument 1
 mid-nineteenth century 1
 fixed cost 1
+monopoly rents 1
 scm = 1
 dr. wachter 1
-same frequency 1
+its inception 1
+wage premiums 1
 private party 1
 economic basis 1
 local level 1
@@ -94,16 +94,15 @@ high relative 1
 fixed access 1
 delivery function 1
 variable access 1
-coverage model 1
 unpublished paper 1
-postal administration 1
 same route 1
 professor wachter 1
 substantial cause 1
 curbside mail 1
+ccs fy 1
 optical character 1
 efficiency advantage 1
-scale economy 1
+postal administrations 1
 legal protection 1
 rural carriers12 1
 previous section 1
@@ -113,13 +112,13 @@ universal delivery 1
 national basis 1
 ecm = 1
 bulk advertising 1
+its monopoly 1
 barcoded mail 1
 undeliverable-as-addressed mail 1
 usps operational 1
 huge barrier 1
 large proportion 1
 exponential function 1
-it inception 1
 universal service 1
 inefficient behavior 1
 lower-than-average delivery 1
@@ -132,10 +131,14 @@ tremendous growth 1
 net value 1
 -b*pps * 1
 large amount 1
+its measurement 1
 street time 1
+its unit 1
 premium measure 1
+wage premium 1
 legal monopoly 1
 scfirmi = 1
+coverage model 1
 little mechanization 1
 average wage 1
 tremendous barrier 1
@@ -172,13 +175,14 @@ postal systems1 1
 postal data 1
 competitive environment 1
 other hand 1
+same frequency 1
 * pps 1
 königswinter seminar 1
 large market 1
 preliminary version 1
 -b*pps/2 vfirmi 1
 john panzar 1
-monopoly rent 1
+u.s. a 1
 entire country 1
 = volume 1
 jeff colvin 1
@@ -187,59 +191,57 @@ nondiscriminatory access 1
 firm specific 1
 acfirmi = 1
 national postal 1
-it unit 1
 same customer 1
 * pps/2 1
-it monopoly 1
 vertical structure 1
 direct competition 1
-cc fy 1
 uniform price 1
 regular basis 1
 current state 1
-it measurement 1
 implied coverage 1
 covm = 1
 united kingdom's 1
 covi = 1
 private sector.24 1
 total factor 1
+scale economies 1
+international comparisons 1
 
  Trigram NP 
-* acm + 3
 scfirmi = rcm 3
 * ecm + 3
+* acm + 3
 * acfirmi + 3
 paul r. kleindorfer 2
-kluwer academic publisher 2
 postal rate commission 2
 vci / vcu.s 2
-it current wage 1
+kluwer academic publishers 2
 net economic cost 1
 our hypothetical duopoly 1
 average annual rate 1
+its current wage 1
 exploratory quantitative comparison 1
 their private sector 1
 delivery frequency table 1
 total rural carrier 1
-it fixed portion 1
+new hire increases 1
+postal service wages 1
 recent empirical research 1
-postal service wage 1
+private express statutes 1
 barry t. hirsch 1
 entire postal system 1
 ppsi = number 1
-private express statute 1
 postal service productivity 1
 ppsi = average 1
 unfunded civil service 1
 competitive postal environment 1
 michael l wachter 1
-new hire increase 1
+michael b. wachter 1
 james w. gillula 1
 much universal service 1
 unsubsidized postal system 1
 total compensation premium 1
-michael b. wachter 1
+its fixed portion 1
 u.s. vci = 1
 postal hourly wage 1
 significant urban-rural cross 1
@@ -256,8 +258,8 @@ percent 41
 volume 41
 u.s. 34
 scale 29
-value 25
 function 24
+value 24
 street 24
 wage 22
 mail 22
@@ -269,14 +271,14 @@ access 19
 u.s 15
 service 14
 route 13
-caput 12
 percentage 12
+capita 12
 country 11
 city 11
 paper 10
 = 10
-benefit 10
 example 10
+benefit 9
 competitor 9
 transportation 9
 i 9
@@ -294,12 +296,12 @@ model 7
 point 6
 year 6
 labor 5
+e 5
 variability 5
 relationship 5
 fringe 5
 load 5
 market 5
-e 5
 behavior 5
 wachter 5
 vm 5
@@ -347,7 +349,6 @@ b 2
 table 2
 recipient 2
 stockholm 2
-scduopoly 2
 scm 2
 ed 2
 frequency 2
@@ -361,9 +362,9 @@ law 2
 efficiency 2
 comparison 2
 v 2
+scduopoly 2
 addition 2
 proxy 2
-cc 2
 decrease 2
 quality 2
 support 2
@@ -371,6 +372,7 @@ system 2
 form 2
 vfirmi 2
 part 2
+ccs 2
 panzar 2
 rate 2
 sweden 2
@@ -417,6 +419,7 @@ washington 1
 absence 1
 liability 1
 framework 1
+base 1
 belgium 1
 loss 1
 r94-1 1
@@ -467,9 +470,9 @@ regulation 1
 jure 1
 automation 1
 respect 1
-base 1
 change 1
 box 1
+benefits 1
 country.31 1
 extension 1
 discount 1
@@ -517,6 +520,7 @@ characteristic 1
 equation 1
 package 1
 cluster 1
+values 1
 report 1
 ppsi 1
 delivery.21 1
@@ -572,14 +576,14 @@ november 1
 
  Arbitary length NP 
 scm = rcm + ecm + 3
-competitor competitor combined wage 1
+mr. chu was a professional staff member 1
 the postal rate commission from 1
 acm * ncov ncov = 1
-mr. chu wa a professional staff member 1
-cost of universal service 1
-of scale economy for postal system robert h. cohen u. s. postal rate commission edward h. chu u.s. environmental protection agency published in managing change in the postal delivery industry 1
+the authors and do not necessarily represent the opinions 1
 the postal rate commission or the environmental protection agency 1
-this paper wa presented at wissenschaftliches institut für kommunikationsdienste 1
-the view expressed in this paper are those 1
+this paper was presented at wissenschaftliches institut für kommunikationsdienste 1
+cost of universal service 1
 covi = asi / psi asi = number 1
-the author and do not necessarily represent the opinion 1
+competitors competitor combined wage 1
+the views expressed in this paper are those 1
+of scale economies for postal systems robert h. cohen u. s. postal rate commission edward h. chu u.s. environmental protection agency published in managing change in the postal delivery industries 1

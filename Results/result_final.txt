@@ -32,7 +32,6 @@ reduced growth 1
 coastal water 1
 particular significance 1
 acidic deposition 1
-it energy 1
 nitrate deposition 1
 their summertime 1
 reduced productivity 1
@@ -52,36 +51,37 @@ national ambient 1
 successful tool 1
 new air 1
 current forty 1
-various reduction 1
+environmental improvement 1
 up-to-date information 1
 their mother 1
 wide spectrum 1
-environmental benefit 1
 state-of-the-art air 1
 small staff 1
 new information 1
 infrared radiation 1
 certain quantity 1
 wet form 1
+its energy 1
 wonderful model 1
+its boiler 1
 many freshwater 1
 state implementation 1
 full accounting 1
 their location 1
 low-level methylmercury 1
-regulatory determination 1
 global response 1
 mandated goal 1
 reduced drinking 1
 pm naaqs 1
 recent report 1
+environmental effects 1
 nationwide cap 1
 significant deterioration 1
 second guessing 1
 criteria document 1
 key contributor 1
 sulfur deposition 1
-it source 1
+various reduction 1
 separate action 1
 fine particulate 1
 other wildlife 1
@@ -89,16 +89,16 @@ commercial forest 1
 aggravated asthma 1
 only way 1
 clean coal 1
-environmental improvement 1
 emission banking 1
 our country 1
 our understanding 1
 their state 1
 new particulate 1
 important factor 1
+significant portion 1
 reliable energy 1
 their willingness 1
-significant portion 1
+its availability 1
 problem-by-problem approach 1
 comprehensive science 1
 nitrogen deposition 1
@@ -115,7 +115,7 @@ scientific research 1
 new england 1
 atmospheric nitrogen 1
 nitrogen oxide 1
-environmental effect 1
+fish consumption 1
 western hemisphere 1
 mental retardation 1
 organic matter 1
@@ -135,15 +135,17 @@ efficient way 1
 cardiovascular illness 1
 next level 1
 east coast 1
-c mercury 1
+environmental benefits 1
 avoided premature 1
 resounding success 1
 available retrofit 1
+c mercury 1
 broad array 1
 ongoing cabinet-level 1
 continuous monitoring 1
 atmospheric chemical 1
 sharp contrast 1
+its source 1
 new nitrogen 1
 complex web 1
 national air 1
@@ -151,7 +153,6 @@ individual program 1
 fish reproduce 1
 built-in market 1
 extensive peer 1
-other conclusion 1
 coming century 1
 large part 1
 ozone attainment 1
@@ -171,7 +172,6 @@ human exposure 1
 clean energy 1
 many air 1
 significant health 1
-long-term issue 1
 legislative approach 1
 oil-fired utility 1
 reasonable time 1
@@ -185,15 +185,16 @@ significant contribution 1
 predatory fish 1
 same time 1
 substantial fraction 1
-allowance program 1
+long-term issue 1
 air quality 1
+allowances program 1
 continued exposure 1
 american public 1
-fish consumption 1
+other conclusion 1
 lost work 1
 regulatory certainty 1
 general area 1
-it boiler 1
+regulatory determination 1
 substantial body 1
 light extinction 1
 responsible manner 1
@@ -209,7 +210,6 @@ further regulation 1
 new york 1
 achievable emission 1
 large share 1
-it availability 1
 chronic bronchitis 1
 their concern 1
 el salvador 1
@@ -230,27 +230,27 @@ climate research initiative 1
 power generation power 1
 iv climate change 1
 ozone transport region 1
-health-based 1-hour ozone 1
+state implementation plans 1
+new 8-hour ozone 1
 technology-based numerical performance 1
+its own purpose 1
+its own approach 1
 nox sip call 1
 national energy policy 1
 president's energy plan 1
 innovative market-based allowance 1
 our scientific understanding 1
 other available information 1
-state implementation plan 1
-it own purpose 1
-it seventh year 1
 national energy plan 1
+its seventh year 1
 total light extinction 1
-new 8-hour ozone 1
+health-based 1-hour ozone 1
 federal nox budget 1
-it own approach 1
-provide public health 1
 fine particle pollution 1
 significant environmental improvement 1
+great smoky mountains 1
 president george h.w 1
-great smoky mountain 1
+provide public health 1
 
  Unigram NP 
 nox 42
@@ -306,9 +306,9 @@ emission 4
 room 4
 matter 4
 mortality 4
+united 4
 impairment 4
 development 4
-united 4
 administration 3
 earth 3
 methylmercury 3
@@ -328,11 +328,10 @@ co 3
 conservation 3
 soil 3
 fish 3
+contribute 3
 east 3
-science 3
 problem 3
 naaqs 3
-contribute 3
 goal 3
 variety 3
 equipment 3
@@ -342,9 +341,9 @@ response 3
 part 3
 time 3
 review 3
-co2 2
 northeast 2
 group 2
+wilderness 2
 electricity 2
 monoxide 2
 source 2
@@ -356,6 +355,7 @@ damage 2
 nsps 2
 success 2
 regulation 2
+nas 2
 acid 2
 section 2
 dioxide 2
@@ -364,12 +364,12 @@ public 2
 formation 2
 beginning 2
 caa 2
+science 2
 consumption 2
 certainty 2
 implementation 2
 place 2
 act 2
-wilderness 2
 acidification 2
 flexibility 2
 lung 2
@@ -384,16 +384,16 @@ case 2
 challenge 2
 rate 2
 premature 2
+sips 2
 surface 2
 concentration 2
-sip 2
-na 2
 oxygen 2
 amount 2
 supply 2
 columbia 2
 reporting 2
 rain 2
+co2 2
 phase 2
 opportunity 2
 age 2
@@ -404,12 +404,11 @@ correlation 1
 cabinet-level 1
 trade 1
 functioning 1
-winter 1
 world 1
 regardless 1
 fear 1
 no2 1
-web 1
+sciences 1
 field 1
 presence 1
 sulfate 1
@@ -446,6 +445,8 @@ work 1
 bart 1
 usage 1
 spring 1
+modeling 1
+webs 1
 second 1
 transport 1
 category 1
@@ -463,14 +464,12 @@ utility 1
 contrast 1
 particulate 1
 incidence 1
-hap 1
 pose 1
 consensus 1
 difficulty 1
 acadia 1
 element 1
 establishment 1
-temperature 1
 mobility 1
 freshwater 1
 defense 1
@@ -485,18 +484,19 @@ whole 1
 reclaim 1
 exhibit 1
 .6 1
+haps 1
 facility 1
 washington 1
 hearing 1
 motor 1
-modeling 1
+issue 1
 pregnancy 1
 unit 1
 size 1
 decline 1
 debt 1
 marine 1
-snow 1
+acidity 1
 cause 1
 system 1
 sunlight 1
@@ -523,11 +523,11 @@ hg 1
 pollutant 1
 majority 1
 account 1
+snow 1
 cap 1
 permit 1
 growth 1
-acidity 1
-issue 1
+temperature 1
 address 1
 bearing 1
 illness 1
@@ -538,6 +538,7 @@ ii 1
 celsius 1
 turn 1
 provide 1
+winter 1
 role 1
 forest 1
 objective 1
@@ -566,7 +567,7 @@ model 1
 prevention 1
 
  Arbitary length NP 
-clean air act amendment 2
+clean air act amendments 2
 such serious public health 1
 acid rain trading program 1
 fossil fuel-fired electric power 1
@@ -574,5 +575,5 @@ ozone transport commission nox budget program 1
 national ambient air quality 1
 south coast air quality management district 1
 national climate change technology initiative 1
-visibility and regional haze impact 1
+visibility and regional haze impacts 1
 maximum achievable control technology 1

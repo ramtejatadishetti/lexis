@@ -13,11 +13,11 @@ equal justice 1
 his state 1
 
  Trigram NP 
-columbia legal service 1
 northwest justice project 1
 washington supreme court 1
 associated press justice 1
 civil equal justice 1
+columbia legal services 1
 
  Unigram NP 
 state 3

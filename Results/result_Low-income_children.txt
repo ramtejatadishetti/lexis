@@ -22,7 +22,7 @@ private system 1
  Trigram NP 
 
  Unigram NP 
-gal 9
+gals 7
 beyea 6
 court 5
 state 5
@@ -31,6 +31,7 @@ divorce 4
 report 4
 maine 3
 study 3
+gal 2
 hour 2
 right 1
 ad 1
@@ -62,4 +63,4 @@ implement 1
 
  Arbitary length NP 
 chief justice leigh saufley 1
-pine tree legal service 1
+pine tree legal services 1

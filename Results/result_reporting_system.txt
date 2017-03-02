@@ -9,14 +9,13 @@ reporting system 3
 second half 3
 precise level 2
 crucial service 2
+results group 2
 accurate picture 2
 legal information 2
 ken smith 2
-result group 2
 other community 2
 civil justice 2
 broad range 1
-it site 1
 weekly radio 1
 great majority 1
 conservative estimate 1
@@ -52,6 +51,7 @@ non-legal service 1
 other service 1
 significant role 1
 our court 1
+its site 1
 strong capacity 1
 legal problem 1
 narrative component 1
@@ -77,22 +77,22 @@ personal safety 1
 their scale 1
 
  Trigram NP 
-matter reporting system 3
-lsc result group 3
-matter service report 2
-their fellow program 2
+lsc results group 3
+matters reporting system 3
 their legal situation 2
+their fellow program 2
+matters service reports 2
 web-based legal education 1
-our legal system 1
-pinetree legal service 1
 status report planning 1
-appropriate legal information 1
-special legal aid 1
-matter service provided 1
-little useable information 1
+lsc grantees a 1
 local senior center 1
+special legal aid 1
+our legal system 1
+little useable information 1
+matters services provided 1
+appropriate legal information 1
+pinetree legal services 1
 case service report 1
-lsc grantee a 1
 
  Unigram NP 
 lsc 24
@@ -104,7 +104,6 @@ number 8
 assistance 7
 service 6
 information 6
-grantee 6
 help 5
 web 5
 reliability 4
@@ -114,6 +113,7 @@ collection 4
 data 4
 group 3
 nation 3
+grantees 3
 addition 3
 state 3
 job 3
@@ -122,6 +122,7 @@ range 3
 delivery 3
 newspaper 3
 corporation 3
+grantee 3
 csr 3
 courthouse 2
 implementation 2
@@ -138,7 +139,6 @@ version 2
 story 2
 expansion 2
 care 2
-column 2
 appropriate 2
 use 2
 targeting 2
@@ -151,7 +151,6 @@ effort 2
 behalf 2
 case 2
 work 2
-matter 2
 future 2
 distribution 2
 pro 2
@@ -168,9 +167,12 @@ majority 1
 guidance 1
 disability 1
 character 1
+videos 1
 visitor 1
 pilot 1
+columns 1
 march 1
+matters 1
 october 1
 additional 1
 desk 1
@@ -180,7 +182,6 @@ summary 1
 conclusion 1
 attorney 1
 startup 1
-video 1
 lawyer 1
 stream 1
 indirect 1
@@ -200,6 +201,7 @@ mid-stream 1
 difficulty 1
 making 1
 alone 1
+column 1
 advertising 1
 family 1
 overview 1
@@ -223,6 +225,7 @@ b 1
 consultant 1
 clearer 1
 advocacy 1
+matter 1
 aid 1
 exhibit 1
 significance 1
@@ -258,4 +261,4 @@ resolution 1
 prevention 1
 
  Arbitary length NP 
-lsc matter reporting system august 1
+lsc matters reporting system august 1

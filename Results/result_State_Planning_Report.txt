@@ -3,10 +3,10 @@
 equal justice 29
 private bar 15
 new jersey 15
-legal service 13
 legal education 13
 technical assistance 10
 domestic violence 10
+legal services 10
 legal aid 10
 legal assistance 10
 legal work 10
@@ -16,14 +16,14 @@ chief justice 9
 high quality 9
 state bar 9
 bar foundation 9
-task force 8
 full range 8
 low income 8
+task force 7
 pine tree 6
-program letter 6
 single statewide 5
 state plan 5
 steering committee 5
+program letter 5
 south carolina 5
 long history 5
 missouri bar 4
@@ -45,17 +45,18 @@ civil justice 3
 west virginia 3
 comprehensive state 3
 legal foundation 3
+legal service 3
 justice board 3
 judicial system 3
 ongoing planning 3
 economic development 3
 brief service 3
 their delivery 3
-justice conference 3
 substantive law 3
 initial planning 3
 legal advice 3
 significant progress 3
+justice conference 3
 major step 2
 low-income community 2
 washington state 2
@@ -68,7 +69,6 @@ permanent change 2
 statewide core 2
 second priority 2
 thorough review 2
-it delivery 2
 financial support 2
 statewide level 2
 critical need 2
@@ -77,6 +77,7 @@ centralized access 2
 coordinating council 2
 aspirational goal 2
 our state 2
+its planning 2
 social service 2
 minnesota legal 2
 bar association 2
@@ -86,7 +87,6 @@ new state 2
 new york 2
 single model 2
 current configuration 2
-it planning 2
 virtual statewide 2
 trust fund 2
 northwest indiana 2
@@ -101,7 +101,6 @@ wide range 2
 statewide system 2
 significant change 2
 administrative office 2
-it mission 2
 local level 2
 last year 2
 disadvantaged committee 2
@@ -112,43 +111,45 @@ statewide intake 2
 following year 2
 metropolitan chicago 2
 strong support 2
-it report 2
 justice commission 2
 technology coordinator 2
 education committee 2
-it website 2
 statewide coordination 2
 effective delivery 2
-it state 2
 atj committee 2
 florida bar 2
 key justice 2
+its state 2
+action committees 2
 family law 2
 their program 2
 their planning 2
 equal access 2
+its delivery 2
+its website 2
 annual access 2
 new england 2
-action committee 2
 regional delivery 2
 statewide brief 2
-low-income person 2
+bay area 2
+its report 2
 justice foundation 2
+its mission 2
 circuit court 2
 our justice 2
 oversight committee 2
 maine school 2
 lsc board 2
-bay area 2
+program letters 1
 important role 1
 county government 1
 valuable information 1
 comprehensive analysis 1
+its progress 1
 part-time staff 1
 new statewide 1
 past twenty 1
 joint judicial 1
-colorado rule 1
 general counsel 1
 regional approach 1
 protective order 1
@@ -156,12 +157,12 @@ special responsibility 1
 orange county 1
 upgrading hardware 1
 innovative project 1
-it recommendation 1
 final merger 1
 senior law 1
 statewide commission 1
 full access 1
 new program 1
+reassess goals 1
 justice committee 1
 intangible benefit 1
 advisory representative 1
@@ -170,7 +171,7 @@ successful planning 1
 front-burner issue 1
 cook county 1
 intake system 1
-lsc program 1
+multiyear strategy 1
 local volunteer 1
 new case 1
 virtual law 1
@@ -183,20 +184,19 @@ permanent state 1
 several law 1
 extended service 1
 computerized access 1
-• developing 1
 fundamental obligation 1
-it inception 1
 litigation director 1
 region-wide planning 1
 first communications/technology 1
 new entity 1
 mutual interest 1
+complementary system 1
 their region's 1
 survive leadership 1
 multi-state regional 1
+its name 1
 thorough client 1
 contra costa 1
-family court 1
 open communication 1
 full potential 1
 primary strategy 1
@@ -246,9 +246,10 @@ integrated configuration 1
 large part 1
 central access 1
 advocacy coordinator 1
+new system 1
 increased access 1
 severe lack 1
-coffin fellow 1
+lsc program 1
 substantive support 1
 affirmative advocacy 1
 state bar-sponsored 1
@@ -271,7 +272,7 @@ past ten 1
 our capacity 1
 heightened commitment 1
 revolving loan 1
-funding committee 1
+new level 1
 legal community 1
 interactive site 1
 rockefeller foundation 1
@@ -303,14 +304,12 @@ toll-free number 1
 first program 1
 low level 1
 professional conduct 1
-it impact 1
-new level 1
-it name 1
+its design 1
+bipartisan support 1
+funding committee 1
 past year 1
 strong determination 1
-it membership 1
 integral part 1
-it collaboration 1
 sustained effort 1
 howard dana 1
 serious discussion 1
@@ -319,21 +318,17 @@ aggressive grant 1
 initial response 1
 their staff 1
 baseline level 1
-it progress 1
 rural development 1
 major statewide 1
 recent opening 1
 desktop access 1
 legal research 1
 formal progress 1
-cost-effective method 1
-it feedback 1
 helpful brief 1
 advocacy agency 1
 advocate support/case 1
 national model 1
 new energy 1
-it priority 1
 critical issue 1
 continued support 1
 major work 1
@@ -341,10 +336,10 @@ adjacent program 1
 your state 1
 urging participation 1
 current system 1
-community education 1
 local perspective 1
 additional model 1
 • collaborative 1
+deeper involvement 1
 master plan 1
 important outcome 1
 regionwide intake 1
@@ -362,33 +357,37 @@ final version 1
 coming year 1
 major grant 1
 national initiative 1
+colorado rules 1
 initial funding 1
 coordinated web 1
+united ways 1
 thorough evaluation 1
-comprehensive evaluation 1
+task forces 1
 principled determination 1
 video training 1
 joint technology 1
 equal availability 1
 effective statewide 1
 particular state 1
-our country 1
+cardin commission 1
 phase ii 1
 effective use 1
 private funding 1
 funded statewide 1
 judicial conduct 1
 southern california 1
+client needs 1
 public statement 1
 individual e-mail 1
 southern missouri 1
 unmet need 1
-cardin commission 1
+our country 1
 overall implementation 1
 north carolina 1
 federal budget 1
 statewide legal 1
 available technology 1
+its impact 1
 statewide support 1
 effective tool 1
 three-year plan 1
@@ -398,15 +397,13 @@ interactive program 1
 substantial increase 1
 particular attention 1
 ijc website 1
-bar governor 1
 tri-annual peer 1
 mutual assistance 1
 family division 1
-court document 1
 low-income client 1
-it network 1
 second statewide 1
 iolta program 1
+its membership 1
 part ii 1
 compelling message 1
 present time 1
@@ -415,6 +412,7 @@ internet-based referral 1
 impressive array 1
 essential component 1
 large number 1
+legal needs 1
 specific language 1
 income maintenance 1
 entire region 1
@@ -427,13 +425,13 @@ special training 1
 broad-based group 1
 electronic filing 1
 immigrant advocacy 1
+possible replication 1
 missouri plan 1
 justice network 1
 accurate estimate 1
 open discussion 1
 entire state 1
 lowincome community 1
-reassess goal 1
 statewide telephone 1
 state-level coordination 1
 administrative functioning 1
@@ -455,12 +453,11 @@ major implementation 1
 system-wide technology 1
 full staff 1
 two-year funding 1
-new system 1
+its feedback 1
 prevention committee 1
 administrative advocacy 1
 public accountability 1
 coordinated statewide 1
-family service 1
 substantial funding 1
 state planning 1
 full scope 1
@@ -471,7 +468,9 @@ appropriate support 1
 local fundraising 1
 joint advocacy 1
 1999-2000 session 1
-it design 1
+cost-effective method 1
+its inception 1
+community education 1
 geographical parity 1
 final approval 1
 significant increase 1
@@ -485,32 +484,31 @@ recent planning 1
 same database 1
 iolta fund 1
 short grant 1
-it experience 1
 statewide distribution 1
 child project 1
 new technology 1
 skilled consultant 1
-multiyear strategy 1
+bar governors 1
 minnesota legislature 1
 executive director 1
 final portal 1
 35-member body 1
 single county 1
 general appropriation 1
-bipartisan support 1
 regional telephone 1
-system committee 1
 coordinated effort 1
 justice staff 1
 assistance grant 1
 additional task 1
 collective purchase 1
+family courts 1
 exciting effort 1
 continuous outreach 1
 substantial infusion 1
 statewide probono.net/mn 1
 regional intake 1
 administrative law 1
+its priority 1
 indiana supreme 1
 inclusive structure 1
 chief judge 1
@@ -519,7 +517,6 @@ total state 1
 statewide asset 1
 referral center 1
 enforceable agreement 1
-client need 1
 • judicial 1
 considerable success 1
 full committee 1
@@ -527,17 +524,18 @@ their advocacy 1
 their size 1
 appropriate organization 1
 thorough study 1
+coffin fellows 1
 final reconfiguration 1
 final year 1
 other attorney 1
 broad planning 1
 standardized performance 1
 legislative/administrative advocacy 1
-third region 1
+• developing 1
 statewide perspective 1
 leadership council 1
 related technology 1
-complementary system 1
+recognizable identity 1
 cooperative venture 1
 statewide resource 1
 talented law 1
@@ -560,9 +558,9 @@ sure planning 1
 rural resource 1
 • creation 1
 ready-to-file form 1
-court facilitator 1
 limited funding 1
 key board 1
+its recommendation 1
 statewide leadership 1
 new structure 1
 my service 1
@@ -572,6 +570,7 @@ extensive network 1
 equal basis 1
 separate interest 1
 general revenue 1
+statewide conferences 1
 technology-based support 1
 political popularity 1
 their time 1
@@ -582,7 +581,9 @@ real-time video-conferencing 1
 major investment 1
 on-line filing 1
 personal pain 1
+comprehensive evaluation 1
 other state 1
+court facilitators 1
 key component 1
 uniform statewide 1
 service evaluation 1
@@ -598,8 +599,8 @@ concerted effort 1
 further promote 1
 long series 1
 wide spectrum 1
-deep involvement 1
-recognizable identity 1
+third region 1
+low-income persons 1
 new organization 1
 substantive e-mail 1
 uniform intake 1
@@ -615,6 +616,7 @@ regional counsel 1
 strong leadership 1
 web-based intake 1
 joint commission 1
+online subscription 1
 administrative efficiency 1
 entire system 1
 second portal 1
@@ -651,11 +653,14 @@ public acceptance 1
 u.s. department 1
 primary responsibility 1
 actual out-of-pocket 1
+its collaboration 1
 free online 1
 new mexico 1
+systems committee 1
 joint statement 1
 ongoing commitment 1
 region-wide community 1
+washington washington 1
 single program 1
 • expansion 1
 status committee 1
@@ -672,25 +677,25 @@ staff-based delivery 1
 unified statewide 1
 statewide advocacy 1
 law school 1
+court documents 1
 bi-partisan support 1
 nearing completion 1
 bi-monthly statewide 1
 profound difference 1
-united way 1
 frank feedback 1
 northern part 1
 big payoff 1
-washington washington 1
 their support 1
 their baseline 1
 their funding 1
 administrative system 1
-possible replication 1
+its network 1
 part iii 1
 common case 1
 other information 1
 efficient delivery 1
 single committee 1
+legal issues 1
 southwest missouri 1
 first meeting 1
 recent round 1
@@ -700,10 +705,10 @@ public comment 1
 creative partnering 1
 southern part 1
 ongoing investment 1
+family services 1
 legislative monitoring 1
 comprehensive portal 1
 missouri state 1
-legal need 1
 regional team 1
 their goal 1
 aba rule 1
@@ -711,6 +716,7 @@ comprehensive delivery 1
 full service 1
 bipartisan legislation 1
 only law 1
+low-income person 1
 significant integration 1
 new look 1
 collegial confederation 1
@@ -719,7 +725,6 @@ uniform program 1
 adequate funding 1
 desktop internet 1
 close cooperation 1
-online subscription 1
 key force 1
 integrated team 1
 initial report 1
@@ -731,7 +736,6 @@ supplemental planning 1
 successful state 1
 whole region 1
 physical isolation 1
-statewide conference 1
 state intake 1
 regional phone 1
 final thought 1
@@ -739,241 +743,242 @@ well-respected support 1
 statewide case 1
 regional fundraising 1
 basic right 1
+its experience 1
 visioning justice 1
-legal issue 1
 
  Trigram NP 
 civil legal assistance 20
 south carolina bar 6
-florida bar foundation 5
 appleseed justice center 5
+florida bar foundation 5
 state bar association 4
 legal aid society 4
 legal aid foundation 4
-columbia legal service 4
+columbia legal services 4
 west virginia college 3
-pennsylvania bar association 3
+its first year 3
+indiana legal services 3
 state support center 3
-it first year 3
 utah state bar 3
-indiana legal service 3
 equal justice project 3
+pennsylvania bar association 3
 illinois general assembly 3
-pennsylvania legal service 3
+pennsylvania legal services 3
 florida state bar 2
 statewide technology plan 2
 legal information facilitator 2
-technology initiative grant 2
 state bar foundation 2
+new statewide program 2
+justice task force 2
 colorado supreme court 2
 statewide steering committee 2
 indiana justice center 2
-florida legal service 2
-volunteer private attorney 2
-disability right center 2
+lsc program letters 2
 technology working group 2
 indiana bar foundation 2
 justice action group 2
 ohio supreme court 2
-non-lsc funded entity 2
+disability rights center 2
 minnesota supreme court 2
 washington • study 2
 legal assistance foundation 2
-community education material 2
-utah legal service 2
 statewide substantive task 2
 open society institute 2
-justice task force 2
-legal service committee 2
 senate judiciary committee 2
-lsc program letter 2
+legal services committee 2
 missouri supreme court 2
+volunteer private attorneys 2
+florida legal services 2
+non-lsc funded entity 2
 technology task force 2
-new statewide program 2
+utah legal services 2
+community education materials 2
 statewide legal assistance 1
 statewide substantive law 1
-joint economic development 1
+west virginia judiciary 1
 technology opportunity program 1
 statewide telephonic intake 1
 broad systemic advocacy 1
 procedural equal justice 1
 essential legal assistance 1
 advice task force 1
+its own case 1
 oregon state bar 1
 direct technical assistance 1
 new substantive expertise 1
-west virginia judiciary 1
 public interest clearinghouse 1
 new non-profit entity 1
 missouri bar foundation 1
-washington • campaign 1
+brief services system 1
 state general assembly 1
 electronic legal research 1
+technology initiative grant 1
 3-month sub-grant agreement 1
+appalachian legal services 1
 maryland -30 maryland 1
 strategic direction plan 1
-oregon supreme court 1
+equal justice coalition 1
 central california region 1
 iit kent college 1
 washington • expansion 1
 private website information 1
-colorado legal service 1
 appropriate regional intake 1
-it third program 1
 state planning effort 1
-it own case 1
+joint economic development 1
+legal services program 1
 numerous local bar 1
 web-based pro se 1
 supreme court administration 1
 private attorney involvement 1
 multicultural legal center 1
-effective legal assistance 1
+forms standardization committee 1
+non-lsc funded programs 1
 our collective past 1
-legal service program 1
-on-line legal research 1
+sole lsc-funded provider 1
+indiana general assembly 1
 their first-ever state 1
 effective regional resource 1
 state justice institute 1
 regular biweekly basis 1
 emma lazarus project 1
 client access plan 1
-powerful web-based resource 1
+technology initiative grants 1
 washington • statewide 1
-it own plan 1
 their respective county 1
-family law matter 1
+washington • campaign 1
+its sixth year 1
 task force report 1
-diverse high quality 1
-it statewide implementation 1
+rules professional responsibility 1
 major in-state funding 1
+status impediments committee 1
 senator edmund muskie 1
 los angeles basin 1
 intensive comprehensive statewide 1
 technology integration grant 1
+its long interest 1
 florida supreme court 1
+pennsylvania clients council 1
 current statewide participation 1
 quality legal assistance 1
 new three- year 1
-sole lsc-funded provider 1
+powerful web-based resource 1
 illinois supreme court 1
 pro se project 1
 community legal center 1
-oregon judicial conference 1
+diverse high quality 1
 maine equal justice 1
 virtual legal aid 1
 • extensive education 1
-statewide technology committee 1
-john a. tull 1
+systems impediments committee 1
 their in-house training 1
-brief service system 1
 state planning initiative 1
 equal justice foundation 1
 other legal service 1
 sophisticated centralized intake 1
-it long interest 1
+its first program 1
 high-level statewide entity 1
-pro bono program 1
+john a. tull 1
 lawyer support center 1
 preventive legal education 1
-federal district court 1
-structure task force 1
+colorado legal services 1
+washington • partnerships 1
+its financial support 1
 pro bono commission 1
-project director association 1
+oregon supreme court 1
 oregon -52 oregon 1
-equal justice coalition 1
 oregon law center 1
 justice randall shepard 1
 second all-staff retreat 1
 indiana supreme court 1
-local fundraising effort 1
-legal service organization 1
+its third program 1
+family law matters 1
 disability law center 1
+utah supreme court 1
+pennsylvania bar foundation 1
 pls steering committee 1
+on-line legal research 1
 perceived political unacceptability 1
 pennsylvania • review 1
-legal need study 1
 significant recent accomplishment 1
 desktop electronic research 1
 illinois self-help center 1
 ethical responsibility/quality assurance/transition 1
+local fundraising efforts 1
 pilot hotline project 1
 joint advocacy project 1
-coordinated legal assistance 1
-appalachian legal service 1
+project directors association 1
 illinois state plan 1
 general public welfare 1
 pennsylvania • court 1
 washington • access 1
 tri-annual on-site peer 1
 pro bono participation 1
-it sixth year 1
-system impediment committee 1
 oregon farm bureau 1
+volunteer legal services 1
 integrated high quality 1
 state planning group 1
 maryland judicial commission 1
 minnesota -33 state 1
-non-lsc funded program 1
 missouri bar board 1
+non-profit legal services 1
+its numerous standing 1
 final domestic violence 1
 highlycentralized telephone-based intake 1
 new public interest 1
+juvenile rights project 1
 brigham young university 1
+pro bono program 1
 regional advisory council 1
 caljustice technology project 1
-volunteer legal service 1
 only lsc-funded program 1
 upgraded technological equipment 1
-juvenile right project 1
+oregon judicial conference 1
+legal services advocates 1
 legal aid bureau 1
+its statewide implementation 1
 substantial donated funding 1
 individual e-mail account 1
-legal service advocate 1
 statewide support team 1
-it first program 1
-significant bipartisan support 1
+effective legal assistance 1
 mountain state justice 1
-non-profit legal service 1
 washington • provision 1
 northwest justice project 1
 professor greg casey 1
 james a. belasco 1
 statewide technology coordinator 1
-rule professional responsibility 1
-washington • partnership 1
+legal services organization 1
+federal district court 1
 case management committee 1
 technology advisory committee 1
+broad lessons • 1
 new state support 1
 sophisticated video-conferencing capability 1
-broad lesson • 1
 statewide substantive training 1
-it financial support 1
+coordinated legal assistance 1
 resource development coordinator 1
-indiana general assembly 1
 maine bar foundation 1
 maine supreme court 1
 statewide technical assistance 1
-it numerous standing 1
+structure task force 1
 several major statewide 1
 artificial intelligence-based tool 1
 civil equal justice 1
-pennsylvania bar foundation 1
+maryland volunteer lawyers 1
+statewide technology committee 1
 important new resource 1
 chicago bar association 1
 ohio attorney general 1
 supreme court justice 1
-utah supreme court 1
+harrison tweed award 1
 oregon judicial administration 1
+significant bipartisan support 1
 extensive legal representation 1
 pro se committee 1
 washington • coordination 1
-status impediment committee 1
-maryland volunteer lawyer 1
-pennsylvania client council 1
-harrison tweed award 1
+its own plan 1
+legal needs study 1
 lsc board member 1
 pennsylvania iolta board 1
-form standardization committee 1
 
  Unigram NP 
 state 241
@@ -982,7 +987,7 @@ system 101
 planning 92
 plan 70
 access 65
-program 63
+program 62
 community 61
 delivery 61
 funding 55
@@ -995,19 +1000,19 @@ staff 41
 training 37
 bar 35
 development 34
-client 30
 creation 30
-need 26
+client 29
+need 25
 implementation 25
 indiana 25
 statewide 24
-court 24
 grant 24
 information 23
 • 22
 ohio 22
 project 22
 work 21
+court 21
 region 21
 coordination 21
 iolta 19
@@ -1015,13 +1020,13 @@ service 19
 advocacy 18
 report 18
 intake 17
-committee 17
 number 17
 task 17
 pennsylvania 17
 legislature 16
-il 16
+ils 16
 legal 16
+committee 15
 washington 15
 year 15
 place 15
@@ -1052,19 +1057,17 @@ maine 11
 initiative 11
 addition 11
 campaign 11
-board 11
 leadership 11
 management 11
-governor 10
 use 10
 judiciary 10
 vision 10
 capacity 10
 configuration 10
 conference 10
-director 10
 center 10
 inc. 10
+board 10
 area 10
 maryland 9
 symposium 9
@@ -1082,6 +1085,7 @@ share 8
 order 8
 collaboration 8
 case 8
+director 8
 variety 8
 time 8
 force 7
@@ -1104,6 +1108,7 @@ october 7
 structure 7
 concept 6
 level 6
+governor 6
 action 6
 call 6
 response 6
@@ -1125,7 +1130,6 @@ coordinator 6
 % 6
 consolidation 5
 appropriation 5
-appeal 5
 formation 5
 telephone 5
 president 5
@@ -1133,17 +1137,16 @@ mccj 5
 goal 5
 a 5
 research 5
+appeals 5
 priority 5
 computer 5
 site 5
 government 5
 reconfiguration 5
-provider 5
 expansion 5
 msba 5
 role 5
 building 5
-chair 4
 pilot 4
 lawyer 4
 body 4
@@ -1165,14 +1168,15 @@ review 4
 lsoi 4
 poverty 4
 basis 4
-strategy 4
 encouragement 4
+governors 4
 reporting 4
 bench 4
 retreat 4
 attorney 4
 recognition 4
 integration 4
+provider 4
 house 4
 maintenance 4
 ijc 4
@@ -1181,6 +1185,7 @@ corporation 4
 percent 4
 filing 4
 focus 3
+chair 3
 disability 3
 mlan 3
 lsmv 3
@@ -1198,6 +1203,7 @@ council 3
 discussion 3
 position 3
 policy 3
+cls 3
 association 3
 university 3
 involvement 3
@@ -1221,8 +1227,8 @@ duplication 3
 njp 3
 efficiency 3
 key 3
-cl 3
 lspni 3
+strategy 3
 diversity 3
 facilitator 3
 demand 3
@@ -1238,6 +1244,7 @@ fundraising 3
 communication 3
 phase 3
 hotline 3
+courts 3
 firm 3
 request 3
 revision 3
@@ -1247,6 +1254,7 @@ rule 3
 welfare 2
 cincinnati 2
 integrity 2
+committees 2
 staffing 2
 advantage 2
 innovation 2
@@ -1341,7 +1349,6 @@ benefit 2
 conclusion 2
 twelve 2
 people 2
-recommendation 2
 leader 2
 columbus 2
 business 2
@@ -1362,6 +1369,7 @@ high-quality 2
 operation 2
 june 2
 land 2
+directors 2
 all 1
 larc's 1
 groundwork 1
@@ -1381,7 +1389,7 @@ bringing 1
 prize 1
 hawaii 1
 race 1
-delegate 1
+remoteness 1
 co-counseling 1
 mid-1998 1
 spanish-speaking 1
@@ -1444,8 +1452,10 @@ following 1
 meet 1
 fringe 1
 figure 1
+providers 1
 minimum 1
 native 1
+needs 1
 hoc 1
 needy 1
 administrator 1
@@ -1467,6 +1477,7 @@ essence 1
 coordinating 1
 ccls 1
 labor 1
+forms 1
 production 1
 somebody 1
 www.palegalservices.org 1
@@ -1486,14 +1497,15 @@ termination 1
 space 1
 profit 1
 fellowship 1
-remoteness 1
-ass 1
+strategies 1
+achievements 1
 arizona 1
 wisconsin 1
 belief 1
 veto 1
 timeline 1
 succession 1
+delegates 1
 beginning 1
 care 1
 district 1
@@ -1502,7 +1514,6 @@ liaison 1
 charleston 1
 sfnlaf 1
 pay-off 1
-step 1
 preservation 1
 strategic 1
 elder 1
@@ -1511,6 +1522,7 @@ consultation 1
 realization 1
 developer 1
 relationship 1
+clients 1
 anticipate 1
 www.wvlegalservicesmerger.org 1
 reconfigration 1
@@ -1535,11 +1547,11 @@ donation 1
 lasoc 1
 nothing 1
 class 1
-achievement 1
 flow 1
 state=s 1
 merit 1
 impact 1
+judges 1
 guidance 1
 proportion 1
 adequate 1
@@ -1552,11 +1564,13 @@ ssi 1
 legitimate 1
 drawn 1
 conjunction 1
+procedures 1
 check-off 1
 carpls 1
 method 1
 twice 1
 investigate 1
+recommendations 1
 locating 1
 i.e. 1
 victim 1
@@ -1581,6 +1595,7 @@ c 1
 outcome 1
 contract 1
 comment 1
+point 1
 loan 1
 cy 1
 aftermath 1
@@ -1610,10 +1625,8 @@ handling 1
 ongoing 1
 petition 1
 situation 1
-procedure 1
 foundation's 1
 unafraid 1
-obstacle 1
 ethnicity 1
 belong 1
 wherein 1
@@ -1628,16 +1641,17 @@ portal 1
 purpose 1
 vermont 1
 candor 1
+programs 1
+iowa 1
+obstacles 1
 country's 1
 coordinate 1
 keeping 1
-judge 1
 fact 1
 aspect 1
 reality 1
 impetus 1
 relevancy 1
-point 1
 standardization 1
 recommending 1
 source 1
@@ -1647,6 +1661,8 @@ referral 1
 discreet 1
 redesign 1
 submission 1
+chairs 1
+steps 1
 security 1
 dean 1
 lsnc 1
@@ -1654,6 +1670,7 @@ lsni 1
 competition 1
 delegation 1
 growth 1
+recommendation 1
 oakland 1
 promotion 1
 breakout 1
@@ -1663,6 +1680,7 @@ pls 1
 agreement 1
 update 1
 empowerment 1
+boards 1
 violence 1
 hallmark 1
 desktop 1
@@ -1670,7 +1688,7 @@ or 1
 road 1
 presence 1
 obtaining 1
-iowa 1
+assess 1
 homeless 1
 superintendent 1
 type 1
@@ -1683,7 +1701,6 @@ pool 1
 forward 1
 launching 1
 listserv 1
-form 1
 frank 1
 authority 1
 line 1
@@ -1709,6 +1726,7 @@ inc 1
 plan's 1
 inclusiveness 1
 individual 1
+depth 1
 application 1
 indigent 1
 branch 1
@@ -1724,49 +1742,50 @@ www.indianajustice.org 1
 utahns 1
 reorganization 1
 interval 1
-depth 1
 urgency 1
 resolution 1
 
  Arbitary length NP 
 new hampshire bar foundation 4
-south carolina legal service association 3
-illinois state bar association 3
+south carolina legal services association 3
 new hampshire legal assistance 3
-maryland legal service corporation 3
 lsc technology initiative grant 3
+maryland legal services corporation 3
 illinois equal justice foundation 2
 maryland state bar association 2
 ohio legal assistance foundation 2
-prairie state legal service 2
 pro bono resource center 2
+west virginia legal services plan 2
 illinois equal justice project 2
-indiana legal service plan 2
+illinois state bar associations 2
+prairie state legal services 2
+indiana legal services plan 2
 south carolina bar foundation 2
 minnesota state bar association 2
 pro bono referral system 2
 new hampshire bar association 2
 new hampshire supreme court 2
 lincoln legal assistance foundation 2
-west virginia legal service plan 2
 maine equal justice project 2
 ohio state bar association 1
 west virginia • statewide public awareness campaign 1
+maryland legal services review commission 1
 west virginia • expansion 1
-west virginia • statewide technology plan covering all provider 1
+oregon state bar legal services task force 1
 south carolina bar access 1
-new non-lsc funded program 1
+west virginia • statewide technology plan covering all providers 1
 colorado bar association=s board 1
 statewide civil legal assistance delivery system 1
-colorado lawyer trust account foundation 1
+colorado lawyers trust account foundation 1
+its next three-year master 1
+new non-lsc funded programs 1
 washington • statewide body charged 1
-their own individual capacity 1
-legal service response team 1
-west virginia state bar 1
-inland county legal service 1
+legal services state support 1
+oregon state bar board 1
+west virginia • statewide website 1
 meramec area legal aid corporation 1
 new hampshire pro bono referral system 1
-pro bono legal service 1
+missouri statewide legal services commission 1
 coalition state support center 1
 our limited discretionary spending 1
 lsc technology innovation grant 1
@@ -1775,17 +1794,19 @@ pro bono work group 1
 new hampshire new hampshire 1
 indiana equal justice fund 1
 resource development action team 1
+legal services response team 1
 washington • state-level fundraising campaign led 1
-washington • statewide legal service website 1
 marion-polk legal aid service 1
 indiana pro bono commission 1
 lane county legal aid service 1
 and/or oversee planning process 1
 law task force structure 1
+washington • statewide legal services website 1
 west virginia -70 planning 1
 supreme court chief justice daniel wathen 1
+comprehensive integrated legal services delivery system 1
 south carolina south carolina strong 1
-il pilot hotline project 1
+pine tree legal services 1
 user friendly pro se adjudication 1
 special educational advisory project 1
 west virginia • statewide coordination 1
@@ -1794,57 +1815,54 @@ south carolina bar pro 1
 state planning assistance network 1
 pro bono review committee 1
 oslsa state support center 1
-involving legal service advocate 1
-statewide legal service planning group 1
+pennsylvania project directors association 1
 other broad systemic advocacy 1
 state resource development action team 1
 ohio planning steering committee 1
-pine tree legal service 1
-joint legal service access 1
 illinois equal justice act 1
-maryland legal service review commission 1
 u.s. district court judge frank m. coffin 1
 a technology standardization committee 1
-west virginia • core value 1
 california rural legal assistance 1
 essential civil legal aid 1
-pro se task force 1
+violence against women act 1
 legal service delivery system 1
-violence against woman act 1
-southeast missouri legal service 1
+pro se task force 1
+involving legal services advocates 1
+ils pilot hotline project 1
+west virginia • core values 1
 franklin pierce law center 1
 state rural development team 1
-oregon state bar board 1
-comprehensive integrated legal service delivery system 1
-legal service state support 1
-missouri statewide legal service commission 1
+legal services state support center 1
+their own individual capacity 1
+west virginia state bar 1
 new hampshire charitable trust 1
 asian pacific american legal center 1
 statewide pro se office 1
-west virginia legal service symposium 1
+pro bono legal services 1
 greater bakersfield legal assistance 1
 new hampshire coalition against sexual 1
 public legal education council 1
 utah • independent evaluation 1
 bay area legal aid 1
+illinois state bar association 1
 new southern regional delivery system 1
 pine tree legal assistance 1
 ohio state bar foundation 1
 coalition against domestic violence 1
+joint legal services access 1
 california rural justice consortium 1
-it next three-year master 1
-west virginia • statewide website 1
-legal service state support center 1
+statewide legal services planning group 1
 helpme domestic violence project 1
 new hampshire children's alliance 1
 maryland legal assistance network 1
-statewide legal service planning committee 1
 significant new private attorney 1
 washington • statewide task 1
+west virginia legal services symposium 1
+southeast missouri legal services 1
 san francisco neighborhood legal assistance 1
 north central west virginia legal aid society 1
 west virginia supreme court 1
+central california legal services 1
 child support task force 1
-pennsylvania project director association 1
-central california legal service 1
-oregon state bar legal service task force 1
+inland counties legal services 1
+statewide legal services planning committee 1

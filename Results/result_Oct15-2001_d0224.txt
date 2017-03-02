@@ -29,7 +29,6 @@ public health 3
 our government 3
 imminent attack 3
 our review 3
-national telecommunication 2
 key role 2
 identifiable membership 2
 code red 2
@@ -37,14 +36,12 @@ such support 2
 their ability 2
 top management 2
 timecritical information 2
-secret service 2
 their success 2
-it membership 2
 current information 2
 receive information 2
 their advice 2
 wide variety 2
-it mission 2
+secret service 2
 legal liability 2
 academic community 2
 proprietary information 2
@@ -52,9 +49,11 @@ successful information 2
 private industry 2
 inadvertent release 2
 additional supporting 2
+its membership 2
 his employer 2
 special function 2
 time-critical information 2
+its mission 2
 senior management 2
 critical government 2
 nonfederal analysis 2
@@ -64,22 +63,22 @@ large network 1
 specific topic 1
 social science 1
 poor information 1
-it support 1
+its support 1
 federal interagency 1
 computer-generated counterfeit 1
 primary method 1
 individual member 1
 public welfare 1
 facilitate communication 1
-managing director 1
 danielle hollomon 1
 private/public partnership 1
+national telecommunication 1
 diminish reliance 1
 transient membership 1
 relevant information 1
 focal point 1
 wide audience 1
-public telecommunication 1
+marine corps 1
 national coordinating 1
 overall authority 1
 serious challenge 1
@@ -101,10 +100,13 @@ sensitive member 1
 proprietary business 1
 underlying element 1
 significant concern 1
+human services 1
 inappropriate disclosure 1
 effective member 1
+public telecommunications 1
 single individual 1
 specialized training 1
+g streets 1
 overall reliability 1
 waterborne commerce 1
 formidable challenge 1
@@ -120,35 +122,41 @@ their entirety 1
 valuable learning 1
 competitive pay 1
 active member 1
+physical telecommunications 1
 our home 1
 possible outbreak 1
 further facilitate 1
+its ability 1
 other health 1
 needed vulnerability 1
 other analysis 1
 air force 1
 close relationship 1
 regular mail 1
+managing director 1
 such information 1
 information act 1
 useful information 1
 advisory information 1
 gao e-mail 1
 last decade 1
+its staff 1
 direct contact 1
 further research 1
 real-time assistance 1
 geographic area 1
-proactive measure 1
 major information 1
+national capabilities 1
 entire network 1
+administrative skills 1
+accurate information 1
 executive order 1
 coordinate communication 1
+technical assistance 1
 critical computer-dependent 1
 valuable information 1
 information management 1
 catherine schweitzer 1
-it core 1
 general information 1
 national perspective 1
 official board 1
@@ -162,45 +170,45 @@ pertinent organization 1
 individual industry 1
 such analysis 1
 half-day discussion 1
-gao report 1
+traditional telecommunications 1
 our computer 1
 other confidential 1
+its core 1
 poor system 1
 composite information 1
 local laboratory 1
 secure system 1
 small number 1
 existing member 1
-nation's telecommunication 1
+independent power 1
 considerable credit 1
 fulfilling member 1
 small part 1
 overall security 1
 good government 1
 possible mitigation 1
+its representative 1
 such standardization 1
 jean boltz 1
 their identity 1
-marine corp 1
+jtf-cno expansion 1
 information-sharing process 1
 gather information 1
 voluntary organization 1
 their industry 1
 electronic order 1
-technical assistance 1
+its member 1
 mutual respect 1
 organization's stature 1
 local interagency 1
+proactive measures 1
 413-0006 fax 1
 potential impact 1
-physical telecommunication 1
 collaborative effort 1
 sri international 1
 internet-based network 1
 specific interest 1
-g street 1
 information-sharing aspect 1
-national capability 1
 additional time 1
 nonfinancial assistance 1
 same period 1
@@ -212,21 +220,18 @@ local law 1
 computer-related evidence 1
 corporate governance 1
 unprecedented growth 1
+nation's telecommunications 1
 foster trust 1
 national welfare 1
 public disclosure 1
 critical infrastructures-an 1
-it recognition 1
 other monitoring 1
 immediate contact 1
 our focus 1
 nonfederal government 1
 full-text document 1
 timely communication 1
-it staff 1
-human service 1
-it industry 1
-traditional telecommunication 1
+central intelligence 1
 i-4 staff 1
 extensive policy 1
 great deal 1
@@ -243,6 +248,7 @@ nelliganj @ 1
 federal power 1
 difficult challenge 1
 limited number 1
+its recognition 1
 mutual self-interest 1
 such funding 1
 mixed success 1
@@ -251,36 +257,32 @@ such liability 1
 fedcirc • 1
 further analysis 1
 internal security 1
-south carolina 1
 limited progress 1
 enormous security 1
 computer-based vulnerability 1
 own resource 1
-major telecommunication 1
+south carolina 1
 distributed model 1
 deregulated environment 1
 initial reluctance 1
 provided access 1
-it representative 1
 future occurrence 1
 private use 1
-administrative skill 1
 individual representative 1
 electronic information 1
-factor critical 1
+major telecommunications 1
 internet web 1
 4critical infrastructure 1
 protecting america 1
 other government 1
 critical information 1
-independent power 1
 interconnected computer 1
 automated intrusiondetection 1
 electric industry 1
 other members-some 1
 first copy 1
 national network 1
-accurate information 1
+its industry 1
 entire grid 1
 underlying requirement 1
 your staff 1
@@ -289,7 +291,6 @@ medical director 1
 extensive experience 1
 individual organization 1
 consistent member 1
-central intelligence 1
 foodborne illness 1
 report fraud 1
 their employer's 1
@@ -299,15 +300,15 @@ private industry.4 1
 international scale 1
 michael gilmore 1
 administrative staff 1
+national telecommunications 1
 second day 1
 considerable time 1
-jtf-cno expansion 1
 free advice 1
 accepted government 1
+factors critical 1
 successful sharing 1
 vice chairman 1
-it member 1
-it ability 1
+gao reports 1
 expertise pertinent 1
 document room 1
 business week 1
@@ -317,21 +318,23 @@ permanent staff 1
 national research council 2
 joint economic committee 2
 ranking minority member 2
+national communications system 2
 free expert advice 2
-national communication system 2
 national coordinating center 1
+its informationsharing organization 1
 entire information-sharing organization 1
-their own emergency 1
+critical success factors 1
+electronic crimes-an effort 1
+rural electric power 1
 maintaining appropriate analytical 1
 new operational mission 1
-electronic crimes-an effort 1
+identifiable membership benefits 1
 distribution center washington 1
 several information-sharing computer 1
 environmental protection agency 1
 epidemic information exchange 1
 relevant technical experience 1
 their potential liability 1
-identifiable membership benefit 1
 generate clearly organization 1
 other critical success 1
 presorted standard postage 1
@@ -339,16 +342,15 @@ our overall objective 1
 their own risk 1
 other public health 1
 adequate funding developing 1
-it informationsharing organization 1
 code red ii 1
 common critical success 1
 specific geographic region 1
 u.s. attorney general 1
-national communication system1 1
 u.s. census bureau 1
 their own self-interest 1
 critical infrastructure protection 1
 national infragard program 1
+federal programs web 1
 epidemic intelligence service 1
 their professional staff 1
 membership base most 1
@@ -358,22 +360,21 @@ several critical success 1
 critical computer-dependent infrastructure 1
 their own self-promotion 1
 their individual organization 1
-rural electric power 1
+national communications system1 1
 their chartered number 1
 their global business 1
 essential underlying element 1
-it final analysis 1
+general accounting office 1
 their new employer 1
 national executive board 1
-general accounting office 1
+its final analysis 1
 presidential decision directive 1
 lead federal agency 1
 electric reliability council 1
 competent information-sharing entity 1
 g. street nw 1
-critical success factor 1
+their own emergency 1
 defense advanced research 1
-federal program web 1
 official business penalty 1
 seattle-based regional network 1
 dear senator bennett 1
@@ -383,7 +384,7 @@ cert® coordination center 1
 information 101
 organization 54
 addition 28
-member 26
+member 25
 security 22
 sharing 19
 share 19
@@ -401,12 +402,12 @@ computer 14
 time 13
 membership 12
 web 12
-infrastructure 11
 support 11
 congress 11
 challenge 10
 health 10
 report 10
+infrastructure 10
 gao 10
 development 10
 emergency 10
@@ -462,7 +463,6 @@ jtf-cno 4
 may 4
 mission 4
 policy 4
-telecommunication 4
 service 4
 effectiveness 4
 request 4
@@ -470,6 +470,7 @@ order 4
 continuity 4
 importance 4
 preparedness 4
+telecommunications 4
 intrusion 4
 contact 4
 prevention 4
@@ -497,11 +498,9 @@ documentation 3
 responsibility 3
 i-4 3
 part 3
-mechanism 3
 fraud 3
 intelligence 3
 sensitivity 3
-result 3
 progress 3
 nature 3
 april 3
@@ -552,11 +551,11 @@ entity 2
 production 2
 food 2
 day 2
-mean 2
 energy 2
 funding 2
 issue 2
 u.s. 2
+mechanisms 2
 base 2
 care 2
 training 2
@@ -579,7 +578,9 @@ guidance 2
 crime 2
 enthusiasm 2
 awareness 2
+means 2
 atomictangerine 2
+result 2
 cooperation 2
 august 2
 problem 2
@@ -615,14 +616,16 @@ nw 2
 exposure 2
 depth 2
 www.gao.gov/fraudnet/fraudnet.htm 1
-focus 1
+results 1
 nimda 1
 foster 1
 safety 1
 street 1
 advantage 1
+focus 1
 posture 1
 timely 1
+standards 1
 team 1
 trend 1
 cost 1
@@ -720,8 +723,7 @@ size 1
 highway 1
 assist 1
 circumstance 1
-standard 1
-cutting-edge 1
+members 1
 card 1
 language 1
 abuse 1
@@ -736,6 +738,8 @@ future 1
 hacking 1
 willingness 1
 conversion 1
+documents 1
+mechanism 1
 equipment 1
 damage.1 1
 chairman 1
@@ -746,6 +750,7 @@ visa 1
 letter 1
 device 1
 capacity 1
+infrastructures 1
 preventive 1
 fees-one 1
 disease 1
@@ -803,18 +808,18 @@ procedure 1
 compliance 1
 mexico 1
 obstacle 1
-vendor 1
+march 1
 administration 1
 amount 1
 check 1
 outbreak 1
 terrorism 1
-document 1
 oil 1
 year-and 1
 rail 1
 ownership 1
 functionality 1
+cutting-edge 1
 person 1
 consistency 1
 inability 1
@@ -825,7 +830,7 @@ alternate 1
 daceyr 1
 location 1
 input 1
-march 1
+vendor 1
 pertinent 1
 identifying 1
 server 1
@@ -886,43 +891,43 @@ mass 1
 
  Arbitary length NP 
 national infrastructure protection center 6
-information sharing practice appendix ii 3
-national security telecommunication advisory committee 2
+information sharing practices appendix ii 3
 general accounting office washington 2
 federal computer incident response center 2
+national security telecommunications advisory committee 2
 critical infrastructure assurance office 1
 information sharing cert® coordination center 1
 u.s. general accounting office p.o 1
-information sharing joint task force- computer network operation 1
-new york electronic crime task force 1
+information sharing new york electronic crimes task force nsies 1
 obtain top management support ensure leadership continuity several 1
+electronic crimes special agent program 1
 honorable robert f. bennett ranking minority member joint economic committee congress 1
+joint task force-computer network operations 1
+sircam attacks highlight need 1
+president's national security council 1
+challenges can benefit critical infrastructure protection 1
 their own technical expertise 1
-challenge can benefit critical infrastructure protection 1
-sircam attack highlight need 1
+contents figures contents abbreviations cdc 1
+information security issues appendix 1
 senator robert f. bennett 1
 gao building visit gao 1
 maintaining effective information sharing initially establishing 1
 can benefit critical infrastructure protection 1
-content figure content abbreviation cdc 1
 general accounting office report 1
-network security information exchange 1
 task force-computer network defense 1
-information security issue appendix 1
-information sharing north american electric reliability council 1
-kent ridge digital lab 1
+fees paid gao permit no 1
+information sharing joint task force- computer network operations 1
+network security information exchanges 1
 information sharing pulsenet epidemic information exchange 1
-information sharing new york electronic crime task force nsies 1
-electronic crime special agent program 1
 information sharing international information integrity institute • 1
-president's national security council 1
-maintaining trust relationship all 1
+u.s. general accounting office 1
 federal emergency management agency 1
 prevention cert/cc cert® coordination center a united 1
-information sharing network security information exchange 1
+kent ridge digital labs 1
 infragard cleveland fbi field office 1
-fee paid gao permit no 1
+new york electronic crimes task force 1
+maintaining trust relationships all 1
 robert f. dacey director 1
-joint task force-computer network operation 1
+information sharing north american electric reliability council 1
 international information integrity institute 1
-u.s. general accounting office 1
+information sharing network security information exchanges 1

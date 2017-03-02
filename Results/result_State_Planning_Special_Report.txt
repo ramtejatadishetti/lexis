@@ -1,8 +1,8 @@
 
  Bigram NP 
-program letter 12
 task force 11
 lsc board 10
+program letter 9
 lsc president 8
 vice president 7
 state planning 6
@@ -11,19 +11,20 @@ competitive bidding 5
 lsc act 4
 face-to-face meeting 4
 legal assistance 4
+program letters 3
+designated state 3
 new approach 3
 their state 3
 high quality 3
-designated state 3
 l. no 3
-appropriation act 2
+service areas 2
 final decision 2
 final report 2
 our society 2
 local bar 2
-service area 2
 their case 2
 additional information 2
+appropriations act 2
 new jersey 2
 their progress 2
 other information 2
@@ -35,14 +36,13 @@ civil justice 2
 practical thereafter 2
 equal opportunity 2
 federal investment 1
-magic number 1
-virgin island 1
+its deadline 1
 justice broderick 1
-it twin 1
 current climate 1
 regulatory structure 1
 crucial symbiosis 1
 cost-effective way 1
+program letters16 1
 puerto rico 1
 reasoned judgment 1
 federal register 1
@@ -53,12 +53,12 @@ considerable detail 1
 cost-effective manner 1
 single delivery 1
 wide service 1
+its grant 1
 reconfiguration re 1
 broad consensus 1
 serious consideration 1
 clear review 1
 under-represented com 1
-reconfiguration decision 1
 important way 1
 possible time 1
 effective client 1
@@ -68,36 +68,36 @@ new service 1
 effective communication 1
 appropriate configuration 1
 parochial thinking 1
+indigent defendants 1
 legal review 1
 central role 1
 equal access 1
 considerable progress 1
-it service 1
 punitive measure 1
 overwhelming majority 1
 general counsel 1
-program letters16 1
+virgin islands 1
 bottom-line consideration 1
 vast majority 1
 our nation 1
 effective consideration 1
 diverse clientele 1
 legal work 1
+our system 1
 my service 1
+magic number 1
 major overhaul 1
 legal self-help 1
 james head 1
-it deadline 1
 jonathan ross 1
 affected state 1
 new accountability 1
 ernestine watlington 1
-legal affair 1
-legal service 1
 full opportunity 1
 multiple service 1
 active partner 1
 significant emphasis 1
+its service 1
 particular state 1
 historical happenstance 1
 new symbiosis 1
@@ -111,30 +111,31 @@ denied access 1
 federal provider 1
 new vision 1
 specific area 1
-strategic direction 1
 political redistricting 1
 new york 1
 congress lsc's 1
 new vision15 1
 active role 1
 corporation a 1
+its twin 1
 lsc resolution 1
 annual investment 1
-fy2002 appropriation 1
+reconfiguration decisions 1
 corporation act 1
-our system 1
+legal affairs 1
 competitive selection 1
-it grant 1
+legal services 1
 legal aid 1
 studied determination 1
 their delivery 1
 same year 1
 conclusion congressional 1
+fy2002 appropriations 1
 current approach 1
-indigent defendant 1
 year ii 1
 my state 1
 effective state 1
+strategic directions 1
 ultimate appeal 1
 randi youells 1
 standing committee 1
@@ -172,48 +173,48 @@ reconfiguration september 1
  Trigram NP 
 state planning initiative 7
 civil equal justice 4
-omnibus consolidated rescission 2
+omnibus consolidated rescissions 2
 american bar association 2
 lsc vice president 2
+reconfiguration standards congress 1
 national legal aid 1
-lawyer trust account 1
+various equal justice 1
 reconfiguration review process 1
 same political party.1 1
+house appropriations subcommittee 1
+its statutory authority 1
 effective legal assistance 1
+its statutory responsibility 1
 state planning report 1
 state justice communi- 1
 report on lsc 1
-state planning consideration 1
 congress state planning 1
 lsc task force 1
 unmet legal need 1
-it statutory authority 1
-house appropriation subcommittee 1
+its statutory right 1
+michael a. genz 1
 civil legal assistance 1
 lsc special report 1
 state planning process 1
 their pro gram 1
 melville d. miller 1
-it statutory responsibility 1
+state planning considerations 1
+its own reconfiguration 1
 hulett h. askew 1
 fair adversarial justice 1
 program letter 01-4 1
-michael a. genz 1
 acting vice president 1
 maria luisa mercado 1
-reconfiguration standard congress 1
 clinical legal education 1
 their own state 1
-it own reconfiguration 1
 a task force 1
 assistant inspector general 1
 continued federal funding.5 1
 harvard law school 1
 h. rep. no 1
 lsc annual appropriation 1
-various equal justice 1
-it statutory right 1
 drug-related public housing 1
+lawyers trust account 1
 adequate legal counsel 1
 enforcement alice dickerson 1
 
@@ -227,11 +228,10 @@ configuration 19
 reconfiguration 16
 dspb 14
 congress 13
-program 12
 process 12
-director 11
 access 10
 system 10
+programs 9
 report 8
 justice 8
 team 7
@@ -242,12 +242,14 @@ delivery 6
 vp 6
 information 6
 development 6
+director 6
 plan 6
 study 5
 number 5
 july 5
 corporation 5
 request 5
+directors 5
 decision 5
 stat 4
 recommendation 4
@@ -260,6 +262,7 @@ u.s.c 4
 id 4
 president 4
 september 3
+program 3
 board 3
 judiciary 3
 iolta 3
@@ -354,6 +357,7 @@ design 1
 perspective 1
 operation 1
 belief 1
+way 1
 information-sharing 1
 directive 1
 evictions.4 1
@@ -396,6 +400,7 @@ overview 1
 guam 1
 washington 1
 county 1
+directions 1
 promise 1
 effort 1
 respect 1
@@ -411,7 +416,6 @@ vi 1
 proposal 1
 territory 1
 legislation 1
-direction 1
 corresponding 1
 totality 1
 jr. 1
@@ -456,7 +460,6 @@ l. 1
 reform 1
 analysis 1
 order 1
-way 1
 responsibility 1
 comprise 1
 time 1
@@ -470,22 +473,22 @@ information resource management laurie tarantowicz 1
 vice chair hulett h. askew john t. broderick 1
 numerous other targeted field 1
 the state planning process lsc 1
-related agency appropriation act 1
 administration danilo a. cardona 1
+related agencies appropriations act 1
 new hampshire supreme court justice john t. broderick 1
-introduction legal service corporation 1
 acting inspector general david c. maddox 1
 foster effective legal assistance 1
 south carolina bar association 1
-board of director management and administration office of inspector general douglas s. eakeley 1
 mccalpinmaria luisa mercado nancy h. rogers thomas f. smegal 1
 other civil equal justice 1
 program performance john c. meyer 1
-program david l. richardson 1
 v. reconfiguration review process 1
+programs david l. richardson 1
 chair laveeda morgan battle 1
 information technology leonard j. koczur 1
+board of directors management and administration office of inspector general douglas s. eakeley 1
 jr. john n. erlenborn edna fairbanks-williams f. wm 1
+introduction legal services corporation 1
 jr. ernestine p. watlington john n. erlenborn 1
 information management leslie q. russell 1
 president victor m. fortuno 1

@@ -1,9 +1,9 @@
 
  Bigram NP 
 final rule 4
-fee schedule 2
 cost-benefit analysis 2
 fiscal year 2
+fee schedules 2
 federal register 2
 full text 2
 supplementary information 2
@@ -11,46 +11,46 @@ fee recovery 2
 major rule 1
 economic impact 1
 final rulemaking 1
-it budget 1
+science issues 1
 our assessment 1
 general notice 1
-it impact 1
 unnecessary analysis 1
 their number 1
 significant impact 1
 complete copy 1
+its impact 1
+its budget 1
 et seq 1
 legal basis 1
 substantial number 1
 jr. chairman 1
 proposed rulemaking 1
 order no 1
-it fee 1
-reconciliation act 1
+its fee 1
 our report 1
-science issue 1
 commerce house 1
 omnibus budget 1
 appendix a 1
 other information-collection 1
 annual fee 1
 our review 1
+reconciliation act 1
 
  Trigram NP 
 final regulatory flexibility 3
 independent regulatory agency 2
-initial regulatory flexibility 2
 nuclear waste fund 2
+initial regulatory flexibility 2
 administrative procedure act 1
-it supplementary information 1
 victor s. rezendes 1
-other relevant information 1
+its supplementary information 1
 nuclear regulatory commission 1
-it regulatory flexibility 1
-public work united 1
+its regulatory flexibility 1
+public works united 1
 paperwork reduction act 1
 sba chief counsel 1
-it prior year 1
+other relevant information 1
+its prior year 1
 regulatory flexibility act 1
 executive order no 1
 
@@ -69,7 +69,6 @@ agency 3
 reg 3
 act 3
 code 2
-executive 2
 rulemaking 2
 authority 2
 iv 2
@@ -81,25 +80,27 @@ percent 2
 amount 2
 subsection 2
 revision 2
+executive 2
 schedule 2
 fy 2
 i 2
 connection 2
+conflict 1
 office 1
 senate 1
 energy 1
+gao/ogc-96-9 1
 pursuant 1
 rin 1
-gao/ogc-96-9 1
+paragraphs 1
 subject 1
 publication 1
 addition 1
 opportunity 1
 environment 1
-paragraph 1
 authorization 1
 staff 1
-conflict 1
+resources 1
 avoidance 1
 practice 1
 reporting 1
@@ -115,7 +116,6 @@ iii 1
 cc 1
 ii 1
 c 1
-resource 1
 fee 1
 compliance 1
 budget 1
@@ -138,5 +138,5 @@ robert p. murphy general counsel enclosure 1
 gao/ogc-96-9 enclosure analysis of nuclear regulatory commission 1
 honorable max baucus ranking minority member committee 1
 commission nuclear regulatory commission page 1
+unfunded mandates reform act 1
 honorable thomas j. bliley 1
-unfunded mandate reform act 1

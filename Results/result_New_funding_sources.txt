@@ -1,18 +1,18 @@
 
  Bigram NP 
 arizona bar 1
-it cause 1
 much time 1
 john grisham 1
 catholic social 1
 financial support 1
 mark rubin 1
 pre-2000 level 1
-it budget 1
 our story 1
 their luck 1
 community legal 1
+its budget 1
 altered funding 1
+its message 1
 former foundation 1
 his term 1
 john lescroart 1
@@ -21,14 +21,14 @@ my purpose 1
 our justice 1
 legal aid 1
 fabulous job 1
+foundation president 1
 sole practitioner 1
-our mission 1
 bar foundation 1
 law center 1
-it message 1
 tremendous job 1
-foundation president 1
-it board 1
+its board 1
+its cause 1
+our mission 1
 
  Trigram NP 
 my two-hour pledge 1

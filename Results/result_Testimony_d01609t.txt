@@ -50,10 +50,10 @@ gao testimony 1
 our organization 1
 recent trend 1
 email message 1
+operational issues 1
 expanded client 1
 our effectiveness 1
 total reduction 1
-gao œ 1
 space administration 1
 regional staff 1
 addressing management 1
@@ -82,7 +82,6 @@ external coordination 1
 our information 1
 mutual interest 1
 our workload 1
-future challenge 1
 our budget 1
 effective government 1
 real time 1
@@ -94,9 +93,7 @@ limited flexibility 1
 such funding 1
 a-76 process 1
 our mission 1
-accomplishment gao 1
 integrated assessment 1
-it support 1
 appealed enforcement 1
 our resource 1
 private land 1
@@ -109,11 +106,13 @@ their work 1
 estimated number 1
 organizational alignment 1
 nominal increase 1
+its issuance 1
 air force 1
 own expertise 1
 our research 1
 u.s. senate 1
 our oversight 1
+its budget 1
 information security 1
 continued vendor 1
 slow start 1
@@ -122,7 +121,6 @@ full production 1
 related corruption 1
 high risk 1
 new management 1
-it approach 1
 their oversight 1
 our computer 1
 financial management 1
@@ -131,20 +129,19 @@ primary function 1
 report fraud 1
 our outreach 1
 high level 1
-operational issue 1
+troubling message 1
 properly support 1
 presidential election 1
 interconnected executive 1
+our accountability 1
 solid foundation 1
 our control 1
 broad range 1
 webbased knowledge-sharing 1
-committee chair 1
 our value 1
 budget request 1
 est may 1
 high caliber 1
-government operation 1
 our succession 1
 administrative law 1
 legislative branch 1
@@ -152,6 +149,7 @@ our service 1
 significant percentage 1
 public safety 1
 highcaliber staff 1
+future challenges 1
 leading accountability 1
 our testimony 1
 our field 1
@@ -163,13 +161,14 @@ inspector general 1
 annual funding 1
 nuclear waste 1
 long way 1
+senate committees 1
 our role 1
 immediate enforcement 1
 governmentwide perspective 1
 comprehensive computer 1
 supplemental funding 1
 large percentage 1
-senate committee 1
+gao œ 1
 productive year 1
 national importance 1
 national aeronautics 1
@@ -177,25 +176,25 @@ graphic below 1
 our engagement 1
 our emphasis 1
 federal workforce 1
+its support 1
 international trade 1
 irs restructuring 1
 increased participation 1
 early retirement 1
-it issuance 1
+committee chairs 1
 prompt investigation 1
 urban development 1
-it modernization 1
+great service 1
 our staffing 1
 great benefit 1
 our intent 1
 competitive disadvantage 1
+its approach 1
 private sector 1
 civilian police 1
 their task 1
 our analysis 1
-it budget 1
 our efficiency 1
-troubling message 1
 same time 1
 high-caliber staff 1
 separate section 1
@@ -204,21 +203,23 @@ our core 1
 international community 1
 competitive sourcing 1
 strategic budgeting 1
+its tax 1
 major initiative 1
 enhancing security 1
 4-year interval 1
 potential future 1
 our assistance 1
 uncontrollable contract 1
-our accountability 1
+accomplishments gao 1
 accountability report 1
 federal cost-of-living 1
 our plan 1
 performance-based recognition 1
 social reconciliation 1
+its modernization 1
 mandatory pay 1
 good morning 1
-great service 1
+government operations 1
 managerial hierarchy 1
 our return 1
 reliable information 1
@@ -226,7 +227,6 @@ reform act 1
 our responsiveness 1
 key management 1
 your staff 1
-it tax 1
 federal information 1
 our review 1
 needed funding 1
@@ -239,8 +239,7 @@ environmental protection agency 2
 strategic human capital 2
 other comparable government 1
 significant additional productivity 1
-it financial management 1
-federal program web 1
+federal programs web 1
 internal revenue service 1
 excess hud funding 1
 our institutional work 1
@@ -256,11 +255,13 @@ enhanced human capital 1
 social security administration 1
 final fiscal year 1
 gao-01-609t mr. chairman 1
+its financial management 1
+its first year 1
+ranking minority members 1
 improved remote access 1
 other legislative branch 1
 world wide web 1
 our approved level 1
-ranking minority member 1
 e t f 1
 important asset-our staff 1
 our continued ability 1
@@ -278,7 +279,6 @@ health insurance portability 1
 electronic assistance guide 1
 ftes requested ftes 1
 general accounting office 1
-it first year 1
 f-22 aircraft program 1
 small business administration 1
 supreme audit institution 1
@@ -298,10 +298,10 @@ staff 11
 budget 10
 agency 9
 work 8
-example 8
 funding 8
 program 7
 level 7
+example 7
 addition 7
 request 6
 future 6
@@ -317,7 +317,6 @@ risk 5
 support 5
 service 5
 system 5
-plan 5
 reform 5
 rate 4
 use 4
@@ -326,7 +325,7 @@ nation 4
 truth 4
 training 4
 hud 4
-subcommittee 4
+plan 4
 it 4
 recognition 4
 expertise 4
@@ -348,12 +347,13 @@ enforcement 3
 compensation 3
 need 3
 planning 3
+subcommittee 3
 progress 3
 infrastructure 3
+point 3
 inventory 3
 development 3
 retirement 3
-point 3
 inflation 3
 world 3
 leadership 3
@@ -365,7 +365,6 @@ house 3
 education 3
 branch 3
 @ 2
-appropriation 2
 force 2
 trend 2
 investment 2
@@ -437,6 +436,7 @@ responsiveness 1
 show 1
 environment 1
 maryland 1
+appropriation 1
 //www.gao.gov 1
 succession 1
 self-assessment 1
@@ -467,6 +467,7 @@ disruption 1
 train 1
 effort 1
 customer 1
+veterans 1
 challenge 1
 accomplishment 1
 printing 1
@@ -478,6 +479,7 @@ sense 1
 end 1
 delay 1
 pleasure 1
+plans 1
 notebook 1
 waste 1
 representation 1
@@ -500,6 +502,7 @@ event 1
 hill 1
 eagle 1
 california 1
+members 1
 advance 1
 recom 1
 place 1
@@ -515,7 +518,6 @@ recruit 1
 russia 1
 strengthen 1
 p.l 1
-veteran 1
 mid 1
 mechanism 1
 emphasis 1
@@ -534,6 +536,7 @@ treasury 1
 asbestos 1
 fraud 1
 architecture 1
+recommendations 1
 release 1
 michigan-improved 1
 requirement 1
@@ -551,6 +554,7 @@ extent 1
 news 1
 postage 1
 defense 1
+appropriations 1
 budgeting 1
 job 1
 enabling 1
@@ -559,7 +563,6 @@ s 1
 a.m. 1
 allowance 1
 key 1
-miscommunication 1
 loan 1
 article 1
 respect 1
@@ -576,7 +579,6 @@ guide 1
 layer 1
 hardware 1
 pay 1
-member 1
 document 1
 conflict 1
 workforce 1
@@ -587,6 +589,7 @@ model 1
 rest 1
 human 1
 web 1
+miscommunication 1
 input 1
 period 1
 buy-out 1
@@ -596,12 +599,13 @@ deployment 1
 press 1
 submission 1
 benefit 1
+subcommittees 1
 mid-1990s 1
 page 1
 backlog 1
 spring 1
 growth 1
-recommendation 1
+examples 1
 power 1
 panel 1
 y2k 1
@@ -638,11 +642,11 @@ mass 1
  Arbitary length NP 
 our approved staffing level 2
 budget request u.s. generalaccounting office statement 1
-federal employee retirement system 1
-n concluding remark fiscal 1
 david m. walker comptroller general 1
 general accounting office testimony gao 1
 health care financing administration 1
+federal employees retirement system 1
+n concluding remarks fiscal 1
 budget request critical to sustaining existing level of service to the congress 1
 our first strategic plan 1
 north atlantic treaty organization 1

@@ -6,23 +6,21 @@ passive market 3
 regulation m 3
 cost-benefit analysis 2
 flexible framework 2
+rules concerning 2
 federal register 2
-rule concerning 2
 exchange act 2
 firm estimate 1
-security act 1
 gao/ogc-97-11 section 1
-it report 1
-offering pursuant 1
-our assessment 1
+its report 1
 increased eligibility 1
 statutory authorization 1
 cooling-off period 1
-restrictive nature 1
+our assessment 1
 et seq 1
 senior attorney 1
 legal basis 1
 regulatory burden 1
+restrictive nature 1
 major rule 1
 manipulative conduct 1
 our office 1
@@ -31,6 +29,8 @@ james vickers 1
 full text 1
 our report 1
 overall effect 1
+offerings pursuant 1
+securities act 1
 mr. bothwell 1
 our review 1
 james bothwell 1
@@ -38,14 +38,14 @@ james bothwell 1
  Trigram NP 
 independent regulatory agency 2
 regulatory flexibility analysis 2
-investment company act 1
 other relevant information 1
+financial services house 1
 executive order no 1
 paperwork reduction act 1
-financial service house 1
-regulatory flexibility act 1
-urban affair united 1
 administrative procedure act 1
+regulatory flexibility act 1
+urban affairs united 1
+investment company act 1
 § 80a-1 et 1
 exchange commission page 1
 
@@ -53,7 +53,6 @@ exchange commission page 1
 rule 24
 sec 17
 u.s.c 12
-section 6
 information 4
 analysis 4
 executive 3
@@ -66,8 +65,10 @@ fed 3
 offering 3
 c 3
 b 3
+sections 3
 need 3
 agency 3
+section 3
 office 2
 anti-manipulation 2
 nasdaq 2
@@ -89,13 +90,14 @@ rin 2
 et 2
 i 2
 code 1
+issues 1
 impact 1
 gao/ogc-97-11 1
 report 1
 investor 1
 512-8210 1
 forth 1
-security 1
+securities 1
 -0418 1
 work 1
 financial 1
@@ -134,7 +136,6 @@ official 1
 budget 1
 making 1
 outcome 1
-issue 1
 control 1
 -0201 1
 december 1
@@ -151,17 +152,17 @@ fact 1
 
  Arbitary length NP 
 initial regulatory flexibility analysis 2
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 jonathan g. katz secretary 1
 gao/ogc-97-11 paperwork reduction act 1
 final regulatory flexibility analysis 1
 honorable henry b. gonzalez ranking minority member committee 1
-rule concerning security offering 1
+a major rule issued by the securities and exchange commission entitled 1
 honorable alfonse m. d'amato chairman 1
 honorable jim leach chairman 1
-security exchange release no 1
+rules concerning securities offerings 1
 honorable paul s. sarbanes ranking minority member committee 1
 robert p. murphy general counsel enclosure 1
-a major rule issued by the security and exchange commission entitled 1
+securities exchange release no 1
 gao/ogc-97-11 enclosure analysis under 1
 general counsel b-275821 january 1

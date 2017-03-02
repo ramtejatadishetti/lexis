@@ -7,8 +7,8 @@ legal assistance 4
 equal justice 3
 legal education 3
 legal information 2
-result project 2
 south carolina 2
+results project 2
 management report 2
 technical assistance 2
 final rule 2
@@ -19,22 +19,20 @@ new grant 1
 comprehensive information 1
 true cross 1
 possible guide 1
-management initiative 1
 three-day conference 1
 six-month period 1
 final report 1
 general supervision 1
+cfr part 1
 better use 1
 statewide basis 1
 non-profit corporation 1
-grantee issued 1
 applicant information 1
 lasting change 1
-it goal 1
-it effort 1
 real estate 1
 regulatory compliance 1
 primary goal 1
+its ability 1
 increased accuracy 1
 first conference 1
 alternative dispute 1
@@ -43,23 +41,26 @@ collaborative service 1
 continued technology 1
 improved access 1
 state justice 1
-it initiative 1
 information management 1
 congressional appropriation 1
 statewide web 1
-cfr part 1
+management initiatives 1
 our nation 1
 grant year 1
 lsc website 1
 diverse group 1
 comprehensive system 1
 indiana access 1
+its initiative 1
 primary responsibility 1
+activities lsc 1
 electronic mail 1
 different program 1
 national level 1
+grantees issued 1
 referral system 1
 management agreed 1
+results project' 1
 near future 1
 ultimate goal 1
 strengthen program 1
@@ -76,7 +77,9 @@ new rule 1
 applicant's service 1
 our support 1
 justice conference 1
-thorough review 1
+its goal 1
+its effort 1
+legal affairs 1
 other community 1
 their quality 1
 public comment 1
@@ -89,9 +92,7 @@ ideal telephone 1
 financial support 1
 merger-related technology 1
 be put 1
-legal affair 1
 unnecessary duplication 1
-activity lsc 1
 san diego 1
 ongoing effectiveness 1
 chief executive 1
@@ -104,48 +105,47 @@ continued progress 1
 sub-granting part 1
 program letter 1
 participant solicitation 1
-result project' 1
 lsc board 1
 significant progress 1
 strategic planning 1
 model intake 1
 civil justice 1
 our goal 1
-it ability 1
 applicant process 1
 many program 1
+thorough review 1
 
  Trigram NP 
 state planning initiative 3
 national legal aid 2
 management information exchange 2
 equal justice conference 2
-technology initiative grant 2
 strategic direction plan 2
-it second round 2
-strategic direction lsc 1
-it strategic plan 1
+its second round 2
+technology initiative grants 2
 douglas s. eakeley 1
 specific geographic area 1
-it competitive grant 1
+strategic directions lsc 1
+its competitive grant 1
 five-year strategic plan 1
 state planning report 1
-lsc strategic direction 1
 case management software 1
 special telephonic conference 1
 national 2-day training 1
-inspector general audit 1
+its strategic plan 1
+lsc strategic directions 1
 their equal justice 1
-audit report issued 1
 state justice institute 1
 the period october 1
 program review guide 1
 open society institute 1
+audit reports issued 1
+inspector general audits 1
 state planning lsc 1
 coordinated legal assistance 1
-inspector general act 1
 case service reporting 1
 other equal justice 1
+inspector general act 1
 
  Unigram NP 
 lsc 69
@@ -174,7 +174,7 @@ draft 5
 % 5
 oig 5
 collection 5
-director 5
+directors 5
 may 4
 training 4
 quality 4
@@ -387,12 +387,12 @@ www.ain.lsc.gov 1
  Arbitary length NP 
 six month period ending march 2
 march aba/nlada equal justice conference 2
-chairman legal service corporation may 1
 lsc recipient information network 1
 high quality legal assistance 1
-the board of director 1
-legal service corporation board of director comment on the office of inspector general 1
+legal services corporation board of directors comments on the office of inspector general 1
+the board of directors 1
+legal services corporation act 1
 semiannual report to the congress 1
-legal service corporation act 1
-background legal service corporation 1
+chairman legal services corporation may 1
+background legal services corporation 1
 lsc's state planning initiative 1

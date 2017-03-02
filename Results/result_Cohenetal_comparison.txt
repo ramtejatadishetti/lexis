@@ -7,19 +7,19 @@ universal service 12
 michael a 9
 postal reform 6
 variable cost 4
-total cost 4
-current direction 4
 restrictive definition 4
 average unit 4
+current directions 4
 other hand 4
 ten-percent reduction 3
 long run 3
+total cost 3
+its delivery 3
 non-delivery institutional 3
 large volume 3
 uniform pricing 3
 robert h. 3
 high volume 3
-it delivery 3
 total revenue 3
 breakeven post 3
 total delivery 3
@@ -30,29 +30,27 @@ ev fnd 2
 our model 2
 ubiquitous delivery 2
 last refuge 2
-italian lira 2
 = subscript 2
 industrialized country 2
-gini index 2
 direct mail 2
 cumulative percent 2
 breakeven status 2
 fixed upstream 2
-ulrich stumpf 2
+italian liras 2
 delivered mail 2
-postal market 2
+its unit 2
 new zealand 2
 first class 2
 world bank 2
 ubiquitous service 2
 institutional cost 2
 average profit 2
-graveyard spiral 2
 königswinter seminar 2
 attributable upstream 2
-it unit 2
 limited amount 2
+graveyard spiral 2
 industrialized world 2
+ulrich stumpf 2
 postal system 2
 important role 1
 our concept 1
@@ -60,32 +58,29 @@ different shape 1
 relative size 1
 long-run variable 1
 actual unit 1
-business are 1
 entire delivery 1
 skewed income 1
 high margin 1
 non-carrier box 1
+wik proceedings 1
 high degree 1
 michael d. 1
 kommunikationsdienste gmbh 1
 functional percentage 1
-profit arise 1
 fixed cost 1
+square miles 1
 u.s. fixed/variable 1
-economic co-operation 1
+john panzar 1
 obvious reason 1
 discernable uso 1
-bad case 1
 disproportionate number 1
 average market 1
-caput again 1
 institutional c 1
-variability adjusted 1
 mail revenue 1
-it subsidy 1
 fiscal year 1
 tc = 1
 cream skimming 1
+function b 1
 avoided cost 1
 jeff colvin 1
 docket no 1
@@ -97,12 +92,14 @@ uniform frequency 1
 undelivered mail 1
 contestable mail 1
 italian income 1
-wage difference 1
 high end 1
+wage differences 1
+gini index 1
 small volume 1
 v/q0*p = 1
 total volume 1
 likely attack 1
+variabilities adjusted 1
 previous work 1
 italy u.s 1
 john c. 1
@@ -110,11 +107,11 @@ our burden 1
 great accuracy 1
 important question 1
 relative burden 1
-square mile 1
+postal markets 1
+jeanne golay 1
 exact shape 1
 u .s 1
 francoise l. 1
-go where 1
 david storer 1
 important aspect 1
 preliminary matter 1
@@ -122,59 +119,67 @@ wolfgang elsenbast 1
 industrial world 1
 michael a. 1
 inefficient service 1
+total costs 1
 on-d elivery 1
-it cost 1
+net delivery 1
 disproportionate share 1
 fourth section 1
-low end 1
+businesses are 1
+its subsidy 1
 incremental cost 1
 single piece 1
 likely profit 1
-function b 1
 see section 1
-volume piece 1
+economic co-operation 1
+joëlle toledano 1
 important contributor 1
 potential impact 1
 same logic 1
 extensive use 1
+capita again 1
+goes where 1
 fifty-six percent 1
 r2000-1 b 1
 ten-percent decrease 1
 reserved sector 1
 analogous identity 1
 world development 1
+gini indices 1
 significant volume 1
 same manner 1
 low volume 1
 italy u.s. 1
+worst case 1
 competitive entry 1
 apparent exception 1
 regional cream 1
+references berthélémy 1
 residential delivery 1
 unweighted average 1
 stephen smith 1
-joëlle toledano 1
+its cost 1
 actual address 1
 competitive market 1
 fixed delivery 1
 possible effect 1
-reference berthélémy 1
 unit cost 1
 potential cream 1
 specific set 1
-net delivery 1
 competitive environment 1
+population/square mile 1
 small business 1
 köenigswinter seminar 1
-john panzar 1
+low end 1
 large fraction 1
 non-single piece 1
 huge scale 1
 real threat 1
+volumes pieces 1
 fixed portion 1
 upstream fixed 1
 local niche 1
-jeanne golay 1
+profits arise 1
+postal market 1
 other countries.22 1
 major function 1
 upward impact 1
@@ -182,12 +187,10 @@ incumbent post 1
 non-delivery component 1
 lost profit 1
 major conclusion 1
-wik proceeding 1
 italian monopoly 1
 important reason 1
 parabolic shape 1
 italy * 1
-population/square mile 1
 topographical considerations.7 1
 net revenue 1
 lu m 1
@@ -201,26 +204,26 @@ national presence 1
 
  Trigram NP 
 paul r. kleindorfer 10
-kluwer academic publisher 9
-universal service obligation 5
+kluwer academic publishers 9
+universal service obligation 4
 john d. waller 3
 spyros s. xenakis 3
 william w. ferguson 3
 revenue u.s. italy 2
 household diary study 2
 [ v + 1
+universal service obligations 1
 other similar matter 1
-vnd / q0 1
-comparative statistic table 1
+mail goes where 1
 q * p 1
 introduction samuel johnson 1
 q0 = usps 1
 recent omnibus rate 1
+total revenue routes 1
 table's second section 1
-caput long-run variability 1
 poste italiane significant 1
 weighted average unit 1
-purchasing power parity 1
+unit cos benchmarked 1
 long-run variable percentage 1
 q + [ 1
 profitable non-delivered mail 1
@@ -233,24 +236,25 @@ affordable postal service 1
 undeveloped direct mail 1
 appendix model definition 1
 edward j. smith 1
-mail go where 1
 fixed upstream costs.14 1
 attributable institutional total 1
 postal rate commission 1
+purchasing power parity 1
 united parcel service 1
-total revenue route 1
+vnd / q0 1
+capita long-run variability 1
 other unexplored route 1
 addressed direct mail 1
 profitable italian semi-decile 1
 u.s. gini index 1
+comparative statistics table 1
 breakeven postal service 1
 true universal service 1
-unit co benchmarked 1
 
  Unigram NP 
 cost 64
-volume 61
-caput 41
+volume 60
+capita 41
 u.s. 39
 uso 36
 delivery 33
@@ -277,9 +281,9 @@ cohen 11
 united 11
 percentage 10
 entry 10
+boston 9
 ma 9
 fy 9
-boston 9
 proportion 8
 labor 8
 loss 8
@@ -314,8 +318,8 @@ effect 4
 definition 4
 ceteris 4
 population 4
-price 4
 portion 4
+price 4
 paribus 4
 dollar 3
 nac 3
@@ -332,9 +336,7 @@ function 3
 table 3
 incumbent 3
 fact 3
-adjustment 2
 death 2
-sensitivity 2
 nation 2
 term 2
 sum 2
@@ -363,6 +365,7 @@ point 2
 spiral 2
 ppp 2
 subsidy 2
+sensitivity 2
 firm 2
 elsenblast 2
 share 2
@@ -385,6 +388,7 @@ structure 2
 curve 2
 analysis 2
 recipient1 1
+surplus 1
 counters.12 1
 lack 1
 area 1
@@ -393,9 +397,9 @@ aspect 1
 automation.8 1
 threshold 1
 holdout 1
+adjustment 1
 data 1
 fifth 1
-surplus 1
 q0 1
 scenerio 1
 northern 1
@@ -409,6 +413,7 @@ study 1
 location 1
 employee 1
 scoundrel 1
+city 1
 inefficiency 1
 structure,3 1
 risk 1
@@ -450,6 +455,7 @@ network 1
 profitability 1
 per 1
 consisting 1
+service's 1
 seventh 1
 many 1
 base 1
@@ -481,7 +487,7 @@ i.e 1
 respect 1
 smith 1
 italy.24 1
-city 1
+households 1
 use 1
 ian 1
 i.e. 1
@@ -499,7 +505,6 @@ assumption 1
 identity 1
 interest 1
 berthelemy 1
-household 1
 today 1
 door 1
 way 1
@@ -507,6 +512,7 @@ relationship 1
 für 1
 problem 1
 argument 1
+adjustments 1
 gennaro 1
 majority 1
 panzar 1
@@ -534,9 +540,9 @@ information 1
 form 1
 remaining.5 1
 insofar 1
-amount 1
 potential 1
 semidecile 1
+es 1
 answer 1
 composition 1
 development 1
@@ -556,8 +562,8 @@ service.2 1
 out-of-office 1
 a 1
 colvin 1
-e 1
 nevertheless 1
+amount 1
 average 1
 counter 1
 incumbent.16,17 1
@@ -565,27 +571,27 @@ enchm 1
 fraction 1
 spain 1
 se 1
-service's 1
+volumes 1
 parametric 1
 quantity 1
 
  Arbitary length NP 
-ndc = total non-delivery cost p = 1
-it breakeven postal service 1
-rate commission docket no 1
-u.s. population q = quantity 1
-tc = dc + ndc dc = 1
-robert cohen rossana scocchera postal rate commission poste italiane carla pace vincenzo visco comandini poste italiane poste italiane matthew robinson john waller postal rate commission postal rate commission gennaro scarfiglieri spyros xenakis poste italiane postal rate commission 1
-poste italiane unit cost 1
-q + fd + 1
 dc = total delivery cost ev = long-run 1
+u.s. population q = quantity 1
+ndc = total non-delivery cost p = 1
+robert cohen rossana scocchera postal rate commission poste italiane carla pace vincenzo visco comandini poste italiane poste italiane matthew robinson john waller postal rate commission postal rate commission gennaro scarfiglieri spyros xenakis poste italiane postal rate commission 1
+tc = dc + ndc dc = 1
+q + fd + 1
+distribution of route profit margins and vulnerability to cream skimming volumes 1
+q0 ] q + 1
+mail mix long-run variability unit costs 1
 f = usps fixed cost 1
 ac = average unit cost 1
 ac = tc / 1
-distribution of route profit margin and vulnerability to cream skimming volume 1
 q + fd ndc = 1
-relative impact of volume loss on postal system 1
-mail mix long-run variability unit cost 1
-q0 ] q + 1
+poste italiane unit costs 1
 tc = total cost v = usps variable cost 1
+rate commission docket no 1
+relative impact of volume loss on postal systems 1
+its breakeven postal service 1
 from delivered and non-delivered mail 1

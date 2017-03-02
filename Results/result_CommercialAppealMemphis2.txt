@@ -1,6 +1,6 @@
 
  Bigram NP 
-legal service 4
+legal services 4
 his job 2
 high-rise efficiency 1
 poverty level 1
@@ -19,6 +19,7 @@ stylish furniture 1
 much work 1
 high praise 1
 legal system 1
+questionable loan 1
 longtime community 1
 dana brandon 1
 42-year-old woman 1
@@ -37,7 +38,6 @@ much clutter 1
 former duplex 1
 city hall 1
 his place 1
-questionable loan 1
 fee-generat-ing type 1
 private attorney 1
 former executive 1
@@ -73,8 +73,8 @@ her first home 1
 memphis law school 1
 her monthly income 1
 simple varnished wood 1
-legal service corp. 1
 her former lover 1
+legal services corp. 1
 
  Unigram NP 
 james 7
@@ -196,7 +196,7 @@ african 1
 consumer 1
 
  Arbitary length NP 
-aid client shirley downing saturday 1
-memphis area legal service 1
-word legal service reach 1
+memphis area legal services 1
 shelby county mayor a c wharton 1
+aid clients shirley downing saturday 1
+word legal services reaches 1

@@ -6,9 +6,9 @@ federal government 17
 united kingdom 15
 private sector 13
 new zealand 11
-internal control 11
-food stamp 11
+internal control 10
 social security 9
+food stamp 7
 neural network 6
 improper payment 6
 illinois department 6
@@ -16,13 +16,14 @@ idpa oig 5
 timely information 5
 top management 5
 neural networking 5
-medicaid service 4
+medicaid services 4
+human services 4
 inspector general 4
 searchable database 4
 texas department 4
 wide range 4
-human service 4
 national association 4
+food stamps 4
 income support 4
 public aid 4
 electronic commerce 3
@@ -31,40 +32,42 @@ our visit 3
 other information 3
 medicaid fraud 3
 government executive 3
+benefits agency 3
 national advisor 3
 computer matching 3
 additional information 3
 fraud prevention 3
 strong support 3
-internal auditor 3
 reasonable assurance 3
-benefit agency 3
+actual impact 3
+veterans affairs 3
 human capital 3
 one-stop shop 3
-actual impact 3
-veteran affair 3
 federal agency 3
 valuable information 2
 other privacy 2
 cultural framework 2
 auditor general 2
 tom broderick 2
+materiel management 2
 corrective action 2
 financial assistance 2
 financial management 2
 medicare fee-for-service 2
 improved program 2
 early effort 2
+internal auditors 2
+survivors insurance 2
 following exchange 2
 cio council 2
 significant problem 2
 supportive attitude 2
 same year 2
-materiel management 2
 general public 2
 nonfinancial information 2
 possible duplicate 2
 our work 2
+its efficiency 2
 texas medicaid 2
 organizational culture 2
 cook county 2
@@ -77,25 +80,23 @@ senate committee 2
 medical care 2
 large number 2
 further attention 2
-survivor insurance 2
 australian government 2
 social policy 2
 incorrect payment 2
+government accountants 2
+needy families 2
 local government 2
 cabinet office 2
 texas health 2
 old age 2
 other program 2
 common focus 2
-government accountant 2
 economic co-operation 2
 first place 2
-needy family 2
 va office 2
 abuse initiative 2
 annual performance 2
 new provider 2
-g street 2
 significant impact 2
 independent nation 2
 extensive research 2
@@ -104,7 +105,6 @@ their willingness 2
 great britain 2
 computer-generated information 2
 large volume 2
-it efficiency 2
 federal arena 2
 sophisticated computer 2
 temporary assistance 2
@@ -113,7 +113,6 @@ cultural change 2
 privacy act 2
 disability insurance 2
 effective program 2
-it success 1
 certain health 1
 federal bureau 1
 contract review 1
@@ -125,11 +124,8 @@ contradictory information 1
 human services-centers 1
 gi00 united 1
 significant role 1
-it performance 1
-historical table 1
 automated system 1
-receive correspondence 1
-agency department 1
+additional investigation 1
 public accounting 1
 further investigation 1
 commission strong 1
@@ -147,7 +143,6 @@ medicaid medicaid 1
 current information 1
 texas texas 1
 possible extent 1
-it role 1
 accurate income 1
 joint effort 1
 baseline information 1
@@ -156,7 +151,6 @@ timely feedback 1
 insufficient oversight 1
 information technology 1
 reported return 1
-government several 1
 systematic risk 1
 entire organization 1
 strategic framework 1
@@ -164,11 +158,11 @@ debt manager 1
 public debt 1
 analyses-client telephone 1
 top-level program 1
-recognition award 1
 parliament-the house 1
 agencies' mission 1
 main accountability 1
 key information 1
+its performance 1
 operational support 1
 essential step 1
 maxwell school 1
@@ -197,64 +191,59 @@ their intent 1
 vendor-provided software 1
 process-monitoring progress 1
 first time 1
-it founding 1
 their feedback 1
 potential fraud 1
 systematic method 1
-it budget 1
 erroneous payment 1
 medical/surgical supply 1
 areas-control environment 1
-annual budget 1
 texas' health 1
 consider-control environment 1
-it dollar 1
+chief executive 1
 internal auditing 1
 local department 1
 comptroller general 1
 retiree income 1
 public spending 1
+workplace relations 1
 cheryl driscoll 1
 their attention 1
 chris linton 1
 parliamentary committee 1
 continual interaction 1
 top-level interest 1
-it business 1
 issue-based organization 1
 random chance 1
 reliable information 1
 prompt communication 1
 improved performance 1
-public affair 1
 client-related reporting 1
 national information 1
 electronic order 1
 adjust control 1
 nonprofit organization 1
+visit gao 1
 public attitude 1
 long-standing track 1
 multiple computer 1
 various payment 1
 effective use 1
-chief executive 1
-additional investigation 1
 key role 1
 integral part 1
 central repository 1
 centralized management 1
+agencies department 1
 effective deterrent 1
 prime minister 1
 certain date 1
 other documentation 1
-it goal 1
+total tax 1
 federal/state law 1
 joint responsibility 1
 three-tier system 1
 personal information 1
 our society 1
 legislated advance 1
-their hospitality 1
 broad sense 1
 gao e-mail 1
 competitive advantage 1
@@ -265,6 +254,7 @@ programs-to compare 1
 ongoing basis 1
 ● institute 1
 marie novak 1
+its core 1
 his opinion 1
 financial community 1
 single day 1
@@ -283,16 +273,16 @@ continued improvement 1
 title xviii 1
 effective communication 1
 transparent environment 1
-it payment 1
 applied research 1
 retail store 1
 printed report 1
+g streets 1
 their reimbursement 1
 investigative arm 1
 address correction 1
 principal interagency 1
 technical knowledge 1
-consider-control activity 1
+their billing 1
 title xix 1
 ms. calbom 1
 512-8705 e-mail 1
@@ -301,25 +291,29 @@ urban development 1
 specific prevention 1
 following page 1
 idpa office 1
-aurora lebrun 1
+its income 1
 same time 1
 our discussion 1
 public information 1
 timely manner 1
 full range 1
 proper behavior 1
+effective information 1
 professional organization 1
 separate program 1
 united states-the 1
 annual appropriation 1
+historical tables 1
 official error 1
 local employment 1
 possible study 1
 federal information 1
 significant risk 1
+ruth sessions 1
 assistance program 1
 medical judgment 1
 everyday business 1
+its goal 1
 our government 1
 several state 1
 other irregularity 1
@@ -328,34 +322,34 @@ upcoming education 1
 centrelink centrelink 1
 north america 1
 current data 1
-it management 1
 private investigation 1
 on-line feedback 1
+internal auditor 1
 national forum 1
 good government 1
 latter case 1
 health bureau 1
 their wage 1
-it core 1
 systematic process 1
 fiscal administration 1
 joan mcquay 1
-it fraud 1
-it income 1
+annual budget 1
 key performance 1
 gao.gov mail 1
 managerial judgment 1
 potential benefit 1
-total tax 1
 house committee 1
+gao reports 1
 appropriate counseling 1
 continued timeliness 1
+standards australia 1
 potential control 1
 1-month lag 1
 useful program 1
 top-level support 1
 syracuse university 1
 government performance 1
+its evaluation 1
 further research 1
 day-to-day program 1
 6-month lag 1
@@ -364,45 +358,48 @@ other wrongdoing 1
 daily case 1
 financial information 1
 applicable performance 1
+local information 1
 educational feedback 1
 criminal justice 1
 provider history 1
+its budget 1
 common claim 1
 appropriate-in addition 1
 overall purpose 1
 high risk 1
 financial expertise 1
 cost-beneficial way 1
+organizations association 1
 payable information 1
 independent agency 1
-informed oversight 1
+community services 1
 administrative action 1
 transitional retirement 1
 regulatory eligibility 1
 public confidence 1
 institutional denial 1
-loan program 1
 ● prisoner 1
 initial visit 1
 projected federal 1
 comprehensive review 1
+consider-control activities 1
+federal managers 1
 kentucky kentucky 1
 strategic direction 1
 brooke whittaker 1
 individual invoice 1
-regular information 1
-system resource 1
 legislative arena 1
 nationwide network 1
-it staff 1
 primary focus 1
 individual program 1
+informed oversight 1
 our case 1
 hhs oig 1
 unknown fraud 1
 strategy works-monitoring 1
 constructive advice 1
 other paperwork 1
+results act 1
 technical support 1
 major system 1
 foreign governments' 1
@@ -412,23 +409,25 @@ material misstatement 1
 private use 1
 statistical analysis 1
 desired source 1
-overall management 1
+systems resources 1
 systematic measurement 1
 government reform 1
-organization association 1
 other government 1
-ruth session 1
-visit gao 1
+receive correspondence 1
+aurora lebrun 1
 and/or employment 1
 pilot test 1
+its management 1
 universal health 1
 periodic agency 1
 mary merrill 1
 primary aim 1
 continual recording 1
+internal controls 1
 potential duplicate 1
 accepted cost 1
 benefit payment 1
+loan programs 1
 various fraud 1
 interactive analysis 1
 white-collar crime 1
@@ -437,28 +436,30 @@ ralph watzlaff 1
 from public 1
 small business 1
 research-based approach 1
+its payment 1
 daily news 1
 annual contract 1
 annual estimate 1
 overall control 1
 understanding eligibility 1
-their billing 1
+its success 1
 rolling program 1
+its dollar 1
 cabinet-level position 1
 associate commissioner 1
 organizational profitability 1
 top-level officials-whether 1
 sue vardon 1
 prompt resolution 1
+public affairs 1
 timely access 1
 ● recovery 1
-it evaluation 1
 wide spectrum 1
-community service 1
 internal use 1
 first copy 1
 parliamentary democracy 1
 our home 1
+governments several 1
 technological environment 1
 independent body 1
 annual report 1
@@ -471,13 +472,14 @@ federal human 1
 regular mail 1
 internal problem 1
 ● income 1
-it health 1
+their program 1
 useful information 1
+g street 1
 comparative information 1
+its staff 1
 annual feedback 1
 public policy 1
 public service 1
-local information 1
 annual basis 1
 practical public 1
 complex organization 1
@@ -488,41 +490,43 @@ general counsel 1
 sharon loftin 1
 medical research 1
 child support 1
-gao report 1
 linda calbom 1
 nw washington 1
+its control 1
 evaluation division 1
 significant deterrent 1
 significant quantity 1
 same kind 1
 increased scrutiny 1
-it audit 1
 dynamic nature 1
 same representative 1
 accurate customer 1
-workplace relation 1
 potential overpayment 1
 effective control 1
 interdisciplinary team 1
 top-level management 1
 extensive use 1
 strengthen program 1
-standard australia 1
-result act 1
+its fraud 1
+their hospitality 1
 her majesty 1
 local law 1
-it control 1
+its founding 1
+testimony order 1
 thorough risk 1
 central objective 1
 full-text document 1
 relative tax 1
 timely resolution 1
+regular information 1
 their support 1
 low recovery 1
-their program 1
+its business 1
+recognition awards 1
 correct way 1
 other key 1
 increased size 1
+its health 1
 day-to-day performance 1
 inadequate eligibility 1
 other assistance 1
@@ -538,11 +542,10 @@ prompt action 1
 professional group 1
 future performance 1
 actionable insight 1
+overall management 1
 individual recipient 1
 operational environment 1
-federal manager 1
 assistant director 1
-effective information 1
 strong focus 1
 certain actual 1
 our fieldwork 1
@@ -550,13 +553,14 @@ actual improper 1
 report fraud 1
 efficient alternative 1
 maria zacharias 1
-testimony order 1
+its audit 1
 key step 1
 evaluation tool 1
 top-level administration 1
 regular basis 1
 accurate detection 1
 additional staff 1
+its role 1
 control environment 1
 in-house expertise 1
 dental consultant 1
@@ -567,73 +571,71 @@ social security administration 5
 inland revenue department 4
 national audit office 4
 private sector council 3
-certified fraud examiner 3
 health insurance commission 3
 abuse detection system 3
 privacy protection act 3
 social security act 3
 income new zealand 3
 queen elizabeth ii 3
+pharmaceutical benefits scheme 2
 durable medical equipment 2
 national medicaid fraud 2
-pharmaceutical benefit scheme 2
-it own program 2
-nonpartisan public service 2
-state procurement official 2
 data warehousing institute 2
 chief executive officer 2
+state procurement officials 2
+its own program 2
+certified fraud examiners 2
+nonpartisan public service 2
 preliminary fiscal year 2
-private sector organization 2
 supplemental security income 2
 federal computer week 2
+private sector organizations 2
 government performance project 2
-australian/new zealand standard 1
 substantial gainful activity 1
 contract performance report 1
 dr. malcolm sparrow 1
 child support agency 1
-it intended outcome 1
 effective internal control 1
-health care system 1
 comparative statistical information 1
 financial implementation team 1
-it fiscal year 1
-it organizational culture 1
 professional review division 1
+certified fraud examiner 1
 specialist public sector 1
 ● monitoring-tracking improvement 1
+government executive magazine 1
 malcolm k. sparrow 1
 external liaison office 1
-veteran health administration 1
-audit practice board 1
+its annual audits 1
 their excellent performance 1
-information officer council 1
-data warehousing award 1
+its fiscal year 1
 ● neural networking 1
 their own benefit 1
-standard new zealand 1
-it own eligibility 1
+its new program 1
 several private health 1
+war pensions agency 1
 their first day 1
 federal-state matching entitlement 1
 united kingdom monitoring 1
+fraud plagues america 1
 illinois state police 1
-veteran benefit administration 1
+improvement initiatives -we 1
 their fiscal year 1
+its own sample 1
 broad federal statutory 1
+its internal control 1
 their potential impact 1
+australian/new zealand standard 1
 prisoner verification system 1
+veterans benefits administration 1
 general accounting office 1
 current federal budget 1
-appeal service agency 1
 improved financial performance 1
-war pension agency 1
-improvement initiative -we 1
-it own sample 1
-it new program 1
+its intended outcome 1
+its own eligibility 1
 ● making sure 1
-jobseeker's allowance benefit 1
+audit practices board 1
 fraud science team 1
+veterans health administration 1
 reliable financial reporting 1
 medicare fee-for-service authorized 1
 quarter fiscal year 1
@@ -645,14 +647,17 @@ internal control management 1
 financial integrity act 1
 official business penalty 1
 specialized statistical analysis 1
-fraud plague america 1
+appeals service agency 1
 powerful internal control 1
-chief financial officer 1
-it internal control 1
-significant internal fraud 1
+jobseeker's allowance benefits 1
+information officers council 1
 customer service centre 1
-government executive magazine 1
-it annual audit 1
+significant internal fraud 1
+data warehousing awards 1
+standards new zealand 1
+chief financial officers 1
+its organizational culture 1
+health care system 1
 valid social security 1
 many different prevention 1
 appropriate action- approval 1
@@ -662,7 +667,7 @@ government technology magazine 1
 information 108
 program 69
 risk 51
-government 49
+government 48
 organization 47
 fraud 43
 management 40
@@ -688,10 +693,10 @@ work 18
 payment 18
 review 18
 centrelink 17
-audit 17
 medicare 17
 company 16
 technology 16
+audit 16
 idpa 16
 process 15
 ssa 15
@@ -704,7 +709,6 @@ monitoring 13
 staff 13
 gao 13
 error 13
-investigation 12
 care 12
 contract 12
 case 12
@@ -735,6 +739,7 @@ eligibility 9
 action 9
 hic 9
 office 9
+investigation 9
 service 9
 need 9
 implementation 9
@@ -758,7 +763,6 @@ executive 8
 human 8
 improvement 8
 provider 8
-communication 8
 area 8
 education 8
 nao 8
@@ -780,10 +784,11 @@ parliament 7
 congress 7
 code 6
 dollar 6
-oversight 6
+cms 6
 public 6
 share 6
 customer 6
+oversight 6
 tax 6
 goal 6
 policy 6
@@ -791,11 +796,11 @@ internet 6
 hhsc 6
 enforcement 6
 culture 6
-cm 6
 strategy 6
 budget 6
 practice 6
 kentucky 6
+communication 6
 cash 5
 compliance 5
 mfads 5
@@ -820,9 +825,8 @@ march 5
 psc 5
 legislation 5
 application 5
-pension 5
 technique 4
-family 4
+pensions 4
 end 4
 rate 4
 consideration 4
@@ -856,6 +860,7 @@ appropriate 4
 pwg 4
 focus 3
 month 3
+veterans 3
 covering 3
 excellence 3
 feedback 3
@@ -887,7 +892,7 @@ project 3
 compensation 3
 documentation 3
 partnership 3
-veteran 3
+investigations 3
 incidence 3
 planning 3
 impact 3
@@ -911,6 +916,7 @@ member 3
 day 3
 d.c. 3
 transaction 3
+family 3
 governmental 3
 loss 3
 processing 3
@@ -967,8 +973,6 @@ fitec 2
 measurement 2
 event 2
 assurance 2
-associate 2
-standard 2
 size 2
 superannuation 2
 kind 2
@@ -980,7 +984,6 @@ calendar 2
 incentive 2
 potential 2
 chairman 2
-fcw 2
 ncma 2
 average 2
 facs 2
@@ -992,7 +995,6 @@ mmis 2
 employee 2
 di 2
 ssi 2
-today 2
 best 2
 reform 2
 identification 2
@@ -1011,7 +1013,6 @@ reliability 2
 ii 2
 chase 2
 denial 2
-document 2
 director 2
 purpose 2
 opportunity 2
@@ -1021,11 +1022,15 @@ person 2
 money 2
 accurate 2
 coordination 2
+associates 2
 macdonald 2
 world 2
 testimony 2
+communications 2
 officer 2
+today 2
 and/or 2
+fcw 2
 tdh 2
 workgroup 2
 prosecution 2
@@ -1068,11 +1073,12 @@ advantage 1
 nonemergency 1
 brownie 1
 process-before 1
+governments 1
 delivery 1
 modernization 1
 misinformation 1
 solution 1
-grandfather 1
+standards 1
 enrollment 1
 prevent 1
 feasibility 1
@@ -1081,6 +1087,7 @@ perspective 1
 investment 1
 chicago 1
 profitability 1
+children 1
 supplier 1
 new 1
 degree 1
@@ -1093,7 +1100,7 @@ shift 1
 experience 1
 person's 1
 credit 1
-graph 1
+permit 1
 criticism 1
 campaign 1
 total 1
@@ -1101,6 +1108,7 @@ recurrence 1
 hospital 1
 theme 1
 foster 1
+means 1
 authorization 1
 gao-aimd-00-21.3.1 1
 communications-using 1
@@ -1143,7 +1151,6 @@ postaward 1
 labor 1
 mail 1
 correspondence 1
-good 1
 combination 1
 material 1
 nation 1
@@ -1158,13 +1165,13 @@ investigator 1
 mastercard 1
 kpi 1
 quarter 1
-mean 1
 financial 1
 generation 1
 energy 1
 literature 1
 www.nhcaa.org 1
 operation 1
+grandfather 1
 description 1
 power 1
 network 1
@@ -1173,6 +1180,7 @@ receiving 1
 issue 1
 foundation 1
 possibility 1
+standard 1
 difficulty 1
 allocation 1
 utilization 1
@@ -1222,6 +1230,7 @@ reimbursement 1
 business-to-business 1
 request 1
 treaty 1
+graphs 1
 pattern 1
 consumer 1
 queen 1
@@ -1239,7 +1248,6 @@ publicity 1
 background 1
 dc 1
 policymaking 1
-child 1
 brain 1
 method 1
 steal 1
@@ -1248,6 +1256,7 @@ concert 1
 intelligence 1
 sensitivity 1
 globe 1
+audits 1
 concern 1
 youth 1
 wire 1
@@ -1272,6 +1281,7 @@ waitangi 1
 section 1
 relevant 1
 key 1
+duplicity 1
 point 1
 loan 1
 period 1
@@ -1293,7 +1303,6 @@ declaration 1
 spirit 1
 volunteer 1
 governmentwide 1
-permit 1
 behavior 1
 newspaper 1
 procedure 1
@@ -1309,6 +1318,7 @@ miscalculate 1
 archive 1
 propensity 1
 complex 1
+document 1
 microsoft 1
 composition 1
 http 1
@@ -1316,6 +1326,7 @@ driver 1
 workforce 1
 payments-one 1
 hand 1
+documents 1
 compendium 1
 well 1
 client 1
@@ -1328,7 +1339,6 @@ using 1
 reality 1
 gao/hehs-00-119 1
 death 1
-duplicity 1
 entirety 1
 internal 1
 treatment 1
@@ -1363,6 +1373,7 @@ easy-to-use 1
 dental 1
 agreement 1
 stage 1
+goods 1
 stamp 1
 afternoon 1
 desktop 1
@@ -1391,6 +1402,7 @@ life 1
 evidence 1
 expertise 1
 file 1
+families 1
 deterrent 1
 -one 1
 organizationwide 1
@@ -1403,54 +1415,55 @@ clue 1
 structure 1
 age 1
 notion 1
+pension 1
 inaccuracy 1
 
  Arbitary length NP 
 health care financing administration 5
-information technology resource board 2
+federal information resources management 2
 national health care anti-fraud association 2
-federal information resource management 2
-state information resource executive 2
 national contract management association 2
+information technology resources board 2
+state information resource executives 2
 general accounting office executive guide gao october 1
-fraud prevention investigation program 1
 u.s. general accounting office p.o 1
-va procurement working group 1
-manage improper payment top-level 1
+texas employees retirement system 1
+strategies to manage improper payments 1
+assurance contents preface introduction observations abbreviations introduction improper 1
+its disbursements-the first review 1
+private sector companies private sector council 1
 income new zealand once 1
-best practice web site best 1
-award winner government technology leadership award 1
 senator joseph i. lieberman 1
 cio magazine www.cio.com cio 1
-private sector company private sector council 1
+appendix iv gao contacts 1
 joint technical committee ob/7-risk management 1
-appendix iv gao contact 1
-centrelink chief executive officer 1
-staff acknowledgment gao contact tom broderick 1
+staff acknowledgments gao contacts tom broderick 1
+standards australia international limited 1
 data sharing could enhance program integrity 1
 general accounting office washington 1
+award winners government technology leadership awards 1
 accountability -changes madein texas 1
 cfo electronic commerce task force 1
+programs presorted standard postage 1
+manage improper payments top-level 1
+va procurement working group 1
 social security defense medicare medicaid 1
 hic internet feedback reporting facility 1
-government technology leadership award 1
 medicaid management information system 1
-texas employee retirement system 1
+appendix ii entity descriptions 1
 australian health insurance commission 1
-strategy to manage improper payment 1
+centrelink chief executive officer 1
+government technology leadership awards 1
 jeffrey c. steinhoff managing director financial management 1
 public service monitoring body 1
+fraud prevention investigations program 1
+bookmarks australian national audit office 1
 new zealand new zealand 1
-program presorted standard postage 1
-assurance content preface introduction observation abbreviation introduction improper 1
-appendix ii entity description 1
 medicaid fraud prevention executive workgroup 1
-it disbursements-the first review 1
+best practice web sites best 1
 assistant director u.s. general accounting office 1
-bookmark australian national audit office 1
-standard australia international limited 1
 joint australian/new zealand standard 1
 document gao building distribution center room 1
-fee paid gao permit no 1
-address identified risk area 1
 national crime information center 1
+address identified risk areas 1
+fees paid gao permit no 1

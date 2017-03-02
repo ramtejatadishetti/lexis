@@ -1,88 +1,89 @@
 
  Bigram NP 
 negotiated rulemaking 4
-final rule 4
 federal register 4
-executive order 3
+final rule 4
 indian self-determination 3
 internal agency 2
 cost-benefit analysis 2
-indian affair 2
 self-determination act 2
+executive orders 2
 tribal participation 2
+indian affairs 2
 discretionary grant 1
 environmental justice 1
 substantial effect 1
 public participation 1
+mr. rezendes 1
 mr. baine 1
-indian tribe 1
-regulatory affair 1
+final rulemaking 1
+science issues 1
 our office 1
 direct participation 1
 our assessment 1
 significant number 1
 other statute 1
+executive order 1
 statutory authorization 1
 such contract 1
-resource house 1
 prior delegation 1
 overall length 1
 et seq 1
 senior attorney 1
-science issue 1
+tribal organization 1
 congressional reexamination 1
 budgetary impact 1
 major rule 1
 joint rule 1
 order no 1
 maximum extent 1
-human service 1
+quality issues 1
 second attempt 1
+human services 1
 detailed statement 1
 financial management 1
 our report 1
-tribal organization 1
-affair united 1
-quality issue 1
-mr. rezendes 1
+regulatory affairs 1
+affairs department 1
+affairs united 1
 civil justice 1
+resources house 1
 single program 1
 the interior 1
 same reason 1
 public comment 1
+indian tribes 1
 intergovernmental partnership 1
-affair department 1
-chief counsel 1
 our review 1
 human environment 1
-final rulemaking 1
+chief counsel 1
 
  Trigram NP 
 paperwork reduction act 2
+federal indian programs 1
 james w. vickers 1
-administrative procedure act 1
 other relevant information 1
 significant regulatory action 1
 final regulatory flexibility 1
 negotiated rulemaking act 1
-self-determination act amendment 1
+self-determination act amendments 1
+contract disputes act 1
 victor s. rezendes 1
 education assistance act 1
 certain subject matter 1
 david p. baine 1
-contract dispute act 1
 health care delivery 1
 regulatory flexibility act 1
-federal indian program 1
+administrative procedure act 1
 long-term financial stability 1
 small business administration 1
 planned regulatory action 1
 
  Unigram NP 
 rule 19
-department 9
 section 8
 act 8
+department 7
 u.s.c 7
 health 6
 reg 6
@@ -102,12 +103,12 @@ collection 4
 executive 3
 omb 3
 sba 3
+director 3
 contract 3
 regulation 3
 construction 3
 official 3
 process 3
-director 3
 title 2
 gao/ogc-96-23 2
 work 2
@@ -127,6 +128,7 @@ agency 2
 congress 2
 donation 2
 i 2
+departments 2
 order 2
 declination 2
 code 1
@@ -136,12 +138,12 @@ reassumption 1
 staff 1
 implementation 1
 passage 1
+resources 1
 practice 1
 m.ph 1
 burden 1
 report 1
 512-8210 1
-resource 1
 d 1
 january 1
 public 1
@@ -158,7 +160,6 @@ confusion 1
 reason 1
 approval 1
 preamble 1
-reaction 1
 compliance 1
 april 1
 connection 1
@@ -175,6 +176,7 @@ quality 1
 renewal 1
 drafting 1
 meeting 1
+reaction 1
 award 1
 iii 1
 assessment 1
@@ -184,40 +186,40 @@ guide 1
 control 1
 likewise 1
 ii 1
-analysis 1
 retrocession 1
+analysis 1
 united 1
 objection 1
 document 1
 may 1
+chiefs 1
 opportunity 1
 reform 1
 procurement 1
-chief 1
 review 1
 waiver 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
-human service enclosure analysis under 1
-honorable daniel k. inouye vice chairman committee 1
-contract under the indian self-determination and education assistance act 1
+unfunded mandates reform act 2
+bureau of indian affairs 1
+human services enclosure analysis under 1
 indian health service entitled 1
+federal tort claims act 1
 the department of health and human service 1
 indian health service department 1
 honorable george miller ranking minority member committee 1
+contracts under the indian self-determination and education assistance act 1
 honorable john mccain chairman 1
 robert p. murphy general counsel enclosure 1
 self-determination contract reform act 1
 negotiated rule making act 1
+education assistance act amendments 1
 interior michael h. trujillo 1
 federal advisory committee act 1
 national environmental policy act 1
 honorable don young chairman 1
-education assistance act amendment 1
 ada e. deer assistant 1
-federal tort claim act 1
-bureau of indian affair 1
-a major rule issued by the department 1
 general counsel b-272364.1 july 1
+honorable daniel k. inouye vice chairman committee 1
+a major rule issued by the department 1
 education assistance act pursuant 1

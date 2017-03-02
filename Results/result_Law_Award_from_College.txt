@@ -7,6 +7,7 @@ pfeiffer university 1
 bluefield college 1
 her husband 1
 louis bledsoe 1
+hunter huss 1
 associate dean 1
 joyce mcconnell 1
 carter bond 1
@@ -25,14 +26,13 @@ big picture 1
 home society 1
 her nature 1
 my job 1
-hunter hus 1
 low income 1
 
  Trigram NP 
 junior girl scout 1
 her legal career 1
 outstanding woman lawyer 1
-appalachian legal service 1
+appalachian legal services 1
 w. va. wallace 1
 public defender corp. 1
 
@@ -58,6 +58,7 @@ wvu 1
 advocacy 1
 year 1
 home 1
+children 1
 pfeiffer 1
 doctor 1
 merger 1
@@ -73,14 +74,13 @@ caucus 1
 biology 1
 safe 1
 practice 1
-february 1
 award 1
 a. 1
 director 1
 bachelor 1
 half 1
 opportunity 1
-child 1
+february 1
 soapbox 1
 louis 1
 age 1
@@ -96,9 +96,9 @@ result 1
 
  Arbitary length NP 
 west virginia university college 2
-hunter hus high school 1
-west virginia legal service plan 1
-hus grad earns law award 1
+hunter huss high school 1
+west virginia legal services plan 1
+huss grad earns law award 1
 erin elizabeth walker gazette correspondent princeton 1
 concord united methodist church 1
 stop abusive family environment 1

@@ -88,8 +88,8 @@ block 1
 
  Arbitary length NP 
 california rural legal assistance 4
-it migrant-worker legal assistance 1
 uc davis law school 1
-jose cardenas time staff writer december 1
+jose cardenas times staff writer december 1
 cruz reynoso justice center 1
-channel county legal service 1
+channel counties legal services 1
+its migrant-worker legal assistance 1

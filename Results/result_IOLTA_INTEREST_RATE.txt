@@ -2,14 +2,15 @@
  Bigram NP 
 new jersey 5
 your bank 4
-legal service 3
+legal services 3
 supreme court 2
 third quarter 2
-it interest 1
 legal triage 1
 atlantic-cape may 1
 interest-bearing trust 1
 substantial fund 1
+average interest 1
+its interest 1
 inexpensive money 1
 little effort 1
 volunteer organization 1
@@ -30,7 +31,6 @@ their use 1
 easy answer 1
 iolta interest 1
 tiered account 1
-average interest 1
 first time 1
 educational lay 1
 monthly account 1
@@ -43,7 +43,7 @@ average iolta interest 1
 positive net interest 1
 large commercial account 1
 third major bank 1
-it advertised passbook 1
+its advertised passbook 1
 other public service 1
 
  Unigram NP 
@@ -93,7 +93,6 @@ public 1
 activity 1
 promise 1
 result 1
-lawyer 1
 year 1
 home 1
 indigent 1
@@ -130,6 +129,7 @@ check 1
 information 1
 end 1
 instance 1
+lawyers 1
 variation 1
 purpose 1
 funding 1
@@ -148,4 +148,4 @@ do you know your iolta 1
 new jersey state bar foundation 1
 high school mock trial competition 1
 new jersey state bar association 1
-court appointed special advocate program 1
+court appointed special advocate programs 1

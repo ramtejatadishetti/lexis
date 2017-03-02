@@ -12,7 +12,7 @@ in-use testing 1
 stern drive 1
 new spark-ignition 1
 private sector 1
-regulatory affair 1
+kilowatts pursuant 1
 burdensome alternative 1
 10-15 percent 1
 gao/ogc-96-45 epa 1
@@ -30,7 +30,6 @@ administrative burden 1
 their use 1
 federal register 1
 budgetary impact 1
-kilowatt pursuant 1
 major rule 1
 jr. chairman 1
 order no 1
@@ -39,6 +38,7 @@ average increase 1
 annual cost 1
 similar notice 1
 our report 1
+regulatory affairs 1
 commerce house 1
 regulatory management 1
 director office 1
@@ -55,14 +55,14 @@ environmental protection agency 4
 regulatory impact analysis 2
 paperwork reduction act 2
 new nonroad compression-ignition 1
+administrative procedure act 1
 other relevant information 1
 gao/ogc-96-45 specified area 1
-public work united 1
-environmental protection issue 1
 significant regulatory action 1
+public works united 1
 regulatory flexibility act 1
 planned regulatory action 1
-administrative procedure act 1
+environmental protection issues 1
 executive order no 1
 potential competitive impact 1
 
@@ -79,9 +79,8 @@ analysis 6
 reg 5
 notice 5
 fed 5
+kilowatts 4
 act 4
-comment 4
-kilowatt 4
 office 3
 approval 3
 burden 3
@@ -97,7 +96,9 @@ title 2
 mandate 2
 summary 2
 ozone 2
+comments 2
 gao/ogc-96-45 2
+comment 2
 regulation 2
 b 2
 iv 2
@@ -185,22 +186,22 @@ si 1
 order 1
 
  Arbitary length NP 
-new gasoline spark-ignition marine engine 2
-new nonroad spark-ignition engine 2
-new nonroad compression-ignition engine 2
+new nonroad compression-ignition engines 2
+new gasoline spark-ignition marine engines 2
+new nonroad spark-ignition engines 2
 control of air pollution 1
 honorable john d. dingell ranking minority member committee 1
+national ambient air quality standard 1
 a major rule issued by the environmental protection agency entitled 1
 honorable john h. chafee chairman 1
-national ambient air quality standard 1
+final rule for new gasoline spark-ignition marine engines 1
 gao/ogc-96-45 enclosure analysis under 1
+kilowatts and new nonroad spark-ignition engines at or below 1
 honorable thomas j. bliley 1
-final rule for new gasoline spark-ignition marine engine 1
-exemption for new nonroad compression-ignition engine at or above 1
-mr. thomas e. kelly 1
+exemptions for new nonroad compression-ignition engines at or above 1
 honorable max baucus ranking minority member committee 1
 robert p. murphy general counsel enclosure 1
 information environmental protection agency page 1
-kilowatt and new nonroad spark-ignition engine at or below 1
+mr. thomas e. kelly 1
+unfunded mandates reform act 1
 general counsel b-274798 october 1
-unfunded mandate reform act 1

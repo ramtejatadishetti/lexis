@@ -1,15 +1,15 @@
 
  Bigram NP 
-legal service 4
+legal services 4
 eastern missouri 3
 legal assistance 3
 legal help 2
+aids project 1
 holistic approach 1
 full- time 1
 last year 1
 financial assistance 1
 their life 1
-aid project 1
 invaluable expertise 1
 gradual decline 1
 valuable volunteer 1
@@ -31,11 +31,11 @@ criminal charge 1
 mc+ project 1
 
  Trigram NP 
-lasting solution project 1
+hot new movie 1
 medicaid managed care 1
 temporary protective status 1
-hot new movie 1
 our entire community 1
+lasting solutions project 1
 our not-for-profit organization 1
 immigration law project 1
 
@@ -63,17 +63,17 @@ course 1
 volunteer 1
 lawyer 1
 year 1
+aids 1
 nation 1
 employment 1
 bankruptcy 1
 deportation 1
 access 1
 acquaintance 1
-aid 1
+exclusion 1
 district 1
 border 1
 housing 1
-exclusion 1
 liberty 1
 client 1
 state 1

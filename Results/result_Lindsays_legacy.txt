@@ -39,12 +39,12 @@ second floor 1
 oberlin college 1
 
  Trigram NP 
-georgia legal service 3
-free legal work 1
+georgia legal services 3
 her second week 1
 her first encounter 1
 my whole mindset 1
 daughter pippi ellison 1
+free legal work 1
 his first look 1
 jim lindsay day 1
 retired corporate lawyer 1
@@ -66,7 +66,6 @@ school 2
 reese-wheeler 2
 kind 2
 time 2
-nonprofit 2
 maturity 1
 camp 1
 golf 1
@@ -96,11 +95,12 @@ program 1
 passion 1
 volunteerism 1
 enthusiasm 1
+michigan 1
 today 1
 ken 1
 generously 1
 parent 1
-michigan 1
+town 1
 camper 1
 director 1
 lunch 1
@@ -112,7 +112,7 @@ law 1
 judgment 1
 jacksonville 1
 man 1
-town 1
+nonprofits 1
 anything 1
 difficulty 1
 university 1
@@ -127,6 +127,7 @@ everyone 1
 reception 1
 contribution 1
 sister 1
+nonprofit 1
 sat 1
 grin 1
 

@@ -2,25 +2,23 @@
  Bigram NP 
 new york 3
 robin maher 1
-firm's stance 1
 high priority 1
+firm's stance 1
+important figure 1
 award winner 1
 financial support 1
-coudert brother 1
 information act 1
 steve hale 1
 betsy alaniz 1
-don paradis 1
+trial lawyers 1
 reed smith 1
-la vega 1
 last year 1
 his equity 1
 medical student 1
 perkins coie 1
 esther lardent 1
-muslim sept. 1
 alan sullivan 1
-trial lawyer 1
+new jersey 1
 judicial scrutiny 1
 legal community 1
 donna doblick 1
@@ -31,6 +29,7 @@ sharp decline 1
 teenie harris 1
 elderly couple 1
 federal aid 1
+muslims sept. 1
 under-represented group 1
 cindy kernick 1
 local bar 1
@@ -50,33 +49,34 @@ big law 1
 eleanor newhoff 1
 billable-hour parity 1
 pepper hamilton 1
+coudert brothers 1
 colleen lynch 1
 hard-working lawyer 1
-important figure 1
+don paradis 1
 public interest 1
-new jersey 1
-legal profession 1
+las vegas 1
 nancy kelly 1
 his release 1
 sohail mohammed 1
+legal profession 1
 jonell thomas 1
 
  Trigram NP 
 american bar association 2
 albert ronnie burrell 1
-kathleen t. zellner 1
 truancy intervention project 1
 pro bono institute 1
-it remarkable involvement 1
+its remarkable involvement 1
 charles j. lloyd 1
 national law journal 1
 steven m. pincus 1
+immigration lawyers association 1
 salt lake city 1
 pro bono challenge 1
 james h. schropp 1
 her own money 1
-legal service corp. 1
-immigration lawyer association 1
+kathleen t. zellner 1
+legal services corp. 1
 
  Unigram NP 
 work 9
@@ -163,7 +163,6 @@ bird 1
 discovery 1
 sept. 1
 md. 1
-associate 1
 frank 1
 court 1
 ill. 1
@@ -211,6 +210,7 @@ alston 1
 boston 1
 pro 1
 evidence 1
+associates 1
 file 1
 partner 1
 seattle 1
@@ -246,8 +246,8 @@ alabama 1
 lubitz' 1
 
  Arbitary length NP 
-american civil liberty union 1
-edwin s. matthew jr. 1
-elizabeth amon staff reporter sept. 1
 swidler berlin shereff friedman 1
-greater boston legal service 1
+elizabeth amon staff reporter sept. 1
+edwin s. matthews jr. 1
+american civil liberties union 1
+greater boston legal services 1

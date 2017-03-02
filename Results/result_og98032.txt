@@ -12,6 +12,7 @@ substantial number 1
 interim analysis 1
 private sector 1
 our assessment 1
+agriculture issues 1
 final analysis 1
 procedure act 1
 intergovernmental cooperation 1
@@ -21,7 +22,6 @@ federal mandate 1
 retroactive effect 1
 preemptive effect 1
 et seq 1
-agriculture issue 1
 federal register 1
 forestry united 1
 james vickers 1
@@ -44,14 +44,14 @@ our review 1
 significant economic impact 2
 executive order no 2
 assistant general counsel 1
-consumer service department 1
 other relevant information 1
+its full implementation 1
 civil justice reform 1
-it full implementation 1
 regulatory flexibility analysis 1
 paperwork reduction act 1
 estimated annual burden 1
 regulatory flexibility act 1
+consumer services department 1
 final economic impact 1
 
  Unigram NP 
@@ -153,21 +153,21 @@ consumer 1
 
  Arbitary length NP 
 adult care food program 5
-day care home reimbursement 2
+day care home reimbursements 2
 work opportunity reconciliation act 2
-improved targeting of day care home reimbursement 1
-child and adult care food program 1
-day care home reimbursement pursuant 1
+final regulatory flexibility analysis 1
+improved targeting of day care home reimbursements 1
 general counsel b-279325 march 1
 honorable tom harkin ranking minority member committee 1
 honorable shirley r. watkins 1
-final regulatory flexibility analysis 1
-national school lunch program state 1
+day care home reimbursements pursuant 1
 food and consumer service 1
 a major rule issued by the department of agriculture 1
+child and adult care food program 1
+national school lunch program state 1
 honorable william f. goodling chairman 1
 robert p. murphy general counsel enclosure 1
 honorable william l. clay ranking minority member committee 1
+unfunded mandates reform act 1
 honorable richard g. lugar chairman 1
 gao/ogc-98-32 enclosure analysis under 1
-unfunded mandate reform act 1

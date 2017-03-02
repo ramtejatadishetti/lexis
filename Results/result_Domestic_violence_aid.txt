@@ -27,7 +27,7 @@ painful situation 1
 clarion ledger march 1
 their spouse's income 1
 immediate legal assistance 1
-catholic charity inc. 1
+catholic charities inc. 1
 u.s. justice department 1
 needed legal help 1
 
@@ -87,9 +87,9 @@ mother 1
 
  Arbitary length NP 
 haven house family shelter inc. 1
-central southwest mississippi legal service corp. 1
+domestic violence services center 1
 violence legal assistance program 1
-domestic violence service center 1
 sherri williams clarion-ledger staff writer domestic 1
+central southwest mississippi legal services corp. 1
 domestic violence legal assistance program 1
-central southwest mississippi legal service corp 1
+central southwest mississippi legal services corp 1

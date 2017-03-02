@@ -32,7 +32,7 @@ her dedication 1
  Trigram NP 
 public service award 3
 ginny kilgore honored 1
-legal service lawyer 1
+legal services lawyer 1
 mississippi bar association 1
 elaine pugh december 1
 elder law clinic 1
@@ -99,6 +99,6 @@ assassin 1
 honor 1
 
  Arbitary length NP 
-north mississippi rural legal service 1
-byron de la beckwith 1
 dean samuel m. davis 1
+byron de la beckwith 1
+north mississippi rural legal services 1

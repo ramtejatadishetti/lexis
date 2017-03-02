@@ -18,13 +18,12 @@ williston competition 1
 outspoken proponent 1
 day-to-day work 1
 her husband 1
-public service 1
 standing committee 1
 her law 1
 her passion 1
 their contribution 1
 steep learning 1
-it value 1
+public service 1
 her interest 1
 awful lot 1
 equal access 1
@@ -44,6 +43,7 @@ environmental law 1
 first time 1
 their use 1
 senior of-counsel 1
+great hall 1
 brilliant jurist 1
 her practice 1
 her impress 1
@@ -64,7 +64,7 @@ whole body 1
 private practice 1
 her commitment 1
 association's position 1
-great hall 1
+its value 1
 female member 1
 their time 1
 misdemeanor trial 1
@@ -84,14 +84,14 @@ first-year law 1
  Trigram NP 
 american bar association 3
 national legal aid 1
-harvard voluntary defender 1
 her thorough understanding 1
 statewide bench-bar coalition 1
 harvard law school 1
 tina spee wednesday 1
-court-community outreach committee 1
+harvard voluntary defenders 1
 only student-run chapter 1
 her judicial temperament 1
+court-community outreach committee 1
 public service corp. 1
 her 1995-96 term 1
 civil legal assistance 1
@@ -179,7 +179,6 @@ back 1
 competition 1
 recruitment 1
 college 1
-lawyer 1
 year 1
 fear 1
 canada 1
@@ -242,6 +241,7 @@ anymore 1
 party 1
 effectiveness 1
 profile 1
+lawyers 1
 congress 1
 effect 1
 organization 1
@@ -261,15 +261,15 @@ courtroom 1
  Arbitary length NP 
 los angeles county bar association 2
 los angeles superior court 2
-voice jurist credit parent 1
+harvard civil rights-civil liberties law review 1
+american civil liberties union 1
+law firm pro bono project 1
+voice jurist credits parents 1
 laurie d. zelon pro bono award 1
-harvard civil rights-civil liberty law review 1
-american civil liberty union 1
 laurie d. zelon superior court judge los angeles career 1
 clara shortridge foltz criminal justice center 1
-new york civil liberty union 1
+new york civil liberties union 1
 deputy public defender debbie canada 1
-law firm pro bono project 1
 deputy public defender noel leon 1
 deputy city attorney andrew wong 1
 harvard law school age 1

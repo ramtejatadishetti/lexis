@@ -55,6 +55,7 @@ ez 1
 sarmiento 1
 defense 1
 video 1
+experience 1
 lawyer 1
 spanish 1
 home 1
@@ -66,6 +67,7 @@ divorce 1
 support 1
 agency 1
 fullerton 1
+hour 1
 hough 1
 internet 1
 order 1
@@ -74,7 +76,6 @@ woman 1
 mainstream 1
 may 1
 screen 1
-kiosk 1
 expansion 1
 irvine 1
 efficiency 1
@@ -82,20 +83,19 @@ part 1
 benefit 1
 nation 1
 kind 1
-hour 1
+adams 1
 anything 1
 eviction 1
 h 1
 lot 1
 request 1
-experience 1
+kiosks 1
 think 1
 preparation 1
 tour 1
-adam 1
 english 1
 university 1
 
  Arbitary length NP 
-orange county register roberta adam 1
 san juan capistrano library 1
+orange county register roberta adams 1

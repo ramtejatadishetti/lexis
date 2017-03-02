@@ -5,9 +5,11 @@ administrative law 1
 heritage foundation 1
 president bush 1
 new board 1
-it nose 1
+its nose 1
+legal services 1
 real method 1
 political party 1
+its mission 1
 political activism 1
 democratic staffer 1
 legal representation 1
@@ -18,17 +20,15 @@ house judiciary 1
 legal aid 1
 edwin meese 1
 bob barr 1
-it mission 1
 president reagan 1
 civil justice 1
-legal service 1
 senior fellow 1
 todd gaziano 1
 melanie eversley 1
 bipartisan board 1
 
  Trigram NP 
-legal service corp. 4
+legal services corp. 4
 president richard nixon 1
 washington-based non-profit organization 1
 general accounting office 1
@@ -96,6 +96,6 @@ rule 1
  Arbitary length NP 
 cox washington bureau saturday 1
 atlanta legal aid society 1
-georgia legal service program 1
+georgia legal services program 1
 lsc president john erlenborn 1
-legal service corp. barr 1
+legal services corp. barr 1

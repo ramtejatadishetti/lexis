@@ -2,7 +2,7 @@
  Bigram NP 
 final rule 13
 organ procurement 4
-health resource 3
+health resources 3
 transplantation network 3
 federal register 2
 order no 2
@@ -24,7 +24,6 @@ statutory authorization 1
 significant impact 1
 specific allocation 1
 control number 1
-human service 1
 et seq 1
 substantial risk 1
 major rule 1
@@ -34,29 +33,30 @@ james vickers 1
 geographic equity 1
 national organ 1
 ms. steinhardt 1
+human services 1
 our report 1
 public trust 1
 commerce house 1
-it analysis 1
+its analysis 1
 our review 1
 federal intergovernmental 1
 average age 1
 
  Trigram NP 
-paperwork reduction act 2
 executive order no 2
+paperwork reduction act 2
+human services page 1
 transplantation network pursuant 1
 regulatory impact analysis 1
-health service quality 1
 other relevant information 1
-public health issue 1
-unfunded mandate act 1
-estimated annual burden 1
-regulatory flexibility analysis 1
-regulatory flexibility act 1
+public health issues 1
 total annual burden 1
-human service page 1
+regulatory flexibility analysis 1
+estimated annual burden 1
+unfunded mandates act 1
+regulatory flexibility act 1
 assistant general counsel 1
+health services quality 1
 social security act 1
 
  Unigram NP 
@@ -164,15 +164,15 @@ fact 1
 
  Arbitary length NP 
 honorable john d. dingell ranking minority member committee 1
-a major rule issued by the department of health and human service 1
-health resource and service administration entitled 1
 general counsel b-279684 april 1
+public health service act 1
 gao/ogc-98-41 enclosure analysis under 1
+health resources and services administration entitled 1
 honorable james m. jeffords chairman 1
 honorable edward m. kennedy ranking minority member committee 1
 organ procurement and transplantation network 1
 robert p. murphy general counsel enclosure 1
 honorable donna e. shalala 1
-public health service act 1
+unfunded mandates reform act 1
 honorable thomas j. bliley 1
-unfunded mandate reform act 1
+a major rule issued by the department of health and human services 1

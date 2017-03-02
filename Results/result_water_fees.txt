@@ -10,12 +10,12 @@ renters' protest 1
 sandra meraz 1
 tulare county 1
 possible fee 1
-patrick enright 1
 monthly price 1
+its role 1
 property-related fee 1
 executive director 1
 chris schneider 1
-it role 1
+patrick enright 1
 informational meeting 1
 their water 1
 monthly fee 1
@@ -95,6 +95,6 @@ section 1
 result 1
 
  Arbitary length NP 
-tulare county water work 9
-central california legal service 1
-tulare county water work district 1
+tulare county water works 9
+tulare county water works district 1
+central california legal services 1

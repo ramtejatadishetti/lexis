@@ -1,10 +1,10 @@
 
  Bigram NP 
+paralegal associations 1
 paralegal honored 1
 legal assistance 1
 dedicated employee 1
 national federation 1
-her office 1
 formal training 1
 public sector 1
 volunteer basis 1
@@ -18,16 +18,16 @@ low- income 1
 lancaster county 1
 enter drug 1
 my work 1
-paralegal association 1
+her office 1
 social security 1
 their dignity 1
 definite reward 1
 
  Trigram NP 
-midpenn legal service 2
+midpenn legal services 2
 lancaster interagency council 2
+its 10-year plan 1
 national legal aid 1
-it 10-year plan 1
 valerie g. case 1
 excellence award tuesday 1
 
@@ -71,7 +71,7 @@ homelessness 1
 york 1
 
  Arbitary length NP 
-pennsylvania legal service center 1
-nationwide employee benefit organization 1
-lancaster legal service office 1
+nationwide employee benefits organization 1
+pennsylvania legal services center 1
 pa. agency lauds conestoga woman p. j. reilly 1
+lancaster legal services office 1

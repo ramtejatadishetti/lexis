@@ -11,7 +11,6 @@ fair value 5
 forward-looking information 4
 new reporting 4
 jenkins committee 4
-financial statement 4
 public confidence 4
 current model 3
 silver bullet 3
@@ -25,41 +24,43 @@ exchange commission 3
 same time 3
 accountability forum 3
 important role 2
-it responsibility 2
 global crossing 2
 such information 2
+gao reports 2
 civil-based enforcement 2
 federal government 2
-it business 2
 safe harbor 2
 overall performance 2
 right thing 2
 financial audit 2
 important issue 2
 public accounting 2
-additional information 2
+its ability 2
+financial statement 2
+financial statements 2
 forensic auditing 2
+its oversight 2
 trueblood committee 2
 high-level operating 2
+its responsibility 2
 comprehensive business 2
 public trust 2
-it funding 2
+additional information 2
 their role 2
 human capital 2
 american institute 2
 disciplinary process 2
+its business 2
 accounting profession 2
 such layering 2
 general agreement 2
-gao report 2
 federal reserve 2
 principle-based accounting 2
-it oversight 2
 current environment 2
-it ability 2
-related training 1
+its funding 2
+broad range 1
 attitudinal shift 1
-it agenda 1
+adversarial relationship 1
 technical knowledge 1
 historical information 1
 their relationship 1
@@ -68,20 +69,17 @@ specific layer 1
 possible violation 1
 major accountability 1
 forensic audit 1
-adversarial relationship 1
 efficient audit 1
 necessary incentive 1
 human behavior 1
 legal system 1
 independent party 1
-it protection 1
 same set 1
 historical value 1
 supply side 1
 considerable experience 1
 right kind 1
-it core 1
-reasonable transparency 1
+jeff nelligan 1
 nonfinanical information 1
 strong framework 1
 little progress 1
@@ -91,21 +89,19 @@ related enforcement 1
 nasdaq chairman 1
 additional inconsistency 1
 appropriate degree 1
-it enforcement 1
+its workload 1
 our work 1
 federal/state regulation 1
+key performance 1
 audit effectiveness 1
 substantive auditing 1
 executive performance 1
 financial literacy 1
 basic level 1
 constructive role 1
-sec operation 1
 their ability 1
 fiscal year 1
 slow moving 1
-pcaob participant 1
-512-2537 fax 1
 steinhoffj @ 1
 expectation gap 1
 treadway commission 1
@@ -113,17 +109,18 @@ sufficient funding 1
 address service 1
 different reporting 1
 nelliganj @ 1
-study group 1
+information needs 1
 managing director 1
 www.gao.gov/fraudnet/fraudnet.htm e-mail 1
 useful information 1
 knowledge-based economy 1
 current system 1
+recent publicity 1
+ongoing basis 1
 last year 1
 immediate priority 1
 their entirety 1
 substantive testing 1
-voluntary process 1
 such verification 1
 current accounting 1
 forwardlooking information 1
@@ -132,45 +129,47 @@ overall business 1
 shareholders' point 1
 salaried position 1
 mutual interest 1
-ongoing basis 1
+study group 1
+its use 1
 litigious environment 1
 general shaking 1
 new enforcement 1
 complex accounting 1
-their oversight 1
 useful business 1
 corporate culture 1
 bdo seidman 1
+their oversight 1
 increased globalization 1
+enforcement actions 1
 related auditor 1
 informative auditor 1
+its technology 1
 one-page audit 1
 future cash 1
 regulatory system 1
 difficult task 1
-it disciplinary 1
 short-term business 1
 additional enforcement 1
-state auditor 1
 external audit 1
 united kingdom 1
-enforcement action 1
 and/or implement 1
-financial liability 1
 complex relationship 1
-broad range 1
+its agenda 1
 absolute assurance 1
 their job 1
 important aspect 1
 llp commissioner 1
 attribution-based dialogue 1
-it use 1
+gao observations 1
+reasonable transparency 1
+sponsoring organizations 1
 their competence 1
 effective functioning 1
 their knowledge 1
 increased interest 1
 legal liability 1
 current funding 1
+its core 1
 flourishing market 1
 key information 1
 subject matter 1
@@ -179,28 +178,28 @@ undesirable situation 1
 conceptual framework 1
 good government 1
 fundamental focuses-ethics/integrity 1
-information need 1
+512-2537 fax 1
 checklist mentality 1
 512-6061 contact 1
 other information 1
+private litigation 1
 extensive experience 1
 material fraud 1
-pricewaterhouse cooper 1
-serious concern 1
+its protection 1
 federal involvement 1
-it discussion 1
 comprehensive report 1
-printed report 1
+treasurers partner 1
 negative reflection 1
-their degree 1
 their form 1
 full-text document 1
 informed oversight 1
 thorough understanding 1
-jeff nelligan 1
+state auditors 1
 standard auditor 1
 appropriate accountability 1
+its disciplinary 1
 likely ask 1
+directors recent 1
 investigative arm 1
 single address 1
 other assistance 1
@@ -210,29 +209,28 @@ strong board 1
 significant measure 1
 right mix 1
 enhanced value 1
-treasurer partner 1
-dominant member 1
+financial liability 1
 negative effect 1
 regulatory reform 1
-clean audit 1
-it technology 1
+serious concern 1
 reasonable assurance 1
 llp gao 1
 private use 1
-it workload 1
-private litigation 1
+dominant member 1
+independent auditor 1
 major reform 1
+pcaob participants 1
+related training 1
 economic substance 1
+printed report 1
 particular company's 1
 individual participant 1
-sponsoring organization 1
 artful blend 1
 gi00 united 1
-recent publicity 1
+their degree 1
 chief executive 1
 national association 1
 their independence 1
-gao observation 1
 first copy 1
 other accountability 1
 adequate transparency 1
@@ -243,90 +241,93 @@ many audit 1
 new information 1
 risk-taking environment 1
 waste management 1
+clean audit 1
 new structure 1
 report fraud 1
 jenkins committee4 1
 new model 1
+voluntary process 1
 effective board 1
 great instability 1
 micro strategy 1
 their focus 1
-key performance 1
+sec operations 1
+pricewaterhouse coopers 1
 special committee 1
 future performance 1
 significant deficiency 1
-independent auditor 1
+its enforcement 1
 financial accounting 1
 reportable condition 1
-director recent 1
 foreign language 1
 fresh look 1
+its discussion 1
 unintended consequence 1
 
  Trigram NP 
 current financial reporting 3
-it own funding 2
 effective corporate governance 2
 g street nw 2
+its own funding 2
 general accounting office 2
 traditional financial statement 2
 today's business environment 1
-it increased workload 1
+federal programs automated 1
 their existing authority 1
 u.s. corporate governance 1
 exchange commission president 1
-presorted standard postage 1
-it external auditor 1
+reporting little has 1
+its increased workload 1
+corporate audit committees 1
 viable interstate commerce 1
+its important function 1
 fraudulent financial reporting 1
 asset-public trust-in order 1
+investor confidence participants 1
 interrelated areas-corporate governance 1
+its usual pool 1
 such blind adherence 1
 their personal reputation 1
 accountability forum specifically 1
 comptroller general aof 1
 periodic forensic audit 1
-it strategic planning 1
 blue ribbon committee 1
 current regulatory structure 1
 certain financial-related information 1
-certified public accountant 1
-reporting little ha 1
+accountability forum participants 1
+its strategic planning 1
 comprehensive financial reporting 1
 mandatory internal control 1
 room lm washington 1
+financial reporting issues 1
+workload creates challenges 1
 registered public accounting 1
 accountability forum discussion 1
 single individual functioning 1
 same conceptual framework 1
 internal control-integrated framework 1
+its external auditor 1
 accountability forum regulation 1
-audit effectiveness recommendation 1
-good solid audit 1
 enhanced financial reporting 1
 u.s. generalaccounting office 1
-workload creates challenge 1
 assess institutional value 1
-federal program automated 1
-investor confidence participant 1
 entire corporate governance 1
 audit effectiveness report 1
 jeffrey c. steinhoff 1
-corporate audit committee 1
-accountability forum participant 1
-financial reporting issue 1
+audit effectiveness recommendations 1
+certified public accountants 1
+good solid audits 1
 new internal control 1
 generally accepted auditing 1
-it usual pool 1
 new comprehensive reporting 1
 official business penalty 1
 original financial statement 1
-it important function 1
+presorted standard postage 1
 
  Unigram NP 
-board 54
+board 53
 sec 45
-audit 44
+audit 43
 management 42
 accounting 39
 model 34
@@ -378,7 +379,6 @@ washington 6
 system 6
 enforcement 6
 expectation 6
-concern 6
 form 6
 reliability 6
 lack 5
@@ -386,6 +386,7 @@ environment 5
 fact 5
 u.s. 5
 place 5
+concern 5
 state 5
 approach 5
 importance 5
@@ -408,7 +409,6 @@ supply 4
 interest 4
 site 4
 web 4
-security 4
 panel 4
 appropriate 4
 way 4
@@ -436,9 +436,9 @@ attention 3
 job 3
 precision 3
 status 3
-director 3
 point 3
 loss 3
+securities 3
 certainty 3
 act 3
 bankruptcy 3
@@ -479,7 +479,6 @@ funding 2
 content 2
 issue 2
 assurance 2
-ass 2
 legislation 2
 response 2
 traction 2
@@ -493,6 +492,7 @@ justice 2
 guidance 2
 mixture 2
 banking 2
+recommendations 2
 view 2
 culture 2
 result 2
@@ -503,6 +503,7 @@ gao.gov 2
 budget 2
 technology 2
 member 2
+director 2
 position 2
 accurate 2
 impetus 2
@@ -513,7 +514,6 @@ terminology 2
 right 2
 senate 2
 authority 2
-recommendation 2
 e-mail 2
 innovation 2
 leadership 2
@@ -521,6 +521,7 @@ range 2
 disclosure 2
 communication 2
 commitment 2
+assess 2
 function 2
 evidence 2
 deterrent 2
@@ -596,6 +597,7 @@ essence 1
 mission 1
 hiring 1
 monitor 1
+highlights 1
 listing 1
 mail 1
 combination 1
@@ -604,7 +606,6 @@ february 1
 january 1
 mastercard 1
 8-k,9 1
-mean 1
 financial 1
 operation 1
 registrant 1
@@ -646,7 +647,9 @@ aug. 1
 mind 1
 manner 1
 option 1
+documents 1
 majority 1
+concerns 1
 reelection 1
 react 1
 visa 1
@@ -664,6 +667,7 @@ knowledge 1
 awareness 1
 continuity 1
 publicity 1
+means 1
 companies2 1
 resource 1
 gao-02-494sp 1
@@ -672,12 +676,14 @@ fair 1
 frame 1
 detection 1
 seal 1
+audits 1
 reform 1
 cooperation 1
 nature 1
 extent 1
 approval 1
 audit6 1
+comptrollers 1
 expense 1
 comment 1
 relevant 1
@@ -693,7 +699,6 @@ treatment 1
 engine 1
 dialogue 1
 sufficient 1
-comptroller 1
 spirit 1
 case 1
 wrongdoing 1
@@ -705,7 +710,6 @@ correspondence 1
 layer 1
 anymore 1
 archive 1
-document 1
 conflict 1
 effect 1
 alert 1
@@ -726,11 +730,13 @@ coordination 1
 retirement 1
 source 1
 march 1
+cpas 1
 burden 1
 signal 1
 comparability 1
 collect 1
 officer 1
+security 1
 superintendent 1
 understood 1
 sight 1
@@ -743,6 +749,7 @@ participation 1
 agreement 1
 tdd 1
 faith 1
+boards 1
 afternoon 1
 outlook 1
 involvement 1
@@ -754,7 +761,6 @@ october 1
 fraudnet 1
 record 1
 verification 1
-highlight 1
 board's 1
 committees.7 1
 education 1
@@ -766,37 +772,37 @@ setting 1
 meaning 1
 building 1
 deterrence 1
-cpa 1
 rule 1
+directors 1
 pension 1
 
  Arbitary length NP 
 public company accounting oversight board 3
 general accounting office washington 2
-financial reporting model participant 2
-financial accounting standard board 2
+financial reporting model participants 2
+financial accounting standards board 2
 u.s. general accounting office 2
-government accounting standard board president 1
 tiaa-cref senior vice president 1
 conference board senior vice president 1
 david m. walker comptroller general 1
-public accountancy senior vice president listing qualification 1
-accountability forum tom l. allen participant lawrence f. alwin raymond l. bromark roel c. campos richard e. cavanagh peter clapman james l. cochrane j. michael cook jackson day daniel dustin michael emen william ezzell stephen r. ferrara chairman 1
 employee retirement income security act 1
 new york state board 1
-superior federal saving bank 1
-financial reporting model ha 1
+accountability forum tom l. allen participants lawrence f. alwin raymond l. bromark roel c. campos richard e. cavanagh peter clapman james l. cochrane j. michael cook jackson day daniel dustin michael emen william ezzell stephen r. ferrara chairman 1
+financial reporting model has 1
+its own annual budget 1
 recent major financial reporting 1
 exchange commission executive secretary 1
+gao forum on governance and accountability challenges 1
 addressing selected regulatory oversight 1
-corporate governance process participant 1
 llp acting chief accountant 1
-it own annual budget 1
 general accounting office gao january 1
+government accounting standards board president 1
+certified public accountants assurance practice leader 1
+superior federal savings banks 1
+fees paid gao permit no 1
 planning new york stock exchange retired chairman 1
 see u.s. general accounting office 1
-gao forum on governance and accountability challenge 1
+corporate governance process participants 1
 aicpa's improving business reporting-a customer focus 1
-certified public accountant assurance practice leader 1
-fee paid gao permit no 1
+public accountancy senior vice president listing qualifications 1
 chief counsel corporate governance 1

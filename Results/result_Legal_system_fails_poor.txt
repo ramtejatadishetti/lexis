@@ -1,7 +1,7 @@
 
  Bigram NP 
 new jersey 5
-legal service 4
+legal services 4
 legal system 3
 equal justice 2
 equal access 2
@@ -13,7 +13,6 @@ initial direction 1
 legal aide 1
 low income 1
 last year 1
-caroline grant 1
 jon dubin 1
 winnie comfort 1
 referral system 1
@@ -24,7 +23,7 @@ precarious existence 1
 legal matter 1
 legal community 1
 her son 1
-it kind 1
+its kind 1
 key part 1
 somerset county 1
 ocean county 1
@@ -44,6 +43,7 @@ administrative office 1
 federal poverty 1
 william hornsby 1
 legal grind 1
+caroline grant 1
 public interest 1
 their assistance 1
 additional demand 1
@@ -190,6 +190,6 @@ notion 1
 fact 1
 
  Arbitary length NP 
-american civil liberty union 1
-rutgers university law school 1
+american civil liberties union 1
 new jersey state bar association 1
+rutgers university law school 1

@@ -1,19 +1,19 @@
 
  Bigram NP 
-alamo hill 4
+alamo hills 4
 their stuff 2
 their out-of-pocket 1
 their property 1
 limited opportunity 1
-small amount 1
 good shape 1
 pm one 1
 district court 1
+small amount 1
 
  Trigram NP 
+michigan legal services 1
 craig mccool thursday 1
 bernard dempsey jr. 1
-michigan legal service 1
 
  Unigram NP 
 complex 4
@@ -42,4 +42,4 @@ stuff 1
 security 1
 
  Arbitary length NP 
-kalamazoo gazette alamo fire victim sue landlord 1
+kalamazoo gazette alamo fire victims sue landlord 1

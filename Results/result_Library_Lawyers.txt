@@ -59,11 +59,11 @@ help 1
 family 1
 probate 1
 december 1
-tuesday 1
 partnership 1
 tax 1
 number 1
 suisun 1
+tuesdays 1
 event 1
 thinking 1
 person 1
@@ -99,5 +99,5 @@ security 1
 arrive 1
 
  Arbitary length NP 
-vacaville reporter library lawyer program 1
+vacaville reporter library lawyers program 1
 solano county bar association 1

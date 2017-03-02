@@ -6,7 +6,7 @@ reg'l mgmt. 3
 legal servs 3
 regional management 3
 southwest virginia 2
-it statutory 2
+its statutory 2
 especial benefit 2
 western district 1
 john eidleman 1
@@ -18,7 +18,9 @@ special class 1
 district court 1
 00-1901 v. 1
 competitive bidding 1
+its executive 1
 on brief 1
+circuit judges 1
 certain lobbying 1
 integral part 1
 legislative intent 1
@@ -28,22 +30,19 @@ regulatory authority 1
 bench trial 1
 private right 1
 such lobbying 1
-it executive 1
 federal law 1
 legal aid 1
 district judge 1
 curiam opinion 1
 � no 1
-program specialist 1
 grant money 1
 legislative scheme 1
-circuit judge 1
+program specialist 1
 federal agency 1
 
  Trigram NP 
-legal service corporation 2
-administrative procedure act 1
-legal service corp. 1
+legal services corporation 2
+centered legal services 1
 executive � director 1
 big stone gap 1
 opinion per curiam 1
@@ -52,12 +51,13 @@ thomas samuel williamson 1
 implied private right 1
 our recent decision 1
 gerald l. gray 1
-centered legal service 1
-eidleman counsel argued 1
-senior circuit judge 1
+administrative procedures act 1
 james p. jones 1
-hugh f. o'donnell 1
+senior circuit judge 1
+eidleman counsel argued 1
 andrew j. heimert 1
+hugh f. o'donnell 1
+legal services corp. 1
 paul r. thomson 1
 
  Unigram NP 
@@ -95,6 +95,7 @@ corporation 2
 d.c. 2
 class 2
 order 2
+woods 1
 p.l.c. 1
 roanoke 1
 § 1
@@ -138,7 +139,6 @@ ca-00-33-2 1
 basis 1
 west 1
 process 1
-wood 1
 injury 1
 williams 1
 iii 1
@@ -168,11 +168,11 @@ precedent 1
 client 1
 
  Arbitary length NP 
+client centered legal services 1
 san juan legal servs. 1
-client centered legal service of southwest virginia 1
+vacated and remanded with instructions *we 1
+client centered legal services of southwest virginia 1
 legal service corporation act 1
+court of appeals for the fourth circuit hugh f. o'donnell 1
 spokane county legal servs. 1
-client centered legal service 1
-vacated and remanded with instruction *we 1
-court of appeal for the fourth circuit hugh f. o'donnell 1
 gerald gray law firm 1

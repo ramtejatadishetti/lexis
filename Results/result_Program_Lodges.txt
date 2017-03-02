@@ -1,6 +1,6 @@
 
  Bigram NP 
-legal service 2
+legal services 2
 back rent 1
 additional time 1
 same landlord 1
@@ -30,9 +30,9 @@ west belden avenue 1
 his monthly rent 1
 their annual holiday 1
 syracuse city court 1
-it third year 1
 free legal help 1
 volunteer lawyer project 1
+its third year 1
 
  Unigram NP 
 eviction 7
@@ -71,12 +71,12 @@ snow 1
 legal 1
 day 1
 way 1
-holiday 1
 friend 1
 week 1
 case 1
 dec. 1
 woman 1
+holidays 1
 part 1
 half 1
 proceeding 1
@@ -91,8 +91,8 @@ outcome 1
 
  Arbitary length NP 
 volunteer lawyer project director barbara romeo 1
-program lodge spirit december 1
 onondaga county bar association 1
 city judge jeffrey merrill 1
 central new york executive director dennis kaufman 1
 frank h. hiscock legal aid society 1
+program lodges spirit december 1

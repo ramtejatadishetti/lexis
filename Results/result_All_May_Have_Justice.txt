@@ -12,10 +12,10 @@ financial assistance 1
 
  Trigram NP 
 disability law center 1
-utah legal service 1
-it fourth year 1
-competent legal representation 1
 legal aid society 1
+competent legal representation 1
+utah legal services 1
+its fourth year 1
 
  Unigram NP 
 all 3

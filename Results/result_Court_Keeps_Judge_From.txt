@@ -5,7 +5,7 @@ his authority 2
 st. louis 1
 osage county 1
 dale doerhoff 1
-it rightful 1
+its rightful 1
 unclaimed property 1
 last week 1
 worthy cause 1
@@ -13,12 +13,12 @@ several state 1
 legal authority 1
 missouri court 1
 eastern missouri 1
-legal service 1
+legal services 1
 
  Trigram NP 
 cole county courthouse 1
-court keep judge 1
-legal aid group 1
+legal aid groups 1
+court keeps judge 1
 
  Unigram NP 
 money 9

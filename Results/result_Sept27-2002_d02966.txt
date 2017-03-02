@@ -18,9 +18,9 @@ federal government 6
 equal employment 6
 corporate management 6
 basic pay 5
+veterans affairs 5
 national target 5
 his office 5
-veteran affair 5
 personnel management 4
 their achievement 4
 critical success 4
@@ -41,11 +41,11 @@ outstanding performance 3
 their work 3
 initial implementation 3
 sufficient progress 3
-agencywide customer 3
+performance elements 3
 management agenda 3
 appropriate emphasis 3
 reform act 3
-performance element 3
+agencywide customer 3
 follow-up action 3
 organizational change 2
 individual action 2
@@ -53,7 +53,6 @@ national institute 2
 relevant experience 2
 balanced approach 2
 high rating 2
-performance standard 2
 high quality 2
 deputy commissioner 2
 continuous learning 2
@@ -67,8 +66,6 @@ organizational growth 2
 our work 2
 total number 2
 poor performance 2
-it goal 2
-it priority 2
 total cost 2
 other agency 2
 fact-based information 2
@@ -86,12 +83,16 @@ upon feedback 2
 wide range 2
 strategic goal 2
 outpatient clinic 2
+gao reports 2
 enhanced consultation 2
 additional information 2
+performance standards 2
 government performance 2
 overall quality 2
 significant portion 2
+its priority 2
 specific performance 2
+results act 2
 their culture 2
 mutual understanding 2
 organizational support/teamwork 2
@@ -99,12 +100,11 @@ annual performance 2
 his target 2
 • ensure 2
 own field 2
-result act 2
 reopened compensation 2
-gao report 2
 specific end 2
 hostile work 2
 noncritical performance 2
+its goal 2
 organizational cost 2
 results-oriented culture 2
 summary evaluation 2
@@ -112,36 +112,30 @@ our review 2
 • minimally 1
 serve current 1
 150-mile stretch 1
-results-oriented basis 1
 sound judgment 1
 service-first concept 1
 working environment 1
 high-quality workforce 1
-constructive manner 1
+lisa shames 1
 appraisal year 1
-it leadership 1
+annual risk 1
 their career 1
-late date 1
 gi00 united 1
 criminal investigation 1
 significant role 1
-it performance 1
 constructive feedback 1
-it career 1
 summary ratings32 1
-letter1 result 1
 direct linkage 1
 limited extent 1
 • provide 1
 gallup organization 1
 critical objective 1
-vba's expectation 1
 continuous developmental 1
 public sector 1
-future public 1
 strengthened alignment 1
 key business 1
 new performance 1
+management agenda-improve 1
 consistent performance 1
 management-increase employee 1
 a model 1
@@ -161,15 +155,15 @@ columbia committee 1
 uses-including recreation 1
 their use 1
 overall mission 1
-annual risk 1
+its survey 1
 appropriate training 1
 their progress 1
 general workforce 1
 brookings institution 1
 single address 1
 • pursue 1
+• employees 1
 appendix v 1
-management agenda-improve 1
 their feedback 1
 st. paul 1
 ongoing feedback 1
@@ -177,7 +171,6 @@ goals-the executive 1
 vba's manila 1
 self-improvement action 1
 their retention 1
-rating fhwa 1
 their contribution 1
 healthful work 1
 competitive sourcing 1
@@ -187,6 +180,7 @@ office's contribution 1
 high-risk series 1
 gunnison gorge 1
 balanced set 1
+bonus levels 1
 previous year 1
 enormous transformation 1
 federal transportation 1
@@ -196,6 +190,7 @@ dependable performance 1
 keith fultz 1
 their benefit 1
 average return 1
+bonus ranges 1
 align leadership 1
 employees' satisfaction 1
 favorable rating 1
@@ -207,12 +202,12 @@ human resource 1
 anticipated schedule 1
 • identify 1
 employment opportunity-takes 1
-• customer 1
 due diligence 1
 local service 1
 fhwa administrator 1
 pricewaterhousecoopers endowment 1
 internal management 1
+address service 1
 key dimension 1
 inspector general 1
 their workgroup 1
@@ -225,6 +220,7 @@ elements- service 1
 their state 1
 teams-based approach 1
 national academy 1
+its core 1
 appropriate improvement 1
 same agency 1
 organizational self-assessment 1
@@ -238,7 +234,6 @@ our draft 1
 special ad 1
 employee satisfaction 1
 detailed performance 1
-lisa shame 1
 same period 1
 new compensation 1
 north carolina 1
@@ -252,6 +247,7 @@ full-text document 1
 printed report 1
 their safety 1
 gao did 1
+ratings fhwa 1
 512-6061 contact 1
 jeff nelligan 1
 particular program 1
@@ -262,11 +258,12 @@ recent employee 1
 employee-focused support 1
 teamwork • 1
 federal performance 1
-• employee 1
 executives' leadership 1
 his area 1
 short time 1
 leadership system 1
+its usefulness 1
+its point 1
 their office 1
 strategic management 1
 laguna niguel 1
@@ -278,7 +275,6 @@ use performance 1
 • key 1
 received pay 1
 first step 1
-bonus level 1
 base salary 1
 strategic planning 1
 timeliness-the length 1
@@ -287,7 +283,6 @@ good government 1
 high degree 1
 insufficient emphasis 1
 their employee 1
-it core 1
 improved use 1
 leadership-strengthen fhwa 1
 public health 1
@@ -297,6 +292,7 @@ energy plan 1
 effective management 1
 personal leadership 1
 specific executive 1
+its emergency 1
 technical competence 1
 departmental training 1
 equitable treatment 1
@@ -308,6 +304,7 @@ individual career 1
 successful-a level 1
 organizational support 1
 janice lichty 1
+its leadership 1
 subsequent state 1
 her job 1
 successful standard 1
@@ -317,10 +314,12 @@ tracking system 1
 informed oversight 1
 • president 1
 direct input 1
+its scorecard 1
 necessary training 1
 local union 1
 their knowledge 1
 government management 1
+future publics 1
 full report 1
 additional standard 1
 1-to-5 scale 1
@@ -328,7 +327,7 @@ vba • 1
 successful level 1
 senate leading 1
 completed-the executive 1
-it survey 1
+work life 1
 national performance 1
 gallup's q-12 1
 skillful team 1
@@ -336,14 +335,12 @@ tax administration 1
 customer satisfaction 1
 executive appendix 1
 focus-identify customer 1
-it usefulness 1
 prohibited discrimination 1
 common performance 1
-bonus range 1
+constructive manner 1
 suitable employment 1
 implement e-government 1
 day-to-day operation 1
-performance agreement 1
 world-class service 1
 first level 1
 and/or resolve 1
@@ -359,16 +356,16 @@ deferred maintenance 1
 • unsatisfactory-performance 1
 local transportation 1
 satisfaction-organizational perspective 1
+later date 1
 key governmentwide 1
 their review 1
-implementation approach 1
 day-to-day basis 1
 her self-assessment 1
 her office 1
 average response 1
+needs assessment 1
 activity-based cost 1
 total compensation 1
-need assessment 1
 equal opportunity 1
 gao web 1
 accepted government 1
@@ -380,14 +377,16 @@ particular knowledge 1
 their treatment 1
 senior career 1
 specific customer 1
+its career 1
 reasonable degree 1
 overall performance 1
 exceptional performance 1
 effective citizen 1
-nelliganj @ 1
+implementation approaches 1
 their entirety 1
-it point 1
+nelliganj @ 1
 exceptional advancement 1
+vba's expectations 1
 fair access 1
 specific expectation 1
 their information 1
@@ -398,23 +397,24 @@ his territory 1
 special protection 1
 his workgroup 1
 www.gao.gov/fraudnet/fraudnet.htm e-mail 1
+results-oriented basis 1
 achievement level 1
 executive performance 1
 noncritical objective 1
 internal change 1
 consolidated area 1
 extensive cooperation 1
+its performance 1
 assessment tool 1
-it emergency 1
-address service 1
 particular example 1
 restructuring act 1
 fair dispute 1
-unanticipated resource 1
+• customer 1
 appendix vi 1
 title information 1
 five-level rating 1
 physical plant 1
+letter1 results 1
 further development 1
 • engage 1
 monthly production 1
@@ -422,9 +422,9 @@ his performance 1
 personal development 1
 national scorecard 1
 year performance 1
+performance agreements 1
 512-2537 fax 1
 testimonial evidence 1
-work life 1
 vocational rehabilitation 1
 three-level rating 1
 other assistance 1
@@ -432,7 +432,7 @@ significant cost 1
 appropriate enforcement 1
 strong recruitment 1
 public comment 1
-it scorecard 1
+unanticipated resource 1
 organizational effectiveness 1
 meeting performance 1
 effective process 1
@@ -455,101 +455,101 @@ limited number 1
  Trigram NP 
 their individual performance 19
 senior executive performance 18
-it senior executive 5
 internal revenue service 5
 appendix v vba 5
+its senior executive 5
 strategic human capital 4
 his fiscal year 4
 federal highway administration 4
 appendix ii blm 3
-veteran benefit administration 3
 appendix iii fhwa 3
+veterans benefits administration 3
 appendix iv irs 3
+governmental affairs united 2
 her individual performance 2
-customer satisfaction expectation 2
 burro national strategy 2
-governmental affair united 2
+customer satisfaction expectations 2
 his individual plan 2
 next fiscal year 2
 service delivery network 2
 national fire plan 2
 g street nw 2
 effective internal control 1
-elements42 performance standard 1
 her regional office 1
 other subject matter 1
-employee perspective expectation 1
-initial implementation approach 1
-vba's expectation table 1
+vba's expectations tables 1
 summary ratings35 irs 1
 new organizational culture 1
+its balanced scorecard 1
 federal executive board 1
+employee perspective expectations 1
+personnel flexibility provisions 1
 specific monthly production 1
 • exceeded-in addition 1
 presidential quality award 1
-it balanced scorecard 1
 drive transformational change 1
-employee perspective opm 1
-elements35 performance standard 1
 her fiscal year 1
 individual summary evaluation 1
 their individual progress 1
-elements38 performance standard 1
 • unsatisfactory-the achievement 1
-federal program automated 1
+executive core qualifications 1
 once-or twice-yearly expectation 1
 additional elements-program integrity 1
 j. christopher mihm 1
 organizational results10 table 1
 room lm washington 1
+agency comments interior 1
 initial summary evaluation 1
-require follow-up action 1
-his midyear self-assessment 1
+elements42 performance standards 1
+senior executives association 1
 employee satisfaction survey 1
 effective human capital 1
-official business penalty 1
-senior executive association 1
+his midyear self-assessment 1
 governmentwide high-risk area.2 1
+ratings • outstanding-the 1
+organizational results basis 1
 their personal leadership 1
-presorted standard postage 1
+its regional office 1
+federal services committee 1
 summary ratings39 vba 1
 their initial implementation 1
 general accounting office 1
+integrate human capital 1
 his personal contact 1
 average bonus payment 1
-organizational result basis 1
-federal service committee 1
-performance management initiative 1
+elements32 performance standards 1
+require follow-up actions 1
+its strategic goal 1
 performance plans32 fhwa 1
-it regional office 1
 substantial personal development 1
-summary ratings43 revision 1
-integrate human capital 1
-appendix vi comment 1
-strategic issue appendix 1
+presorted standard postage 1
+summary ratings43 revisions 1
+strategic issues appendix 1
 central montana rac 1
-elements32 performance standard 1
 chief human capital 1
 u.s. generalaccounting office 1
-brief3 background6 agency 1
+partnerships • balance 1
+initial implementation approaches 1
+brief3 background6 agencies 1
 statewide mentoring program 1
-agency comment interior 1
+official business penalty 1
 time-the average number 1
 executive's regional office 1
-it strategic goal 1
 senior leadership team 1
-executive core qualification 1
-performance plans44 comment 1
-rating • outstanding-the 1
+federal programs automated 1
+performance plans44 comments 1
+appendix vi comments 1
 use authorization survey 1
 his individual performance 1
+elements35 performance standards 1
 senior executives' performance 1
-personnel flexibility provision 1
-veteran benefit administration's 1
+elements38 performance standards 1
 regional security office 1
 our second objective 1
-partnership • balance 1
+employee perspectives opm 1
+performance management initiatives 1
 implement effective information 1
+veterans benefits administration's 1
 their senior executive 1
 their new performance 1
 same senior executive 1
@@ -561,8 +561,8 @@ improve organizational effectiveness 1
 performance 218
 vba 72
 irs 71
-employee 64
 management 63
+employee 63
 blm 62
 customer 52
 fhwa 52
@@ -575,21 +575,20 @@ rating 25
 program 24
 office 23
 • 22
-example 22
 environment 21
 organization 21
 addition 21
 report 20
 business 20
-standard 19
-agency 19
+example 19
 action 18
 year 18
+agency 18
 development 18
 level 17
 appraisal 17
 information 17
-element 17
+standard 17
 service 17
 bonus 17
 use 17
@@ -597,6 +596,7 @@ survey 16
 system 16
 gao 16
 land 16
+element 15
 training 15
 state 15
 opm 15
@@ -658,6 +658,7 @@ model 6
 department 6
 congress 6
 safety 5
+pass 5
 transportation 5
 site 5
 accomplishment 5
@@ -674,7 +675,6 @@ cooperation 5
 objective 5
 field 5
 va 5
-pas 5
 input 5
 gallup 5
 time 5
@@ -689,7 +689,6 @@ advance 4
 draft 4
 part 4
 require 4
-veteran 4
 interior 4
 secretary 4
 score 4
@@ -751,7 +750,7 @@ speed 3
 success 3
 testimony 3
 consensus 3
-benefit 3
+examples 3
 harassment 3
 area 3
 support 3
@@ -766,6 +765,8 @@ hold 2
 oversight 2
 @ 2
 none 2
+philippines 2
+standards 2
 race 2
 force 2
 access 2
@@ -777,6 +778,7 @@ total 2
 call 2
 treasury 2
 phone 2
+veterans 2
 sample 2
 united 2
 goal 2
@@ -802,8 +804,8 @@ serve 2
 center 2
 acquisition 2
 partnership 2
-philippine 2
 need 2
+veteran 2
 emphasis 2
 collaboration 2
 position 2
@@ -831,7 +833,9 @@ analysis 2
 restore 2
 instrument 2
 test 2
+benefit 2
 nondiscrimination 2
+elements 2
 recognition 2
 decision 2
 contributing 2
@@ -863,7 +867,6 @@ include 1
 internet 1
 candid 1
 forth 1
-self-evaluation 1
 //www.gao.gov 1
 enhance 1
 inspection 1
@@ -891,6 +894,7 @@ tdd 1
 voice 1
 talent 1
 receive 1
+employees 1
 experience 1
 secure 1
 bureauwide 1
@@ -947,7 +951,8 @@ workload 1
 equality 1
 composition 1
 mastercard 1
-baldridge 1
+self-evaluation 1
+status 1
 funding 1
 satisfaction-the 1
 leases-of 1
@@ -961,6 +966,7 @@ difficulty 1
 alert 1
 cornerstone 1
 union 1
+benefits 1
 district 1
 executives.6 1
 initiate 1
@@ -982,6 +988,7 @@ court 1
 relative 1
 project 1
 future 1
+measure 1
 mine 1
 demonstration 1
 u.s 1
@@ -1015,6 +1022,7 @@ review 1
 between 1
 approach 1
 nature 1
+agencies 1
 efficiency 1
 approval 1
 distribution 1
@@ -1051,7 +1059,6 @@ satisfactory-performance 1
 check 1
 member 1
 manila 1
-document 1
 va's 1
 day 1
 oil 1
@@ -1060,6 +1067,7 @@ assignment 1
 v. 1
 automation 1
 leadership-successfully 1
+documents 1
 audit 1
 512-6806 1
 person 1
@@ -1073,7 +1081,7 @@ world 1
 coordination 1
 alignment 1
 gao-02-940t 1
-measure 1
+characterization 1
 help 1
 advancement 1
 transformation 1
@@ -1102,6 +1110,7 @@ afternoon 1
 act 1
 commit 1
 colorado 1
+baldridge 1
 dissatisfaction 1
 gao-02-373sp 1
 workgroups 1
@@ -1117,7 +1126,6 @@ results-performance 1
 promote 1
 consist 1
 caller 1
-characterization 1
 fraudnet 1
 today 1
 contribute 1
@@ -1135,7 +1143,6 @@ variation 1
 structure 1
 reorganization 1
 gao-01-115 1
-status 1
 met-placed 1
 
  Arbitary length NP 
@@ -1145,48 +1152,48 @@ national environmental policy act 3
 senior executive performance basis 2
 malcolm baldridge national quality award 2
 general accounting office washington 2
+national treasury employees union 2
 manage senior executive performance 2
-senior executive performance management 2
 secretary's executive leadership award 2
-national treasury employee union 2
+senior executive performance management 2
 southern executive safety summit 2
 strategic human capital management 2
 senior executive performance management appendix iv irs 1
-manage accountability integrity reliability senior executive performance highlight 1
+senior executive summary evaluation ratingsa 1
 gunnison gorge national conservation area 1
-senior executive performance plans41 performance elements41 performance standard 1
-fee paid gao permit no 1
+senior executive performance plans34 performance elements34 performance standards 1
 internal revenue service47 table 1
 provide useful data providing 1
-senior executive summary evaluation ratingsa 1
+manage accountability integrity reliability senior executive performance highlights 1
+congressional subcommittees gao september 1
 internal revenue service gao 1
-improve human resource management 1
-senior executive performance plans31 performance elements31 performance standard 1
-claim automated processing system 1
 honorable daniel k. akaka chairman 1
-manage senior executives' performance18 conclusions26 agency comments27 appendix appendix 1
 j. christopher mihm director 1
 general accounting office september 1
-veteran integrated service network 1
+agencies provide useful data 1
 honorable richard j. durbin chairman 1
-agency provide useful data 1
+senior executive performance9 initial implementation approaches 1
 gao-02-966 senior executive performance management 1
-irs/national treasury employee union employee satisfaction survey 1
-senior executive performance9 initial implementation approach 1
-effective strategic human capital 1
-gao-02-966 senior executive performance management content a united 1
-senior executive performance management table 1
-honorable george v. voinovich ranking minority member subcommittee 1
+claims automated processing system 1
 senior executive performance12 page 1
-senior executive performance organizational result opm 1
+senior executive performance plans41 performance elements41 performance standards 1
+effective strategic human capital 1
+results-oriented cultures using balanced expectations 1
+senior executive performance organizational results opm 1
+senior executive performance management table 1
+irs/national treasury employees union employee satisfaction survey 1
+gao-02-966 senior executive performance management contents a united 1
+senior executive performance plans31 performance elements31 performance standards 1
 general accounting office report 1
-results-oriented culture g a o using balanced expectation 1
+senior executive performance plans37 performance elements37 performance standards 1
+fees paid gao permit no 1
+results-oriented cultures g a o using balanced expectations 1
 overall average monthly production 1
 presidential quality award criteria-leadership 1
 honorable thad cochran ranking minority member subcommittee 1
-congressional subcommittee gao september 1
 senior executive performance management vba 1
-senior executive performance plans34 performance elements34 performance standard 1
 senior executive performance management appendix v vba 1
-results-oriented culture using balanced expectation 1
-senior executive performance plans37 performance elements37 performance standard 1
+improve human resources management 1
+honorable george v. voinovich ranking minority member subcommittee 1
+veterans integrated service network 1
+manage senior executives' performance18 conclusions26 agency comments27 appendixes appendix 1

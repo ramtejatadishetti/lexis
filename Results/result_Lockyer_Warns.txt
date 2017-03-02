@@ -9,11 +9,11 @@ walter moore 1
 unfair business 1
 gary rhoades 1
 shasta county 1
-firm posing 1
 jeff simmons 1
+lead attorney 1
 their case 1
 executive director 1
-lead attorney 1
+firms posing 1
 state atty 1
 attorney general 1
 minimal fee 1
@@ -21,15 +21,15 @@ statewide injunction 1
 
  Trigram NP 
 legal aid foundation 2
-housing right center 1
+false advertising laws 1
 their local district 1
 legitimate legal aid 1
+housing rights center 1
 gen. bill lockyer 1
 public inquiry unit 1
 legitimate nonprofit organization 1
 dangerous domestic violence 1
-false advertising law 1
-legal service corp. 1
+legal services corp. 1
 
  Unigram NP 
 moore 8
@@ -97,8 +97,8 @@ consumer 1
 assistance 1
 
  Arbitary length NP 
+los angeles times lockyer warns 1
 jocelyn y. stewart friday july 1
-unlawful detainer assistance act 1
 local nonprofit legal aid 1
-los angeles time lockyer warns 1
+unlawful detainer assistance act 1
 indispensable free legal assistance 1

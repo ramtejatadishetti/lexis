@@ -53,13 +53,13 @@ high-profile litigation 1
 california endowment 1
 federal budget 1
 homeless advocacy 1
+north hills 1
 her board 1
 bright side 1
 el monte 1
 effective advocacy 1
 legal magnet 1
 private sector 1
-north hill 1
 strong support 1
 our emphasis 1
 our board 1
@@ -91,9 +91,9 @@ other side 1
 federal agency 1
 
  Trigram NP 
-san gabriel-pomona valley 13
-legal service corp. 6
-neighborhood legal service 3
+san gabriel-pomona valley 12
+legal services corp. 6
+neighborhood legal services 3
 los angeles county 3
 his new territory 3
 legal aid foundation 2
@@ -119,6 +119,7 @@ pasadena bar association 1
 san gabriel valley 1
 self-help legal access 1
 his toll-free phone 1
+san gabriel-pomona valleys 1
 other public interest 1
 
  Unigram NP 
@@ -165,7 +166,6 @@ advocacy 2
 matter 2
 member 2
 congress 2
-director 2
 consumer 2
 help 1
 mending 1
@@ -288,6 +288,7 @@ week 1
 administrator 1
 koreatown 1
 philosophy 1
+director 1
 court 1
 ] 1
 privatesector 1
@@ -296,6 +297,7 @@ myers 1
 saddick 1
 center 1
 goodwill 1
+directors 1
 infrastructure 1
 time 1
 organization 1
@@ -305,12 +307,12 @@ assistance 1
  Arbitary length NP 
 san gabriel-pomona valley/orange county 1
 james monroe high school 1
+coup reshapes legal aid programs 1
 their own once-monthly family 1
 gina keating daily journal staff writer los angeles 1
 former long beach executive director toby rothschild 1
 eastern district superior court 1
 san fernando valley-san gabriel-pomona valley 1
-legal service corp. dudovitz 1
 federal emergency management agency 1
-coup reshapes legal aid program 1
 san fernando valley neighborhood legal 1
+legal services corp. dudovitz 1

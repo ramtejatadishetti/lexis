@@ -3,15 +3,16 @@
 domestic violence 10
 schuylkill county 4
 local police 2
-schuylkill woman 2
+schuylkill women 2
 maximum fine 1
 marsha chwastiak 1
-protection order 1
+municipal police 1
+nonscheduled work 1
 mental health 1
 supervised place 1
 fine someone 1
 their abuser 1
-municipal police 1
+protection orders 1
 outside supervision 1
 criminal justice 1
 full term 1
@@ -35,11 +36,10 @@ technical violation 1
 two-year program 1
 justice department 1
 federal grant 1
-nonscheduled work 1
 valerie west 1
 
  Trigram NP 
-mid-penn legal service 2
+mid-penn legal services 2
 protection from abuse 2
 indirect criminal contempt 1
 maria herne tuesday 1
@@ -145,11 +145,11 @@ grant 1
 deserve 1
 animal 1
 answer 1
-pathway 1
 chwastiak 1
 a. 1
 wrist 1
+pathways 1
 jail 1
 
  Arbitary length NP 
-justice violence against woman office 1
+justice violence against women office 1

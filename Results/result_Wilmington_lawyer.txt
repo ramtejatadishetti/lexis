@@ -30,8 +30,8 @@ conner 5
 attorney 3
 lot 3
 law 3
+inns 2
 community 2
-inn 2
 court 2
 service 2
 volunteer 2
@@ -54,7 +54,7 @@ school 1
 excellence 1
 
  Arbitary length NP 
-delaware volunteer legal service 2
+delaware volunteer legal services 2
 sandra day o'connor award 1
 widener dean douglas e. ray 1
 supreme court justice o'connor 1

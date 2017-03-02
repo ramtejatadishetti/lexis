@@ -12,9 +12,9 @@ hotline list 1
 forms-based practice 1
 short time 1
 child abuse 1
-tech tool 1
 esther lardent 1
 legal columnist 1
+tech tools 1
 good equipment 1
 much good 1
 flat-fee billing 1
@@ -24,7 +24,6 @@ carolyn elefant 1
 national association 1
 dead end 1
 judge judy 1
-it site 1
 domestic violence 1
 our time 1
 portable document 1
@@ -49,6 +48,7 @@ next name 1
 legal information 1
 criminal law 1
 good guidance 1
+its site 1
 particular jurisdiction 1
 public interest 1
 targeted guidance 1
@@ -59,21 +59,21 @@ televised courtroom 1
 greater washington 1
 
  Trigram NP 
-against mandatory minimum 1
-new york time 1
-charity legal network 1
+public interest lawyers 1
+against mandatory minimums 1
+charities legal network 1
+basic legal information 1
 fifteen-year old boy 1
 susan m. hoffman 1
 wonderful legal service 1
 american bar association 1
 fair housing council 1
-public interest lawyer 1
+new york times 1
 pro bono institute 1
 u.s. supreme court 1
 recent front page 1
 little public awareness 1
 her own database 1
-basic legal information 1
 many legal assistance 1
 wendy r. leibowitz 1
 
@@ -116,6 +116,7 @@ tv 1
 rewarding 1
 destroyed 1
 adoption 1
+veterans 1
 plate 1
 complaint 1
 publicity 1
@@ -186,7 +187,6 @@ lawguy 1
 any 1
 united 1
 court 1
-veteran 1
 novice 1
 tight 1
 online 1

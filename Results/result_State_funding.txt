@@ -1,7 +1,6 @@
 
  Bigram NP 
 chief justice 1
-lawyer trust 1
 short-term client 1
 good thing 1
 circuit court 1
@@ -11,22 +10,23 @@ local intake 1
 their time 1
 other source 1
 half dozen 1
+lawyers trust 1
 courtney mathews 1
 next year 1
 enough money 1
-legal service 1
+legal services 1
 
  Trigram NP 
 free legal aid 4
-indiana legal service 3
-it current location 1
+indiana legal services 3
 indiana bar commission 1
 indiana supreme court 1
 pam tharp monday 1
 u.s. supreme court 1
-our present location 1
+its current location 1
 pro bono commission 1
-richmond legal service 1
+richmond legal services 1
+our present location 1
 s. a st. 1
 
  Unigram NP 
@@ -94,5 +94,5 @@ anyone 1
 
  Arbitary length NP 
 indiana legal services' indianapolis 1
-violence against woman act 1
+violence against women act 1
 union circuit judge james williams 1

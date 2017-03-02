@@ -7,23 +7,21 @@ surgical treatment 4
 supreme court 3
 vocational rehabilitation 3
 effective date 3
-regulatory affair 2
-veteran affair 2
-federal register 2
+veterans affairs 2
+regulatory affairs 2
 order no 2
 general notice 2
 clear language 2
 disability resulting 2
+federal register 2
 our review 2
 mr. baine 1
 cost-benefit analysis 1
-it implementation 1
 substantial number 1
 appropriate consideration 1
-additional disability 1
 previous adjudication 1
+affairs house 1
 gangrenous leg 1
-veteran appeal 1
 honorable g.v 1
 our assessment 1
 general standard 1
@@ -36,19 +34,21 @@ medical treatment 1
 statutory authorization 1
 key element 1
 retroactive effect 1
+quality issues 1
 et seq 1
+additional disability 1
+its implementation 1
 budgetary impact 1
 major rule 1
 interpretive rule1 1
 our report 1
 5-year benefit 1
-quality issue 1
 reasonable effort 1
 same reason 1
 executive order 1
+veterans appeals 1
 final stage 1
 chief counsel 1
-affair house 1
 
  Trigram NP 
 regulatory flexibility act 2
@@ -57,18 +57,18 @@ enclosure analysis under 1
 significant economic impact 1
 final regulatory flexibility 1
 kathleen e. wannisky 1
+veterans affairs page 1
 clear legal standard 1
-veterans' affair united 1
-it economic impact 1
+its economic impact 1
 brown v. gardner 1
-regulation management department 1
+paperwork reduction act 1
 david p. baine 1
 health care delivery 1
+regulations management department 1
 vocational rehabilitation pursuant 1
+veterans' affairs united 1
 significant regulatory action 1
-paperwork reduction act 1
 other relevant information 1
-veteran affair page 1
 civil justice reform 1
 or vocational rehabilitation 1
 small business administration 1
@@ -84,7 +84,6 @@ compensation 9
 section 8
 examination 6
 hospitalization 6
-veteran 6
 office 5
 act 5
 executive 4
@@ -93,17 +92,19 @@ sba 4
 regulation 4
 s.ct 4
 official 4
+veteran 4
 disability 3
 brown 3
 cost 3
 result 3
-decision 3
 may 3
 information 3
 department 3
+decision 3
 certification 2
 death 2
 title 2
+veterans 2
 practice 2
 page 2
 rulemaking 2
@@ -118,6 +119,7 @@ united 2
 agency 2
 i 2
 order 2
+operations 1
 code 1
 interpretation 1
 pursuant 1
@@ -136,7 +138,6 @@ indemnity 1
 amendment 1
 work 1
 senate 1
-operation 1
 subject 1
 federal 1
 aggravation 1
@@ -193,12 +194,12 @@ documentation 1
 contact 1
 
  Arbitary length NP 
-unfunded mandate reform act 2
+unfunded mandates reform act 2
 montgomery ranking minority member committee 1
 compensation for disability resulting from hospitalization 1
 honorable alan k. simpson chairman 1
+a major rule issued by the department of veterans affairs entitled 1
 general counsel b-271810.8 june 1
-a major rule issued by the department of veteran affair entitled 1
 robert p. murphy general counsel enclosure 1
 mr. thomas o. gessel director 1
 honorable john d. rockefeller iv ranking minority member committee 1

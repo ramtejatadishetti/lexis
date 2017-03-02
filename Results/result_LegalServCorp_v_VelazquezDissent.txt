@@ -6,10 +6,11 @@ lsc act 6
 public forum 6
 statutory validity 5
 internal quotation 5
-appropriation act 4
 legal assistance 4
+appropriations act 4
 national endowment 3
-woman voter 3
+women voters 3
+professional obligation 2
 public radio 2
 forbidden claim 2
 proper disposition 2
@@ -19,7 +20,6 @@ subsidized speech 2
 [ t 2
 subsidized position 2
 such legislation 2
-professional obligation 2
 'coercive effect 2
 normal work 2
 same time 2
@@ -30,20 +30,18 @@ permissible scope 1
 iii even 1
 michigan academy 1
 general litigation 1
-it decision 1
 individual welfare 1
-family physician 1
 full freedom 1
 little resemblance 1
 privileged outlet 1
 only thing 1
 federal lobbying 1
 such relief 1
-it use 1
+its prohibition 1
 state-owned television 1
+chippewa indians 1
 appropriate prenatal 1
 speech inherent 1
-it power 1
 partial unconstitutionality 1
 secondary school 1
 legitimate basis 1
@@ -51,7 +49,7 @@ unsupportable interpretation 1
 little doubt 1
 professional responsibility 1
 other counsel 1
-chippewa indian 1
+family physicians 1
 requisite coercion 1
 f. supp 1
 same result 1
@@ -59,17 +57,20 @@ same obligation 1
 pregnant woman 1
 long discussion 1
 full determination 1
+telecommunications consortium 1
 recent decision 1
 implausible proposition 1
-it purpose 1
 strict scrutiny 1
 universal coverage 1
 private speech 1
+its use 1
 statutory scheme 1
 high quality 1
+its proviso 1
 nontherapeutic abortion 1
 odd principle 1
 arkansas ed 1
+its limit 1
 [ w 1
 her indigency 1
 stirring language 1
@@ -77,14 +78,15 @@ stirring language 1
 [ o 1
 limited order 1
 supreme court 1
-it prohibition 1
 medical profession 1
 general ban 1
+its decision 1
 basic difference 1
 criminal penalty 1
 lsc-funded attorney 1
 subsidized government 1
 southeastern pa. 1
+federal regulation 1
 american college 1
 judicial review 1
 legislative intent 1
@@ -94,7 +96,6 @@ restricted number 1
 justice thomas 1
 health-care provider 1
 applicable welfare 1
-it brief 1
 specific relief 1
 true speaker 1
 truncated representation 1
@@ -111,16 +112,14 @@ certain class 1
 clear indication 1
 limited spending 1
 reapportionment litigation 1
-it proviso 1
 alternative program 1
 cfr §1639.3 1
 full range 1
 second circuit 1
 revised version 1
 similar argument 1
-federal regulation 1
 unborn child 1
-corporation comm'n 1
+its brief 1
 our jurisprudence 1
 nondistortable function 1
 fundamental right 1
@@ -131,39 +130,40 @@ prospective client 1
 asserted interest 1
 new york 1
 federal spending 1
-it limit 1
+corporation comm'n 1
 legislative compromise 1
-telecommunication consortium 1
+its power 1
+its purpose 1
 
  Trigram NP 
 arkansas writers' project 2
+its usual functioning 1
 denver area ed 1
-mille lac band 1
+alton r. co. 1
 [ public radio 1
 our own profession 1
 federal regulatory program 1
 conceivable coercive effect 1
-legal service corporation 1
 goldberg v. kelly 1
-omnibus consolidated rescission 1
 due process clause 1
-it usual functioning 1
 individual eligible client 1
 discriminat [ ion 1
 legitimate legislative choice 1
 improper special solicitude 1
 railroad retirement bd 1
 piper aircraft co. 1
-alton r. co. 1
+legal services corporation 1
 carter coal co. 1
-adequate legal counsel 1
+mille lacs band 1
+omnibus consolidated rescissions 1
 chief justice shaw 1
+tucker truck lines 1
 ] justice scalia 1
 our prior law 1
 only conceivable argument 1
 judgepronounced constitutional imperatives- 1
 fcc v. league 1
-tucker truck line 1
+adequate legal counsel 1
 [ w ] 1
 supreme judicial court 1
 such selective spending 1
@@ -221,9 +221,9 @@ course 3
 rulemaking 3
 §2996f 3
 subsection 3
-art 3
 state 3
 judgment 3
+arts 3
 legislature 3
 sullivan 3
 anyone 3
@@ -258,13 +258,13 @@ accord 2
 belief 2
 ibid 2
 nature 2
+respondents 2
 limitation 2
 forum 2
 precedent 2
 trial 2
 expression 2
 distortion 2
-respondent 2
 family 2
 point 2
 respect 2
@@ -312,6 +312,7 @@ reyno 1
 contention 1
 dependent 1
 choice 1
+answer 1
 *** 1
 fall 1
 inception 1
@@ -335,7 +336,6 @@ inter 1
 side 1
 view 1
 amendment 1
-context 1
 carter 1
 frost 1
 product 1
@@ -357,7 +357,7 @@ importance 1
 version 1
 provider 1
 limit 1
-appeal 1
+warren 1
 method 1
 exercise 1
 restriction- 1
@@ -366,13 +366,12 @@ proviso 1
 desegregation 1
 bearing 1
 title 1
+gynecologists 1
 position 1
 court's 1
-step 1
 poverty 1
-aid 1
+boycotts 1
 randall 1
-alderman 1
 fondness 1
 cranch 1
 comm'n 1
@@ -393,6 +392,7 @@ permission 1
 legality 1
 withdraws 1
 ability 1
+appeals 1
 student 1
 marshall 1
 cf 1
@@ -414,6 +414,7 @@ charlestown 1
 class 1
 forbes 1
 initiation 1
+step 1
 certiorari 1
 type 1
 unconstitutionality 1
@@ -428,6 +429,7 @@ casey 1
 fund 1
 speiser 1
 role 1
+aid 1
 ii 1
 none 1
 join 1
@@ -436,7 +438,6 @@ f 1
 lyng 1
 alia 1
 j 1
-warren 1
 validity 1
 cal. 1
 webster 1
@@ -450,7 +451,6 @@ ibid. 1
 edny 1
 counsel 1
 unavailability 1
-gynecologist 1
 rule 1
 counseling 1
 okla. 1
@@ -463,7 +463,7 @@ range 1
 reality 1
 majority 1
 broadcasting 1
-answer 1
+aldermen 1
 party 1
 curiam 1
 evidence 1
@@ -471,7 +471,7 @@ conclusion 1
 residue 1
 stat 1
 picketing 1
-boycott 1
+context 1
 time 1
 a. 1
 parenthood 1
@@ -498,7 +498,7 @@ resolution 1
  Arbitary length NP 
 u. s. c. §2996 3
 carmen velazquez et al 2
-on writ of certiorari to the united state court of appeal for the second circuit [ february 1
-the united state no 1
+on writs of certiorari to the united states court of appeals for the second circuit [ february 1
+legal services corporation act 1
 significant quid pro quo 1
-legal service corporation act 1
+the united states nos 1

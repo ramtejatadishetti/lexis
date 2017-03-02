@@ -1,14 +1,14 @@
 
  Bigram NP 
-executive order 4
 catastrophic risk 3
 undivided interest 3
+executive order 3
 catastrophic coverage 3
 cost-benefit analysis 2
 federal register 2
 second rule 1
 private sector 1
-regulatory affair 1
+executive orders 1
 our assessment 1
 previous ad 1
 statutory authorization 1
@@ -18,7 +18,8 @@ catastrophic yield 1
 implementation pursuant 1
 solicit input 1
 senior attorney 1
-agriculture issue 1
+regulatory affairs 1
+agriculture issues 1
 budgetary impact 1
 substantial number 1
 forestry united 1
@@ -40,24 +41,25 @@ honorable e 1
 chief counsel 1
 
  Trigram NP 
-general administrative regulation 3
-executive order no 3
+general administrative regulations 3
+executive order no 2
 first listed rule 1
 james w. vickers 1
 crop insurance application 1
-federal agriculture improvement 1
 new catastrophic risk 1
-civil justice reform 1
-other relevant information 1
+regulations for implementation 1
 final regulatory flexibility 1
+other relevant information 1
+federal agriculture improvement 1
 robert a. robinson 1
+civil justice reform 1
 omb control no 1
 paperwork reduction act 1
+executive orders nos 1
 significant intergovernmental mandate 1
 administrative procedure act 1
 general counsel b-274636 1
 regulatory flexibility act 1
-regulation for implementation 1
 small business administration's 1
 planned regulatory action 1
 
@@ -196,14 +198,14 @@ statute 1
 federal crop insurance reform act 6
 federal crop insurance corporation 5
 catastrophic risk protection endorsement 3
-unfunded mandate reform act 1
-two major rule issued by the department of agriculture 1
+two major rules issued by the department of agriculture 1
 honorable patrick j. leahy ranking minority member committee 1
+honorable pat roberts chairman 1
 garza ranking minority member committee 1
+unfunded mandates reform act 1
 mr. kenneth ackerman manager federal crop insurance corporation page 1
 crop insurance acreage report 1
 robert p. murphy general counsel enclosure 1
 gao/ogc-96-47 enclosure analysis under 1
 federal crop insurance corporation entitled 1
 honorable richard g. lugar chairman 1
-honorable pat robert chairman 1

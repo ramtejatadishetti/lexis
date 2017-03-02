@@ -1,6 +1,6 @@
 
  Bigram NP 
-grand rapid 4
+grand rapids 4
 legal aid 2
 general law 2
 corporate lawyer 1
@@ -31,6 +31,7 @@ trust building 1
 michael barnes 1
 his middle-class 1
 big law 1
+legal services 1
 newt gingrich 1
 his schoolteacher 1
 thomas waalkes 1
@@ -40,12 +41,11 @@ hard work 1
 carl verspoor 1
 federal funding 1
 low-income community 1
-legal service 1
 local attorney 1
 paul abrahamsen 1
 
  Trigram NP 
-michigan legal service 3
+michigan legal services 3
 his first year 2
 central michigan university 1
 robert lalley jr. 1
@@ -53,7 +53,7 @@ american bar association 1
 his own contribution 1
 free legal help 1
 michigan bar association 1
-donation robert lalley 1
+donations robert lalley 1
 pro bono committee 1
 legal assistance center 1
 
@@ -108,7 +108,7 @@ board 1
 way 1
 congress 1
 linda 1
-appeal 1
+halfway 1
 michigan 1
 field 1
 family 1
@@ -137,16 +137,16 @@ work 1
 side 1
 project 1
 liability 1
+appeals 1
 organization 1
 model 1
 association 1
 playing 1
-halfway 1
 
  Arbitary length NP 
-grand rapid bar association 2
-grand rapid press grand rapid 1
+grand rapids bar association 2
 his own public service 1
+western michigan legal services 1
+grand rapids press grand rapids 1
 michael s. barnes award 1
-western michigan legal service 1
 catholic central high school 1

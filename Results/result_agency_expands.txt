@@ -1,6 +1,5 @@
 
  Bigram NP 
-it client 1
 san gabriel 1
 irene mak 1
 cultural isolation 1
@@ -11,6 +10,7 @@ neal dubovitz 1
 free consumer 1
 my language 1
 common language 1
+its client 1
 domestic violence 1
 rebecca yee 1
 el monte 1
@@ -28,9 +28,9 @@ hong kong 1
 federal agency 1
 
  Trigram NP 
-neighborhood legal service 1
-legal service corp. 1
-legal service program 1
+legal services program 1
+neighborhood legal services 1
+legal services corp. 1
 
  Unigram NP 
 nls 8

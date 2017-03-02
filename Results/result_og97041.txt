@@ -15,16 +15,16 @@ economic impact 1
 procedure act 1
 private sector 1
 potential impact 1
-it submission 1
-it report 1
+social impact 1
 proposed rulemaking 1
 our assessment 1
 peter guerrero 1
+its submission 1
 protection agency 1
 60-day comment 1
 statutory authorization 1
 mr. guerrero 1
-social impact 1
+its report 1
 alan zuckerman 1
 particular facility 1
 analysis under 1
@@ -55,26 +55,26 @@ intergovernmental mandate 1
  Trigram NP 
 toxic release inventory 4
 environmental protection agency 2
-certain industry sector 2
 community right-to-know act 2
+certain industry sectors 2
 paperwork reduction act 2
 assistant general counsel 1
 pollution prevention act 1
-community right-to-know pursuant 1
+public works united 1
 significant economic impact 1
 omb control no 1
 federal financial assistance 1
-environmental protection issue 1
 detailed economic analysis 1
+community right-to-know pursuant 1
 regulatory flexibility act 1
 executive order no 1
 federal intergovernmental mandate 1
 standard industrial classification 1
 significant regulatory action 1
 other relevant information 1
-public work united 1
 their annual revenue 1
 his own motion 1
+environmental protection issues 1
 
  Unigram NP 
 rule 24
@@ -109,7 +109,6 @@ subject 2
 notice 2
 estimate 2
 ppa 2
-facility 2
 number 2
 gao 2
 iv 2
@@ -122,6 +121,7 @@ sector 1
 september 1
 lack 1
 trade 1
+facilities 1
 threshold 1
 impact 1
 sic 1
@@ -141,7 +141,7 @@ t 1
 release 1
 work 1
 senate 1
-owner 1
+operator 1
 value 1
 year 1
 512-6111 1
@@ -160,10 +160,11 @@ sba 1
 action 1
 addendum 1
 comment 1
+facility 1
 cc 1
 thereafter 1
 issue 1
-operator 1
+owner 1
 respect 1
 total 1
 management 1
@@ -214,15 +215,15 @@ regulatory flexibility analysis epa 2
 honorable john d. dingell ranking minority member committee 1
 initial regulatory flexibility analysis 1
 revised interpretation of otherwise use 1
+unfunded mandates reform act statement 1
 a major rule issued by the environmental protection agency entitled 1
 general counsel b-276901 may 1
 honorable john h. chafee chairman 1
-unfunded mandate reform act statement 1
-gao/ogc-97-41 executive order no 1
-addition of facility in certain industry sector 1
+robert p. murphy general counsel enclosures 1
+unfunded mandates reform act 1
+addition of facilities in certain industry sectors 1
 honorable max baucus ranking minority member committee 1
-robert p. murphy general counsel enclosure 1
 information environmental protection agency 1
 thomas e. kelly director 1
 honorable thomas j. bliley 1
-unfunded mandate reform act 1
+gao/ogc-97-41 executive order no 1

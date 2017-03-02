@@ -33,9 +33,9 @@ county commission 1
 federal benefit 1
 
  Trigram NP 
-their marital relationship 1
 clay county could 1
-green cove spring 1
+their marital relationship 1
+green cove springs 1
 
  Unigram NP 
 percent 5

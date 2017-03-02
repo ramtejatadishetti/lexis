@@ -2,7 +2,7 @@
  Bigram NP 
 final rule 9
 supplementary information 8
-appropriation act 5
+appropriations act 5
 legislative history 3
 light truck 3
 mpg standard 3
@@ -16,7 +16,6 @@ regulatory evaluation 2
 further action 1
 cost-benefit analysis 1
 daily ed. 1
-1-year freeze 1
 government input 1
 describe section 1
 his floor 1
@@ -26,14 +25,13 @@ address section 1
 forth therein 1
 mr. anderson 1
 other level 1
-regulatory affair 1
-it enactment 1
 legal interpretation 1
 our assessment 1
-it lack 1
-general notice 1
+permissible alternative 1
+its lack 1
+its interpretation 1
 average fuel 1
-sufficient federalism 1
+federalism analysis 1
 order no 1
 standard prescribed 1
 unnecessary analysis 1
@@ -42,54 +40,56 @@ statutory authorization 1
 my intent 1
 federal mandate 1
 identical standard 1
+regulatory affairs 1
 judicial review 1
 legal analysis 1
 transportation united 1
-permissible alternative 1
+1-year freeze 1
+telecommunications issues 1
 fuel economy 1
 major rule 1
 jr. chairman 1
 gao/ogc-96-11 evaluation 1
 principal sponsor 1
 economic practicability 1
+general notice 1
 gao/ogc-96-11 section 1
 et seq 1
 other hand 1
 our report 1
 sharp increase 1
-federalism analysis 1
 commerce house 1
-it analysis 1
+its analysis 1
 such title 1
-telecommunication issue 1
 such action 1
+its enactment 1
 fundamental purpose 1
 underlying section 1
 federalism assessment 1
 l. no 1
 transportation page 1
 applicable standard 1
-it interpretation 1
+sufficient federalism 1
+chief counsel 1
 model year 1
 anticipated increase 1
-chief counsel 1
 
  Trigram NP 
 initial regulatory flexibility 3
 final regulatory flexibility 3
 executive order no 3
 corporate average fuel 2
-dot appropriation act 1
-cost saving act 1
+its legal basis 1
+dot appropriations act 1
 government agency plan 1
 motor vehicle information 1
 same light truck 1
 other light truck 1
-small business administration 1
 henry r. wray 1
+cost savings act 1
+its economic impact 1
 administrative procedure act 1
-it economic impact 1
-it legal basis 1
+house appropriations committee 1
 john h. anderson 1
 paperwork reduction act 1
 regulatory flexibility act 1
@@ -99,7 +99,7 @@ other relevant information 1
 other possible interpretation 1
 only plausible approach 1
 sba chief counsel 1
-house appropriation committee 1
+small business administration 1
 
  Unigram NP 
 section 48
@@ -259,22 +259,22 @@ time 1
 docket 1
 
  Arbitary length NP 
+unfunded mandates reform act 2
 national environmental policy act 2
 final regulatory impact analysis 2
 truck average fuel economy standard 2
-unfunded mandate reform act 2
 ms. nancy e. mcfadden general counsel department 1
 honorable john d. dingell ranking minority member committee 1
+accompany significant regulatory actions 1
 honorable larry pressler chairman 1
 light truck cafe standard rule under 1
-aggregate annual private sector 1
 general counsel b-271810.2 may 1
-accompany significant regulatory action 1
 honorable ernest f. hollings ranking minority member committee 1
 maximum feasible average fuel 1
-robert p. murphy general counsel enclosure 1
+aggregate annual private sector 1
+related agencies appropriations act 1
 gao/ogc-96-11 enclosure analysis of national highway traffic safety administration 1
-related agency appropriation act 1
+robert p. murphy general counsel enclosure 1
 national highway traffic safety administration 1
 senior associate general counsel 1
 honorable thomas j. bliley 1

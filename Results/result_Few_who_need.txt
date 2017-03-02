@@ -102,6 +102,7 @@ litigant 1
 bankruptcy 1
 discrimination 1
 housing 1
+lags 1
 anyone 1
 commission 1
 morrison 1
@@ -124,7 +125,6 @@ latter 1
 state's 1
 economy 1
 development 1
-lag 1
 workforce 1
 massachusetts 1
 law 1

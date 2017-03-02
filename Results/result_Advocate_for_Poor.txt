@@ -31,7 +31,7 @@ fair market 1
  Trigram NP 
 east new york 2
 storefront legal practice 1
-new lot ave 1
+new lots ave 1
 
  Unigram NP 
 mazzariello 9
@@ -83,7 +83,7 @@ property 1
 bidder 1
 
  Arbitary length NP 
-poor ha own obstacle greg wilson former 1
+east new york legal services corp. 1
 brooklyn district attorney charles hynes 1
 new york daily news tuesday 1
-east new york legal service corp. 1
+poor has own obstacles greg wilson former 1

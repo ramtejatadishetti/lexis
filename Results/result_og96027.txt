@@ -7,14 +7,14 @@ regulatory impact 3
 federal register 3
 additive injection 1
 substantial number 1
+sic codes 1
 public docket 1
-answer document 1
+answer documents 1
 private sector 1
 title ii 1
 cost-effective approach 1
 numerous business 1
-sic code 1
-regulatory affair 1
+its consideration 1
 certain engine 1
 our assessment 1
 peter guerrero 1
@@ -31,13 +31,14 @@ possible requirement 1
 sufficient data 1
 et seq 1
 senior attorney 1
-it consideration 1
+regulatory affairs 1
 detailed presentation 1
 major rule 1
 jr. chairman 1
 order no 1
 james vickers 1
 public input 1
+its place 1
 our report 1
 overall impact 1
 various implementation 1
@@ -46,7 +47,6 @@ regulatory flexibility 1
 regulatory management 1
 director office 1
 advance notice 1
-it place 1
 executive order 1
 comment period 1
 required deposit 1
@@ -57,23 +57,23 @@ estimated cost 1
 
  Trigram NP 
 environmental protection agency 5
-paperwork reduction act 2
 small business administration 2
+paperwork reduction act 2
 significant regulatory action 2
 executive order no 2
+epa docket nos 1
 administrative procedure act 1
-annual economic impact 1
-other relevant information 1
-thomas e. kelly 1
-environmental protection issue 1
-public work united 1
-required regulatory impact 1
-epa docket no 1
-gao/ogc-96-27 interim program 1
 regulatory flexibility act 1
-interim detergent program 1
+annual economic impact 1
+required regulatory impact 1
 significant economic impact 1
-it economic impact 1
+thomas e. kelly 1
+interim detergent program 1
+public works united 1
+other relevant information 1
+gao/ogc-96-27 interim program 1
+its economic impact 1
+environmental protection issues 1
 detergent rule question 1
 
  Unigram NP 
@@ -82,7 +82,6 @@ rule 19
 analysis 12
 certification 9
 section 9
-fuel 6
 u.s.c 6
 information 6
 office 5
@@ -92,6 +91,7 @@ notice 5
 act 5
 fed 5
 collection 5
+fuel 4
 requirement 4
 omb 4
 program 4
@@ -140,6 +140,7 @@ united 2
 agency 2
 percent 2
 performance 2
+fuels 2
 i 2
 flow 2
 deposit 2
@@ -161,6 +162,7 @@ iv-c-09 1
 iv-c-08 1
 senate 1
 testing 1
+administrator 1
 subject 1
 reopening 1
 combustion 1
@@ -208,7 +210,6 @@ objection 1
 equipment 1
 role 1
 economy 1
-administrator 1
 512-6111 1
 june 1
 director 1
@@ -218,19 +219,19 @@ consumer 1
 review 1
 
  Arbitary length NP 
-clean air act amendment 3
+clean air act amendments 3
 honorable john d. dingell ranking minority member committee 1
-standard for deposit control gasoline additive 1
-deposit control gasoline additive pursuant 1
+deposit control gasoline additives 1
+standards for deposit control gasoline additives 1
+a major rule issued by the environmental protection agency entitled 1
+unfunded mandates reform act 1
 honorable john h. chafee chairman 1
 epa docket item v-b-02 1
-a major rule issued by the environmental protection agency entitled 1
-deposit control gasoline additive 1
+regulation of fuels and fuel additives 1
+deposit control gasoline additives pursuant 1
 honorable max baucus ranking minority member committee 1
 robert p. murphy general counsel enclosure 1
 information environmental protection agency page 1
 gao/ogc-96-27 enclosure analysis under 1
 general counsel b-272425.1 july 1
 honorable thomas j. bliley 1
-regulation of fuel and fuel additive 1
-unfunded mandate reform act 1

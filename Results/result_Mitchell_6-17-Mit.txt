@@ -45,9 +45,9 @@ new position 3
 final delivery 2
 optical character 2
 1,000-mile rate 2
+discount changes 2
 current point 2
 third-class mail 2
-overall volume 2
 no-shift elasticity 2
 his cost 2
 considerable attention 2
@@ -60,7 +60,6 @@ own-price elasticity 2
 same time 2
 mailer welfare 2
 optimal discount 2
-discount change 2
 marginal cost 2
 different way 2
 vb vb 2
@@ -70,6 +69,7 @@ net gain 2
 new discount 2
 sorting machine 2
 simple cost 2
+overall volume 2
 per-piece cost 2
 postal cost 2
 d = 2
@@ -86,7 +86,6 @@ zipped form 1
 technical cost 1
 his volume 1
 initial position 1
-triangle figure 1
 noshift elasticity 1
 postal attention 1
 traditional elasticity 1
@@ -123,6 +122,7 @@ nationwide mail 1
 net loss 1
 next section 1
 third statement 1
+implied elasticity 1
 his analysis 1
 constant appropriate 1
 ¾ cent 1
@@ -146,6 +146,8 @@ non-workshared category 1
 strong cross 1
 top graph 1
 current cost 1
+triangles figure 1
+its weight 1
 additional worksharing 1
 worksharing notion 1
 much mail 1
@@ -194,6 +196,7 @@ washington dc 1
 simple example 1
 original workshare 1
 first class 1
+ce ws 1
 1-cent increase 1
 low slope 1
 their decision 1
@@ -207,6 +210,7 @@ non-presorted mail 1
 practical situation 1
 no-shift elasticities,7 1
 above section 1
+its presort 1
 first glance 1
 40-billion-piece level 1
 workshare category 1
@@ -227,6 +231,7 @@ other curve 1
 latter case 1
 =-1.1074 g 1
 second model 1
+certain graphs 1
 positive slope 1
 various welfare 1
 horizontal axis 1
@@ -245,7 +250,6 @@ average price 1
 different behavior 1
 much work 1
 postal service2 1
-broader question 1
 upper limit 1
 natural result 1
 postal service.5 1
@@ -261,8 +265,6 @@ small proportion 1
 empirical work 1
 workshare price 1
 his success 1
-it presort 1
-certain graph 1
 maximum welfare 1
 his behavior 1
 postal activity 1
@@ -278,6 +280,7 @@ letter-size piece 1
 our assumption 1
 pws0.7554 vb 1
 v = 1
+welfare levels 1
 optimal move 1
 workshared category 1
 separate step 1
@@ -285,7 +288,6 @@ different proportionate 1
 r97-1 rate 1
 low-cost carrier 1
 general net 1
-billion figure 1
 considerable discussion 1
 new price 1
 latter assumption 1
@@ -295,13 +297,11 @@ average user 1
 second statement 1
 certain quantity 1
 switzerland june 1
-it weight 1
 ownprice elasticity 1
 different discount 1
 difficult mail 1
 postal industry 1
 latter possibility 1
-welfare level 1
 type-4 discount 1
 same message 1
 formal matter 1
@@ -313,7 +313,6 @@ efficient component 1
 relative bargain 1
 long-distance mail 1
 bottom line 1
-implied elasticity 1
 his welfare 1
 additional work 1
 different approach 1
@@ -328,13 +327,14 @@ above example 1
 delivery economics 1
 welfare loss 1
 various price 1
+broader questions 1
 basic product 1
 productive way 1
 private industry 1
 practical matter 1
 technical loss 1
+billions figure 1
 letter/flat differential.9 1
-ce w 1
 pb -d 1
 conservative starting 1
 electronic form 1
@@ -360,26 +360,26 @@ new workshared volume 1
 fixed basic price 1
 their average rate 1
 desired net revenue 1
+its marginal cost 1
 no-shift own-price elasticity 1
 other breakeven position 1
-optimal move-no one 1
 ¶ p v 1
+private express statutes 1
 crosshatched trapezoid area 1
 associated technical loss 1
 cross-hatched trapezoid area 1
-private express statute 1
+optimal move-no one 1
+its current level 1
 efficient component pricing 1
 rutgers university montreux 1
 reasonable attendant growth 1
 = ¶pws vb 1
 pure type-1 worksharing 1
 pareto optimality presented 1
-it current level 1
 remote video encoding 1
 zero thress model 1
 traditional constant elasticity 1
 slight upward slope 1
-it marginal cost 1
 calculated workshared volume 1
 
  Unigram NP 
@@ -400,16 +400,16 @@ model 26
 paper 25
 figure 23
 category 22
-equation 21
 worksharing 21
 gain 21
 curve 21
 united 20
 thress 20
-profit 19
 presort 19
+profit 18
 piece 18
 pb 17
+equation 16
 position 16
 situation 16
 pws 16
@@ -418,7 +418,7 @@ cross 14
 order 13
 note 13
 point 13
-w 12
+ws 12
 market 12
 program 11
 change 11
@@ -457,8 +457,8 @@ assumption 6
 case 6
 vb 6
 pareto 6
-graph 5
 sum 5
+equations 5
 constraint 5
 process 5
 discussion 5
@@ -509,6 +509,7 @@ magnitude 3
 purpose 3
 distance 3
 option 3
+graphs 3
 lotus 3
 result 3
 markup 3
@@ -527,7 +528,7 @@ area 3
 * 3
 vws 3
 notion 3
-dollar 2
+graph 2
 advantage 2
 condition 2
 -0.289 2
@@ -536,7 +537,6 @@ method 2
 exercise 2
 processing 2
 understanding 2
-diamond 2
 behalf 2
 printing 2
 absolute 2
@@ -545,8 +545,8 @@ collection 2
 office 2
 group 2
 framework 2
-square 2
 reader 2
+squares 2
 issue 2
 possibility 2
 standard 2
@@ -571,6 +571,7 @@ differential 2
 activity 2
 implication 2
 machinability 2
+diamonds 2
 avoidance 2
 nature 2
 attention 2
@@ -604,6 +605,7 @@ operation 2
 business 2
 limitation 2
 anything 2
+dollars 2
 peak 2
 facility 2
 operator 2
@@ -647,7 +649,6 @@ degree 1
 makeup 1
 concluding 1
 sortation 1
-table 1
 amount 1
 backsolver 1
 classification 1
@@ -659,6 +660,7 @@ ii 1
 none 1
 extension 1
 vws* 1
+table 1
 cleveland-it 1
 arrangement 1
 delay 1
@@ -671,7 +673,6 @@ staying 1
 description 1
 horizontal 1
 response 1
-a 1
 light 1
 help 1
 prc.gov 1
@@ -686,6 +687,7 @@ name 1
 advent 1
 right-hand 1
 weight 1
+needless 1
 desirability 1
 product 1
 r971 1
@@ -703,15 +705,14 @@ place 1
 sack 1
 one 1
 guess 1
+zeros 1
 percentage 1
 ½ 1
-needle 1
 street 1
 outcome 1
 discounts.19 1
 viewed 1
 functioning 1
-zero 1
 potential 1
 finding 1
 printer 1
@@ -733,9 +734,9 @@ fifth 1
 completion 1
 equilibrium 1
 presorting 1
-triangle 1
 beat 1
 assistant 1
+routine 1
 barcoding 1
 reference 1
 sensitivity 1
@@ -745,7 +746,6 @@ exponent 1
 pattern 1
 onequarter 1
 bureau 1
-routine 1
 ability 1
 importance 1
 screen 1
@@ -803,6 +803,7 @@ package 1
 freedom 1
 variables.11 1
 testimony 1
+billions 1
 additional 1
 support 1
 function 1
@@ -813,8 +814,10 @@ characteristic 1
 maximum 1
 b-pws 1
 constant 1
+as 1
 ship 1
 check 1
+triangles 1
 variety 1
 deserve 1
 reality 1
@@ -825,9 +828,9 @@ meaning 1
 important 1
 graphically 1
 variable 1
-billion 1
 mailing 1
 portion 1
+profits 1
 
  Arbitary length NP 
 final conference copy thress model 2

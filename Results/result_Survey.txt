@@ -14,7 +14,7 @@ fort lauderdale 1
 our vision 1
 senior judge 1
 certain type 1
-it regulation 1
+last summer 1
 high-paying job 1
 [ student 1
 only loan 1
@@ -24,7 +24,7 @@ institutional memory 1
 ral thesis 1
 first circuit 1
 loan repayment 1
-it report 1
+its report 1
 lawrence grosberg 1
 same time 1
 bar foundation 1
@@ -38,13 +38,14 @@ other realm 1
 u.s. court 1
 boomer population 1
 couch white 1
+its co-chair 1
+percent increase 1
 my sense 1
 10-year plan 1
-it co-chair 1
 47-page report 1
+its regulation 1
 limited availability 1
 real obligation 1
-last summer 1
 corporate law 1
 dean glen 1
 federal job 1
@@ -72,21 +73,20 @@ city university 1
 law placement 1
 executive director 1
 personal safety 1
-percent increase 1
 past decade 1
 
  Trigram NP 
 new york school 1
 joseph d. harbaugh 1
 american bar association 1
-equal justice work 1
 student loan assistance 1
+kristin booth glen 1
 average monthly payment 1
 nova southeastern university 1
 frank m. coffin 1
 stephen m. aronson 1
+equal justice works 1
 henry m. greenberg 1
-kristin booth glen 1
 
  Unigram NP 
 law 19
@@ -158,7 +158,6 @@ subject 1
 profit 1
 assistance 1
 health 1
-appeal 1
 public 1
 participation 1
 coordinator 1
@@ -176,6 +175,7 @@ administration 1
 survey 1
 skepticism 1
 whole 1
+appeals 1
 profession 1
 perkins 1
 initiative 1

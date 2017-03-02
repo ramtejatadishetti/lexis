@@ -52,13 +52,13 @@ prestigious work 1
 
  Trigram NP 
 cal state northridge 3
+free pays off 1
 van nuys courthouse 1
 taft high school 1
 free legal help 1
 at-risk high school 1
-small claim court 1
+small claims court 1
 legal access center 1
-free pay off 1
 san fernando valley 1
 his life's passion 1
 loyola law school 1

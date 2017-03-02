@@ -14,9 +14,9 @@ financial management 5
 appendix iii 5
 case example 5
 information security 5
-financial statement 4
 following case 4
 several security 4
+financial statements 4
 ongoing basis 4
 our study 4
 individual business 4
@@ -25,41 +25,40 @@ computer security 4
 central information 3
 information technology 3
 federal government 3
-it information 3
 user behavior 3
 information management 3
 their business 3
 effective security 3
 organization's information 3
 focal point 3
+its information 3
 their ability 3
 important factor 3
 underlying cause 2
 public accounting 2
 such information 2
 entire network 2
-clinger-cohen act 2
 new computer 2
 other security 2
 technical staff 2
 other information 2
-serious weakness 2
 their effectiveness 2
 many information 2
+technical skills 2
 unauthorized access 2
 computerized information 2
+computer attacks 2
+internal control 2
 their staff 2
 inappropriate disclosure 2
 individual agency 2
 weak information 2
 senior information 2
-technical skill 2
 new software 2
 electronic mail 2
 executive guide 2
 risk due 2
 main network 2
-computer attack 2
 exposure draft 2
 professional organization 2
 new security 2
@@ -68,13 +67,14 @@ high priority 2
 senior agency 2
 developed software 2
 federal guidance 2
+agency practices 2
 minimum security 2
-internal control 2
 full cost 2
+federal managers 2
 valuable resource 2
 security committee 2
-agency practice 2
-federal manager 2
+clinger-cohen act 2
+serious weaknesses 2
 technical literature 2
 top management 2
 primary responsibility 2
@@ -88,6 +88,7 @@ essential element 2
 same institution 1
 important role 1
 following illustration 1
+valuable means 1
 poor information 1
 general support 1
 federal bureau 1
@@ -95,15 +96,15 @@ serious information 1
 management's commitment 1
 her staff 1
 confidential taxpayer 1
-security manager 1
-gao guide 1
+inspectors general 1
 their unit 1
-it leadership 1
+information resources 1
 incident frequency 1
 new information 1
 national institute 1
 sensitive data 1
-internal controls.4 1
+dramatic reversal 1
+benefits information 1
 improved security 1
 particular type 1
 good information 1
@@ -111,11 +112,12 @@ significant interest 1
 their departments' 1
 recent test 1
 collateral duty 1
-custom service 1
+specialized software 1
 personal privacy 1
-nist handbook 1
+new network 1
 last point 1
 limited extent 1
+business risks 1
 up-to-date version 1
 related business 1
 actual cost 1
@@ -129,20 +131,22 @@ automated checklist 1
 joint effort 1
 coordinated management 1
 respected university 1
-update skill 1
 part-time basis 1
 help-line telephone 1
 american business 1
+structured mechanisms 1
 adequate information 1
 assessment guide 1
+business needs 1
 important supplement 1
 entire organization 1
+saw benefits 1
 heavy use 1
 their role 1
 protect government 1
 individual security 1
 their workplace 1
-fiscal year 1
+budget requests 1
 poor security 1
 fred thompson 1
 similar technology 1
@@ -150,11 +154,9 @@ technical assistance 1
 essential step 1
 risk management 1
 our visit 1
-sound management 1
 their use 1
 next section 1
 his request 1
-organization preface 1
 general recognition 1
 expert staff 1
 inadequate disaster 1
@@ -170,37 +172,31 @@ professional stature 1
 voice security 1
 our company 1
 chief executive 1
-valuable mean 1
-business risk 1
-it focus 1
 specific loss 1
 formal review 1
-irs ha 1
 gao accounting 1
 several information 1
+its training 1
 our executive 1
-computerized data 1
 major challenge 1
-quantified risk 1
+central staff 1
 current environment 1
 unique software 1
 preliminary plan 1
 related guidance 1
 in-depth study 1
-senior business 1
+internal controls.4 1
 intellectual property 1
 basic guidance 1
 simple process 1
 entire information 1
-security team 1
-governmental affair 1
-information resource 1
+electronic information 1
 public telecommunication 1
-it use 1
 risk-based approach 1
 human resource 1
 integral part 1
 primary focus 1
+update skills 1
 control effectiveness 1
 specific information 1
 related implementation 1
@@ -212,21 +208,21 @@ recent guidance 1
 comprehensive simulation 1
 detailed understanding 1
 strong user 1
-it processing 1
+organizations preface 1
 taxpayer data 1
-inspector general 1
 thorough understanding 1
-specialized software 1
 independent measure 1
 contingency planning 1
 successful functioning 1
+demonstrating results 1
 relevant staff 1
+senior business 1
 flexible work 1
 constant vigilance 1
 individual industry 1
 technology branch 1
 their identity 1
-benefit information 1
+accepted principles 1
 major equipment 1
 proven security 1
 measuring performance 1
@@ -235,6 +231,7 @@ outside firm 1
 must be 1
 everyone's understanding 1
 vast information 1
+governmental affairs 1
 circular a-130 1
 one-size-fits-all security 1
 educate system 1
@@ -245,13 +242,11 @@ personal gain 1
 additional time 1
 distributed environment 1
 professional literature 1
-benefit several 1
 major paradigm 1
-it sensitivity 1
 jean boltz 1
-awareness activity 1
+gao guides 1
 tool several 1
-new era 1
+security managers 1
 extensive experience 1
 business continuity 1
 our focus 1
@@ -262,10 +257,11 @@ new risk 1
 ongoing interest 1
 senate committee 1
 overall information 1
+new era 1
 rare exception 1
 achieve success 1
 nontechnical language 1
-consistent understanding 1
+federal performance 1
 necessary step 1
 subsequent review 1
 management awareness 1
@@ -276,21 +272,26 @@ essential organizational 1
 basic step 1
 valuable input 1
 their monitoring 1
+customs service 1
 effective information 1
 special training 1
 hostile workplace 1
+controls directly 1
 computing crisis 1
+technical weaknesses 1
 detailed discussion 1
 federal policy 1
+fiscal years 1
 technical expert 1
 major retailing 1
 comprehensive description 1
-control directly 1
-saw benefit 1
+computerized data 1
 dynamic environment 1
+security teams 1
 strategic planning 1
 easy access 1
 senior executive 1
+keep individuals 1
 starting point 1
 imaginable today 1
 practical method 1
@@ -300,10 +301,9 @@ cost-effective way 1
 similar guidance 1
 good awareness 1
 subsequent monitoring 1
-new system 1
 annual budget 1
 personal computer 1
-central staff 1
+quantified risk 1
 additional support 1
 subordinate security 1
 their mind-set 1
@@ -322,16 +322,16 @@ major information 1
 federal data 1
 a framework 1
 indispensable nature 1
-electronic information 1
-new network 1
-it disaster 1
+previous section 1
+its leadership 1
+its use 1
 major manufacturer 1
 appropriate executive 1
 individual system 1
 formal authorization 1
 effective risk 1
 actual security 1
-federal performance 1
+consistent understanding 1
 significant virus 1
 73-page reference 1
 practical risk 1
@@ -342,12 +342,11 @@ individual violation 1
 organization's ability 1
 important aspect 1
 critical ingredient 1
-budget request 1
 networked environment 1
 their knowledge 1
 economic possibility 1
 their conviction 1
-it report 1
+sound management 1
 potential system 1
 associated security 1
 technical nature 1
@@ -363,23 +362,24 @@ leadership needed 1
 practical use 1
 large audience 1
 explicit acceptance 1
+its focus 1
 organization's employee 1
 parttime information 1
 private sector 1
 employee browsing 1
 organizational unit 1
+organizations assess 1
+guidelines all 1
 social engineering 1
 primary mechanism 1
 widespread problem.1 1
 top university 1
 well-designed access 1
 entire company 1
-previous section 1
 valuable management 1
 regional business 1
 second rating 1
 major university 1
-it training 1
 external training 1
 real disaster 1
 included intranet 1
@@ -402,27 +402,29 @@ hud information 1
 undue risk 1
 significant security 1
 recent strengthening 1
-business need 1
 timely information 1
 significant information 1
+benefits several 1
 assess information 1
 unintentional release 1
 improper access 1
 full-time job 1
+assessing risks 1
+between policies 1
+its processing 1
 industrial revolution 1
 automated monitoring 1
 underlying problem 1
 impair reliability 1
-organization ass 1
+awareness activities 1
 clear guidance 1
 comprehensive set 1
 annual loss 1
 adequate awareness 1
 their message 1
-structured mechanism 1
 current policiesand 1
 networked computer 1
-ultimate decision 1
+nist handbook 1
 certain information 1
 financial data 1
 good understanding 1
@@ -451,11 +453,12 @@ numerous policy 1
 such attention 1
 particular attention 1
 reliable service 1
+technology challenges 1
 organizational position 1
-accepted principle 1
 high-risk series 1
 such sign-off 1
 broad range 1
+ultimate decision 1
 appropriate attention 1
 specific objective 1
 management information 1
@@ -463,15 +466,15 @@ organization's security 1
 wake-up call 1
 extensive use 1
 other type 1
-assessing risk 1
 multiple business 1
 severe time 1
 specific control 1
-technical weakness 1
 formal discussion 1
 formal information 1
+its disaster 1
 document security 1
 broad perspective 1
+new system 1
 specific business 1
 their involvement 1
 good security 1
@@ -489,29 +492,26 @@ new problem 1
 challenging work 1
 integrated approach 1
 gao/ aimd-95-141 1
-guideline all 1
 inherent riskiness 1
+its report 1
 minor incident 1
-between policy 1
 internal audit 1
 consistent manner 1
 protecting america 1
 assistant director 1
 circular a130 1
 privacy act 1
-technology challenge 1
 actuarial model 1
 strategic plan 1
-keep individual 1
-dramatic reversal 1
 related risk 1
 technical group 1
 adequate review 1
 effective program 1
 superior security 1
 their importance 1
-demonstrating result 1
+its sensitivity 1
 biannual conference 1
+irs has 1
 copyright infringement 1
 our review 1
 federal agency 1
@@ -519,22 +519,22 @@ federal agency 1
  Trigram NP 
 information security management 6
 computer security institute 6
-paperwork reduction act 3
 nonbank financial institution 3
+paperwork reduction act 3
 social security administration 2
 improved omb oversight 2
 prominent financial institution 2
-generally accepted principle 2
 critical infrastructure protection 2
 financial integrity act 2
+generally accepted principles 2
 significant technical expertise 2
 major electric utility 2
 central group ready 1
+business managers accountable 1
 their general knowledge 1
 government printing office 1
 global electronic commerce 1
 federal guidance provides 1
-consolidated financial statement 1
 indicate security effectiveness 1
 their private sector 1
 european security forum 1
@@ -542,34 +542,31 @@ chief information officer 1
 cyberfile data center 1
 their own experience 1
 their strategic planning 1
+its strategic plan 1
 stress professional certification 1
 computer security is 1
-administrative financial statement 1
+custodial financial statements 1
 governmentwide high-risk area 1
+risk management principles 1
+defense information systems 1
 implement central monitor 1
 must be overcome 1
 their own security 1
 several federal information 1
 appendix ii nist 1
-new monitoring tool 1
-control over classified 1
-information technology system 1
+their chief executive 1
 comprehensive organizationwide information 1
-information technology investment 1
 their own organization 1
 low-cost statewide training 1
 their primary purpose 1
 risk assessment a 1
-it overall ability 1
-it central security 1
 executive guide accounting 1
-d.c. gao report 1
 current professional literature 1
-direct future effort 1
+its overall ability 1
 information technology systems,3 1
-high risk series 1
+d.c. gao reports 1
 many senior security 1
-it various business 1
+senior executives senior 1
 their internal control 1
 computer security certification 1
 their primary focus 1
@@ -579,41 +576,43 @@ house science subcommittee 1
 adequate technical expertise 1
 notice unusual activity 1
 general accounting office 1
+controls over classified 1
 regional electric utility 1
-risk management principle 1
 their own staff 1
-related computer control 1
 internal revenue service 1
+consolidated financial statements 1
 significant competitive advantage 1
-their chief executive 1
-hold manager accountable 1
-it central information 1
+direct future efforts 1
+high risk series 1
 information security program 1
 computer security act 1
 gary r. bachula 1
 senior-level chief information 1
+related computer controls 1
 central focal point 1
-business manager accountable 1
 numerous subordinate security 1
 such high-level interest 1
 other senior agency 1
-nonfederal entity protect 1
 her central security 1
 ranking minority member 1
-computer security responsibility 1
 their current security 1
+administrative financial statements 1
 multiple individual business 1
+computer security responsibilities 1
 it investment decision-making 1
 omb circular a-130 1
+its various business 1
+hold managers accountable 1
 computer security division 1
-defense information system 1
 touche llp survey 1
 information security issued 1
-it strategic plan 1
+nonfederal entities protect 1
+information technology systems 1
+its central information 1
 michael w. gilmore 1
 brockj.aimd @ gao.gov 1
-custodial financial statement 1
-new system development 1
+information technology investments 1
+new systems development 1
 information technology laboratory 1
 their own information 1
 unauthorized commercial activity 1
@@ -621,7 +620,8 @@ effective corporatewide security 1
 undue public attention 1
 sensitive criminal justice 1
 their organization's information 1
-senior executive senior 1
+its central security 1
+new monitoring tools 1
 army's financial accountability 1
 utility's central information 1
 their existing security 1
@@ -642,15 +642,15 @@ example 33
 awareness 29
 program 28
 technology 25
-control 22
-policy 22
 addition 22
 manager 21
 company 21
+control 21
+policy 20
 computer 20
-system 19
 agency 19
 use 18
+system 18
 staff 17
 effectiveness 16
 september 15
@@ -703,7 +703,6 @@ value 7
 database 7
 fiscal 7
 regard 7
-cio 7
 time 7
 environment 6
 damage 6
@@ -734,14 +733,12 @@ fraud 5
 type 5
 expertise 5
 lack 4
-team 4
 tax 4
 data 4
 documentation 4
 office 4
 paper 4
 research 4
-size 4
 view 4
 analysis 4
 performance 4
@@ -756,13 +753,17 @@ success 4
 processing 4
 manufacturer 4
 official 4
+cio 4
 variety 4
 month 3
 advantage 3
 posture 3
+team 3
+cios 3
 accreditation 3
 abreast 3
 understanding 3
+november 3
 adequacy 3
 scope 3
 effort 3
@@ -773,7 +774,7 @@ a 3
 day 3
 series 3
 operation 3
-standard 3
+size 3
 threat 3
 publication 3
 part 3
@@ -787,7 +788,6 @@ defense 3
 federal 3
 future 3
 context 3
-november 3
 encryption 3
 meeting 3
 case 3
@@ -814,11 +814,11 @@ a-130 2
 perspective 2
 version 2
 body 2
+behavior 2
 change 2
 forum 2
 shift 2
 study 2
-action 2
 classification 2
 flexibility 2
 appendix 2
@@ -827,7 +827,6 @@ sense 2
 united 2
 goal 2
 discussion 2
-law 2
 agenda 2
 interconnectivity 2
 mission 2
@@ -837,9 +836,11 @@ retailing 2
 production 2
 superhighway 2
 bank 2
+principles 2
 funding 2
 issue 2
 cissp 2
+standard 2
 likelihood 2
 turn 2
 purpose 2
@@ -853,7 +854,6 @@ conduit 2
 hacking 2
 gao/hr-97-9 2
 mix 2
-principle 2
 bomb 2
 employee 2
 set 2
@@ -863,7 +863,6 @@ concern 2
 review 2
 nature 2
 progress 2
-infrastructure 2
 approval 2
 company's 2
 connection 2
@@ -871,7 +870,7 @@ point 2
 commission 2
 direction 2
 governmentwide 2
-behavior 2
+policies 2
 member 2
 effect 2
 gao/aimd-96-110 2
@@ -883,7 +882,6 @@ authority 2
 recognition 2
 market 2
 retailer 2
-guideline 2
 additional 2
 function 2
 delivery 2
@@ -901,7 +899,6 @@ focus 1
 code 1
 query 1
 pretense 1
-technique 1
 weakening 1
 breach 1
 oversight 1
@@ -911,10 +908,12 @@ reader 1
 none 1
 print 1
 solution 1
+standards 1
 convenience 1
 enhance 1
 inspection 1
 trend 1
+guidelines 1
 feasibility 1
 design 1
 educate 1
@@ -930,13 +929,13 @@ exchange 1
 explore 1
 operating 1
 consideration 1
-[ 1
 box 1
 gao/t-aimd-96-1 1
 experience 1
 tolerating 1
 justice 1
 cert 1
+action 1
 implement 1
 regardless 1
 enactment 1
@@ -981,15 +980,16 @@ diagram 1
 abuse 1
 organization's 1
 faculty 1
+law 1
 appropriateness 1
 element 1
 pay 1
 gao/aimd-97-89 1
 personal 1
 absence 1
+systems 1
 versus 1
 gao/aimd-95-117 1
-return 1
 food 1
 material 1
 gao/aimd-95-118 1
@@ -1003,7 +1003,6 @@ capability 1
 gao/aimd-10.1.15 1
 quarter 1
 noncompliance 1
-mean 1
 week 1
 weight 1
 energy 1
@@ -1017,7 +1016,6 @@ health 1
 deloitte 1
 surprise 1
 independence 1
-ass 1
 foundation 1
 pub 1
 difficulty 1
@@ -1036,6 +1034,7 @@ gao/t-aimd-98-128 1
 opportunity 1
 compatibility 1
 priority 1
+returns 1
 compromise 1
 store 1
 compunction 1
@@ -1062,7 +1061,8 @@ potential 1
 gao/aimd-97-128 1
 deterioration 1
 track 1
-gao/t-aimd-97-76 1
+techniques 1
+infrastructures 1
 segment 1
 gao/aimd-98-18 1
 placement 1
@@ -1070,15 +1070,20 @@ popularity 1
 dod 1
 gao/aimd-98-127 1
 fact 1
+laws 1
 atmosphere 1
 violation 1
 text 1
 gao/t-aimd-96-75 1
+controls 1
 theme 1
 continuity 1
+means 1
 october 1
+actions 1
 coordinating 1
 comply 1
+teams 1
 exercise 1
 logbook 1
 secretary 1
@@ -1092,6 +1097,7 @@ reform 1
 gao/osi-94-2 1
 justified 1
 approach 1
+infrastructure 1
 opening 1
 subject 1
 efficiency 1
@@ -1105,6 +1111,7 @@ firewall 1
 overview 1
 applicability 1
 table 1
+[ 1
 conference 1
 stamp 1
 acceptance 1
@@ -1170,7 +1177,9 @@ world 1
 password 1
 desire 1
 pertinent 1
+sizes 1
 manual 1
+communications 1
 indication 1
 night 1
 conclusion 1
@@ -1191,23 +1200,25 @@ medicare 1
 backup 1
 disclosure 1
 gao/t-aimd/ggd-94-183 1
-communication 1
+assess 1
 guard 1
 involvement 1
 gao/aimd-10.1.14 1
 determine 1
 gao/aimd-10.1.19 1
+guideline 1
 rely 1
+gao/t-aimd-97-76 1
 ] 1
 legislation 1
 specifically 1
-custom 1
 start 1
 way 1
 gao/aimd-94-120 1
 interagency 1
 form 1
 link 1
+customs 1
 memoranda 1
 gao/aimd-93-34 1
 high-quality 1
@@ -1233,79 +1244,80 @@ decision 1
 
  Arbitary length NP 
 information security management page 11
-chief financial officer act 3
-federal automated information resource 3
+federal automated information resources 3
 gao/aimd-98-68 information security management page 3
-certified information system security professional 2
-defense pose increasing risk 2
-information system security association 2
+chief financial officers act 3
+information systems security association 2
+defense pose increasing risks 2
 federal family education loan information system 1
-central security group generally 1
-improved management control needed 1
-information security management ass risk 1
-mission performance through strategic information management 1
-information management division may 1
-military retirement trust fund 1
-out key activity overall 1
-information technology management executive guide 1
-issue affecting federal information security security 1
-analyzing security incident keeping 1
-apply fundamental risk management principle 1
-security gao/aimd-98-68 information security management page 1
-chief information officer council 1
-focal determine need evaluate control point promote awareness 1
-determine need implement central monitor 1
-information security risk weakness abound 1
-information security management practice 1
-computer security compliance test 1
-information management division gao/aimd-98-68 information security management page 1
+issues affecting federal information security security 1
 central security management group several 1
-national technical information service 1
-computer hacker information available 1
-information security objective common 1
-information technology management reform act 1
-nonfederal entity face similar risk 1
-their own individual unit 1
-risk management cycle practice principle 1
-security responsibility outside their own organization 1
-eight central information security management group practice 1
-accountability should be made explicit 1
-management attention ha been lacking 1
-federal family education loan program's financial statement 1
-develop practical risk assessment 1
-improper navy civilian payroll payment 1
-information system analyst information management ernest 1
-gene l. dodaro assistant comptroller general accounting 1
-focal evaluate control point promote awareness 1
-vice president albert gore 1
-computer security resource clearinghouse 1
-chief information officer council's 1
-risk management cycle ass risk 1
-executive guide information security management learning 1
-federal information processing standard publication 1
+weak computer controls increase risk 1
+information management division may 1
+security gao/aimd-98-68 information security management page 1
+military retirement trust fund 1
+central security group generally 1
+eight central information security management groups practice 1
+information technology management executive guide 1
+implementing risk management practices omb 1
+deposit insurance corporation's internal controls 1
+computer security compliance test 1
+focal determine needs evaluate controls point promote awareness 1
+risk management cycle assess risk 1
 carnegie-mellon computer emergency response team 1
-federal chief information officer council washington april 1
-content federal information security 1
-computer security should be periodically 1
-deposit insurance corporation's internal control 1
+international information integrity institute 1
+international information systems security certification consortium 1
+computer security resource clearinghouse 1
+controlling electronic filing fraud 1
+information security management practice 1
+information security objectives common 1
+information management division gao/aimd-98-68 information security management page 1
+determine needs assess risk 1
 business process reengineering assessment guide 1
-gao/aimd-98-68 information security management security act 1
+chief information officers council's 1
+information technology management reform act 1
+national technical information service 1
+their own individual unit 1
+chief information officers council 1
+improper navy civilian payroll payments 1
+computer security should be periodically 1
+information systems analyst information management ernest 1
+apply fundamental risk management principles 1
+certified information system security professionals 1
+vice president albert gore 1
+gene l. dodaro assistant comptroller general accounting 1
+risk management principles provide a framework 1
+contents federal information security 1
+develop practical risk assessment 1
+executive guide information security management learning 1
+federal family education loan program's financial statements 1
 new governmentwide high-risk issue.2 1
-risk management principle provide a framework 1
+were implemented though similar 1
+mission performance through strategic information management 1
+out key activities overall 1
+chief financial officers council's 1
+gao/aimd-98-68 information security management security act 1
+information security management assess risk 1
+federal chief information officers council washington april 1
+accountability should be made explicit 1
 central security focal point 1
 broader information management strategy 1
-were implemented though similar 1
-chief financial officer council's 1
-implementing risk management practice omb 1
-utility's nine-member central group 1
+analyzing security incidents keeping 1
+focal evaluate controls point promote awareness 1
 computer security should be 1
-federal information processing standard 1
-determine need ass risk 1
-national crime information center 1
-weak computer control increase risk 1
-international information integrity institute 1
-concern federal information security 1
-international information system security certification consortium 1
 senior evaluator division washington 1
+management attention has been lacking 1
+security responsibilities outside their own organizations 1
+nonfederal entities face similar risks 1
+federal information processing standards publication 1
+national crime information center 1
+utility's nine-member central group 1
+determine needs implement central monitor 1
+risk management cycle practices principles 1
+information security risks weaknesses abound 1
+concern federal information security 1
+improved management controls needed 1
+federal information processing standards 1
+computer hacker information available 1
 information security management appendix iii major 1
-controlling electronic filing fraud 1
+certified information systems security professionals 1

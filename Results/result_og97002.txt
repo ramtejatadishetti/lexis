@@ -2,9 +2,9 @@
  Bigram NP 
 order no 3
 federal register 3
+certification provisions 2
 title xiii 2
 final rule 2
-certification provision 2
 supplementary information 2
 executive order 2
 substantial number 1
@@ -13,30 +13,30 @@ their food 1
 fiscal year 1
 fair market 1
 our assessment 1
+agriculture issues 1
 annual cost 1
 local welfare 1
 fed reg 1
 previous version 1
 current information 1
 retroactive effect 1
+consumer services 1
+et seq 1
 judicial challenge 1
-agriculture issue 1
-federal program 1
+federal programs 1
+initial month 1
 training program 1
 major rule 1
 forestry united 1
-intergovernmental review 1
 secondary school 1
 eligible food 1
 preemptive effect 1
 benefit level 1
 agriculture page 1
-consumer service 1
-et seq 1
+intergovernmental review 1
 agriculture house 1
 our report 1
 maximum amount 1
-initial month 1
 general assistance 1
 mr. robinson 1
 public interest 1
@@ -49,8 +49,7 @@ executive order no 4
 food stamp act 2
 regulatory flexibility act 2
 separate cost-benefit analysis 1
-it regulatory impact 1
-consumer service department 1
+civil justice reform 1
 administrative procedure act 1
 other relevant information 1
 kathleen e. wannisky 1
@@ -60,9 +59,10 @@ food stamp employment 1
 paperwork reduction act 1
 ms. ellen haas 1
 significant economic impact 1
+consumer services department 1
 economic development division 1
 associate general counsel 1
-civil justice reform 1
+its regulatory impact 1
 
  Unigram NP 
 department 17
@@ -80,7 +80,6 @@ i 3
 office 2
 certification 2
 title 2
-resource 2
 l. 2
 secretary 2
 result 2
@@ -102,19 +101,21 @@ exclude 2
 agency 2
 dependent 2
 collection 2
+operations 1
 code 1
 relation 1
 gao/ogc-97-2 1
 exclusion 1
 fuel 1
+resources 1
 vendor 1
 report 1
 kika 1
+resource 1
 d 1
 benefit 1
 work 1
 senate 1
-operation 1
 subject 1
 cost-benefit 1
 alcohol 1
@@ -163,16 +164,16 @@ order 1
 
  Arbitary length NP 
 mickey leland childhood hunger relief act 3
-unfunded mandate reform act 2
 omnibus budget reconciliation act 2
+unfunded mandates reform act 2
 gao/ogc-97-2 enclosure analysis under 1
 the mickey leland childhood hunger relief act 1
+honorable pat roberts chairman 1
 honorable patrick j. leahy ranking minority member committee 1
 garza ranking minority member committee 1
 a major rule issued by the department of agriculture entitled 1
 robert p. murphy general counsel enclosure 1
 mickey leland childhood hunger relief act pursuant 1
 general counsel b-275318 october 1
-current gao/ogc-97-2 federally-imposed limit 1
 honorable richard g. lugar chairman 1
-honorable pat robert chairman 1
+current gao/ogc-97-2 federally-imposed limit 1

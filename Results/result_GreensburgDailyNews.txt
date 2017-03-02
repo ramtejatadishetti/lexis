@@ -16,7 +16,7 @@ innovative development 1
 our system 1
 legal ladder 1
 his bachelor 1
-it kind 1
+its kind 1
 his dedication 1
 indiana code 1
 their behalf 1
@@ -44,15 +44,15 @@ wonderful office 1
  Trigram NP 
 decatur superior court 1
 our legal system 1
-it annual celebration 1
 his statewide vision 1
-lick spring spa 1
 l. mark bailey 1
-their social stature 1
 indiana supreme court 1
+lick springs spa 1
+their social stature 1
 randall t. shepard 1
-appeal first district 1
+its annual celebration 1
 their judicial system 1
+appeals first district 1
 decatur county court 1
 
  Unigram NP 

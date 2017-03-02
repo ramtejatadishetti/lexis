@@ -31,9 +31,9 @@ def traverse(t):
 
     else:
         if t.label() == 'NP':
-            st = Lemmatizer.lemmatize(t[0][0].lower(),pos=posWordNet[t[0][1]])
+            st = t[0][0].lower()
             for i in range(1,len(t)):
-                st += " " + Lemmatizer.lemmatize(t[i][0].lower(),pos=posWordNet[t[i][1]])
+                st += " " + t[i][0].lower()
 
             if st in gdict:
                 gdict[st] += 1

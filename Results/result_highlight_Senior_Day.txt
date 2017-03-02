@@ -30,8 +30,8 @@ second thought 1
 boston medical center 1
 our judicial system 1
 walk-in legal clinic 1
-new york time 1
 regular medical care 1
+new york times 1
 
  Unigram NP 
 patient 4
