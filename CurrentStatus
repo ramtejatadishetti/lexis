@@ -1,0 +1,15 @@
+
+Phrases : phrases using semantria
+          reason NP's phrases are bad
+          
+glove  for word embeddings:
+get embeddings of phrases -- average of individual word embeddings
+
+ clustering on top of these embeddings
+ kmeans
+ gaussian
+ hierarchial
+ 
+ analysing the phrase embeddings
+ 2 clusters for any data for type of clustering which 
+ 
