@@ -1,6 +1,11 @@
 
-Phrases : phrases using semantria
-          reason NP's phrases are bad, redundant noun phrases, common nouns, 
+Phrases : 
+Problems with NP phrases :
+reason NP's phrases are bad, redundant noun phrases, named entities which are not relevant to theme of document
+most of the times. (examples)
+
+Phrases using semantria
+          
           
 Glove  for word embeddings:
 we intially tried with wikipedia text but that had significnt number of unknowns 
