@@ -17,8 +17,15 @@ get embeddings of phrases -- average of individual word embeddings, for unknown 
  clustering on top of these embeddings
  kmeans
  gaussian
- hierarchial
+
+Visualizing using TSNE :
  
  analysing the phrase embeddings
- 2 clusters for any data for any type of clustering
+ 2 clusters for any data for any type of clustering.
+ Since 2 clustering models returned number of clusters as 2. So we concluded phrase embeddings are the reason for poor clustering.
+ 
+ Approaches:
+ After getting key phrases from semantria , use a similar model like word2vec in which phrases from semantria as treated as word
+ cons - cannot learn embeddings for new phrases, to include new phrases we might need to retrain again.
+ 
  
