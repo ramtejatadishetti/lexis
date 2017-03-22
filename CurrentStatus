@@ -10,9 +10,9 @@ Phrases using semantria
 Glove  for word embeddings:
 we intially tried with wikipedia text but that had significnt number of unknowns 
 Now we tried with 300 dimension common crawl data. Even this has unknown wordsbut the number is less , out of 80K hardly
-4k words are unknown.
+1.2k words are unknown.
 
-get embeddings of phrases -- average of individual word embeddings, for unknown words we have simple ignored the word embedding 
+get embeddings of phrases -- average of individual word embeddings, for unknown words we have simply ignored the word embedding 
 
  clustering on top of these embeddings
  kmeans
