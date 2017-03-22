@@ -25,7 +25,15 @@ Visualizing using TSNE :
  Since 2 clustering models returned number of clusters as 2. So we concluded phrase embeddings are the reason for poor clustering.
  
  Approaches:
- After getting key phrases from semantria , use a similar model like word2vec in which phrases from semantria as treated as word
+ Our method: After getting key phrases from semantria , use a similar model like word2vec in which phrases from semantria as treated as word
  cons - cannot learn embeddings for new phrases, to include new phrases we might need to retrain again.
+ pros - Gets context of phrase from within the domain. Does not care about context outside the domain, which is helpful for our particular application.
  
+ Feature rich Compositional Transform: This method applies a function on topof the word embeddings, re-learned from the Mikolov embeddings.
+ cons - Data set required to train the model needs to be huge!
+ pros - Generalizes better. Retraining not needed.
+ 
+ Time-Delayed Neural Networks: Refer Paper (Socher, Manning, Ng)
+ cons - Data set required to train the model needs to be huge!
+ pros - Generalizes better. Retraining not needed.
  
