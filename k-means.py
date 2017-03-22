@@ -5,10 +5,8 @@ import numpy
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
-datafolders     = '../lexis/Data'
-foldernames     = os.listdir(datafolders)
 
-resultdatapath  = './Results_pickle'
+resultdatapath  = './Results'
 resultdatafiles = os.listdir(resultdatapath)
 
 default = raw_input('use default value for number of clusters? Press y or n: ')
@@ -21,41 +19,31 @@ else:
     print 'Invalid entry. Using default setting'
     k = 25
 
-for folder in foldernames:
-    print folder
-    i = 0
-    phrase_embeddings = []
-    phrase_embedding  = []
-    phrases           = {}
-    silhouettes       = {}
-    datafiles = os.path.join(datafolders, folder)
-    filenames = os.listdir(datafiles)
-    for f in filenames:
-        if re.match('.*\.txt',f):
-            #print f
-            for resultfile in resultdatafiles:
-                parentfile = re.findall('result_50d_(.*)_.*.pickle',resultfile)
-                
-                if f == parentfile[0]:
-                    #print resultfile
-                    filepath    = os.path.join(resultdatapath, resultfile)
-                    phrase_file = pickle.load(open(filepath,'rb'))
-                    for phrase in phrase_file.keys():
-                        phrase_embedding.append((phrase, phrase_file[phrase]))
-                        phrase_embeddings.append(phrase_file[phrase])
+
+for resultfile in resultdatafiles:
+    phrase_embedding = []
+    embeddings = []
+    silhouettes = {}
+    parentfile = re.findall('result_300d_p_(.*)\.pickle',resultfile)
+    print parentfile[0]
+    filepath    = os.path.join(resultdatapath, resultfile)
+    phrase_file = pickle.load(open(filepath,'rb'))
+    for phrase in phrase_file.keys():
+        phrase_embedding.append((phrase, phrase_file[phrase]))
+        embeddings.append(phrase_file[phrase])
                                     
-            print 'number of phrases loaded: ', len(phrase_embedding)
+    print 'number of phrases loaded: ', len(phrase_embedding)
     
-    pickle.dump(phrase_embedding, open(folder + '_embeddings.pkl','wb'))
+    pickle.dump(phrase_embedding, open(parentfile[0] + '_embeddings.pkl','wb'))
     
     for n in range(2,k+1):
-
+        print n
         model    = KMeans(n_clusters = n)
-        clusters = model.fit_predict(phrase_embeddings)
+        clusters = model.fit_predict(embeddings)
 
-        silhouettes[n] = silhouette_score(phrase_embeddings, clusters, sample_size = 1000)
+        silhouettes[n] = silhouette_score(embeddings, clusters, sample_size = 1000)
     
-    clusterfile = folder + '_scores.pkl'    
+    clusterfile = parentfile[0] + '_scores.pkl'    
     pickle.dump(silhouettes, open(clusterfile,'wb'))
 
     n_cluster = sorted(silhouettes, key=silhouettes.__getitem__, reverse=True)[0]
@@ -63,13 +51,13 @@ for folder in foldernames:
     print 'optimal number of clusters: ', n_cluster
 
     model    = KMeans(n_clusters = n_cluster)
-    clusters = model.fit_predict(phrase_embeddings)
+    clusters = model.fit_predict(embeddings)
     
-    optimal_cluster = folder + '_optimal_cluster.pkl'
+    optimal_cluster = parentfile[0] + '_optimal_cluster.pkl'
     pickle.dump(clusters, open(optimal_cluster,'wb'))
 
 
-    print folder + ' done. Moving on. \n'
+    print parentfile[0] + ' done. Moving on. \n'
 
 '''
 phrase_embeddings = []
