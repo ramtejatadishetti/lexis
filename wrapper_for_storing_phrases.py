@@ -18,11 +18,11 @@ for entry in fileList.keys():
         reader = csv.reader(f) 
         for row in reader:
             words_in_phrases = row[0].split()
-            single_word = words_in_phrases[0]
+            single_word = words_in_phrases[0].lower()
             if len(words_in_phrases) > 1:
                 for i in range(1, len(words_in_phrases)):
                     single_word += '-'
-                    single_word += words_in_phrases[i]
+                    single_word += words_in_phrases[i].lower()
 
             phrase_list.append(single_word)
 
