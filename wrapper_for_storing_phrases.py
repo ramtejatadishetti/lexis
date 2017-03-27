@@ -26,9 +26,9 @@ for entry in fileList.keys():
 
             phrase_list.append(single_word)
 
-    result_name = "result" + entry + ".pickle"
-    with open(result_name, 'wb') as handle:
-        pickle.dump(phrase_list, handle, protocol=pickle.HIGHEST_PROTOCOL)
+result_name = "hyphenated_phrases_gov_data_set.pickle"
+with open(result_name, 'wb') as handle:
+    pickle.dump(phrase_list, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 
 
