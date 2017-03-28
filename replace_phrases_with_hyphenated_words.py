@@ -31,7 +31,8 @@ for entry in fileList.keys():
     print len(text_tokens)
 
     final_list = ""
-    for i in range(0, len(text_tokens)):
+    i = 0
+    while i < len(text_tokens):
         #print text_tokens[i]
         single_word = text_tokens[i].lower()
         
@@ -44,16 +45,17 @@ for entry in fileList.keys():
         if(i+2 < len(text_tokens) ):
             if triple_word in phrase_list:
                 final_list += triple_word + " "
-                i += 2
+                i += 3
                 continue
 
         if(i+1 < len(text_tokens) ):
             if double_word in phrase_list:
                 final_list += double_word + " "
-                i += 1
+                i += 2
                 continue
 
         final_list += single_word + " "
+        i += 1
 
     
     out_path = "./documents_with_phrases/" + "result_" + entry
