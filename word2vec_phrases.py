@@ -1,4 +1,4 @@
-import os, re, numpy, pickle
+import os, re, numpy, pickle, csv
 from gensim.models import word2vec
 
 
@@ -34,15 +34,21 @@ pickle.dump(word2vec_custom_model,open('./phrase_word2vec.pickle','wb'))
 semantria_phrases = pickle.load(open("hyphenated_phrases_gov_data_set.pickle","rb"))
 
 phrase_embedding_dic = {}
-unknown_words = []
+count = 0
+out_path = "./unknown_words.csv"
+target = open(out_path, 'w')
+wr = csv.writer(target, dialect='excel')
+
 for phrase in semantria_phrases:
     try:
         embedding = word2vec_custom_model.wv[phrase]
         phrase_embedding_dic[phrase] = embedding
     except KeyError:
-        print "word not in vocab: ", phrase
-        unknown_words.append(phrase)
+        count = count + 1
+        wr.writerow([phrase])
 
-print len(unknown_words)
-pickle.dump(phrase_embedding_dic,open("./word2vec_phrase_embedding","wb"))
+print "Count of words not found :" , count
+target.close()
+
+pickle.dump(phrase_embedding_dic,open("./word2vec_phrase_embedding.pickle","wb"))
 
