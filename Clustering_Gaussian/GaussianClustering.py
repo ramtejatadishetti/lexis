@@ -10,31 +10,32 @@ import numpy as np
 #name of phrase is key, and value is vector
 count=0
 X=[]
-Y=[]C
-for filename in os.listdir('C:/Users/Shruti Jadon/Documents/Semantria-embeddings/'):
+Y=[]
+#for filename in os.listdir(os.getcwd()):
     #print filename
-    a="C:/Users/Shruti Jadon/Documents/Semantria-embeddings/"+filename
+a='../../review_p_embeddings.pickle'
     #print a
-    abc=pickle.load(open(a,'rb'))
-    val= abc.values()
-    key=abc.keys()
-    for v in val:  
-        X.append(v)
-    for k in key:
-        Y.append(k)
+abc=pickle.load(open(a,'rb'))
+val= abc.values()
+key=abc.keys()
+for k, v in abc.items():  
+    X.append(v)
+    Y.append(k)
         
 #pickle.load(things to pickle, file object)        
 #gmm = mixture.GaussianMixture(n_components=5, covariance_type='full').fit(X)
 print len(X)
 print len(Y)
 Scores={}
-output = open('C:/Users/Shruti Jadon/Desktop/IndependentStudy/GMM.pkl', 'wb')
+output = open('./review_gaussian.pickle', 'wb')
 # Pickle dictionary using protocol 0.
 for v in range(2,20):
-    gmm = mixture.GaussianMixture(n_components=v, covariance_type='full').fit(X)
+    gmm = mixture.GaussianMixture(n_components=v, covariance_type='full').fit_predict(X)
     print "gmmcv"
-    Scores[v]=silhouette_score(X, Y, metric='euclidean',sample_size=1200)
-    
+    Scores[v]=silhouette_score(X, gmm, metric='euclidean',sample_size=1200)
+
+print Scores    
+
 Max=max(Scores.values())
 n_clusters=0
 pickle.dump(Scores, output)
