@@ -1,0 +1,9 @@
+First, we consider the top 391 words and find their embeddings by averaging the word embeddings of the underlaying words. 
+Spelling mistakes were corrected as well. 
+Then we cluster them manually into 24 clusters. Multiple instances of the same word are considered separately. 
+Clustering methods used: Gaussian and KMeans
+
+Evaluation criterion: Purity of clusters
+
+According to purity, scoring for all clusters is between 48 and 52. 
+
