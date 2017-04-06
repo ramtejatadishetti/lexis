@@ -5,14 +5,14 @@ import numpy as np
 import pickle
 
 #load phrases as hyphenated words
-with open("hyphenated_phrases_gov_data_set.pickle", 'rb') as handle:
+with open("hyphenated_phrases_review_data_set.pickle", 'rb') as handle:
     phrase_list = pickle.load(handle)
 
 
 
 #List of files that needs to be processed
 fileList = {};
-datapath = "./Data"
+datapath = "./hotels_text_files"
 datafolders = os.listdir(datapath);
 for folder in datafolders:
     folderpath = os.path.join(datapath, folder);
@@ -25,7 +25,7 @@ for folder in datafolders:
 
 for entry in fileList.keys():
     print "Analysing file: " + fileList[entry]
-    text = open(fileList[entry]).read().decode('utf8')
+    text = open(fileList[entry]).read().decode('latin1')
     text_tokens =  nltk.word_tokenize(text)
     #text_tokens = [nltk.word_tokenize(sent) for sent in sentences] 
     print len(text_tokens)
@@ -58,7 +58,7 @@ for entry in fileList.keys():
         i += 1
 
     
-    out_path = "./documents_with_phrases/" + "result_" + entry
+    out_path = "./documents_with_phrases_reviews/" + "result_" + entry
     #out_path.replace(".txt", "")
 
     target = open(out_path, 'w')

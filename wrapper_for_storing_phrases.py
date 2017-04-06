@@ -2,22 +2,25 @@ import os,re
 import pickle
 import csv
 
+'''
 #List of files that needs to be processed
 fileList = {};
-datapath = "./Phrases_semantria"
+datapath = "../Phrases_semantria"
 datafile = os.listdir(datapath);
 for files in datafile:
     if re.match(".*\.csv",files):
         filepath = os.path.join(datapath, files);
         fileList[files] = filepath;
-
+'''
+fileList = {}
+fileList['trip.csv'] = '/Users/ankitamehta/Desktop/masters/696LA/lexalytics/lexa_data/out/trip.csv'
 phrase_list = []
 # make a pickle of phrases by reading
 for entry in fileList.keys():
     with open(fileList[entry],'rb') as f:
         reader = csv.reader(f) 
         for row in reader:
-            words_in_phrases = row[0].split()
+            words_in_phrases = row[1].split()
             single_word = words_in_phrases[0].lower()
             if len(words_in_phrases) > 1:
                 for i in range(1, len(words_in_phrases)):
@@ -26,7 +29,7 @@ for entry in fileList.keys():
 
             phrase_list.append(single_word)
 
-result_name = "hyphenated_phrases_gov_data_set.pickle"
+result_name = "hyphenated_phrases_review_data_set.pickle"
 with open(result_name, 'wb') as handle:
     pickle.dump(phrase_list, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
