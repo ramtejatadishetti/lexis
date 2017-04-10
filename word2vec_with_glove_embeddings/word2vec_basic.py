@@ -28,19 +28,25 @@ import numpy as np
 from six.moves import urllib
 from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
+import pickle
+
+import nltk
+from nltk.stem import WordNetLemmatizer
+
+Lemmatizer = WordNetLemmatizer()
 
 # Step 1: Download the data.
 url = 'http://mattmahoney.net/dc/'
 
 
-filename = "final_corpus.txt"
+filename = "tokenized_sentences.txt"
 
 
 # Read the data into a list of strings.
 def read_data(filename):
     """Extract the first file enclosed in a zip file as a list of words."""
     with open(filename) as f:
-        data = tf.compat.as_str(f.read()).split()
+        data = tf.compat.as_str(f.read().decode('utf8')).split()
     return data
 
 
@@ -48,9 +54,9 @@ vocabulary = read_data(filename)
 print('Data size', len(vocabulary))
 
 # Step 2: Build the dictionary and replace rare words with UNK token.
-vocabulary_size = len(vocabulary)
+vocabulary_size = 10000
 
-
+    
 def build_dataset(words, n_words):
     """Process raw inputs into a dataset."""
     count = [['UNK', -1]]
@@ -131,6 +137,83 @@ num_sampled = 64    # Number of negative examples to sample.
 
 graph = tf.Graph()
 
+#load Glove dictionaries from pickle
+with open("gov_data.pickle", 'rb') as handle:
+    print("Opening pickle")
+    glove_dict = pickle.load(handle)
+    print('completed opening')
+
+def get_average_phrase_embedding(phrase, embedding_size, low_index, high_index, unk_vecs):
+    list_of_words = phrase.split('-')
+    init_embedding = np.zeros(embedding_size)
+    phrase_length = len(list_of_words)
+
+    for i in range(0,len(list_of_words)):
+
+        if list_of_words[i] in glove_dict:
+            if len(init_embedding) == len(glove_dict[list_of_words[i]]):
+                init_embedding = init_embedding + glove_dict[list_of_words[i]]
+            else:
+                if list_of_words[i] in unk_vecs:
+                    init_embedding = init_embedding + unk_vecs[list_of_words[i]]
+
+                else:
+                    vec =  ( (high_index - low_index )*np.random.rand(1, embedding_size) + low_index )
+                    unk_vecs[list_of_words[i]] = vec[0]
+                    init_embedding = init_embedding + vec[0]
+
+
+
+        # if word is not present then try for its lemma
+        else:
+            lemmatized_word = Lemmatizer.lemmatize(list_of_words[i])
+            if lemmatized_word in glove_dict:
+                if len(init_embedding) == len(glove_dict[lemmatized_word]):
+                    init_embedding = init_embedding + glove_dict[lemmatized_word]
+
+                else:
+                    if list_of_words[i] in unk_vecs:
+                        init_embedding = init_embedding + unk_vecs[list_of_words[i]]
+
+                    else:
+                        vec =  ( (high_index - low_index )*np.random.rand(1, embedding_size) + low_index )
+                        unk_vecs[list_of_words[i]] = vec[0]
+                        init_embedding = init_embedding + vec[0]
+
+
+        # if lemma is not present treat the word as unknown tag
+            else:
+                if list_of_words[i] in unk_vecs:
+                    init_embedding = init_embedding + unk_vecs[list_of_words[i]]
+                else:
+                    vec =  ( (high_index - low_index )*np.random.rand(1, embedding_size) + low_index )
+                    unk_vecs[list_of_words[i]]  = vec[0]
+                    init_embedding = init_embedding + vec[0]
+ 
+#    print init_embedding
+    
+#    print "\n"
+
+    for i in range(0,len(init_embedding)):
+        init_embedding[i] = float(init_embedding[i])/phrase_length
+
+    return init_embedding
+
+
+def get_vocab_embeddings(data):
+    total_size = len(data)
+
+    unk_vecs = {}
+    embedding_array = get_average_phrase_embedding(str(data[0]), 300, -1, 1, unk_vecs)
+
+    for i in range(1,len(data)):
+        embedding_array = np.vstack( ( embedding_array, get_average_phrase_embedding(str(data[i]), 300, -1, 1, unk_vecs) ) )
+
+    return embedding_array
+    
+
+
+
 with graph.as_default():
 
     # Input data.
@@ -138,11 +221,22 @@ with graph.as_default():
     train_labels = tf.placeholder(tf.int32, shape=[batch_size, 1])
     valid_dataset = tf.constant(valid_examples, dtype=tf.int32)
 
-    # Ops and variables pinned to the CPU because of missing GPU implementation
+ 
     with tf.device('/cpu:0'):
         # Look up embeddings for inputs.
-        embeddings = tf.Variable(
-            tf.random_uniform([vocabulary_size, embedding_size], -1.0, 1.0))
+        #embeddings = tf.Variable(
+        #    tf.random_uniform([vocabulary_size, embedding_size], -1.0, 1.0))
+
+
+
+        vocab_embeddings = get_vocab_embeddings(data)
+
+        W = tf.Variable(tf.constant(0.0, shape=[vocab_embeddings.shape[0], vocab_embeddings.shape[1]]), trainable=False, name="W")
+
+        embedding_placeholder = tf.placeholder(tf.float32, [vocab_embeddings.shape[0], vocab_embeddings.shape[1]])
+        embeddings = W.assign(embedding_placeholder)
+        
+        #embeddings = tf.constant(vocab_embeddings, name="embeddings")
         embed = tf.nn.embedding_lookup(embeddings, train_inputs)
 
         # Construct the variables for the NCE loss
@@ -178,7 +272,7 @@ with graph.as_default():
     init = tf.global_variables_initializer()
 
 # Step 5: Begin training.
-num_steps = 100001
+num_steps = 1000
 
 with tf.Session(graph=graph) as session:
     # We must initialize all variables before we use them.
@@ -187,6 +281,7 @@ with tf.Session(graph=graph) as session:
 
     average_loss = 0
     for step in xrange(num_steps):
+        print (step)
         batch_inputs, batch_labels = generate_batch(
             batch_size, num_skips, skip_window)
         feed_dict = {train_inputs: batch_inputs, train_labels: batch_labels}
@@ -196,9 +291,9 @@ with tf.Session(graph=graph) as session:
         _, loss_val = session.run([optimizer, loss], feed_dict=feed_dict)
         average_loss += loss_val
 
-        if step % 2000 == 0:
+        if step % 200 == 0:
             if step > 0:
-                average_loss /= 2000
+                average_loss /= 200
             # The average loss is an estimate of the loss over the last 2000
             # batches.
             print('Average loss at step ', step, ': ', average_loss)
@@ -206,7 +301,7 @@ with tf.Session(graph=graph) as session:
 
         # Note that this is expensive (~20% slowdown if computed every 500
         # steps)
-        if step % 10000 == 0:
+        if step % 1000 == 0:
             sim = similarity.eval()
             for i in xrange(valid_size):
                 valid_word = reverse_dictionary[valid_examples[i]]
@@ -218,6 +313,13 @@ with tf.Session(graph=graph) as session:
                     log_str = '%s %s,' % (log_str, close_word)
                 print(log_str)
     final_embeddings = normalized_embeddings.eval()
+
+    with open('final_embeddings.pickle', 'wb') as handle:
+        pickle.dump(final_embeddings, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+    with open('data.pickle', 'wb') as handle:
+        pickle.dump(data, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
 
 # Step 6: Visualize the embeddings.
 
@@ -237,7 +339,7 @@ def plot_with_labels(low_dim_embs, labels, filename='tsne.png'):
 
     plt.savefig(filename)
 
-
+'''
 try:
     # pylint: disable=g-import-not-at-top
     from sklearn.manifold import TSNE
@@ -251,3 +353,4 @@ try:
 
 except ImportError:
     print('Please install sklearn, matplotlib, and scipy to show embeddings.')
+'''
