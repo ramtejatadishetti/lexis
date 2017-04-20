@@ -13,29 +13,40 @@ X=[]
 Y=[]
 #for filename in os.listdir(os.getcwd()):
     #print filename
-a='../../review_p_embeddings.pickle'
-b=csv.reader(open('../word_clusters.csv','rb'))
+a='../word2vec_gov_init_embedding/trained_averaged_embeddings.pickle'
+
+#b=csv.reader(open('../bellagio.csv','rb'))
 
 abc=pickle.load(open(a,'rb'))
 
-#val= abc.values()
+val= type(abc.values())
 #key=abc.keys()
+for k,val in abc.items():
+    if val == []: print k
 
-for row in b:
-    phrase = row[1]
-    cid = row[0]  
+#print len(abc.keys())
+#print abc['entire trip']
+#print key
+
+for row in abc.keys():
+    phrase = row
+    #cid = row[0]  
     try:
         X.append(abc[phrase.lower()])
+        #print phrase.lower(), len(abc[phrase.lower()])
         Y.append(phrase)
     except KeyError:
         print 'got a key error: ', phrase.lower()
+    #print X
 #pickle.load(things to pickle, file object)        
 #gmm = mixture.GaussianMixture(n_components=5, covariance_type='full').fit(X)
+
 print len(X)
 print len(Y)
-Scores={}
-output = open('./review_gaussian.pickle', 'wb')
+#Scores={}
+#output = open('../bellagio_clusters/bellagio_gaussian.pickle', 'wb')
 # Pickle dictionary using protocol 0.
+
 '''
 for v in range(2,20):
     gmm = mixture.GaussianMixture(n_components=v, covariance_type='full').fit(X)
@@ -56,24 +67,25 @@ for k in Scores.keys():
 
 print n_clusters        
 '''
+
 #n_components = input('number of clusters to be considered: ')
 
-for n_cluster in range(29,60):
+for n_cluster in range(4000,4001):
+    
     print n_cluster
-    file_obj = open('cluster_gaussian_reviews_' + str(n_cluster) + '.csv','wb')
+    file_obj = open('../word2vec_gov_init_embedding/gov_clusters_' + str(n_cluster) + '.csv','wb')
     out_file = csv.writer(file_obj,delimiter=',')
     gmm_1=mixture.GaussianMixture(n_components=n_cluster, covariance_type='full').fit(X)
     pred_clusters = mixture.GaussianMixture.predict(gmm_1,X)
 
-
-
-    #print pred_clusters
+    print pred_clusters
     for i in range(len(pred_clusters)):
         new_row = [pred_clusters[i],Y[i]]       
         out_file.writerow(new_row)        
     
     file_obj.close()
     
+
 '''
 color_iter = itertools.cycle(['navy', 'c', 'cornflowerblue', 'gold',
                               'darkorange'])
@@ -88,7 +100,6 @@ def plot_results(X, Y, means, covariances, index, title):
         v = 2. * np.sqrt(2.) * np.sqrt(v)
         u = w[0] / linalg.norm(w[0])
         # as the DP will not use every component it has access to
-        # unless it needs it, we shouldn't plot the redundant
         # components.
         if not np.any(Y == i):
             continue

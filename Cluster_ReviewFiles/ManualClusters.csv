@@ -16,7 +16,8 @@
 2,next trip,
 2,entire trip,
 3,front entry way,
-3,free wifi,2
+3,free wifi,
+3,free wifi,
 3,free breakfast,
 3,buffet line,
 3,full elevators,
@@ -31,7 +32,8 @@
 3,gorgeous grounds,
 3,wonderful server,
 3,perfect walking access,
-3,great restaurant ,2
+3,great restaurant ,
+3,great restaurant ,
 3,perfect access,
 3,easy access,
 3,courtyard facility,
@@ -360,7 +362,7 @@
 22,disappointing experience,
 22,really tacky,
 22,poor review,
-22,really annnoying,
+22,really annoying,
 22,little sprucing,
 22,smokey smell,
 22,noise levels,
