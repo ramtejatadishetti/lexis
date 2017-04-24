@@ -1,0 +1,8 @@
+
+#make an object of liwc_helper
+liwc = liwc_helper(liwcPath=<path_to_LIWC_file>)
+
+# Given a sentence it gives averaged features
+# given only word it just gives features of that word
+liwc_feature = liwc.getLIWCNormalizedFeatures(text)
+
