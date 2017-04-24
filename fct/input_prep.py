@@ -114,19 +114,47 @@ print "TOTAL TRAIN EXAMPLES", train_count
 
 with open("phrase.pickle", 'wb') as handle:
         pickle.dump(g_phrase_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+print "phrase_pickle completed"
 
 with open("vocab.pickle", 'wb') as handle:
         pickle.dump(g_vocab_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+print "vocab_pickle completed"
 
 with open("reverse_vocab.pickle", 'wb') as handle:
         pickle.dump(g_reverse_vocab_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+print "reverse_vocab_pickle completed"
 
 with open("train.pickle", 'wb') as handle:
         pickle.dump(g_train_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+print "train_pickle completed"
+
+#load glove pickle
+glove_300d_dict = None
+with open(path_to_glove_dir + "glove_300d.pickle", 'rb') as handle:
+    glove_300d_dict = pickle.load(handle)
 
 
+embedding_size = 300
+def get_word_embedding(unk, glove, word):
+    if word in glove:
+        return glove[word]
+    elif word in unk:
+        return unk[word]
+    else:
+        unk[word] = ( (2 )*np.random.rand(1, embedding_size) - 1 )
+        glove[word] = unk[word]
+        return glove[word]
 
+#get embeddings for words in vocab
+vocab_count = len(g_reverse_vocab_dict.keys())
+unk_embeddings = {}
 
+embeddings = np.ndarray(shape=(vocab_count, dim_size), dtype=np.float)
+for i in range(0, vocab_count):
+    word  = g_reverse_vocab_dict[i]
+    word_embedding = get_word_embedding(unk_embeddings, glove_300d_dict, word)
+    embeddings[i] = np.asarray(word_embedding)
 
-
-
+with open("embeddings_reviews.pickle", 'wb') as handle:
+        pickle.dump(embeddings, handle, protocol=pickle.HIGHEST_PROTOCOL)
+print "embeddings_pickle completed"
