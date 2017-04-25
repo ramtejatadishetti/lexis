@@ -1,5 +1,6 @@
 import numpy as np
 import csv
+import pickle
 
 feature_size = 10
 vocabulary_size = 10
@@ -35,10 +36,10 @@ def build_phrase_records(input_csv_records, phrase_dict):
     for i in range(0,len(input_csv_records)):
         if i%2 == 1:
             phrase_record = []
-            for j in range(INDEX_MIN, INDEX_OUT+1):
+            for j in range(INDEX_MIN, INDEX_MAX+1):
                 phrase_record.append(input_csv_records[i-1][j])
             
-            for j in range(INDEX_MIN, INDEX_OUT+1):
+            for j in range(INDEX_MIN, INDEX_MAX+1):
                 phrase_record.append(input_csv_records[i][j])
 
             for j in range(CONTEXT_MIN, CONTEXT_MAX+1):
@@ -99,7 +100,7 @@ def make_valid_examples(total_phrase_count, phrase_dict, train_dict):
     return train_count
 
 input_csv_list = []
-with open('file.csv', 'rb') as f:
+with open('Final_features.csv', 'rb') as f:
     reader = csv.reader(f)
     input_csv_list = list(reader)
 
@@ -130,16 +131,17 @@ print "train_pickle completed"
 
 #load glove pickle
 glove_300d_dict = None
-with open(path_to_glove_dir + "glove_300d.pickle", 'rb') as handle:
+with open("glove_300d.pickle", 'rb') as handle:
     glove_300d_dict = pickle.load(handle)
 
 
 embedding_size = 300
 def get_word_embedding(unk, glove, word):
-    if word in glove:
-        return glove[word]
-    elif word in unk:
+    if word in unk:
         return unk[word]
+    elif word in glove:
+        if len(glove[word]) == embedding_size:
+            return glove[word]
     else:
         unk[word] = ( (2 )*np.random.rand(1, embedding_size) - 1 )
         glove[word] = unk[word]
@@ -149,7 +151,7 @@ def get_word_embedding(unk, glove, word):
 vocab_count = len(g_reverse_vocab_dict.keys())
 unk_embeddings = {}
 
-embeddings = np.ndarray(shape=(vocab_count, dim_size), dtype=np.float)
+embeddings = np.ndarray(shape=(vocab_count, 300), dtype=np.float)
 for i in range(0, vocab_count):
     word  = g_reverse_vocab_dict[i]
     word_embedding = get_word_embedding(unk_embeddings, glove_300d_dict, word)
