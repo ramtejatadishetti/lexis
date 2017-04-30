@@ -100,8 +100,9 @@ def make_valid_examples(total_phrase_count, phrase_dict, train_dict):
     return train_count
 
 input_csv_list = []
-with open('Final_features.csv', 'rb') as f:
-    reader = csv.reader(f)
+with open('final_input.csv', 'rb') as f:
+    #reader = csv.reader(f)
+    reader = csv.reader(x.replace('\0', '') for x in f)
     input_csv_list = list(reader)
 
 total_phrase_count = build_phrase_records(input_csv_list, g_phrase_dict)
@@ -151,7 +152,7 @@ def get_word_embedding(unk, glove, word):
 vocab_count = len(g_reverse_vocab_dict.keys())
 unk_embeddings = {}
 
-embeddings = np.ndarray(shape=(vocab_count, 300), dtype=np.float)
+embeddings = np.ndarray(shape=(vocab_count, 300), dtype=np.float32)
 for i in range(0, vocab_count):
     word  = g_reverse_vocab_dict[i]
     word_embedding = get_word_embedding(unk_embeddings, glove_300d_dict, word)

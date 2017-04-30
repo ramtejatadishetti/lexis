@@ -149,6 +149,12 @@ train_dict = None
 with open('train.pickle', 'rb') as handle:
     train_dict = pickle.load(handle)
 
+
+np_embeddings = None
+with open('embeddings_reviews.pickle', 'rb') as handle:
+    np_embeddings = pickle.load(handle)
+
+
 train_count = len(train_dict.keys())
 adjusted_train_count = ( train_count/batch_size )* batch_size
 
@@ -179,8 +185,10 @@ with graph.as_default():
 
     with tf.device('/cpu:0'):
 
-        embeddings = tf.Variable(
-            tf.random_uniform([vocabulary_size, embedding_size], -1.0, 1.0))
+#        embeddings = tf.Variable(
+#            tf.random_uniform([vocabulary_size, embedding_size], -1.0, 1.0))
+
+        embeddings = tf.Variable(np_embeddings, name="embeddings")
 
         feature_weights = tf.Variable(tf.random_uniform([feature_size, embedding_size], -1.0, 1.0))
         feature_bias = tf.Variable(tf.zeros([embedding_size]))
