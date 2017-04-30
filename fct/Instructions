@@ -1,0 +1,2 @@
+$python word2vec_with_randominit.py
+$python fast_word2vec_preinit.py
