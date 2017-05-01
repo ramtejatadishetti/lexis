@@ -36,7 +36,15 @@ C3_INDEX = 52
 C4_INDEX = 53
 
 INDEX_START = 0
-INDEX_END = 50 
+INDEX_END = 50
+
+
+#import math
+#val = float('nan')
+#val
+#if math.isnan(val):
+#    print('Detected NaN')
+#    import pdb; pdb.set_trace()
 
 def build_phrase_records(input_csv_records, phrase_dict):
     total_phrase_count = 0
@@ -109,9 +117,9 @@ def make_valid_examples(total_phrase_count, phrase_dict, train_dict):
         
 
 def generate_batch(batch_size, batch_no, adjusted_train_count, train_dict,\
-                    vocab_dict,reverse_vocab_dict):
+                    vocab_dict,reverse_vocab_dict, random_np_array):
 
-    offset = (batch_no % ( adjusted_train_count/batch_size ) * batch_size)
+    offset = ( (batch_no % ( adjusted_train_count/batch_size )) * batch_size)
 
     batch_features1 = np.ndarray(shape=(batch_size, feature_size), dtype=np.int32)
     batch_features2 = np.ndarray(shape=(batch_size, feature_size), dtype=np.int32)
@@ -121,11 +129,11 @@ def generate_batch(batch_size, batch_no, adjusted_train_count, train_dict,\
 
     for i in range(0,batch_size):
         #print i, i + offset,  train_dict[i + offset ][W1_INDEX],  train_dict[i + offset ][W2_INDEX], len(vocab_dict.keys()), vocab_dict['outstanding']
-        batch_features1[i] = np.asarray(train_dict[i + offset ][W1_INDEX+1 : W2_INDEX])
-        batch_features2[i] = np.asarray(train_dict[i + offset ][W2_INDEX+1 : C1_INDEX])
-        batch_input_indices1[i] = np.asarray(vocab_dict [ train_dict[i + offset ][W1_INDEX] ])
-        batch_input_indices2[i] = np.asarray(vocab_dict [ train_dict[i + offset ][W2_INDEX] ])
-        batch_output_indices[i] = np.asarray(vocab_dict [ train_dict[i + offset ][INDEX_END] ])
+        batch_features1[i] = np.asarray(train_dict[ random_np_array[i + offset] ][W1_INDEX+1 : W2_INDEX])
+        batch_features2[i] = np.asarray(train_dict[ random_np_array[i + offset] ][W2_INDEX+1 : C1_INDEX])
+        batch_input_indices1[i] = np.asarray(vocab_dict [ train_dict[ random_np_array[i + offset] ][W1_INDEX] ])
+        batch_input_indices2[i] = np.asarray(vocab_dict [ train_dict[ random_np_array[i + offset] ][W2_INDEX] ])
+        batch_output_indices[i] = np.asarray(vocab_dict [ train_dict[ random_np_array[i + offset] ][INDEX_END] ])
     
     return batch_features1, batch_features2, batch_input_indices1, batch_input_indices2, batch_output_indices
 
@@ -165,6 +173,11 @@ batch_size = 300
 feature_size = 24
 
 
+print (adjusted_train_count)
+
+print (vocabulary_size)
+
+random_np_array = np.arange(adjusted_train_count)
 
 num_steps = 10000
 
@@ -180,6 +193,10 @@ with graph.as_default():
 
     train_labels_indices = tf.placeholder(tf.int32, shape=[batch_size, 1])
 
+    embeddings = tf.placeholder( tf.float32, shape=[vocabulary_size, 300])
+
+#    preinit = tf.constant(np_embeddings, shape=[vocabulary_size, 300], dtype=tf.float32)
+
     #embedding_init_place = tf.placeholder(tf.float32, shape=(vocabulary_size, embedding_size))
     #embeddings = tf.Variable(embedding_init_place)
 
@@ -188,7 +205,10 @@ with graph.as_default():
 #        embeddings = tf.Variable(
 #            tf.random_uniform([vocabulary_size, embedding_size], -1.0, 1.0))
 
-        embeddings = tf.Variable(np_embeddings, name="embeddings")
+
+        #embeddings = tf.get_variable('embeddings', initializer=preinit, validate_shape=False)
+
+        #embeddings = tf.Variable(np_embeddings, name="embeddings")
 
         feature_weights = tf.Variable(tf.random_uniform([feature_size, embedding_size], -1.0, 1.0))
         feature_bias = tf.Variable(tf.zeros([embedding_size]))
@@ -217,7 +237,7 @@ with graph.as_default():
                        num_sampled=num_sampled,
                        num_classes=vocabulary_size))
 
-    optimizer = tf.train.GradientDescentOptimizer(0.1).minimize(loss)
+    optimizer = tf.train.GradientDescentOptimizer(0.00000000001).minimize(loss)
 
     norm = tf.sqrt(tf.reduce_sum(tf.square(embeddings), 1, keep_dims=True))
     normalized_embeddings = embeddings / norm
@@ -235,13 +255,15 @@ with tf.Session(graph=graph) as session:
         batch_input_indices1, batch_input_indices2,\
         batch_output_indices,\
             = generate_batch(batch_size, step, adjusted_train_count, train_dict,\
-                    vocab_dict,reverse_vocab_dict)
+                    vocab_dict,reverse_vocab_dict, random_np_array)
 
+#        print (batch_features1[0])
         feed_dict = {train_input_feature_set1: batch_features1, \
                         train_input_feature_set2: batch_features2, \
                         train_input_indices_word1: batch_input_indices1, \
                         train_input_indices_word2: batch_input_indices2, \
-                        train_labels_indices: batch_output_indices}
+                        train_labels_indices: batch_output_indices, \
+                        embeddings: np_embeddings}
 
         _, loss_val = session.run([optimizer, loss], feed_dict=feed_dict)
         average_loss += loss_val

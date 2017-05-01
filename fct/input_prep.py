@@ -100,9 +100,9 @@ def make_valid_examples(total_phrase_count, phrase_dict, train_dict):
     return train_count
 
 input_csv_list = []
-with open('final_input.csv', 'rb') as f:
-    #reader = csv.reader(f)
-    reader = csv.reader(x.replace('\0', '') for x in f)
+with open('Final_features.csv', 'rb') as f:
+    reader = csv.reader(f)
+#    reader = csv.reader(x.replace('\0', '') for x in f)
     input_csv_list = list(reader)
 
 total_phrase_count = build_phrase_records(input_csv_list, g_phrase_dict)
