@@ -35,15 +35,21 @@ def build_phrase_records(input_csv_records, phrase_dict):
     total_phrase_count = 0
     for i in range(0,len(input_csv_records)):
         if i%2 == 1:
+            flag = 0
+
             phrase_record = []
-            for j in range(INDEX_MIN, INDEX_MAX+1):
+            phrase_record.append(input_csv_records[i-1][INDEX_MIN].lower())
+
+            for j in range(INDEX_MIN+1, INDEX_MAX+1):
                 phrase_record.append(input_csv_records[i-1][j])
-            
-            for j in range(INDEX_MIN, INDEX_MAX+1):
+
+            phrase_record.append(input_csv_records[i][INDEX_MIN].lower())
+
+            for j in range(INDEX_MIN+1, INDEX_MAX+1):
                 phrase_record.append(input_csv_records[i][j])
 
             for j in range(CONTEXT_MIN, CONTEXT_MAX+1):
-                phrase_record.append(input_csv_records[i][j])
+                phrase_record.append(input_csv_records[i][j].lower())
             
             phrase_dict[total_phrase_count] =  phrase_record
             total_phrase_count += 1
@@ -100,7 +106,7 @@ def make_valid_examples(total_phrase_count, phrase_dict, train_dict):
     return train_count
 
 input_csv_list = []
-with open('Final_features.csv', 'rb') as f:
+with open('final_input.csv', 'rb') as f:
     reader = csv.reader(f)
 #    reader = csv.reader(x.replace('\0', '') for x in f)
     input_csv_list = list(reader)
